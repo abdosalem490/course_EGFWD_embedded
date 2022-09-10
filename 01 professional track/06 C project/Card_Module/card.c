@@ -99,6 +99,14 @@ int8_t* getCardExpiryDate()
         {
             printf("month must be only digits and not more than 12\n");           
         }
+        else if(local_arrs8ExpiryDate[1] == '\n' && local_arrs8ExpiryDate[0] <= '9' && local_arrs8ExpiryDate[0] > '0')
+        {
+            local_boolIsValid = 1;
+
+            /*make the month format in the form 0m/yyyy */
+            local_arrs8ExpiryDate[1] = local_arrs8ExpiryDate[0];
+            local_arrs8ExpiryDate[0] = '0';
+        }
         else
         {
             /*check if it's a valid number between 0 and 12*/
@@ -182,6 +190,64 @@ int8_t* getCardExpiryDate()
  *  @return  :      -return a valid but not verified Primary account number of the card
  */
 int8_t* getCardPAN()
+{
+    /*the var local_arrs8PAN is static to avoid destruction of the local variable*/
+    static int8_t local_arrs8PAN[ACCOUNT_PAN_SIZE + 2];
+
+    /*flag to indicate that the entered PAN isn't empty and also valid*/
+    _Bool local_boolIsValid = 0;
+
+    do{
+        /*ask for user input*/
+        puts("enter your PAN (16 valid digit numbers) : ");
+        fgets((char*)local_arrs8PAN, (ACCOUNT_PAN_SIZE + 1), stdin);
+
+        /*used to clear the buffer to avoid more characters there in the buffer*/
+        fflush(stdin);
+
+        /*check the validity of the input*/
+        for(uint8_t i = 0; i < (ACCOUNT_PAN_SIZE + 1); i++)
+        {
+            /*if there is a terminating char in the first char*/
+            if(i == 0 && local_arrs8PAN[i] == '\0')
+            {
+                printf("NO PAN is entered\n");
+                break;
+            }
+            /*the PAN length must be 16*/
+            else if(i < ACCOUNT_PAN_SIZE && local_arrs8PAN[i] == '\n')
+            {
+                printf("invalid PAN , PAN length must be exactly 16 digits\n");
+                break;                       
+            }
+            /*the PAN must only conatians numbers*/
+            else if((local_arrs8PAN[i] < '0' || local_arrs8PAN[i] > '9') && i < ACCOUNT_PAN_SIZE)
+            {
+                printf("invalid PAN , the PAN must only contain digits\n");
+                break;   
+            }
+            else if(local_arrs8PAN[i] == '\n' || local_arrs8PAN[i] == '\0')
+            {
+                local_boolIsValid = 1;
+
+                /*put a terminating char instead of the line feed one*/
+                local_arrs8PAN[i] = '\0';
+            }
+        }
+    }while(!local_boolIsValid);
+
+    return local_arrs8PAN;    
+}
+
+/*  @fn     :       -getRecieverAccountPAN
+ *
+ *  @params :       -none
+ *
+ *  @brief  :       -take reciever peimary account number from the user and the entered value must be all numbers
+ *
+ *  @return  :      -return a valid but not verified Primary account number of the card of the person to transmit money to
+ */
+int8_t* getRecieverAccountPAN(void)
 {
     /*the var local_arrs8PAN is static to avoid destruction of the local variable*/
     static int8_t local_arrs8PAN[ACCOUNT_PAN_SIZE + 2];

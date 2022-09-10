@@ -69,7 +69,6 @@ typedef struct{
 
  
 
-
 /*
  *  @note: the last 4 numbers of the PAN number are generated due to an equation made up of my own own which is 
  *  ((12 MSB number * 5) %10) * 1000 + ((12 MSB number / 2) %10) * 100 + ((((12 MSB number + 3) * 2) / 5) %10) * 10 + (12 MSB number + 2) %10
@@ -83,20 +82,13 @@ typedef struct{
 /*
  *@public_functions
  */
-void serverInit(void);                              /*<must be called before using any other function in the server>*/
+void serverInit(void);                                                                                  /*<must be called before using any other function in the server>*/
 
-void recieveTransactionData();
-void isValidAccount();
-void isAmountAvailable();
-void saveTransaction();
+void recieveTransactionData(int8_t* arg_arrs8ReceiverPAN);                                              /*function that called regularly to iterate over all pending transactions and update amounts*/
+_Bool isValidAccount(account_data_node *arg_account_t);                                                 /*function that checks is someone exist there in the database or not*/
+_Bool isAmountAvailable(account_data_node *arg_account_t, uint32_t arg_u32amount);                      /*function that checks that if someone has the enough amount in their balance to complete payment*/
+void saveTransaction(account_transaction_node arg_trans_t);                                             /*function that saves the transaction in both database and in program*/
 
-/*
- *@private_functions
- */
-static void updateRecordAccount(uint16_t arg_u16RowNum, accounts_list *arg_account_t);                  /*<private func used to update a single row in database of accounts>*/
-static void addNewTransactionRecord(account_transaction_node *arg_trans_t);                             /*<private func used to update a single row in database of transactions>*/                       
-static void insertIntoAccountsListFromDatabase(int8_t *value);                                          /*<private func used to add a new node to linked list of accounts>*/
-static void insertIntoTransListFromDatabase(int8_t *value);                                             /*<private func used to add a new node to linked list of transactions>*/
 
 
 #endif

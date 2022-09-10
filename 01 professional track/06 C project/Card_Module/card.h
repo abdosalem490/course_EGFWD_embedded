@@ -40,8 +40,9 @@
 #endif
 
 /*************************************************** global function prototypes ****************************************************/
-int8_t* getCardHolderName();                      /*<get the name of the person who holds that credit card and return that name in form of string>*/                   
-int8_t* getCardExpiryDate();                      /*<get the expiry date of that credit card and return that date in form of string in form of month/year>*/  
-int8_t* getCardPAN();                             /*<get the primary account number (16 numbers) from the user and return it in form of string*/  
+int8_t* getCardHolderName();                        /*<get the name of the person who holds that credit card and return that name in form of string>*/                   
+int8_t* getCardExpiryDate();                        /*<get the expiry date of that credit card and return that date in form of string in form of month/year>*/  
+int8_t* getCardPAN();                               /*<get the primary account number (16 numbers) of the transmitter from the user and return it in form of string*/  
+int8_t* getRecieverAccountPAN(void);                /*<get the primary account number (16 numbers) of the reciever from the user and return it in form of string>*/
 
 #endif

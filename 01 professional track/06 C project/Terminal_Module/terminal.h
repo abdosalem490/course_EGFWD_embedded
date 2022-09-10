@@ -25,23 +25,30 @@
 #define MAX_AMOUNT_DB_NAME                  "./Terminal_Module/maxAmount_db.txt"
 
 #undef MAX_LINE_SIZE_DB
-#define MAX_LINE_SIZE_DB                    15
+#define MAX_LINE_SIZE_DB                    20
 
 #define ACCOUNT_TRANS_DATE_LEN              11
 
-#define MAX_PASS_LEN                        15
+#define MAX_PASS_LEN                        20
+
+#undef ACCOUNT_EXPIRY_DATE_LEN
+#define ACCOUNT_EXPIRY_DATE_LEN             8
+
+#define MAX_FLOAT_CHAR_LEN                  12
+
+#define CARD_EXPIRY_DATE_LEN                
 
 
 /*************************************************** global function prototypes ****************************************************/
 
-void terminalInit(void);                                                    /*has to be called first before using any other function and called only once in the main program*/
-int8_t* getTransactionDate(void);                                           /*get the date of commiting the transaction from the system date*/
-_Bool isCardExpried(int8_t* arg_arrs8ExpiryDate[]);                                                  /*compares the current date from the system with the date on the card to see if it's valid*/
-uint32_t gatTransactionAmount(void);                                        /*get the amount of the money the user wants to transact*/
-_Bool isBelowMaxAmount(void);                                               /*check if the amount to be transacted is less than the max allowed limit*/
-void setMaxAmount(uint32_t arg_u32MaxAmount);                               /*set the new max allowed aount to be transacted*/
+void terminalInit(void);                                                                            /*has to be called first before using any other function and called only once in the main program*/
+int8_t* getTransactionDate(void);                                                                   /*get the date of commiting the transaction from the system date*/
+_Bool isCardExpried(int8_t arg_arrs8ExpiryDate[ACCOUNT_EXPIRY_DATE_LEN]);                           /*compares the current date from the system with the date on the card to see if it's valid*/
+float gatTransactionAmount(void);                                                                   /*get the amount of the money the user wants to transact*/
+_Bool isBelowMaxAmount(float arg_u32Amount);                                                        /*check if the amount to be transacted is less than the max allowed limit*/
+_Bool setMaxAmount(float arg_u32MaxAmount);                                                         /*set the new max allowed aount to be transacted*/  
+_Bool isFakePAN(int8_t* args_arrs8PAN);                                                             /*used to make sure that the entered PAN isn't fake*/                                                            
 
-/*************************************************** private function prototypes ****************************************************/
-static int8_t* getCurrentDate(void);                                        /*get the current date from the device system*/
+
 
 #endif
