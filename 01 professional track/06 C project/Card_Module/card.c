@@ -1,4 +1,6 @@
 #include "card.h"
+#include "../colors.h"
+
 #include <stdio.h>
 #include <stdint.h>
 #include <string.h>
@@ -22,7 +24,7 @@ int8_t* getCardHolderName()
 
     do{
         /*ask for user input*/
-        puts("enter your name : ");
+        puts(CYAN "enter your name : " YELLOW);
         fgets((char*)name, ACCOUNT_NAME_SIZE, stdin);
 
         /*used to clear the buffer to avoid more characters there in the buffer*/
@@ -34,13 +36,13 @@ int8_t* getCardHolderName()
             /*if there is a terminating char in the first 4 chars*/
             if(i < ACCOUNT_MIN_NAME_LEN && name[i] == '\0')
             {
-                printf("invalid name , minmum name size must be %d\n", ACCOUNT_MIN_NAME_LEN);
+                printf(RED "invalid name , minmum name size must be %d\n", ACCOUNT_MIN_NAME_LEN);
                 break;
             }
             /*if the name contain numbers*/
             else if(name[i] > '0' && name[i] < '9')
             {
-                printf("invalid name , there is no name with digits in it\n");
+                printf(RED "invalid name , there is no name with digits in it\n");
                 break;   
             }
             else if(name[i] == '\n')
@@ -76,7 +78,7 @@ int8_t* getCardExpiryDate()
     /*get the month of expiry from the user and verify it*/
     do{
         /*ask for user input*/
-        puts("enter month of expiry date (2 or 1 digits) : ");
+        puts(CYAN "enter month of expiry date (2 or 1 digits) : " YELLOW);
         fgets((char*)local_arrs8ExpiryDate, ACCOUNT_EXPIRY_MON_LEN + 2, stdin);
 
         /*used to clear the buffer to avoid more characters there in the buffer*/
@@ -87,17 +89,17 @@ int8_t* getCardExpiryDate()
         /*if there is a line feed char in the first 1 chars*/
         if(local_arrs8ExpiryDate[0] == '\n')
         {
-            printf("no month date entered\n");
+            printf(RED "no month date entered\n");
         }
         /*first char must be a digit*/
         else if(local_arrs8ExpiryDate[0] > '9' || local_arrs8ExpiryDate[0] < '0')
         {
-            printf("month must be only valid digits\n");
+            printf(RED "month must be only valid digits\n");
         }
         /*second char can be a digit or just line feed*/
         else if(local_arrs8ExpiryDate[1] != '\n' && (local_arrs8ExpiryDate[1] > '9' || local_arrs8ExpiryDate[1] < '0'))
         {
-            printf("month must be only digits and not more than 12\n");           
+            printf(RED "month must be only digits and not more than 12\n");           
         }
         else if(local_arrs8ExpiryDate[1] == '\n' && local_arrs8ExpiryDate[0] <= '9' && local_arrs8ExpiryDate[0] > '0')
         {
@@ -117,7 +119,7 @@ int8_t* getCardExpiryDate()
             }
             else
             {
-                printf("there is no month greater than 12\n");
+                printf(RED "there is no month greater than 12\n");
             }
         }
     }while(!local_boolIsValid);
@@ -131,7 +133,7 @@ int8_t* getCardExpiryDate()
     /*get the month of expiry from the user and verify it*/
     do{
         /*ask for user input*/
-        puts("enter year of expiry date (4 digits) : ");
+        puts(CYAN "enter year of expiry date (4 digits) : " YELLOW);
         fgets((char*)(local_arrs8ExpiryDate + ACCOUNT_EXPIRY_MON_LEN + 1), (ACCOUNT_EXPIRY_YEAR_LEN + 2), stdin);
 
         /*used to clear the buffer to avoid more characters there in the buffer*/
@@ -143,12 +145,12 @@ int8_t* getCardExpiryDate()
             /*if there is a line feed char in the chars*/
             if(local_arrs8ExpiryDate[i] == '\n')
             {
-                printf("entered year expiry date is invalid, it must be 4 digits \n");
+                printf(RED "entered year expiry date is invalid, it must be 4 digits \n");
                 break;
             }
             else if(local_arrs8ExpiryDate[i] > '9' || local_arrs8ExpiryDate[i] < '0')
             {
-                printf("year must be only digits\n");
+                printf(RED "year must be only digits\n");
                 break;
             }
             else if(i == (ACCOUNT_EXPIRY_DATE_LEN - 2))
@@ -161,7 +163,7 @@ int8_t* getCardExpiryDate()
                     local_u8DummyTest *= 10;
                     local_u8DummyTest += (uint16_t)(local_arrs8ExpiryDate[j] - '0');
                 }
-                printf("%d\n", local_u8DummyTest);
+
                 /*check if the entered year is between 2100 and 2000*/
                 if(local_u8DummyTest < 2100 && local_u8DummyTest > 2000)
                 {
@@ -169,7 +171,7 @@ int8_t* getCardExpiryDate()
                 }
                 else
                 {
-                    printf("entered year range must be between 2100 and 2000\n");
+                    printf(RED "entered year range must be between 2100 and 2000\n");
                 }
             }
         }
@@ -199,7 +201,7 @@ int8_t* getCardPAN()
 
     do{
         /*ask for user input*/
-        puts("enter your PAN (16 valid digit numbers) : ");
+        puts(CYAN "enter your PAN (16 valid digit numbers) : " YELLOW);
         fgets((char*)local_arrs8PAN, (ACCOUNT_PAN_SIZE + 1), stdin);
 
         /*used to clear the buffer to avoid more characters there in the buffer*/
@@ -211,19 +213,19 @@ int8_t* getCardPAN()
             /*if there is a terminating char in the first char*/
             if(i == 0 && local_arrs8PAN[i] == '\0')
             {
-                printf("NO PAN is entered\n");
+                printf(RED "NO PAN is entered\n");
                 break;
             }
             /*the PAN length must be 16*/
             else if(i < ACCOUNT_PAN_SIZE && local_arrs8PAN[i] == '\n')
             {
-                printf("invalid PAN , PAN length must be exactly 16 digits\n");
+                printf(RED "invalid PAN , PAN length must be exactly 16 digits\n");
                 break;                       
             }
             /*the PAN must only conatians numbers*/
             else if((local_arrs8PAN[i] < '0' || local_arrs8PAN[i] > '9') && i < ACCOUNT_PAN_SIZE)
             {
-                printf("invalid PAN , the PAN must only contain digits\n");
+                printf(RED "invalid PAN , the PAN must only contain digits\n");
                 break;   
             }
             else if(local_arrs8PAN[i] == '\n' || local_arrs8PAN[i] == '\0')
@@ -257,7 +259,7 @@ int8_t* getRecieverAccountPAN(void)
 
     do{
         /*ask for user input*/
-        puts("enter your PAN (16 valid digit numbers) : ");
+        puts(CYAN "enter reciever PAN (16 valid digit numbers) : " YELLOW);
         fgets((char*)local_arrs8PAN, (ACCOUNT_PAN_SIZE + 1), stdin);
 
         /*used to clear the buffer to avoid more characters there in the buffer*/
@@ -269,19 +271,19 @@ int8_t* getRecieverAccountPAN(void)
             /*if there is a terminating char in the first char*/
             if(i == 0 && local_arrs8PAN[i] == '\0')
             {
-                printf("NO PAN is entered\n");
+                printf(RED "NO PAN is entered\n");
                 break;
             }
             /*the PAN length must be 16*/
             else if(i < ACCOUNT_PAN_SIZE && local_arrs8PAN[i] == '\n')
             {
-                printf("invalid PAN , PAN length must be exactly 16 digits\n");
+                printf(RED "invalid PAN , PAN length must be exactly 16 digits\n");
                 break;                       
             }
             /*the PAN must only conatians numbers*/
             else if((local_arrs8PAN[i] < '0' || local_arrs8PAN[i] > '9') && i < ACCOUNT_PAN_SIZE)
             {
-                printf("invalid PAN , the PAN must only contain digits\n");
+                printf(RED "invalid PAN , the PAN must only contain digits\n");
                 break;   
             }
             else if(local_arrs8PAN[i] == '\n' || local_arrs8PAN[i] == '\0')

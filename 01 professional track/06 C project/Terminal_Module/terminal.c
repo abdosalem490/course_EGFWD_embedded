@@ -1,4 +1,6 @@
 #include "terminal.h"
+#include "../colors.h"
+
 #include <string.h>
 #include <stdlib.h>
 #include <stdio.h>
@@ -151,10 +153,6 @@ _Bool isCardExpried(int8_t arg_arrs8ExpiryDate[ACCOUNT_EXPIRY_DATE_LEN])
         local_boolIsExpired = 0;
     }
 
-    printf("current : year = %d , month = %d\n", local_u16CurrentYear, local_u8CurrentMonth);
-    printf("card : year = %d , month = %d\n", local_u16CardExpYear, local_u8CardExpMonth);
-    
-
     return local_boolIsExpired;
 }
 
@@ -179,16 +177,17 @@ float gatTransactionAmount(void)
 
     /*check if all entered chars are numbers*/
     do{
-        fputs("enter the amount to transact : ", stdout);
+        fputs(BLUE "enter the amount to transact : " YELLOW, stdout);
 
         /*read what the user entered in a dummy buffer*/
         fgets((char*)local_arrs8DummyBuff, 20, stdin);
 
+        /*ckech if the entered number is correct*/
         for(int i = 0; local_arrs8DummyBuff[i] != '\0'; i++)
         {
             if(local_arrs8DummyBuff[0] == '\n')
             {
-                fputs("you entered nothing , please enter a valid amount\n", stdout);
+                fputs(RED "you entered nothing , please enter a valid amount\n", stdout);
                 break;                
             }
             else if(local_arrs8DummyBuff[i] == '\n')
@@ -201,7 +200,7 @@ float gatTransactionAmount(void)
             }
             else if((local_arrs8DummyBuff[i] > '9' || local_arrs8DummyBuff[i] < '0') && local_arrs8DummyBuff[i] != '.')
             {
-                fputs("the entered value isn't a number\n", stdout);
+                fputs(RED "the entered value isn't a number\n", stdout);
                 break;
             }
             else
@@ -249,7 +248,7 @@ _Bool setMaxAmount(float arg_u32MaxAmount)
     _Bool local_boolIsAdmin = 0;
 
     /*get the user input*/
-    fputs("enter the admin password : \n", stdout);
+    fputs(BLUE "enter the admin password : \n" YELLOW, stdout);
     fgets((char*)local_arrs8DummyBuff, MAX_PASS_LEN, stdin);
 
     for(uint8_t i = 0; local_arrs8DummyBuff[i] != '\0'; i++)
@@ -265,7 +264,7 @@ _Bool setMaxAmount(float arg_u32MaxAmount)
         }
         else if(local_arrs8DummyBuff[i] != global_s8Password[i])
         {
-            fputs("not an admin\n", stdout);
+            fputs(RED "not an admin\n", stdout);
             break;
         }
         else
@@ -289,7 +288,7 @@ _Bool setMaxAmount(float arg_u32MaxAmount)
         file = fopen(MAX_AMOUNT_DB_NAME, "w");
 
         /*convert the float to array character*/
-        gcvt(arg_u32MaxAmount, MAX_FLOAT_CHAR_LEN, (char*)local_arrs8DummyBuff);
+        sprintf((char*)local_arrs8DummyBuff, MAX_FLOAT_PREC_STORE, arg_u32MaxAmount);
 
         /*store the new max amount*/
         fputs((char*)local_arrs8DummyBuff, file);
@@ -304,7 +303,7 @@ _Bool setMaxAmount(float arg_u32MaxAmount)
         fclose(file);
 
         /*message to indicate that the operation was successful*/
-        fputs("operation went successfully\n", stdout);
+        fputs(GREEN "operation went successfully\n", stdout);
     }
 
     return local_boolIsAdmin;
@@ -354,8 +353,6 @@ _Bool isFakePAN(int8_t* args_arrs8PAN)
 
     /*chechs if the generated number equal to the correct*/
     local_boolIsFake = (local_u32NumGenerated == local_u32NumToTest)? 0 : 1;
-
-    printf("num is fake ? %d\n", local_boolIsFake);
 
     return local_boolIsFake;
 }

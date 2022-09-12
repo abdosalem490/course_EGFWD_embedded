@@ -36,6 +36,14 @@
 #define TRANS_STATE_SIZE                30
 #define TRANS_DATE_SIZE                 10
 
+//transactions status
+#define TRANS_STATE_COMP                "completed"
+#define TRANS_STATE_PEND                "pending"
+#define TRNAS_STATE_REF                 "refused"
+#undef  MAX_FLOAT_CHAR_LEN
+#define MAX_FLOAT_CHAR_LEN              25
+#define MAX_FLOAT_PREC_STORE            "%.6f"
+
 typedef struct account_node{
     float balance;
     uint16_t year;
@@ -86,9 +94,11 @@ void serverInit(void);                                                          
 
 void recieveTransactionData(int8_t* arg_arrs8ReceiverPAN);                                              /*function that called regularly to iterate over all pending transactions and update amounts*/
 _Bool isValidAccount(account_data_node *arg_account_t);                                                 /*function that checks is someone exist there in the database or not*/
-_Bool isAmountAvailable(account_data_node *arg_account_t, uint32_t arg_u32amount);                      /*function that checks that if someone has the enough amount in their balance to complete payment*/
+_Bool isAmountAvailable(int8_t* arg_arrsAccountPAN, float arg_f32amount);                               /*function that checks that if someone has the enough amount in their balance to complete payment*/
 void saveTransaction(account_transaction_node arg_trans_t);                                             /*function that saves the transaction in both database and in program*/
 
-
+void showCurrentBalance(int8_t* arg_arrs8AccPAN);                                                       /*a function to show th current balance of this account*/
+void showAllPrvTrans(int8_t* arg_arrs8AccPAN);                                                          /*a function to show all previous trans related to this account*/
+_Bool isThatPANThere(int8_t* arg_arrsAccPAN);                                                           /*a function to check if someone that will recive the money is there in that database*/
 
 #endif

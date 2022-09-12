@@ -34,7 +34,10 @@
 #undef ACCOUNT_EXPIRY_DATE_LEN
 #define ACCOUNT_EXPIRY_DATE_LEN             8
 
-#define MAX_FLOAT_CHAR_LEN                  12
+#ifndef MAX_FLOAT_CHAR_LEN
+#define MAX_FLOAT_CHAR_LEN                  25
+#define MAX_FLOAT_PREC_STORE                "%.6f"
+#endif
 
 #define CARD_EXPIRY_DATE_LEN                
 
