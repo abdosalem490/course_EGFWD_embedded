@@ -1,0 +1,272 @@
+1
+00:00:00,000 --> 00:00:02,775
+These five core values in XP,
+
+2
+00:00:02,775 --> 00:00:07,950
+set the tone for XP's 13 core practices.
+
+3
+00:00:07,950 --> 00:00:12,930
+Let's proceed to look at XP's 13 core practices.
+
+4
+00:00:12,930 --> 00:00:16,575
+XP, which was created by Kent Beck,
+
+5
+00:00:16,575 --> 00:00:21,600
+has 13 core practices that are highly recommended to be followed.
+
+6
+00:00:21,600 --> 00:00:24,795
+The whole team practice encourages
+
+7
+00:00:24,795 --> 00:00:29,535
+the entire XP team to be co-located when practically possible.
+
+8
+00:00:29,535 --> 00:00:34,800
+Collaboration tools can be leveraged to follow the whole team practice for remote teams,
+
+9
+00:00:34,800 --> 00:00:39,295
+XP encourages role blending where T-shaped skills are exhibited.
+
+10
+00:00:39,295 --> 00:00:43,100
+This allows for optimal utilization of resources.
+
+11
+00:00:43,100 --> 00:00:45,470
+The whole team practice also allows for
+
+12
+00:00:45,470 --> 00:00:48,575
+efficient flow of information between team members.
+
+13
+00:00:48,575 --> 00:00:53,180
+Planning games is really just another name for planning.
+
+14
+00:00:53,180 --> 00:00:57,035
+XP has two main planning ceremonies.
+
+15
+00:00:57,035 --> 00:01:01,525
+They are release planning and iteration planning.
+
+16
+00:01:01,525 --> 00:01:04,640
+Small and frequent releases are encouraged in
+
+17
+00:01:04,640 --> 00:01:09,065
+XP at both the iteration as well as release level.
+
+18
+00:01:09,065 --> 00:01:13,160
+Built-in quality is ensured in these small deliverables by
+
+19
+00:01:13,160 --> 00:01:17,390
+leveraging best practices such as continuous integration.
+
+20
+00:01:17,390 --> 00:01:20,285
+In the customer tests practice,
+
+21
+00:01:20,285 --> 00:01:23,330
+the product owner works with the customer to describe
+
+22
+00:01:23,330 --> 00:01:29,045
+one or more test criteria as part of defining the requested functionality.
+
+23
+00:01:29,045 --> 00:01:33,050
+The team then ideally builds automated tests to
+
+24
+00:01:33,050 --> 00:01:37,345
+confirm that the developed products acceptance criteria are met.
+
+25
+00:01:37,345 --> 00:01:42,275
+In XP, multiple team members can work on the same code.
+
+26
+00:01:42,275 --> 00:01:46,340
+So no single person owns a piece of work.
+
+27
+00:01:46,340 --> 00:01:52,150
+This strengthens the product with a broader knowledge of the code across the team,
+
+28
+00:01:52,150 --> 00:01:54,375
+quality is also enhanced.
+
+29
+00:01:54,375 --> 00:01:57,845
+Further, from a risk mitigation perspective,
+
+30
+00:01:57,845 --> 00:02:02,635
+it reduces the risk of loss of knowledge if a team member departs.
+
+31
+00:02:02,635 --> 00:02:08,000
+Everyone in the team codes to a consistent standard in XP.
+
+32
+00:02:08,000 --> 00:02:14,105
+Ideally, the code should look as if it is homogeneously written under a uniform standard.
+
+33
+00:02:14,105 --> 00:02:17,395
+XP advocates for a sustainable pace.
+
+34
+00:02:17,395 --> 00:02:23,015
+The highest level of productivity can only be maintained at a sustainable pace.
+
+35
+00:02:23,015 --> 00:02:26,210
+So several weeks of overtime for the team are
+
+36
+00:02:26,210 --> 00:02:29,870
+both counterproductive as well as unsustainable.
+
+37
+00:02:29,870 --> 00:02:32,255
+According to the XP framework,
+
+38
+00:02:32,255 --> 00:02:37,325
+optimal delivery of long-term value requires a sustainable rate.
+
+39
+00:02:37,325 --> 00:02:42,185
+In XP, it is important to adhere to a set of easy to remember
+
+40
+00:02:42,185 --> 00:02:48,335
+standard naming conventions for items such as variable names,
+
+41
+00:02:48,335 --> 00:02:51,070
+class names, and methods.
+
+42
+00:02:51,070 --> 00:02:55,295
+This facilitates communication and avoids confusion.
+
+43
+00:02:55,295 --> 00:03:00,740
+This also ensures everyone understands the terms clearly during product development.
+
+44
+00:03:00,740 --> 00:03:05,600
+Software builds are regularly integrated by combining all the coding components
+
+45
+00:03:05,600 --> 00:03:11,135
+together to verify that it compiles and works as a collective code base.
+
+46
+00:03:11,135 --> 00:03:13,940
+This is typically done several times a day.
+
+47
+00:03:13,940 --> 00:03:18,710
+Integration keeps all team members on the same page because it brings to
+
+48
+00:03:18,710 --> 00:03:23,840
+light any issues before further code is built upon faulty work.
+
+49
+00:03:23,840 --> 00:03:27,755
+In Test-driven development, also known as TDD,
+
+50
+00:03:27,755 --> 00:03:32,410
+the team writes the acceptance test before the actual coding is done.
+
+51
+00:03:32,410 --> 00:03:37,309
+Each small release is thoroughly tested prior to being released to production.
+
+52
+00:03:37,309 --> 00:03:40,234
+While this appears to take more time upfront,
+
+53
+00:03:40,234 --> 00:03:43,900
+it allows for a much cleaner application in the long run.
+
+54
+00:03:43,900 --> 00:03:48,170
+Each team member in XP works to improve the design of
+
+55
+00:03:48,170 --> 00:03:53,620
+existing code without affecting any of the functionality or external behavior.
+
+56
+00:03:53,620 --> 00:03:57,650
+This keeps the design cleaner to maintain and makes it easier
+
+57
+00:03:57,650 --> 00:04:02,020
+to develop new functionality on top of the existing code base.
+
+58
+00:04:02,020 --> 00:04:06,185
+The optimal design is the simplest one that works.
+
+59
+00:04:06,185 --> 00:04:09,679
+A recommended design in HP is one that successfully
+
+60
+00:04:09,679 --> 00:04:13,570
+runs all the tests and delivers a desired business value.
+
+61
+00:04:13,570 --> 00:04:15,890
+In Agile product delivery,
+
+62
+00:04:15,890 --> 00:04:19,355
+requirements are expected to evolve and change.
+
+63
+00:04:19,355 --> 00:04:25,445
+So XP proposes to only do what is needed to meet current requirements.
+
+64
+00:04:25,445 --> 00:04:30,950
+XP advocates team members to work on product deliverables in pairs.
+
+65
+00:04:30,950 --> 00:04:34,040
+The data shows that this practice produces
+
+66
+00:04:34,040 --> 00:04:38,185
+higher quality code and costs less in the long run.
+
+67
+00:04:38,185 --> 00:04:42,965
+Another key benefit is that knowledge is shared across the team.
+
+68
+00:04:42,965 --> 00:04:48,470
+Again, here are the 13 XP core practices.
+

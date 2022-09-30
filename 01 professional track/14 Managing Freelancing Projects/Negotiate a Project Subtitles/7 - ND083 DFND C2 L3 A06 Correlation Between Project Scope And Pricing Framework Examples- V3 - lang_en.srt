@@ -1,0 +1,396 @@
+1
+00:00:00,320 --> 00:00:05,775
+Now that we know the correlation between pricing frameworks and project scope,
+
+2
+00:00:05,775 --> 00:00:08,370
+we're in a good position to see the pros and
+
+3
+00:00:08,370 --> 00:00:11,505
+cons of the two pricing frameworks we discussed.
+
+4
+00:00:11,505 --> 00:00:14,490
+First, let's take a look at the positives and
+
+5
+00:00:14,490 --> 00:00:18,675
+the negatives of using fixed cost as a pricing structure.
+
+6
+00:00:18,675 --> 00:00:23,715
+First, is that the client can really lock in their budget for the project.
+
+7
+00:00:23,715 --> 00:00:26,940
+They don't need to worry about things going over budget
+
+8
+00:00:26,940 --> 00:00:30,810
+as long as the scope of the project remains the same.
+
+9
+00:00:30,810 --> 00:00:34,275
+It also helps the freelancer to lock in
+
+10
+00:00:34,275 --> 00:00:38,290
+a guaranteed amount that they can make from the project.
+
+11
+00:00:39,580 --> 00:00:44,720
+Next, indirect benefit from using a fixed cost approach is that there is
+
+12
+00:00:44,720 --> 00:00:49,985
+a thorough documentation of what we are going to work on before we start to work.
+
+13
+00:00:49,985 --> 00:00:54,395
+This often helps both the client and the freelancer to
+
+14
+00:00:54,395 --> 00:00:58,850
+think through what really needs to get done in granular details,
+
+15
+00:00:58,850 --> 00:01:04,140
+and also helps question our original assumptions about the end goal.
+
+16
+00:01:04,190 --> 00:01:06,305
+On the other hand,
+
+17
+00:01:06,305 --> 00:01:10,565
+the flexibility to change things is very limited in a fixed cost project.
+
+18
+00:01:10,565 --> 00:01:13,700
+For example, if the client wants to involve the scope
+
+19
+00:01:13,700 --> 00:01:16,870
+of one particular module or add a new module,
+
+20
+00:01:16,870 --> 00:01:20,750
+the fixed cost needs to be recalculated by the freelancer based on
+
+21
+00:01:20,750 --> 00:01:26,225
+the extra effort needed and get a sign-off from the client to change it for the project.
+
+22
+00:01:26,225 --> 00:01:29,495
+If this happens multiple times during the course of the project,
+
+23
+00:01:29,495 --> 00:01:31,910
+it can become quite tedious for the project,
+
+24
+00:01:31,910 --> 00:01:34,650
+especially if there are contracts involved.
+
+25
+00:01:34,650 --> 00:01:37,820
+Let me give an example from my own experience.
+
+26
+00:01:37,820 --> 00:01:40,520
+I had sent a shot expression of interests to
+
+27
+00:01:40,520 --> 00:01:43,775
+a client who belonged to a big multinational company.
+
+28
+00:01:43,775 --> 00:01:47,270
+The client had sent a specification of what they wanted to get
+
+29
+00:01:47,270 --> 00:01:51,850
+built with a suggested price of $2,500.
+
+30
+00:01:51,850 --> 00:01:55,505
+When I looked at the specification which was at a high level,
+
+31
+00:01:55,505 --> 00:01:58,460
+I suggested to them that based on the effort involved,
+
+32
+00:01:58,460 --> 00:02:01,850
+it seems to be at least $6,000 but we'll need to make
+
+33
+00:02:01,850 --> 00:02:06,085
+the requirements much more specific to quote an exact estimate.
+
+34
+00:02:06,085 --> 00:02:08,075
+Also while I was talking to them,
+
+35
+00:02:08,075 --> 00:02:12,895
+I did not lose the opportunity to talk about their aspects of the project.
+
+36
+00:02:12,895 --> 00:02:18,640
+I suggested solutions, different ways in which we can build their solution,
+
+37
+00:02:18,640 --> 00:02:23,000
+different optimizations that we can do to the recurrent infrastructure.
+
+38
+00:02:23,000 --> 00:02:25,250
+To cut the long story short,
+
+39
+00:02:25,250 --> 00:02:28,370
+the requirements could not be specified in detail eventually,
+
+40
+00:02:28,370 --> 00:02:30,830
+and I did get the project at an hourly rate.
+
+41
+00:02:30,830 --> 00:02:32,825
+Now, as we walked along,
+
+42
+00:02:32,825 --> 00:02:35,075
+their requirements kept on changing,
+
+43
+00:02:35,075 --> 00:02:36,805
+new modules were added.
+
+44
+00:02:36,805 --> 00:02:38,070
+Some things were changed,
+
+45
+00:02:38,070 --> 00:02:39,350
+but then we changed back to
+
+46
+00:02:39,350 --> 00:02:42,785
+their original form based on how their management wanted it to be.
+
+47
+00:02:42,785 --> 00:02:44,525
+Based on the time spent,
+
+48
+00:02:44,525 --> 00:02:48,050
+I ended up charging around $17,500 to
+
+49
+00:02:48,050 --> 00:02:52,220
+the client which they had originally estimated at $2,500,
+
+50
+00:02:52,220 --> 00:02:54,875
+with a not so detailed requirements spec.
+
+51
+00:02:54,875 --> 00:02:57,935
+I also got more projects from the same client
+
+52
+00:02:57,935 --> 00:03:01,900
+totaling my revenue to $50,000 from the same client.
+
+53
+00:03:01,900 --> 00:03:05,300
+Now, let's look at the positives and the negatives of
+
+54
+00:03:05,300 --> 00:03:08,420
+using time and material as the pricing structure.
+
+55
+00:03:08,420 --> 00:03:11,480
+First, the biggest advantage is
+
+56
+00:03:11,480 --> 00:03:14,470
+that the scope can evolve during the course of the project.
+
+57
+00:03:14,470 --> 00:03:18,335
+If the client changes their mind after looking at the first module,
+
+58
+00:03:18,335 --> 00:03:21,155
+they're free to change the design of the second module,
+
+59
+00:03:21,155 --> 00:03:26,695
+or even completely remove the second module and go right to the third one, and so on.
+
+60
+00:03:26,695 --> 00:03:32,205
+There's no locking order front commitment here in the time and materials contract.
+
+61
+00:03:32,205 --> 00:03:35,210
+If the client is not happy with the freelancers work,
+
+62
+00:03:35,210 --> 00:03:40,690
+or you as a freelancer is not happy with the client's work culture or the paperwork,
+
+63
+00:03:40,690 --> 00:03:43,760
+either party is free to leave the project after
+
+64
+00:03:43,760 --> 00:03:47,755
+settling the payment based on the time taken to do the work so far.
+
+65
+00:03:47,755 --> 00:03:50,450
+Honestly, unless you really have to,
+
+66
+00:03:50,450 --> 00:03:53,660
+it's not a good idea to leave any client's project in
+
+67
+00:03:53,660 --> 00:03:57,245
+between even if you do not have a contractual obligation.
+
+68
+00:03:57,245 --> 00:04:00,650
+Remember, if you focus on maximizing the value for the client,
+
+69
+00:04:00,650 --> 00:04:03,040
+it will pay you in the long run.
+
+70
+00:04:03,040 --> 00:04:05,645
+Now, since the scope is not fixed,
+
+71
+00:04:05,645 --> 00:04:07,250
+the client does not have to sign
+
+72
+00:04:07,250 --> 00:04:10,535
+new contracts every time they make a change in the project,
+
+73
+00:04:10,535 --> 00:04:13,895
+or if they have you started on entirely new project.
+
+74
+00:04:13,895 --> 00:04:16,070
+Since it is a time and material contract,
+
+75
+00:04:16,070 --> 00:04:19,370
+or an early model contract and it's often called,
+
+76
+00:04:19,370 --> 00:04:25,000
+the obligation is to pay based on the time irrespective of the work done.
+
+77
+00:04:25,000 --> 00:04:27,350
+But take that with a pinch of salt.
+
+78
+00:04:27,350 --> 00:04:29,825
+If the client hires you to build a web app,
+
+79
+00:04:29,825 --> 00:04:33,965
+they cannot have you make a rocket to go to the moon at the same rate.
+
+80
+00:04:33,965 --> 00:04:36,700
+Even in the time and material pricing frameworks,
+
+81
+00:04:36,700 --> 00:04:41,165
+a very high level scope of work is generally agreed upon.
+
+82
+00:04:41,165 --> 00:04:44,270
+Again, the downside of time and materials
+
+83
+00:04:44,270 --> 00:04:47,860
+framework is that there is no upper limit on the budget.
+
+84
+00:04:47,860 --> 00:04:53,105
+Client's budget can keep going higher and higher as the project moves.
+
+85
+00:04:53,105 --> 00:04:56,525
+With some clients may not be quite comfortable with,
+
+86
+00:04:56,525 --> 00:04:58,280
+but as we discussed earlier,
+
+87
+00:04:58,280 --> 00:05:03,740
+some projects may have a cap on the number of hours that you can spend on the project.
+
+88
+00:05:03,740 --> 00:05:08,800
+But that's said, the work that can be done in these hours is not fixed.
+
+89
+00:05:08,800 --> 00:05:12,650
+If the client wants to get more work done and the cap is done with,
+
+90
+00:05:12,650 --> 00:05:15,480
+they mainly do increase their budget.
+
+91
+00:05:15,560 --> 00:05:18,480
+An interesting downside of the time and
+
+92
+00:05:18,480 --> 00:05:22,940
+material pricing structure is that if you are highly skilled in your area of expertise,
+
+93
+00:05:22,940 --> 00:05:25,355
+it may not be very efficient for you.
+
+94
+00:05:25,355 --> 00:05:29,509
+For example, you might be able to do something in 15 minutes,
+
+95
+00:05:29,509 --> 00:05:33,730
+which an averagely skilled freelancer may take more than an hour to complete.
+
+96
+00:05:33,730 --> 00:05:36,770
+Fifteen minutes of your time may not earn
+
+97
+00:05:36,770 --> 00:05:40,655
+enough revenue for you but it could be a lot of value for the client.
+
+98
+00:05:40,655 --> 00:05:43,340
+But since you are paid based on the time spend,
+
+99
+00:05:43,340 --> 00:05:46,830
+you only get paid for those 15 minutes.
+

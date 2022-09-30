@@ -1,0 +1,56 @@
+1
+00:00:00,000 --> 00:00:06,270
+Now let's take a look at the key stakeholders in a freelancing ecosystem.
+
+2
+00:00:06,270 --> 00:00:09,810
+Let's start with you, the freelancer,
+
+3
+00:00:09,810 --> 00:00:17,145
+who has a skill that can be used for clients' projects and ready to take on work.
+
+4
+00:00:17,145 --> 00:00:25,155
+The other is the client who is looking to get a specific task done through a freelancer.
+
+5
+00:00:25,155 --> 00:00:29,985
+Now, a client could either be an individual or a company.
+
+6
+00:00:29,985 --> 00:00:37,755
+It is also common for large companies to hire freelancers to get short-term tasks done.
+
+7
+00:00:37,755 --> 00:00:41,780
+Many times, there is also an intermediary involved,
+
+8
+00:00:41,780 --> 00:00:45,140
+which connects the client and the freelancer,
+
+9
+00:00:45,140 --> 00:00:47,530
+helps them find each other,
+
+10
+00:00:47,530 --> 00:00:51,655
+and in some cases also manage payments, etc.
+
+11
+00:00:51,655 --> 00:00:55,190
+Now, examples of these intermediaries would be
+
+12
+00:00:55,190 --> 00:01:00,010
+freelancing platforms that we will cover in detail in this course,
+
+13
+00:01:00,010 --> 00:01:02,930
+or job sites, which not only advertise
+
+14
+00:01:02,930 --> 00:01:08,010
+full-time jobs but also short-term freelancing positions.
+

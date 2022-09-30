@@ -1,0 +1,224 @@
+1
+00:00:00,000 --> 00:00:06,450
+We will start off with discussing why Agile has taken today's digital economy by storm.
+
+2
+00:00:06,450 --> 00:00:10,230
+We will focus on the Agile mindset and how it sets the tone
+
+3
+00:00:10,230 --> 00:00:14,100
+for being Agile versus just doing Agile.
+
+4
+00:00:14,100 --> 00:00:18,720
+The Agile Manifesto and how it is seen as the foundational set of
+
+5
+00:00:18,720 --> 00:00:21,060
+four-paired core values and
+
+6
+00:00:21,060 --> 00:00:25,785
+12 principles that sets the foundation for all Agile frameworks.
+
+7
+00:00:25,785 --> 00:00:29,100
+We will wrap up the "Why Agile" lesson with
+
+8
+00:00:29,100 --> 00:00:33,284
+an important discussion on Agile versus Waterfall approaches.
+
+9
+00:00:33,284 --> 00:00:36,030
+This will explore where it makes more sense for
+
+10
+00:00:36,030 --> 00:00:41,700
+an Agile approach and where we are better off taking a more Waterfall approach.
+
+11
+00:00:41,700 --> 00:00:45,485
+We will then build upon the foundational principles of Agile,
+
+12
+00:00:45,485 --> 00:00:48,740
+and take a deep dive into Agile teams
+
+13
+00:00:48,740 --> 00:00:52,025
+and their ability to deliver immense business value.
+
+14
+00:00:52,025 --> 00:00:55,385
+Here, we will cover the key topics of
+
+15
+00:00:55,385 --> 00:00:59,500
+the key characteristics of high performing Agile teams.
+
+16
+00:00:59,500 --> 00:01:04,985
+The three core roles that are generally seen as universal across Agile frameworks.
+
+17
+00:01:04,985 --> 00:01:08,870
+We will also cover the size, structure,
+
+18
+00:01:08,870 --> 00:01:14,465
+and cross-functional or T-shaped skills in an Agile team.
+
+19
+00:01:14,465 --> 00:01:19,550
+We will cover best practices based on guidance from global experts.
+
+20
+00:01:19,550 --> 00:01:24,805
+Finally, we will conclude the lesson with a discussion on Agile governance.
+
+21
+00:01:24,805 --> 00:01:26,810
+This will include the importance of
+
+22
+00:01:26,810 --> 00:01:30,920
+non-core roles to the success of Agile product delivery.
+
+23
+00:01:30,920 --> 00:01:35,740
+We will also cover centralized versus decentralized decision-making.
+
+24
+00:01:35,740 --> 00:01:39,210
+The last lesson will cover Agile frameworks.
+
+25
+00:01:39,210 --> 00:01:43,220
+We will begin with an overview of Agile frameworks in general,
+
+26
+00:01:43,220 --> 00:01:45,080
+and how each of them leveraged
+
+27
+00:01:45,080 --> 00:01:49,609
+the Agile manifesto four-paired core values and 12 principles.
+
+28
+00:01:49,609 --> 00:01:51,950
+We will see how Agile frameworks are
+
+29
+00:01:51,950 --> 00:01:56,795
+the practical vehicle for enabling Agile and successful teams.
+
+30
+00:01:56,795 --> 00:01:59,750
+After this, we will cover three of
+
+31
+00:01:59,750 --> 00:02:03,980
+the more popular Agile frameworks being utilized across all industries.
+
+32
+00:02:03,980 --> 00:02:06,800
+We will first discuss the Scrum Framework,
+
+33
+00:02:06,800 --> 00:02:11,090
+and the benefits organizations gain when adopting Scrum.
+
+34
+00:02:11,090 --> 00:02:13,405
+We will then move on to Kanban,
+
+35
+00:02:13,405 --> 00:02:15,770
+one of the more lightweight frameworks,
+
+36
+00:02:15,770 --> 00:02:18,709
+and discuss its key characteristics and benefits.
+
+37
+00:02:18,709 --> 00:02:23,390
+We will discuss where it makes sense for Kanban to be incorporated into the workflow.
+
+38
+00:02:23,390 --> 00:02:26,464
+Finally, we will cover extreme programming,
+
+39
+00:02:26,464 --> 00:02:29,675
+which is typically called XP in the industry.
+
+40
+00:02:29,675 --> 00:02:32,510
+We will go over XP's core values and
+
+41
+00:02:32,510 --> 00:02:37,255
+strict practices along with explaining where XP should be used.
+
+42
+00:02:37,255 --> 00:02:39,230
+By the end of this course,
+
+43
+00:02:39,230 --> 00:02:43,280
+you will be able to identify and apply the characteristics of
+
+44
+00:02:43,280 --> 00:02:49,340
+Agile to implement value-driven delivery in these dramatically uncertain times.
+
+45
+00:02:49,340 --> 00:02:52,130
+Determine the appropriate Agile framework for
+
+46
+00:02:52,130 --> 00:02:55,990
+a specific business use case and Agile team.
+
+47
+00:02:55,990 --> 00:03:02,525
+Apply appropriate Agile practices for the specific Agile framework being used.
+
+48
+00:03:02,525 --> 00:03:06,020
+This will allow us to see how the conceptual values and
+
+49
+00:03:06,020 --> 00:03:10,255
+principles of the Agile Manifesto are practically implemented.
+
+50
+00:03:10,255 --> 00:03:14,330
+Build and evolve a high-performing Agile team.
+
+51
+00:03:14,330 --> 00:03:19,040
+We will understand how such high performing Agile teams become a source
+
+52
+00:03:19,040 --> 00:03:24,050
+of spectacular endurance for organizations with a growth mindset.
+
+53
+00:03:24,050 --> 00:03:29,525
+Differentiate between team roles and responsibilities of a typical Agile team,
+
+54
+00:03:29,525 --> 00:03:34,040
+and assign team members to an appropriate role.
+
+55
+00:03:34,040 --> 00:03:36,110
+By the end of this course,
+
+56
+00:03:36,110 --> 00:03:42,420
+you'll be familiar with many terms like the ones listed here, plus many more.
+

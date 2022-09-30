@@ -1,0 +1,224 @@
+1
+00:00:00,000 --> 00:00:02,115
+As you must have noticed,
+
+2
+00:00:02,115 --> 00:00:07,245
+XP has a much more stringent approach than many other Agile frameworks.
+
+3
+00:00:07,245 --> 00:00:10,305
+For example, as we discussed earlier,
+
+4
+00:00:10,305 --> 00:00:15,570
+Kanban is a much lighter framework with plenty of room for flexibility in the processes.
+
+5
+00:00:15,570 --> 00:00:18,420
+None other practices in XP are
+
+6
+00:00:18,420 --> 00:00:23,775
+optional and the practices are very specific about how the work gets done.
+
+7
+00:00:23,775 --> 00:00:27,890
+XP again, is strongly oriented to software development.
+
+8
+00:00:27,890 --> 00:00:31,430
+The XP framework has four core roles,
+
+9
+00:00:31,430 --> 00:00:36,950
+three of which are quite analogous to the three core roles in most Agile frameworks.
+
+10
+00:00:36,950 --> 00:00:38,720
+The first is the customer,
+
+11
+00:00:38,720 --> 00:00:40,835
+which is somewhat like the P0.
+
+12
+00:00:40,835 --> 00:00:44,180
+The customer is the business representatives.
+
+13
+00:00:44,180 --> 00:00:46,325
+The next role is the tester.
+
+14
+00:00:46,325 --> 00:00:50,030
+Testers are primarily responsible for quality assurance.
+
+15
+00:00:50,030 --> 00:00:54,605
+Another role is that of the coach who acts as a mentor for the team.
+
+16
+00:00:54,605 --> 00:00:58,040
+The coach is also a facilitator for the team.
+
+17
+00:00:58,040 --> 00:01:02,750
+Then we have programmers who are the developers who built a product.
+
+18
+00:01:02,750 --> 00:01:05,855
+Let's look at all four of these important roles.
+
+19
+00:01:05,855 --> 00:01:09,680
+A customer is a critical role in XP,
+
+20
+00:01:09,680 --> 00:01:13,490
+since the customer is responsible for working with the business to
+
+21
+00:01:13,490 --> 00:01:18,470
+prioritize and maximize the value of the product deliverables being worked on.
+
+22
+00:01:18,470 --> 00:01:24,875
+The customer is primarily responsible for prioritizing and managing the Product Backlog.
+
+23
+00:01:24,875 --> 00:01:29,300
+An XP team has a small number of programmers who work together and
+
+24
+00:01:29,300 --> 00:01:34,505
+collaborate in practicing XP core values like paired programming,
+
+25
+00:01:34,505 --> 00:01:38,645
+Test-driven development, as well as continuous Integration.
+
+26
+00:01:38,645 --> 00:01:42,410
+A high achieving XP team will include a designer,
+
+27
+00:01:42,410 --> 00:01:45,890
+one senior programmer, and an architect,
+
+28
+00:01:45,890 --> 00:01:47,795
+under the programmer role.
+
+29
+00:01:47,795 --> 00:01:53,689
+Programmers exhibit T-shaped skills by assisting with testing when time permits.
+
+30
+00:01:53,689 --> 00:01:57,170
+The XP coach is a servant leader and
+
+31
+00:01:57,170 --> 00:02:01,025
+plays a pivotal role supporting in the team's success.
+
+32
+00:02:01,025 --> 00:02:03,950
+XP has several detailed practices,
+
+33
+00:02:03,950 --> 00:02:07,285
+which the coach helps the team to learn and follow.
+
+34
+00:02:07,285 --> 00:02:13,505
+Testers partner with, and assist the customer in creating acceptance criteria,
+
+35
+00:02:13,505 --> 00:02:21,005
+execute test cases, and communicate the outcomes and feedback with the programmers.
+
+36
+00:02:21,005 --> 00:02:24,110
+All the XP ceremonies aligned with
+
+37
+00:02:24,110 --> 00:02:27,290
+the Scrum Framework ceremonies that we discussed earlier,
+
+38
+00:02:27,290 --> 00:02:29,645
+except the names are different.
+
+39
+00:02:29,645 --> 00:02:33,065
+In XP, they are Iteration Planning,
+
+40
+00:02:33,065 --> 00:02:37,780
+Iteration Review, and Iteration Retrospective.
+
+41
+00:02:37,780 --> 00:02:40,850
+The six XP ceremonies are virtually the
+
+42
+00:02:40,850 --> 00:02:44,285
+same as their counterparts ceremonies in the Scrum Framework.
+
+43
+00:02:44,285 --> 00:02:45,980
+As you can see here,
+
+44
+00:02:45,980 --> 00:02:50,135
+the project vision ceremony in Kanban has virtually the same purpose,
+
+45
+00:02:50,135 --> 00:02:53,545
+agenda, timing, and expected outcome.
+
+46
+00:02:53,545 --> 00:02:57,155
+The same can be said for the daily standup in XP,
+
+47
+00:02:57,155 --> 00:03:01,135
+as well as XP's Iteration Planning.
+
+48
+00:03:01,135 --> 00:03:03,585
+The Iteration Review and Demo,
+
+49
+00:03:03,585 --> 00:03:06,750
+in XP also follows the same format.
+
+50
+00:03:06,750 --> 00:03:11,925
+Iteration Retrospectives remain just as critical in XP as they are in Scrum,
+
+51
+00:03:11,925 --> 00:03:14,960
+Kanban, and other Agile frameworks.
+
+52
+00:03:14,960 --> 00:03:20,644
+The release planning session in XP is also the same as in other Agile frameworks.
+
+53
+00:03:20,644 --> 00:03:25,415
+Since XP is the most thorough Agile framework in terms of processes,
+
+54
+00:03:25,415 --> 00:03:31,840
+all the artifacts covered in the Scrum Framework and Kanban Framework are included in XP.
+
+55
+00:03:31,840 --> 00:03:35,060
+Again, XP is considerably more structured in
+
+56
+00:03:35,060 --> 00:03:41,400
+the Scrum Framework and a lot more thorough than the lightweight Kanban framework.
+

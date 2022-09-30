@@ -1,0 +1,104 @@
+1
+00:00:00,000 --> 00:00:04,035
+In this foundations of Agile and Agile frameworks course,
+
+2
+00:00:04,035 --> 00:00:06,945
+you will work on a project where you will
+
+3
+00:00:06,945 --> 00:00:10,320
+apply the skills you have acquired in this course to
+
+4
+00:00:10,320 --> 00:00:16,935
+step into a business case as an Agile consultant to help launch their Agile journey.
+
+5
+00:00:16,935 --> 00:00:20,550
+The client in this business case is WorldVisitz.
+
+6
+00:00:20,550 --> 00:00:27,645
+WorldVisitz is a travel agency who is planning to launch a mobile application product.
+
+7
+00:00:27,645 --> 00:00:33,060
+WorldVisitz executives have hired you as an Agile consultant.
+
+8
+00:00:33,060 --> 00:00:37,470
+Your job is to define an Agile delivery solution to
+
+9
+00:00:37,470 --> 00:00:42,445
+transform the current traditional product development processes.
+
+10
+00:00:42,445 --> 00:00:45,530
+After being provided additional details,
+
+11
+00:00:45,530 --> 00:00:48,710
+you will be asked to prepare two presentations.
+
+12
+00:00:48,710 --> 00:00:54,965
+One will be for the executives and the other presentation will be for the team itself.
+
+13
+00:00:54,965 --> 00:00:58,835
+In the executive Agile transformation presentation,
+
+14
+00:00:58,835 --> 00:01:03,955
+you will discuss how WorldVisitz can benefit from Agile.
+
+15
+00:01:03,955 --> 00:01:07,715
+You will also explain to the executives which
+
+16
+00:01:07,715 --> 00:01:13,160
+Agile framework is best for WorldVisitz needs.
+
+17
+00:01:13,160 --> 00:01:19,355
+Your goal in the Agile transformation presentation is to onboard the team.
+
+18
+00:01:19,355 --> 00:01:24,095
+You will explain how WorldVisitz can benefit from Agile.
+
+19
+00:01:24,095 --> 00:01:26,780
+You will set up the team for success,
+
+20
+00:01:26,780 --> 00:01:29,960
+including assigning team members to roles and
+
+21
+00:01:29,960 --> 00:01:34,310
+establishing the ceremony structure for the framework you have recommended.
+
+22
+00:01:34,310 --> 00:01:39,470
+This is going to be an exhilarating project in which you will get an opportunity to take
+
+23
+00:01:39,470 --> 00:01:41,900
+the concepts covered in this course and
+
+24
+00:01:41,900 --> 00:01:45,185
+apply them with a practical lens in the Agile World.
+
+25
+00:01:45,185 --> 00:01:48,410
+After this project, you will be confidently
+
+26
+00:01:48,410 --> 00:01:52,950
+prepared to embark on your journey as an Agilist.
+

@@ -1,0 +1,244 @@
+1
+00:00:00,000 --> 00:00:02,865
+This exercise has two parts.
+
+2
+00:00:02,865 --> 00:00:07,800
+First, you are asked to look at the paired core values and identify
+
+3
+00:00:07,800 --> 00:00:13,050
+which two particularly stand out as being absent at SocialKare.gov.
+
+4
+00:00:13,050 --> 00:00:18,600
+Second, you are asked to consider the Agile Principles and identify
+
+5
+00:00:18,600 --> 00:00:25,020
+which of the 12 Agile Principles would have been beneficial to adopt at Socialkare.gov.
+
+6
+00:00:25,020 --> 00:00:28,755
+Your answers might be different, but here are mine.
+
+7
+00:00:28,755 --> 00:00:31,560
+The first missing paired core value from
+
+8
+00:00:31,560 --> 00:00:37,255
+the Agile Manifesto is individuals and interactions over processes and tools.
+
+9
+00:00:37,255 --> 00:00:41,135
+Despite heavy government mandated processes,
+
+10
+00:00:41,135 --> 00:00:46,595
+the lack of team cohesion and a siloed approach to delegating work,
+
+11
+00:00:46,595 --> 00:00:52,280
+with an autocratic management style impeded the quality of the results.
+
+12
+00:00:52,280 --> 00:00:57,940
+Then demotivated and fatigued team produced a subpar set of project deliverables.
+
+13
+00:00:57,940 --> 00:01:02,485
+Working software over comprehensive documentation was also missing.
+
+14
+00:01:02,485 --> 00:01:04,670
+Despite the paper trail,
+
+15
+00:01:04,670 --> 00:01:08,120
+a lot of the documentation was ineffective.
+
+16
+00:01:08,120 --> 00:01:12,230
+No demos for a working prototype were presented,
+
+17
+00:01:12,230 --> 00:01:15,515
+so there was no early and regular feedback.
+
+18
+00:01:15,515 --> 00:01:19,070
+The tangible results were inadequate at the end,
+
+19
+00:01:19,070 --> 00:01:24,545
+the feedback loop was broken with no opportunity for early feedback.
+
+20
+00:01:24,545 --> 00:01:28,955
+The first missing principle I noticed is simplicity,
+
+21
+00:01:28,955 --> 00:01:33,535
+the art of maximizing the amount of work not done, is essential.
+
+22
+00:01:33,535 --> 00:01:39,020
+At SocialKare.gov, we can see that an unnecessarily heavy and,
+
+23
+00:01:39,020 --> 00:01:42,230
+unprioritized set of requirements forced
+
+24
+00:01:42,230 --> 00:01:46,480
+the team to work on non-value added requirements.
+
+25
+00:01:46,480 --> 00:01:52,695
+This lack of an agiled mindset added muda or waste to the results.
+
+26
+00:01:52,695 --> 00:01:54,960
+The second missing principle is,
+
+27
+00:01:54,960 --> 00:01:57,170
+our highest priority is to satisfy
+
+28
+00:01:57,170 --> 00:02:01,240
+the customer through early and continuous delivery of valuable software.
+
+29
+00:02:01,240 --> 00:02:04,410
+This was clearly missing at SocialKare.gov.
+
+30
+00:02:04,410 --> 00:02:07,130
+With no delivery of functionality
+
+31
+00:02:07,130 --> 00:02:12,740
+incrementally and no periodic product demos during the project lifecycle,
+
+32
+00:02:12,740 --> 00:02:17,180
+SocialKare.gov services and capabilities were not formally able to
+
+33
+00:02:17,180 --> 00:02:22,135
+be verified and validated until the project was in its last phase.
+
+34
+00:02:22,135 --> 00:02:24,615
+This delayed the feedback loop.
+
+35
+00:02:24,615 --> 00:02:30,170
+It also left the business users and ultimately the end-users unsatisfied.
+
+36
+00:02:30,170 --> 00:02:33,500
+This principle would have encouraged a team to utilize
+
+37
+00:02:33,500 --> 00:02:36,620
+demos and other feedback loops to get
+
+38
+00:02:36,620 --> 00:02:39,635
+working features in front of the business users for
+
+39
+00:02:39,635 --> 00:02:44,275
+early feedback and make it shippable for release on demand.
+
+40
+00:02:44,275 --> 00:02:50,975
+Another missing principle, is welcome changing requirements even late in development.
+
+41
+00:02:50,975 --> 00:02:55,850
+Agile processes harness change for the competitive advantage.
+
+42
+00:02:55,850 --> 00:02:58,490
+We can see evidence that this principle was
+
+43
+00:02:58,490 --> 00:03:01,415
+missing because requirements or functionality were changing
+
+44
+00:03:01,415 --> 00:03:04,310
+even at the tail end of the project and
+
+45
+00:03:04,310 --> 00:03:08,680
+changes had to go through a stringent change control review.
+
+46
+00:03:08,680 --> 00:03:13,495
+That resulted in delays responding to functional change requests.
+
+47
+00:03:13,495 --> 00:03:19,070
+A more adaptive change management approach in an Agile environment would have
+
+48
+00:03:19,070 --> 00:03:25,130
+allowed for a more change-embracing approach with fewer hurdles and fewer delays.
+
+49
+00:03:25,130 --> 00:03:28,270
+Also, the team is missing.
+
+50
+00:03:28,270 --> 00:03:34,070
+The business people and developers must work together daily throughout the project.
+
+51
+00:03:34,070 --> 00:03:38,300
+We can see this because the development team did not actively
+
+52
+00:03:38,300 --> 00:03:43,145
+engaged those business users who best understood the needs of the end-users.
+
+53
+00:03:43,145 --> 00:03:49,085
+This resulted in a delayed feedback loop and a lack of team confidence.
+
+54
+00:03:49,085 --> 00:03:52,820
+Had this happened, the early feedback loop would have
+
+55
+00:03:52,820 --> 00:03:56,905
+allowed business users to provide valuable insight.
+
+56
+00:03:56,905 --> 00:04:00,350
+The developers would also have felt more confident and
+
+57
+00:04:00,350 --> 00:04:04,825
+motivated in knowing that the direction they were heading in was the right one.
+
+58
+00:04:04,825 --> 00:04:07,790
+These are the missing principles that I identified.
+
+59
+00:04:07,790 --> 00:04:11,690
+Did you see these or did you find any others?
+
+60
+00:04:11,690 --> 00:04:15,290
+As an agilist, you'll want to make sure that your team
+
+61
+00:04:15,290 --> 00:04:19,949
+follows the Agile Manifesto principles as much as possible.
+

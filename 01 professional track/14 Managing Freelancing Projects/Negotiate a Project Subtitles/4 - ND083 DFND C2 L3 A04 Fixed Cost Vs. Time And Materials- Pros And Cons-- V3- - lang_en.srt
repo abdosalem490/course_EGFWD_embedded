@@ -1,0 +1,228 @@
+1
+00:00:00,000 --> 00:00:01,350
+Now at this point,
+
+2
+00:00:01,350 --> 00:00:06,345
+we know what is a project scope and what is a pricing framework.
+
+3
+00:00:06,345 --> 00:00:08,910
+In this important part of the lesson,
+
+4
+00:00:08,910 --> 00:00:13,140
+we'll talk about a correlation that exists between these two.
+
+5
+00:00:13,140 --> 00:00:16,980
+It is important to understand how the scope and
+
+6
+00:00:16,980 --> 00:00:22,530
+the pricing framework of the project go hand in hand and are really interdependent.
+
+7
+00:00:22,530 --> 00:00:25,950
+Let's say we're trying to determine the fixed cost;
+
+8
+00:00:25,950 --> 00:00:30,060
+the overall cost of a project that we want to charge the client.
+
+9
+00:00:30,060 --> 00:00:31,980
+When we do that, first,
+
+10
+00:00:31,980 --> 00:00:35,445
+we need to figure out what we're really trying to achieve here.
+
+11
+00:00:35,445 --> 00:00:37,545
+What is our end goal?
+
+12
+00:00:37,545 --> 00:00:41,370
+For example, we might be trying to build a web application,
+
+13
+00:00:41,370 --> 00:00:43,590
+or an Android application,
+
+14
+00:00:43,590 --> 00:00:45,780
+or a digital marketing solution,
+
+15
+00:00:45,780 --> 00:00:48,035
+to increase traffic on the website.
+
+16
+00:00:48,035 --> 00:00:51,995
+Now once we have determined what the end goal of the project is,
+
+17
+00:00:51,995 --> 00:00:56,180
+we want to get in a little deeper and find out what exactly are
+
+18
+00:00:56,180 --> 00:01:02,815
+the different features or tasks required to complete the project to achieve the goal.
+
+19
+00:01:02,815 --> 00:01:07,160
+For example, we may need an authentication module
+
+20
+00:01:07,160 --> 00:01:11,390
+as a feature of the web application or a social media campaign,
+
+21
+00:01:11,390 --> 00:01:12,860
+maybe around the tasks,
+
+22
+00:01:12,860 --> 00:01:16,040
+or work streams in a digital marketing solution.
+
+23
+00:01:16,040 --> 00:01:17,940
+But we don't stop there.
+
+24
+00:01:17,940 --> 00:01:20,800
+To figure out how much we'd charge the client,
+
+25
+00:01:20,800 --> 00:01:23,740
+we need to go a little bit more deeper and
+
+26
+00:01:23,740 --> 00:01:27,100
+draft a specification for each of these features.
+
+27
+00:01:27,100 --> 00:01:30,500
+For example, an authentication module may need
+
+28
+00:01:30,500 --> 00:01:34,265
+a forgot password feature in case the user forgets their password,
+
+29
+00:01:34,265 --> 00:01:36,515
+a way to sign up new users,
+
+30
+00:01:36,515 --> 00:01:39,680
+keep the user session active for a fixed time.
+
+31
+00:01:39,680 --> 00:01:42,950
+A social media campaign on the other hand may involve
+
+32
+00:01:42,950 --> 00:01:47,135
+further details like which platforms will the campaign be running on,
+
+33
+00:01:47,135 --> 00:01:50,015
+how many posts per day will we be posting?
+
+34
+00:01:50,015 --> 00:01:54,350
+Which define how much we need to prepare for these posts.
+
+35
+00:01:54,350 --> 00:01:57,065
+What kind of posts, image,
+
+36
+00:01:57,065 --> 00:01:59,765
+or text? How many contests?
+
+37
+00:01:59,765 --> 00:02:01,990
+What is the duration of the campaign?
+
+38
+00:02:01,990 --> 00:02:05,615
+All of these details are really critical in figuring out
+
+39
+00:02:05,615 --> 00:02:11,275
+the total effort that we need to spend as a freelancer to work on that task.
+
+40
+00:02:11,275 --> 00:02:13,280
+Once we have the total effort,
+
+41
+00:02:13,280 --> 00:02:18,260
+we can then estimate how much we want to charge the client for that much work.
+
+42
+00:02:18,260 --> 00:02:21,095
+Now let's say if we knew the goal,
+
+43
+00:02:21,095 --> 00:02:24,680
+could we then estimate a fixed costs for the project?
+
+44
+00:02:24,680 --> 00:02:28,850
+We will not be able to do that since we do not know how
+
+45
+00:02:28,850 --> 00:02:33,710
+complex or sophisticated are the features that the client needs to fulfill the goal,
+
+46
+00:02:33,710 --> 00:02:37,630
+which will define how much effort we spend on it.
+
+47
+00:02:37,630 --> 00:02:41,029
+Could we do it if we have all the features,
+
+48
+00:02:41,029 --> 00:02:43,495
+but not the detailed specifications?
+
+49
+00:02:43,495 --> 00:02:46,230
+Still we won't be able to,
+
+50
+00:02:46,230 --> 00:02:49,715
+because the devil is in the details and the effort required for
+
+51
+00:02:49,715 --> 00:02:53,875
+each feature really depends on what goes in that feature,
+
+52
+00:02:53,875 --> 00:02:57,635
+so we really need a detailed scope of the project.
+
+53
+00:02:57,635 --> 00:03:03,680
+The detailed scope helps us determine the total effort that needs to be spent,
+
+54
+00:03:03,680 --> 00:03:07,570
+which further determines the total cost of the project.
+
+55
+00:03:07,570 --> 00:03:13,650
+That is why the pricing structure is dependent on the scope of the project.
+
+56
+00:03:13,650 --> 00:03:17,330
+If the scope is not defined in detail we will not be able to
+
+57
+00:03:17,330 --> 00:03:21,930
+come up with a fixed cost for the project end to end.
+

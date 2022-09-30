@@ -1,0 +1,184 @@
+1
+00:00:00,000 --> 00:00:03,810
+Let us look at the important characteristics of the Scrum framework.
+
+2
+00:00:03,810 --> 00:00:10,595
+Scrum is by far the most common Agile framework in use across industries globally.
+
+3
+00:00:10,595 --> 00:00:18,180
+In Scrum, the Agile team creatively manages the work with a focus on delivering
+
+4
+00:00:18,180 --> 00:00:21,990
+complex adaptive product features in an age when
+
+5
+00:00:21,990 --> 00:00:27,000
+customers expect rapid responses based on emerging market needs.
+
+6
+00:00:27,000 --> 00:00:31,184
+The features are delivered iterations known as sprints,
+
+7
+00:00:31,184 --> 00:00:33,930
+without compromising on quality.
+
+8
+00:00:33,930 --> 00:00:37,765
+In fact, quality is built into the Scrum framework.
+
+9
+00:00:37,765 --> 00:00:44,995
+Scrum prescribes a model in which a self-directed and self-organized Agile team,
+
+10
+00:00:44,995 --> 00:00:49,495
+plans their work themselves in a decentralized manner.
+
+11
+00:00:49,495 --> 00:00:52,384
+The Agile team conducts daily standups
+
+12
+00:00:52,384 --> 00:00:55,265
+in which they provide updates to each other every day.
+
+13
+00:00:55,265 --> 00:00:58,850
+They deliver in short sprints and they identify
+
+14
+00:00:58,850 --> 00:01:03,355
+opportunities for improvement through retrospectives at the end of each sprint.
+
+15
+00:01:03,355 --> 00:01:09,230
+The Scrum framework introduces specific roles with recommended responsibilities.
+
+16
+00:01:09,230 --> 00:01:16,375
+Scrum also introduces ceremonies with the recommended agenda, duration and frequency.
+
+17
+00:01:16,375 --> 00:01:20,825
+Several the Agile artifacts are regularly used in scrum.
+
+18
+00:01:20,825 --> 00:01:23,320
+We will look at them in a few minutes.
+
+19
+00:01:23,320 --> 00:01:27,315
+Now, let us look at scrums pillars and values.
+
+20
+00:01:27,315 --> 00:01:33,250
+Scrum is based on three pillars and five fundamental values.
+
+21
+00:01:33,250 --> 00:01:39,365
+Transparency in scrum refers to explicitly giving visibility to all involved,
+
+22
+00:01:39,365 --> 00:01:41,135
+such as the business users,
+
+23
+00:01:41,135 --> 00:01:44,405
+the organization's leadership, the product owner,
+
+24
+00:01:44,405 --> 00:01:47,020
+as well as the Agile team itself.
+
+25
+00:01:47,020 --> 00:01:50,030
+In order for transparency to work effectively,
+
+26
+00:01:50,030 --> 00:01:53,330
+scrum recommends that significant aspects of the product of
+
+27
+00:01:53,330 --> 00:01:57,295
+the reprocess should be defined by a common standard.
+
+28
+00:01:57,295 --> 00:02:02,945
+This will help everyone in having a consistent understanding of what is being observed.
+
+29
+00:02:02,945 --> 00:02:06,350
+Such transparency builds trust and openness,
+
+30
+00:02:06,350 --> 00:02:11,965
+both within the Agile team as well as with those stakeholders outside the Agile team.
+
+31
+00:02:11,965 --> 00:02:16,160
+Inspection involves the business users or
+
+32
+00:02:16,160 --> 00:02:19,850
+their representatives reviewing the Agile teams progress
+
+33
+00:02:19,850 --> 00:02:22,385
+towards the defined goals and objectives.
+
+34
+00:02:22,385 --> 00:02:25,025
+This needs to be done with some frequency,
+
+35
+00:02:25,025 --> 00:02:27,710
+with the recommendation being that's such an inspection
+
+36
+00:02:27,710 --> 00:02:30,650
+should take place at least once per sprint,
+
+37
+00:02:30,650 --> 00:02:34,810
+but not so frequently that it slows the Agile teams progress.
+
+38
+00:02:34,810 --> 00:02:41,629
+This helps with quickly identifying any unwanted variances from the defined sprint goals.
+
+39
+00:02:41,629 --> 00:02:45,650
+With adaptation, scrum encourages Agile teams to
+
+40
+00:02:45,650 --> 00:02:49,610
+adjust and adapt based on opportunities for improvement
+
+41
+00:02:49,610 --> 00:02:52,130
+that are identified either by the Agile team
+
+42
+00:02:52,130 --> 00:02:57,905
+themselves or through feedback from others outside the Agile team.
+
+43
+00:02:57,905 --> 00:03:01,730
+Adjustments could include process improvements if it appears that
+
+44
+00:03:01,730 --> 00:03:05,840
+the existing process will negatively impact the final product deliverables.
+
+45
+00:03:05,840 --> 00:03:09,230
+Such adjustments should be proactively
+
+46
+00:03:09,230 --> 00:03:13,950
+dealt with to reduce further divergence from the goals.
+

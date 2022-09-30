@@ -1,0 +1,152 @@
+1
+00:00:00,320 --> 00:00:05,130
+Now let's first talk about what is a project scope.
+
+2
+00:00:05,130 --> 00:00:07,770
+Once you agree to work with the client,
+
+3
+00:00:07,770 --> 00:00:10,800
+the first thing that you need to discuss and preferably
+
+4
+00:00:10,800 --> 00:00:14,190
+document is what exactly you will be working on,
+
+5
+00:00:14,190 --> 00:00:17,145
+which is called the project scope.
+
+6
+00:00:17,145 --> 00:00:21,375
+Now, a project scope would usually entail two things.
+
+7
+00:00:21,375 --> 00:00:25,170
+First, what is the final goal of the project,
+
+8
+00:00:25,170 --> 00:00:28,005
+the expected output of the work,
+
+9
+00:00:28,005 --> 00:00:32,065
+and second, what needs to be done to reach this goal?
+
+10
+00:00:32,065 --> 00:00:34,100
+What are the building blocks,
+
+11
+00:00:34,100 --> 00:00:36,950
+things like features of the solution or
+
+12
+00:00:36,950 --> 00:00:40,250
+work-streams that the clients wants you to work on?
+
+13
+00:00:40,250 --> 00:00:42,920
+Now, it's important to keep in mind here that
+
+14
+00:00:42,920 --> 00:00:47,120
+a project scope is a document that is given to a freelancer to work on.
+
+15
+00:00:47,120 --> 00:00:50,720
+You can, of course, help the client writer project scope, but ideally,
+
+16
+00:00:50,720 --> 00:00:55,565
+it's the business that knows best what work needs to be done, and hence,
+
+17
+00:00:55,565 --> 00:00:57,830
+it is ideal for it to either come from
+
+18
+00:00:57,830 --> 00:01:01,930
+them or is written in active collaboration with them.
+
+19
+00:01:01,930 --> 00:01:05,765
+Let's see a few examples to make this more clear.
+
+20
+00:01:05,765 --> 00:01:08,600
+Let's say you're building a web application,
+
+21
+00:01:08,600 --> 00:01:10,415
+which is your end goal.
+
+22
+00:01:10,415 --> 00:01:14,420
+The project scope will include the features that need to be built,
+
+23
+00:01:14,420 --> 00:01:16,730
+like the authentication module,
+
+24
+00:01:16,730 --> 00:01:18,560
+a chatbot perhaps,
+
+25
+00:01:18,560 --> 00:01:23,615
+a module to automatically send emails to users, and so on.
+
+26
+00:01:23,615 --> 00:01:27,605
+If you're working on a digital marketing project for a website,
+
+27
+00:01:27,605 --> 00:01:30,740
+this will include the different work streams along with
+
+28
+00:01:30,740 --> 00:01:34,775
+their details like search engine optimization,
+
+29
+00:01:34,775 --> 00:01:39,695
+social media campaigns, Twitter ads, and so on.
+
+30
+00:01:39,695 --> 00:01:41,885
+If you are working in DevOps,
+
+31
+00:01:41,885 --> 00:01:47,450
+then tasks like ability to start 20 servers automatically on the Cloud,
+
+32
+00:01:47,450 --> 00:01:50,220
+shut down those servers automatically,
+
+33
+00:01:50,220 --> 00:01:56,060
+build cleanup scripts to run after a server task is completed, and so on.
+
+34
+00:01:56,060 --> 00:02:00,830
+This is a high-level description of what a project scope is,
+
+35
+00:02:00,830 --> 00:02:02,660
+and some examples of it.
+
+36
+00:02:02,660 --> 00:02:04,445
+In the rest of the lesson,
+
+37
+00:02:04,445 --> 00:02:07,130
+you will see us coming back to the project scope
+
+38
+00:02:07,130 --> 00:02:11,070
+and how it is so important in a client's project.
+

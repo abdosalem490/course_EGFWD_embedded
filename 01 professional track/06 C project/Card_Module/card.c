@@ -8,293 +8,182 @@
 
 /*  @fn     :       -getCardHolderName
  *
- *  @params :       -none
+ *  @params :       -a structure to fill in it the name of the card holder
  *
- *  @brief  :       -take holder name of the card from the user
+ *  @brief  :       -take holder name of the card from the user and it gets a valid but not verified name of the user
  *
- *  @return  :      -return a valid but not verified name of the user
+ *  @return  :      -the state of the function whether it successfully get the name or not
  */
-int8_t* getCardHolderName()
+EN_cardError_t getCardHolderName(ST_cardData_t *cardData)
 {
-    /*the var name is static to avoid destruction of the local variable*/
-    static int8_t name[ACCOUNT_NAME_SIZE];
+    /*local variable to store the error state of getting the name*/
+    EN_cardError_t local_enumErrorState = CARD_OK;
 
-    /*flag to indicate that the entered name isn't empty*/
-    _Bool local_boolIsValid = 0;
+    /*ask for user input*/
+    puts(CYAN "enter your name : " YELLOW);
+    fgets((char*)cardData->cardHolderName, ACCOUNT_NAME_SIZE, stdin);
 
-    do{
-        /*ask for user input*/
-        puts(CYAN "enter your name : " YELLOW);
-        fgets((char*)name, ACCOUNT_NAME_SIZE, stdin);
+    /*used to clear the buffer to avoid more characters there in the buffer*/
+    fflush(stdin);
 
-        /*used to clear the buffer to avoid more characters there in the buffer*/
-        fflush(stdin);
-
-        /*check the validity of the input*/
-        for(uint8_t i = 0; name[i] != '\0'; i++)
+    /*check the validity of the input*/
+    for(uint8_t i = 0; cardData->cardHolderName[i] != '\0'; i++)
+    {
+        /*if there is a terminating char in the first 4 chars*/
+        if(i < ACCOUNT_MIN_NAME_LEN  && cardData->cardHolderName[i] == '\n')
         {
-            /*if there is a terminating char in the first 4 chars*/
-            if(i < ACCOUNT_MIN_NAME_LEN && name[i] == '\0')
-            {
-                printf(RED "invalid name , minmum name size must be %d\n", ACCOUNT_MIN_NAME_LEN);
-                break;
-            }
-            /*if the name contain numbers*/
-            else if(name[i] > '0' && name[i] < '9')
-            {
-                printf(RED "invalid name , there is no name with digits in it\n");
-                break;   
-            }
-            else if(name[i] == '\n')
-            {
-                local_boolIsValid = 1;
+            printf(RED "invalid name , minmum name size must be %d\n", ACCOUNT_MIN_NAME_LEN);
 
-                /*put a terminating char instead of the line feed one*/
-                name[i] = '\0';
+            /*the name is less than minum length for the name*/
+            local_enumErrorState = WRONG_NAME;
 
-            }
+            break;
         }
-    }while(!local_boolIsValid);
+        /*if the name contain numbers*/
+        else if(cardData->cardHolderName[i] > '0' && cardData->cardHolderName[i] < '9')
+        {
+            printf(RED "invalid name , there is no name with digits in it\n");
 
-    return name;
+            /*the name contains numbers*/
+            local_enumErrorState = WRONG_NAME;
+
+            break;   
+        }
+        else if(cardData->cardHolderName[i] == '\n')
+        {
+            /*the name is stored correctly*/
+            local_enumErrorState = CARD_OK;
+    
+            /*put a terminating char instead of the line feed one*/
+            cardData->cardHolderName[i] = '\0';
+
+        }
+    }
+
+    return local_enumErrorState;
 }
 
 /*  @fn     :       -getCardExpiryDate
  *
- *  @params :       -none
+ *  @params :       -a structure of type "ST_cardData_t" to fill in it the expory date of the card holder
  *
- *  @brief  :       -take holder card expiry date from the user
+ *  @brief  :       -take expiry date from the user and get a valid but not verified expiry date of the card
  *
- *  @return  :      -return a valid but not verified expiry date of the card
+ *  @return  :      -return the error state of getting the expiry date
  */
-int8_t* getCardExpiryDate()
+EN_cardError_t getCardExpiryDate(ST_cardData_t *cardData)
 {
-    /*the var local_arrs8ExpiryDate is static to avoid destruction of the local variable during exit of the function*/
-    static int8_t local_arrs8ExpiryDate[ACCOUNT_EXPIRY_DATE_LEN + 1];
+    /*local variable to store the error state of getting the expiry date*/
+    EN_cardError_t local_enumErrorState = CARD_OK;
 
-    /*flag to indicate that the entered local_arrs8ExpiryDate isn't empty*/
-    _Bool local_boolIsValid = 0;
+    /*used to test for the entered month*/
+    uint8_t local_u8DummyTest = 0;
 
-    /*get the month of expiry from the user and verify it*/
-    do{
-        /*ask for user input*/
-        puts(CYAN "enter month of expiry date (2 or 1 digits) : " YELLOW);
-        fgets((char*)local_arrs8ExpiryDate, ACCOUNT_EXPIRY_MON_LEN + 2, stdin);
+    /*get the expiry date from the user and verify it*/
+    puts(CYAN "enter month and year of expiry date in the form of MM/YY : " YELLOW);
+    fgets((char*)cardData->cardExpirationDate, ACCOUNT_EXPIRY_DATE_LEN + 1, stdin);
 
-        /*used to clear the buffer to avoid more characters there in the buffer*/
-        fflush(stdin);
+    /*used to clear the buffer to avoid more characters there in the buffer*/
+    fflush(stdin);
 
-        /*check the validity of the input (month) to be 1 or 2 digits and only digits*/
+    /*if there is a line feed char in the first 1 chars*/
+    if(cardData->cardExpirationDate[0] == '\n')
+    {
+        printf(RED "no date entered\n");
 
-        /*if there is a line feed char in the first 1 chars*/
-        if(local_arrs8ExpiryDate[0] == '\n')
+        /*the entered date is invalid*/
+        local_enumErrorState = WRONG_EXP_DATE;        
+    }
+    /*most of chars must be digits*/
+    else if((cardData->cardExpirationDate[0] > '9' || cardData->cardExpirationDate[0] < '0' || cardData->cardExpirationDate[1] > '9' || cardData->cardExpirationDate[1] < '0'
+            || cardData->cardExpirationDate[3] > '9' || cardData->cardExpirationDate[3] < '0' || cardData->cardExpirationDate[4] > '9' || cardData->cardExpirationDate[4] < '0')
+            || cardData->cardExpirationDate[2] != '/')
+    {
+        printf(RED "month must be only valid digits and in the form of MM/YY\n");
+
+        /*the entered date is invalid*/
+        local_enumErrorState = WRONG_EXP_DATE;
+    }
+    else
+    {
+        /*check if month is a valid number between 0 and 12*/
+        local_u8DummyTest = 10 * (uint8_t)(cardData->cardExpirationDate[0] - '0') + (uint8_t)(cardData->cardExpirationDate[1] - '0');
+        if(local_u8DummyTest < 13 && local_u8DummyTest > 0)
         {
-            printf(RED "no month date entered\n");
-        }
-        /*first char must be a digit*/
-        else if(local_arrs8ExpiryDate[0] > '9' || local_arrs8ExpiryDate[0] < '0')
-        {
-            printf(RED "month must be only valid digits\n");
-        }
-        /*second char can be a digit or just line feed*/
-        else if(local_arrs8ExpiryDate[1] != '\n' && (local_arrs8ExpiryDate[1] > '9' || local_arrs8ExpiryDate[1] < '0'))
-        {
-            printf(RED "month must be only digits and not more than 12\n");           
-        }
-        else if(local_arrs8ExpiryDate[1] == '\n' && local_arrs8ExpiryDate[0] <= '9' && local_arrs8ExpiryDate[0] > '0')
-        {
-            local_boolIsValid = 1;
-
-            /*make the month format in the form 0m/yyyy */
-            local_arrs8ExpiryDate[1] = local_arrs8ExpiryDate[0];
-            local_arrs8ExpiryDate[0] = '0';
+            /*the entered date is invalid*/
+            local_enumErrorState = CARD_OK;
         }
         else
         {
-            /*check if it's a valid number between 0 and 12*/
-            uint8_t local_u8DummyTest = 10 * (uint8_t)(local_arrs8ExpiryDate[0] - '0') + (uint8_t)(local_arrs8ExpiryDate[1] - '0');
-            if(local_u8DummyTest < 13)
-            {
-                local_boolIsValid = 1;
-            }
-            else
-            {
-                printf(RED "there is no month greater than 12\n");
-            }
+            printf(RED "there is no month greater than 12\n");
+
+            /*the entered date is invalid*/
+            local_enumErrorState = WRONG_EXP_DATE;
         }
-    }while(!local_boolIsValid);
+    }
 
-    /*put the separator between the month and the year*/
-    local_arrs8ExpiryDate[ACCOUNT_EXPIRY_MON_LEN] = '/';
-
-    /*reset the flag*/
-    local_boolIsValid = 0;
-
-    /*get the month of expiry from the user and verify it*/
-    do{
-        /*ask for user input*/
-        puts(CYAN "enter year of expiry date (4 digits) : " YELLOW);
-        fgets((char*)(local_arrs8ExpiryDate + ACCOUNT_EXPIRY_MON_LEN + 1), (ACCOUNT_EXPIRY_YEAR_LEN + 2), stdin);
-
-        /*used to clear the buffer to avoid more characters there in the buffer*/
-        fflush(stdin);
-
-        /*check the validity of the input (year) to be 4 digits only*/
-        for(uint8_t i = (ACCOUNT_EXPIRY_MON_LEN + 1); i < (ACCOUNT_EXPIRY_DATE_LEN - 1); i++)
-        {
-            /*if there is a line feed char in the chars*/
-            if(local_arrs8ExpiryDate[i] == '\n')
-            {
-                printf(RED "entered year expiry date is invalid, it must be 4 digits \n");
-                break;
-            }
-            else if(local_arrs8ExpiryDate[i] > '9' || local_arrs8ExpiryDate[i] < '0')
-            {
-                printf(RED "year must be only digits\n");
-                break;
-            }
-            else if(i == (ACCOUNT_EXPIRY_DATE_LEN - 2))
-            {
-            
-                /*convert entered string to number*/
-                uint16_t local_u8DummyTest = 0;
-                for(uint8_t j = (ACCOUNT_EXPIRY_MON_LEN + 1); j < (ACCOUNT_EXPIRY_DATE_LEN - 1); j++)
-                {
-                    local_u8DummyTest *= 10;
-                    local_u8DummyTest += (uint16_t)(local_arrs8ExpiryDate[j] - '0');
-                }
-
-                /*check if the entered year is between 2100 and 2000*/
-                if(local_u8DummyTest < 2100 && local_u8DummyTest > 2000)
-                {
-                    local_boolIsValid = 1;
-                }
-                else
-                {
-                    printf(RED "entered year range must be between 2100 and 2000\n");
-                }
-            }
-        }
-    }while(!local_boolIsValid);   
-
-    /*terminate the string with \0 instead of \0*/
-    local_arrs8ExpiryDate[ACCOUNT_EXPIRY_DATE_LEN - 1] = '\0';
-
-    return local_arrs8ExpiryDate;    
+    return local_enumErrorState;    
 }
 
 /*  @fn     :       -getCardPAN
  *
- *  @params :       -none
+ *  @params :       -a strucutre of type "ST_cardData_t" to fill it with the PAN of the user
  *
- *  @brief  :       -take holder peimary account number from the user and the entered value must be all numbers
+ *  @brief  :       -take holder peimary account number from the user and the entered value must be all numbers and get a valid but not verified Primary account number of the card
  *
- *  @return  :      -return a valid but not verified Primary account number of the card
+ *  @return  :      -return the error state of getting the card PAN
  */
-int8_t* getCardPAN()
+EN_cardError_t getCardPAN(ST_cardData_t *cardData)
 {
-    /*the var local_arrs8PAN is static to avoid destruction of the local variable*/
-    static int8_t local_arrs8PAN[ACCOUNT_PAN_SIZE + 2];
+    /*local variable to store the error state of getting the PAN*/
+    EN_cardError_t local_enumErrorState = CARD_OK;
 
-    /*flag to indicate that the entered PAN isn't empty and also valid*/
-    _Bool local_boolIsValid = 0;
+    /*ask for user input*/
+    puts(CYAN "enter PAN (16 valid digit numbers) : " YELLOW);
+    fgets((char*)cardData->primaryAccountNumber, (ACCOUNT_PAN_SIZE + 1), stdin);
 
-    do{
-        /*ask for user input*/
-        puts(CYAN "enter your PAN (16 valid digit numbers) : " YELLOW);
-        fgets((char*)local_arrs8PAN, (ACCOUNT_PAN_SIZE + 1), stdin);
+    /*used to clear the buffer to avoid more characters there in the buffer*/
+    fflush(stdin);
 
-        /*used to clear the buffer to avoid more characters there in the buffer*/
-        fflush(stdin);
-
-        /*check the validity of the input*/
-        for(uint8_t i = 0; i < (ACCOUNT_PAN_SIZE + 1); i++)
+    /*check the validity of the input*/
+    for(uint8_t i = 0; i < (ACCOUNT_PAN_SIZE + 1); i++)
+    {
+        /*if there is a terminating char in the first char*/
+        if(i == 0 && cardData->primaryAccountNumber[i] == '\0')
         {
-            /*if there is a terminating char in the first char*/
-            if(i == 0 && local_arrs8PAN[i] == '\0')
-            {
-                printf(RED "NO PAN is entered\n");
-                break;
-            }
-            /*the PAN length must be 16*/
-            else if(i < ACCOUNT_PAN_SIZE && local_arrs8PAN[i] == '\n')
-            {
-                printf(RED "invalid PAN , PAN length must be exactly 16 digits\n");
-                break;                       
-            }
-            /*the PAN must only conatians numbers*/
-            else if((local_arrs8PAN[i] < '0' || local_arrs8PAN[i] > '9') && i < ACCOUNT_PAN_SIZE)
-            {
-                printf(RED "invalid PAN , the PAN must only contain digits\n");
-                break;   
-            }
-            else if(local_arrs8PAN[i] == '\n' || local_arrs8PAN[i] == '\0')
-            {
-                local_boolIsValid = 1;
+            printf(RED "NO PAN is entered\n");
 
-                /*put a terminating char instead of the line feed one*/
-                local_arrs8PAN[i] = '\0';
-            }
+            /*no entered PAN*/
+            local_enumErrorState = WRONG_PAN;
+
+            break;
         }
-    }while(!local_boolIsValid);
-
-    return local_arrs8PAN;    
-}
-
-/*  @fn     :       -getRecieverAccountPAN
- *
- *  @params :       -none
- *
- *  @brief  :       -take reciever peimary account number from the user and the entered value must be all numbers
- *
- *  @return  :      -return a valid but not verified Primary account number of the card of the person to transmit money to
- */
-int8_t* getRecieverAccountPAN(void)
-{
-    /*the var local_arrs8PAN is static to avoid destruction of the local variable*/
-    static int8_t local_arrs8PAN[ACCOUNT_PAN_SIZE + 2];
-
-    /*flag to indicate that the entered PAN isn't empty and also valid*/
-    _Bool local_boolIsValid = 0;
-
-    do{
-        /*ask for user input*/
-        puts(CYAN "enter reciever PAN (16 valid digit numbers) : " YELLOW);
-        fgets((char*)local_arrs8PAN, (ACCOUNT_PAN_SIZE + 1), stdin);
-
-        /*used to clear the buffer to avoid more characters there in the buffer*/
-        fflush(stdin);
-
-        /*check the validity of the input*/
-        for(uint8_t i = 0; i < (ACCOUNT_PAN_SIZE + 1); i++)
+        /*the PAN length must be 16*/
+        else if(i < ACCOUNT_PAN_SIZE && cardData->primaryAccountNumber[i] == '\n')
         {
-            /*if there is a terminating char in the first char*/
-            if(i == 0 && local_arrs8PAN[i] == '\0')
-            {
-                printf(RED "NO PAN is entered\n");
-                break;
-            }
-            /*the PAN length must be 16*/
-            else if(i < ACCOUNT_PAN_SIZE && local_arrs8PAN[i] == '\n')
-            {
-                printf(RED "invalid PAN , PAN length must be exactly 16 digits\n");
-                break;                       
-            }
-            /*the PAN must only conatians numbers*/
-            else if((local_arrs8PAN[i] < '0' || local_arrs8PAN[i] > '9') && i < ACCOUNT_PAN_SIZE)
-            {
-                printf(RED "invalid PAN , the PAN must only contain digits\n");
-                break;   
-            }
-            else if(local_arrs8PAN[i] == '\n' || local_arrs8PAN[i] == '\0')
-            {
-                local_boolIsValid = 1;
+            printf(RED "invalid PAN , PAN length must be exactly 16 digits\n");
 
-                /*put a terminating char instead of the line feed one*/
-                local_arrs8PAN[i] = '\0';
-            }
+            /*no entered PAN*/
+            local_enumErrorState = WRONG_PAN;
+
+            break;                       
         }
-    }while(!local_boolIsValid);
+        /*the PAN must only conatians numbers*/
+        else if((cardData->primaryAccountNumber[i] < '0' || cardData->primaryAccountNumber[i] > '9') && i < ACCOUNT_PAN_SIZE)
+        {
+            printf(RED "invalid PAN , the PAN must only contain digits\n");
 
-    return local_arrs8PAN;    
+            /*no entered PAN*/
+            local_enumErrorState = WRONG_PAN;
+
+            break;   
+        }
+        else if(cardData->primaryAccountNumber[i] == '\0')
+        {
+            /*the entered PAN is correct*/
+            local_enumErrorState = CARD_OK;
+        }
+    }
+
+    return local_enumErrorState;    
 }

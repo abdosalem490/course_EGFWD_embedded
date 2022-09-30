@@ -1,0 +1,328 @@
+1
+00:00:00,000 --> 00:00:07,155
+The Agile Manifesto's four-paired core values drive the 12 Agile principles.
+
+2
+00:00:07,155 --> 00:00:10,350
+Our highest priority is to satisfy the customer
+
+3
+00:00:10,350 --> 00:00:13,635
+through early and continuous delivery of valuable software.
+
+4
+00:00:13,635 --> 00:00:15,930
+Let us not forget that the goal of
+
+5
+00:00:15,930 --> 00:00:19,830
+product development is the development of successful products.
+
+6
+00:00:19,830 --> 00:00:25,750
+An evolutionary approach to product development works better for complex systems.
+
+7
+00:00:25,750 --> 00:00:30,250
+Then defining everything upfront before the team starts to develop.
+
+8
+00:00:30,250 --> 00:00:34,490
+Welcome changing requirements even late in development.
+
+9
+00:00:34,490 --> 00:00:40,295
+Agile processes harness change for the customer's competitive advantage.
+
+10
+00:00:40,295 --> 00:00:44,250
+Due to the dynamic competitive landscape,
+
+11
+00:00:44,250 --> 00:00:49,480
+requirements can and will change throughout product development.
+
+12
+00:00:49,480 --> 00:00:52,400
+Traditional software developers adopt change
+
+13
+00:00:52,400 --> 00:00:57,470
+management processes which are designed to prevent or reduce scope creep.
+
+14
+00:00:57,470 --> 00:00:59,300
+But when you think about it,
+
+15
+00:00:59,300 --> 00:01:03,635
+these are really unnatural change prevention processes,
+
+16
+00:01:03,635 --> 00:01:06,590
+not change management processes.
+
+17
+00:01:06,590 --> 00:01:10,520
+Agile lists embrace change and instead
+
+18
+00:01:10,520 --> 00:01:14,720
+proposing adaptive or agile change management approach,
+
+19
+00:01:14,720 --> 00:01:18,380
+which treats requirements as a prioritized backlog,
+
+20
+00:01:18,380 --> 00:01:22,060
+which is how to get refined over time.
+
+21
+00:01:22,060 --> 00:01:27,215
+Deliver working software frequently from a couple of weeks to a couple of months,
+
+22
+00:01:27,215 --> 00:01:30,830
+with a preference giving to the shorter timescale.
+
+23
+00:01:30,830 --> 00:01:33,170
+Frequent and iterative delivery of
+
+24
+00:01:33,170 --> 00:01:37,160
+working product provides the business with practical feedback.
+
+25
+00:01:37,160 --> 00:01:41,390
+This transparency provides an opportunity for the business
+
+26
+00:01:41,390 --> 00:01:45,695
+and the development team to sync up more frequently in terms of direction,
+
+27
+00:01:45,695 --> 00:01:50,625
+product goal, and what value is anticipated for the product.
+
+28
+00:01:50,625 --> 00:01:55,525
+Business people and developers must work together daily throughout the project.
+
+29
+00:01:55,525 --> 00:02:01,225
+The product owner, who represents the business stakeholders and the Agile team,
+
+30
+00:02:01,225 --> 00:02:05,965
+adopt practices that ensure inclusive and joint practices,
+
+31
+00:02:05,965 --> 00:02:10,745
+which enables a product owner to be actively involved with product development.
+
+32
+00:02:10,745 --> 00:02:14,365
+Build projects around motivated individuals,
+
+33
+00:02:14,365 --> 00:02:19,870
+give them the environment and support they need and trust them to get the job done.
+
+34
+00:02:19,870 --> 00:02:24,460
+Agile leaders build Agile teams with skilled resources,
+
+35
+00:02:24,460 --> 00:02:29,875
+who are willing to work together collaboratively with a growth mindset.
+
+36
+00:02:29,875 --> 00:02:33,800
+They have the humble and respectful realization that
+
+37
+00:02:33,800 --> 00:02:37,850
+people are a primary success factor in product development.
+
+38
+00:02:37,850 --> 00:02:42,005
+The most efficient and effective method of conveying information
+
+39
+00:02:42,005 --> 00:02:46,705
+to and within a development team is face-to-face conversation.
+
+40
+00:02:46,705 --> 00:02:49,820
+For a product development team to succeed,
+
+41
+00:02:49,820 --> 00:02:54,340
+its members must communicate and collaborate effectively.
+
+42
+00:02:54,340 --> 00:02:59,105
+Face-to-face communication, utilizing a shared information radiator,
+
+43
+00:02:59,105 --> 00:03:03,265
+such as a shared drawing environment is one effective example.
+
+44
+00:03:03,265 --> 00:03:06,680
+With increasingly global teams located remotely,
+
+45
+00:03:06,680 --> 00:03:09,620
+telepresence technology can be leveraged to
+
+46
+00:03:09,620 --> 00:03:13,040
+build this virtual face-to-face type communication.
+
+47
+00:03:13,040 --> 00:03:17,150
+Working software is the primary measure of progress.
+
+48
+00:03:17,150 --> 00:03:21,170
+The primary measure of product development should be the delivery of
+
+49
+00:03:21,170 --> 00:03:26,290
+working product increments which meet the evolving needs of the business.
+
+50
+00:03:26,290 --> 00:03:30,095
+Agile processes promote sustainable development.
+
+51
+00:03:30,095 --> 00:03:33,335
+The sponsors, developers, and users
+
+52
+00:03:33,335 --> 00:03:37,285
+should be able to maintain a constant pace indefinitely.
+
+53
+00:03:37,285 --> 00:03:42,140
+A highly skilled team simply just cannot be expected to successfully
+
+54
+00:03:42,140 --> 00:03:47,540
+develop a product by compelling people to work overtime for extended periods.
+
+55
+00:03:47,540 --> 00:03:52,355
+Complex technical work is best done at an intense,
+
+56
+00:03:52,355 --> 00:03:55,405
+yet realistically sustainable pace.
+
+57
+00:03:55,405 --> 00:04:00,605
+Continuous attention to technical excellence and good design enhances agility.
+
+58
+00:04:00,605 --> 00:04:04,190
+Built-in quality practices have enormous benefits.
+
+59
+00:04:04,190 --> 00:04:09,449
+It allows for easier maintenance and scalability of the product, coding standards,
+
+60
+00:04:09,449 --> 00:04:14,720
+best practices related to refactoring and test development techniques are
+
+61
+00:04:14,720 --> 00:04:21,035
+some examples of built-in quality practices that are prevalent in strong Agile teams.
+
+62
+00:04:21,035 --> 00:04:27,725
+Simplicity. The art of maximizing the amount of work not done is essential.
+
+63
+00:04:27,725 --> 00:04:30,080
+With the guidance or the product owner.
+
+64
+00:04:30,080 --> 00:04:33,755
+Agile teams focus on high-value activities,
+
+65
+00:04:33,755 --> 00:04:38,045
+which allows them to focus on the high business value needs.
+
+66
+00:04:38,045 --> 00:04:44,915
+The lower value items are given a lower priority and only worked on if time permits.
+
+67
+00:04:44,915 --> 00:04:47,660
+The best architectures, requirements,
+
+68
+00:04:47,660 --> 00:04:51,680
+and designs emerge from self-organizing teams.
+
+69
+00:04:51,680 --> 00:04:54,905
+This is a critical principle of the Agile world
+
+70
+00:04:54,905 --> 00:04:58,340
+to ensure that emerging and effective architectures,
+
+71
+00:04:58,340 --> 00:05:01,550
+requirements, and designs are built into
+
+72
+00:05:01,550 --> 00:05:06,275
+the product development life cycle to maximize technical excellence.
+
+73
+00:05:06,275 --> 00:05:08,270
+At regular intervals.
+
+74
+00:05:08,270 --> 00:05:11,240
+The team reflects on how to become more effective,
+
+75
+00:05:11,240 --> 00:05:14,479
+then tunes and adjusts its behavior accordingly.
+
+76
+00:05:14,479 --> 00:05:19,915
+Finding concrete opportunities for improvement is a continual effort.
+
+77
+00:05:19,915 --> 00:05:22,370
+Agile embeds techniques such as
+
+78
+00:05:22,370 --> 00:05:27,325
+retrospectives to ensure continual improvement is followed through upon.
+
+79
+00:05:27,325 --> 00:05:30,650
+As you can see, the Agile Manifesto is
+
+80
+00:05:30,650 --> 00:05:35,240
+four-paired core values and its associated 12 guiding principles set
+
+81
+00:05:35,240 --> 00:05:39,170
+a solid foundation four the various agile frameworks that are currently
+
+82
+00:05:39,170 --> 00:05:44,220
+being practiced by successful organizations in today's digital age.
+

@@ -1,0 +1,208 @@
+1
+00:00:00,000 --> 00:00:04,640
+Now let's take a look at a sample project scope and how it may look like.
+
+2
+00:00:04,640 --> 00:00:07,350
+Now it's important to keep in mind here that
+
+3
+00:00:07,350 --> 00:00:11,010
+project scopes vary significantly in their formats and depth.
+
+4
+00:00:11,010 --> 00:00:16,395
+The details required may vary depending on the client and the nature of work.
+
+5
+00:00:16,395 --> 00:00:20,875
+Now let's start by talking about some key elements in a project scope.
+
+6
+00:00:20,875 --> 00:00:24,585
+We start off by defining the end goal of the project,
+
+7
+00:00:24,585 --> 00:00:29,745
+which in this example is a WordPress website for a business consultancy firm.
+
+8
+00:00:29,745 --> 00:00:32,670
+Then a project scope may also include a deadline,
+
+9
+00:00:32,670 --> 00:00:35,400
+when the client wants the project to be done.
+
+10
+00:00:35,400 --> 00:00:41,895
+A primary part of a project scope is the list of features or the work streams required.
+
+11
+00:00:41,895 --> 00:00:46,235
+In this case, the client has mentioned the sections they want in the website,
+
+12
+00:00:46,235 --> 00:00:47,615
+a live chat,
+
+13
+00:00:47,615 --> 00:00:52,780
+they also need an appointment scheduler and a module to send emails to users.
+
+14
+00:00:52,780 --> 00:00:56,285
+The client also wants an SSL security certificate,
+
+15
+00:00:56,285 --> 00:01:00,145
+so the website can be accessed by using the HTTPS protocol.
+
+16
+00:01:00,145 --> 00:01:04,490
+You see these features will really give you an idea of the effort involved,
+
+17
+00:01:04,490 --> 00:01:06,830
+what questions you need to ask the clients,
+
+18
+00:01:06,830 --> 00:01:10,625
+the sequence of what modules to build first and so on.
+
+19
+00:01:10,625 --> 00:01:14,150
+Now, another important part of a project scope is
+
+20
+00:01:14,150 --> 00:01:17,975
+the detailed specification of each individual feature.
+
+21
+00:01:17,975 --> 00:01:20,240
+Just the name of the feature may not give
+
+22
+00:01:20,240 --> 00:01:24,050
+a clear picture on what the client really wants to get done.
+
+23
+00:01:24,050 --> 00:01:28,850
+For example, here the project scope expands on the sections,
+
+24
+00:01:28,850 --> 00:01:32,120
+saying that all the content will be provided by the client,
+
+25
+00:01:32,120 --> 00:01:37,285
+but the design and the images need to be worked on by the developer.
+
+26
+00:01:37,285 --> 00:01:39,495
+In the appointment scheduler,
+
+27
+00:01:39,495 --> 00:01:42,500
+the project scope specifies how the user will book
+
+28
+00:01:42,500 --> 00:01:46,295
+an appointment and the kind of emails that need to be sent out.
+
+29
+00:01:46,295 --> 00:01:49,775
+This tells the developer that an email module is needed,
+
+30
+00:01:49,775 --> 00:01:52,990
+which would increase the amount of effort involved.
+
+31
+00:01:52,990 --> 00:01:58,145
+Now, these are some really basic elements that would indeed go and do a project score.
+
+32
+00:01:58,145 --> 00:02:00,980
+As mentioned earlier, the format and depth of
+
+33
+00:02:00,980 --> 00:02:05,795
+a project scope could vary from project to project and client to client.
+
+34
+00:02:05,795 --> 00:02:10,070
+For example, a project scope could include the cost and
+
+35
+00:02:10,070 --> 00:02:12,470
+the pricing structure of the project or
+
+36
+00:02:12,470 --> 00:02:15,589
+how periodically the status updates are scheduled.
+
+37
+00:02:15,589 --> 00:02:18,125
+Larger projects have milestone delivery,
+
+38
+00:02:18,125 --> 00:02:20,930
+which means interim versions of the output are delivered
+
+39
+00:02:20,930 --> 00:02:24,515
+at specific intervals instead of one delivery at the end.
+
+40
+00:02:24,515 --> 00:02:28,075
+Those milestones could be included in the scope.
+
+41
+00:02:28,075 --> 00:02:30,020
+In a large organization,
+
+42
+00:02:30,020 --> 00:02:33,470
+even the names of the team members are included in the scope.
+
+43
+00:02:33,470 --> 00:02:36,420
+These team members are those whom the freelancer needs
+
+44
+00:02:36,420 --> 00:02:39,590
+to interact with depending on their job function.
+
+45
+00:02:39,590 --> 00:02:43,100
+Sometimes, external or internal dependencies
+
+46
+00:02:43,100 --> 00:02:45,895
+may be included that could affect the project.
+
+47
+00:02:45,895 --> 00:02:50,525
+For example, module set need to be provided by another business unit,
+
+48
+00:02:50,525 --> 00:02:55,030
+which are a prerequisite for us to make progress on our module.
+
+49
+00:02:55,030 --> 00:02:58,235
+That said, the intent of the project scope,
+
+50
+00:02:58,235 --> 00:03:01,925
+as we discussed earlier, is mainly twofold.
+
+51
+00:03:01,925 --> 00:03:04,760
+The end goal of the project and
+
+52
+00:03:04,760 --> 00:03:09,780
+the building blocks that are required by the client to reach the end goal.
+

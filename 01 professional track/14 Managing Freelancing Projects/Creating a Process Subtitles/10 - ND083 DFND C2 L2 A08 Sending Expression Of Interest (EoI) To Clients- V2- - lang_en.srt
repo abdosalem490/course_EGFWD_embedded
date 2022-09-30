@@ -1,0 +1,328 @@
+1
+00:00:00,000 --> 00:00:02,790
+Now let's discuss a little bit about
+
+2
+00:00:02,790 --> 00:00:07,575
+strategies to send winning expression of interests to the client.
+
+3
+00:00:07,575 --> 00:00:09,840
+To quickly refresh our memory,
+
+4
+00:00:09,840 --> 00:00:13,440
+when a client publishes a task on a freelancing platform,
+
+5
+00:00:13,440 --> 00:00:16,950
+a freelancer would send an expression of interest to
+
+6
+00:00:16,950 --> 00:00:21,105
+the client and express interest in working on that task.
+
+7
+00:00:21,105 --> 00:00:25,710
+Now keep in mind that this is not something long and detailed.
+
+8
+00:00:25,710 --> 00:00:30,900
+It is a shot text message sent to the client over the platform
+
+9
+00:00:30,900 --> 00:00:36,565
+in about 2-4 lines to express interest in working on that task.
+
+10
+00:00:36,565 --> 00:00:40,130
+Now let's look at some of the best practices that
+
+11
+00:00:40,130 --> 00:00:43,925
+could be very helpful in winning a project from a client.
+
+12
+00:00:43,925 --> 00:00:47,630
+A lot of these will come naturally to you when you view
+
+13
+00:00:47,630 --> 00:00:52,315
+the client's ad and prioritize maximizing value for the client.
+
+14
+00:00:52,315 --> 00:00:55,820
+First of fall, it is important to reiterate
+
+15
+00:00:55,820 --> 00:00:58,820
+the understanding of the problem in your own words,
+
+16
+00:00:58,820 --> 00:01:00,890
+in the expression of interest.
+
+17
+00:01:00,890 --> 00:01:03,815
+That is the very first thing that you should prioritize.
+
+18
+00:01:03,815 --> 00:01:07,505
+This not only helps with getting on the same page with the client,
+
+19
+00:01:07,505 --> 00:01:11,030
+but it builds trust in the client that you are making an attempt
+
+20
+00:01:11,030 --> 00:01:15,200
+to get on the same page and fully grasp the problem at hand.
+
+21
+00:01:15,200 --> 00:01:16,835
+Now in some cases,
+
+22
+00:01:16,835 --> 00:01:20,825
+if you already have a quick tip for the client to get to the solution,
+
+23
+00:01:20,825 --> 00:01:22,640
+share it with the client.
+
+24
+00:01:22,640 --> 00:01:26,240
+This will assure the client of your understanding of
+
+25
+00:01:26,240 --> 00:01:30,565
+the problem and ability to come up with an efficient solution.
+
+26
+00:01:30,565 --> 00:01:36,080
+This could also separate you from other freelancers who may not have a quick tip in
+
+27
+00:01:36,080 --> 00:01:38,690
+their expression of interest or who did not
+
+28
+00:01:38,690 --> 00:01:42,755
+prioritize sharing it with the client at this point.
+
+29
+00:01:42,755 --> 00:01:45,695
+Now again thinking from the client's point of view,
+
+30
+00:01:45,695 --> 00:01:50,570
+start with the problem statement of the client and not your own credentials.
+
+31
+00:01:50,570 --> 00:01:54,740
+Instead of saying that you have x years of experience with the clients,
+
+32
+00:01:54,740 --> 00:01:58,765
+get straight into the problem statement and how it can be solved.
+
+33
+00:01:58,765 --> 00:02:02,760
+Then backup your claims talking about your skills and experience.
+
+34
+00:02:02,760 --> 00:02:08,390
+You will soon notice that more clients get back to you with this approach since they got
+
+35
+00:02:08,390 --> 00:02:14,465
+someone who understands their issue and is already thinking about how to solve it.
+
+36
+00:02:14,465 --> 00:02:16,615
+In the end, I would say,
+
+37
+00:02:16,615 --> 00:02:20,290
+consider these as guidelines and not hard rules.
+
+38
+00:02:20,290 --> 00:02:22,430
+The more clients you work with,
+
+39
+00:02:22,430 --> 00:02:26,805
+better intuition you will develop to deal with different scenarios.
+
+40
+00:02:26,805 --> 00:02:28,865
+Now, talking what scenarios,
+
+41
+00:02:28,865 --> 00:02:30,290
+at the end of this section,
+
+42
+00:02:30,290 --> 00:02:33,650
+we will practice writing some expression of interest for
+
+43
+00:02:33,650 --> 00:02:38,525
+clients in the exercise that will give us a first-hand experience of it.
+
+44
+00:02:38,525 --> 00:02:44,045
+But before that, let's see some examples of fully written expression of interests.
+
+45
+00:02:44,045 --> 00:02:47,870
+Now take a look at this example of an expression of interests.
+
+46
+00:02:47,870 --> 00:02:50,090
+But before we move forward,
+
+47
+00:02:50,090 --> 00:02:53,150
+I'd encourage you to pause the video here
+
+48
+00:02:53,150 --> 00:02:57,095
+and just carefully read through this expression of interest.
+
+49
+00:02:57,095 --> 00:02:59,960
+Think about how the above expression of
+
+50
+00:02:59,960 --> 00:03:04,235
+interest covers the best practices that we discussed earlier.
+
+51
+00:03:04,235 --> 00:03:07,350
+You can unpause when you're done.
+
+52
+00:03:09,140 --> 00:03:13,375
+Now let's evaluate this expression of interest.
+
+53
+00:03:13,375 --> 00:03:18,575
+We start by reiterating the clients ask at a high level.
+
+54
+00:03:18,575 --> 00:03:23,060
+Are we there? Then we ask a specific question to
+
+55
+00:03:23,060 --> 00:03:25,730
+the client mentioning the config file name
+
+56
+00:03:25,730 --> 00:03:29,340
+to check if they already tried working with it.
+
+57
+00:03:29,420 --> 00:03:34,655
+This again demonstrates that you know what you're proposing to work on.
+
+58
+00:03:34,655 --> 00:03:38,210
+In the third line, we mention explicitly
+
+59
+00:03:38,210 --> 00:03:42,000
+about our experience with the technology in question.
+
+60
+00:03:42,650 --> 00:03:45,015
+So far so good,
+
+61
+00:03:45,015 --> 00:03:47,355
+let's try another example.
+
+62
+00:03:47,355 --> 00:03:54,510
+Again, try pausing the video here to evaluate the expression of interest yourself first.
+
+63
+00:03:55,040 --> 00:03:58,490
+All right. In this expression of interest,
+
+64
+00:03:58,490 --> 00:04:00,245
+we start with talking about
+
+65
+00:04:00,245 --> 00:04:04,895
+our extensive experience of working on building web applications,
+
+66
+00:04:04,895 --> 00:04:08,515
+which is the clients main ask in the job description.
+
+67
+00:04:08,515 --> 00:04:14,165
+Then we get deeper into the applications and websites that we have built.
+
+68
+00:04:14,165 --> 00:04:20,765
+Then we talk about the client's exact ask followed by a tip for the client,
+
+69
+00:04:20,765 --> 00:04:24,650
+demonstrating your expertise in the area as
+
+70
+00:04:24,650 --> 00:04:29,480
+well as an inclination to make things more efficient for the client.
+
+71
+00:04:29,480 --> 00:04:34,010
+All this is good except for the fact that we start by talking
+
+72
+00:04:34,010 --> 00:04:39,425
+about our own experience and not with the client's problem statement.
+
+73
+00:04:39,425 --> 00:04:43,010
+As you send more and more expression of interests,
+
+74
+00:04:43,010 --> 00:04:46,880
+you'll notice that the response rate is higher when you start talking
+
+75
+00:04:46,880 --> 00:04:51,125
+about the client's task at hand first and how you can solve it.
+
+76
+00:04:51,125 --> 00:04:56,165
+This immediately catches the eye of the client and this chart, reading attentively.
+
+77
+00:04:56,165 --> 00:04:59,090
+You can backup your claims then by talking about
+
+78
+00:04:59,090 --> 00:05:03,230
+your skills and experience later in your expression of interest.
+
+79
+00:05:03,230 --> 00:05:07,880
+This is an improved version of the same expression of interest,
+
+80
+00:05:07,880 --> 00:05:11,330
+where we start with the reiterating the problem statement at a high level,
+
+81
+00:05:11,330 --> 00:05:13,220
+followed by a tip,
+
+82
+00:05:13,220 --> 00:05:18,780
+and further followed up by details on our experience and relevant skills.
+

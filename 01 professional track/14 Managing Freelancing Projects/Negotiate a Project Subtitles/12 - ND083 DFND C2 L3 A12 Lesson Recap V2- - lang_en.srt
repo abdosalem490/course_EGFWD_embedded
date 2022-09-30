@@ -1,0 +1,52 @@
+1
+00:00:00,440 --> 00:00:04,815
+Let's look at what we have covered in the lesson so far.
+
+2
+00:00:04,815 --> 00:00:09,985
+We started off by introducing the project scope and pricing framework,
+
+3
+00:00:09,985 --> 00:00:14,220
+then we talked about how these two are interrelated.
+
+4
+00:00:14,220 --> 00:00:18,980
+Then we talked a bit about the rate strategy when you're starting a freelancing career,
+
+5
+00:00:18,980 --> 00:00:23,550
+and how maximizing the value for the client can work in your favor.
+
+6
+00:00:23,550 --> 00:00:25,905
+Then we touched upon the NDAs,
+
+7
+00:00:25,905 --> 00:00:29,325
+which are non-disclosure agreements and service agreements,
+
+8
+00:00:29,325 --> 00:00:32,280
+and how to avoid the usual pitfalls.
+
+9
+00:00:32,280 --> 00:00:35,580
+Lastly, we covered the edge case of bypassing
+
+10
+00:00:35,580 --> 00:00:40,410
+the platform to help you traverse scenarios that you may not be expecting.
+
+11
+00:00:40,410 --> 00:00:41,810
+In the next lesson,
+
+12
+00:00:41,810 --> 00:00:45,710
+we'll talk about how to effectively manage your projects so that you can
+
+13
+00:00:45,710 --> 00:00:51,540
+maximize the value for the client as well as balance it with a good revenue for you.
+

@@ -1,0 +1,140 @@
+1
+00:00:00,000 --> 00:00:04,530
+Now, let's take a few simple examples of three different clients.
+
+2
+00:00:04,530 --> 00:00:08,040
+The first client here has a project proposal which is
+
+3
+00:00:08,040 --> 00:00:12,000
+not fully defined yet and is slowly unfolding over time.
+
+4
+00:00:12,000 --> 00:00:15,375
+The second has a well-defined goal for the project,
+
+5
+00:00:15,375 --> 00:00:18,405
+but the granular features are non-defined.
+
+6
+00:00:18,405 --> 00:00:21,030
+The third has the goal,
+
+7
+00:00:21,030 --> 00:00:23,010
+has the features well-defined,
+
+8
+00:00:23,010 --> 00:00:26,460
+but there is a high chance that all the requirements will
+
+9
+00:00:26,460 --> 00:00:31,515
+evolve and the features might get changed or new ones might get added.
+
+10
+00:00:31,515 --> 00:00:33,795
+In all of these three cases,
+
+11
+00:00:33,795 --> 00:00:38,210
+a fixed cost pricing structure is not really a good idea for
+
+12
+00:00:38,210 --> 00:00:43,685
+the simple reason that the scope is either not known fully or is likely to change,
+
+13
+00:00:43,685 --> 00:00:47,680
+hence the time and material structure is better suited here.
+
+14
+00:00:47,680 --> 00:00:51,675
+The client only pays for the time that the developer spends
+
+15
+00:00:51,675 --> 00:00:56,250
+and is free to change the requirements as they evolve for the client.
+
+16
+00:00:56,250 --> 00:00:59,010
+If you remember our pricing framework slide,
+
+17
+00:00:59,010 --> 00:01:01,905
+where we introduced the two types of pricing frameworks,
+
+18
+00:01:01,905 --> 00:01:05,220
+it would be worth adding yet another point here;
+
+19
+00:01:05,220 --> 00:01:09,480
+that the scope is well-defined in a fixed cost framework,
+
+20
+00:01:09,480 --> 00:01:12,420
+whereas it may not be as well-defined
+
+21
+00:01:12,420 --> 00:01:15,840
+in a project with time and materials pricing structure.
+
+22
+00:01:15,840 --> 00:01:19,020
+Another important aspect of deciding a pricing structure at
+
+23
+00:01:19,020 --> 00:01:22,590
+the start of the project is that when you're discussing this with the client,
+
+24
+00:01:22,590 --> 00:01:25,440
+they may not even know about the structures at all.
+
+25
+00:01:25,440 --> 00:01:27,075
+You as a freelancer,
+
+26
+00:01:27,075 --> 00:01:32,025
+need to subtly lay down the options before the client for them to choose from.
+
+27
+00:01:32,025 --> 00:01:33,810
+The client would most likely be like,
+
+28
+00:01:33,810 --> 00:01:35,190
+"I want to get a website built,
+
+29
+00:01:35,190 --> 00:01:36,810
+how much would it cost?"
+
+30
+00:01:36,810 --> 00:01:38,490
+You as a freelancer,
+
+31
+00:01:38,490 --> 00:01:41,520
+need to walk them through the different pricing structures
+
+32
+00:01:41,520 --> 00:01:45,090
+and also get a sense of what kind of website they need to get built.
+
+33
+00:01:45,090 --> 00:01:50,130
+While you're doing that, remember that focus on the maximizing the value of the client,
+
+34
+00:01:50,130 --> 00:01:54,165
+try to put yourself in the client's shoes and see what the client's priorities are,
+
+35
+00:01:54,165 --> 00:01:59,680
+and try to align yourself with those priorities while deciding these pricing structures.
+

@@ -1,0 +1,92 @@
+1
+00:00:00,000 --> 00:00:04,485
+In this lesson, we talked about the value of Agile frameworks.
+
+2
+00:00:04,485 --> 00:00:07,050
+We discussed how an Agile framework takes
+
+3
+00:00:07,050 --> 00:00:12,450
+the abstract principles of the Agile Manifesto and gives it a practical shape.
+
+4
+00:00:12,450 --> 00:00:16,125
+We then looked at the important characteristics of the Scrum framework,
+
+5
+00:00:16,125 --> 00:00:19,020
+which is by far the most common Agile framework
+
+6
+00:00:19,020 --> 00:00:21,760
+in use across various industries globally.
+
+7
+00:00:21,760 --> 00:00:27,450
+We saw how the three Scrum principles of transparency, inspection,
+
+8
+00:00:27,450 --> 00:00:34,685
+and adaptation help Agile teams creatively manage the work with the focus on delivering
+
+9
+00:00:34,685 --> 00:00:38,900
+complex adaptive product features in an age wherein
+
+10
+00:00:38,900 --> 00:00:43,970
+customers expect rapid responses based on emerging market needs.
+
+11
+00:00:43,970 --> 00:00:46,880
+We proceeded to examine the important characteristics of
+
+12
+00:00:46,880 --> 00:00:50,914
+the Kanban framework with its original lean product development.
+
+13
+00:00:50,914 --> 00:00:56,275
+Kanban is a lightweight Agile framework with considerable flexibility.
+
+14
+00:00:56,275 --> 00:01:00,125
+The final Agile framework we looked at was XP.
+
+15
+00:01:00,125 --> 00:01:04,375
+A powerful Agile framework with its roots in software development.
+
+16
+00:01:04,375 --> 00:01:07,415
+We discussed XP stringent and strong focus on
+
+17
+00:01:07,415 --> 00:01:11,720
+technical excellence and best practices in software development.
+
+18
+00:01:11,720 --> 00:01:16,729
+We finished up by talking about some of the challenges of adopting the XP framework.
+
+19
+00:01:16,729 --> 00:01:20,825
+In this lesson, I hope you saw how an agile framework
+
+20
+00:01:20,825 --> 00:01:25,645
+allows an organization to execute on Agile's lofty promise.
+
+21
+00:01:25,645 --> 00:01:29,210
+This is the promise of a truly unique flavor and
+
+22
+00:01:29,210 --> 00:01:32,540
+that Agile focuses on both delivering quality,
+
+23
+00:01:32,540 --> 00:01:37,620
+and value to the business in an adaptable manner.
+

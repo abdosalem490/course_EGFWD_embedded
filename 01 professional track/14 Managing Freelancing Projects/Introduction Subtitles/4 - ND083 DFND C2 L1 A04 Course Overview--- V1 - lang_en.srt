@@ -1,0 +1,72 @@
+1
+00:00:00,000 --> 00:00:03,120
+Currently, we are in the introduction phase of
+
+2
+00:00:03,120 --> 00:00:08,460
+this course and I'm sure you are curious about what the course is going to cover.
+
+3
+00:00:08,460 --> 00:00:11,220
+Let's go over each lesson in the course at
+
+4
+00:00:11,220 --> 00:00:14,055
+a high level and what we are going to learn there.
+
+5
+00:00:14,055 --> 00:00:17,670
+As you can see, the lessons in the course are going to follow
+
+6
+00:00:17,670 --> 00:00:21,510
+a typical freelancing project journey. Let's get going.
+
+7
+00:00:21,510 --> 00:00:24,720
+We'll start with the lesson on sourcing clients,
+
+8
+00:00:24,720 --> 00:00:28,380
+how and where to find clients to work with.
+
+9
+00:00:28,380 --> 00:00:32,990
+We'll also do a deeper dive into freelancing platforms and how we can
+
+10
+00:00:32,990 --> 00:00:38,650
+apply to work on client's projects by sending them a brief expression of interest.
+
+11
+00:00:38,650 --> 00:00:41,540
+Then we'll talk about things to discuss with
+
+12
+00:00:41,540 --> 00:00:45,065
+the client before we formally start a project with them,
+
+13
+00:00:45,065 --> 00:00:48,065
+things like project scope and pricing frameworks.
+
+14
+00:00:48,065 --> 00:00:52,685
+Also any non-disclosure or service agreements that we need to sign.
+
+15
+00:00:52,685 --> 00:00:56,585
+We'll then talk about strategies to manage projects
+
+16
+00:00:56,585 --> 00:01:00,535
+with the discussion on project management tools like Trello.
+
+17
+00:01:00,535 --> 00:01:04,490
+Finally, we'll discuss best practices to formally close
+
+18
+00:01:04,490 --> 00:01:09,000
+out a project maintaining a good relationship with the client.
+

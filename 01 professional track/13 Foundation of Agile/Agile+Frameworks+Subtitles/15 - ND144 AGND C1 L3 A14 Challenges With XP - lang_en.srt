@@ -1,0 +1,136 @@
+1
+00:00:00,000 --> 00:00:04,950
+A number of organizations, particularly software-centric entities,
+
+2
+00:00:04,950 --> 00:00:08,400
+get excited when they read that XP brings in
+
+3
+00:00:08,400 --> 00:00:11,775
+rigor alongside the typical benefits of Agile,
+
+4
+00:00:11,775 --> 00:00:14,925
+such as visibility, transparency,
+
+5
+00:00:14,925 --> 00:00:18,330
+and genuine collaboration towards value and delivery.
+
+6
+00:00:18,330 --> 00:00:24,720
+Yet, I have seen many organizations struggle and get extremely frustrated with XP.
+
+7
+00:00:24,720 --> 00:00:27,900
+Let's walk through some of the challenges of XP.
+
+8
+00:00:27,900 --> 00:00:33,105
+XP places a lot of emphasis on software development practices.
+
+9
+00:00:33,105 --> 00:00:34,770
+This is different from
+
+10
+00:00:34,770 --> 00:00:40,035
+many other Agile Frameworks in which the emphasis is more on streamlining processes.
+
+11
+00:00:40,035 --> 00:00:43,880
+Traditional project managers are able to transition into
+
+12
+00:00:43,880 --> 00:00:47,585
+other frameworks like Scrum more comfortably,
+
+13
+00:00:47,585 --> 00:00:51,565
+since it feels like a leaner version of project management.
+
+14
+00:00:51,565 --> 00:00:55,760
+In XP, a traditional project manager might be
+
+15
+00:00:55,760 --> 00:01:00,845
+required to have a comfort level with stringent software-centric processes.
+
+16
+00:01:00,845 --> 00:01:05,780
+Recruiting experienced XP coaches is a challenge.
+
+17
+00:01:05,780 --> 00:01:11,390
+XP coaches are expected to be familiar with intricate details of software development,
+
+18
+00:01:11,390 --> 00:01:14,630
+as well as have the right personality and temperament to
+
+19
+00:01:14,630 --> 00:01:18,500
+facilitate ceremonies and difficult conversations.
+
+20
+00:01:18,500 --> 00:01:23,180
+Such a combination of skills is both rare and expensive.
+
+21
+00:01:23,180 --> 00:01:28,025
+It is a lot easier to recruit for a Scrum master role in the Scrum Framework.
+
+22
+00:01:28,025 --> 00:01:31,900
+XP is indeed complex to implement.
+
+23
+00:01:31,900 --> 00:01:36,755
+So it can feel anti-Agile to some organizations and their leaders.
+
+24
+00:01:36,755 --> 00:01:43,835
+It takes some patience and discipline to both develop and maintain a successful XP team.
+
+25
+00:01:43,835 --> 00:01:47,555
+For example, practices like pair programming,
+
+26
+00:01:47,555 --> 00:01:53,945
+continuous integration, and test-driven development are not the easiest to adapt to.
+
+27
+00:01:53,945 --> 00:01:57,230
+With 13 defined practices,
+
+28
+00:01:57,230 --> 00:02:01,715
+XP has considerably more practices in many other Agile Frameworks.
+
+29
+00:02:01,715 --> 00:02:07,295
+Organizations who are thinking of adopting XP need experienced coaches,
+
+30
+00:02:07,295 --> 00:02:10,760
+a willing and highly skilled team of programmers,
+
+31
+00:02:10,760 --> 00:02:13,250
+and leaders who have the resilience to
+
+32
+00:02:13,250 --> 00:02:16,490
+guide the organization through the initial turbulence.
+
+33
+00:02:16,490 --> 00:02:19,400
+This will ensure everyone will work together to
+
+34
+00:02:19,400 --> 00:02:23,070
+align with the organization's vision and mission.
+

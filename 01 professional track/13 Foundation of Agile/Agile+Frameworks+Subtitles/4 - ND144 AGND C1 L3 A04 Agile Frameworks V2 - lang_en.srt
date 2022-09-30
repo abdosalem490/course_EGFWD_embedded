@@ -1,0 +1,236 @@
+1
+00:00:00,000 --> 00:00:03,690
+Agile has come to be an umbrella term for
+
+2
+00:00:03,690 --> 00:00:07,995
+a variety of frameworks that align with the agile manifesto.
+
+3
+00:00:07,995 --> 00:00:12,795
+The Agile Manifesto drives the Agile mindset shared
+
+4
+00:00:12,795 --> 00:00:18,435
+principles that are universal and encouraged across all the frameworks.
+
+5
+00:00:18,435 --> 00:00:20,490
+Under the Agile umbrella,
+
+6
+00:00:20,490 --> 00:00:25,245
+at the heart of every Agile product development in a complex environment is that
+
+7
+00:00:25,245 --> 00:00:31,395
+one invincible idea that someone in the business thinks is a sure win for the market.
+
+8
+00:00:31,395 --> 00:00:36,720
+However, history has taught us that a product and its features need to be adjusted along
+
+9
+00:00:36,720 --> 00:00:38,220
+the way to genuinely become
+
+10
+00:00:38,220 --> 00:00:42,480
+that great invincible solution that the market will fall in love with.
+
+11
+00:00:42,480 --> 00:00:45,380
+The.com bubble around the turn of the century taught us
+
+12
+00:00:45,380 --> 00:00:47,750
+the harsh lesson that if we're not willing
+
+13
+00:00:47,750 --> 00:00:50,465
+to be adaptable based on the pulse of the market,
+
+14
+00:00:50,465 --> 00:00:54,460
+our products can very quickly become irrelevant to end users.
+
+15
+00:00:54,460 --> 00:00:59,795
+Every Agile team's goal is to deliver value driven functionality with built-in quality.
+
+16
+00:00:59,795 --> 00:01:02,690
+There's the inspirational desire to deliver upon
+
+17
+00:01:02,690 --> 00:01:06,440
+that great idea that customers love and to do it quick.
+
+18
+00:01:06,440 --> 00:01:12,230
+So how should Agile teams deliver both amazing product features that delight customers,
+
+19
+00:01:12,230 --> 00:01:14,335
+as well as do it fast?
+
+20
+00:01:14,335 --> 00:01:18,290
+One way to make this happen is to quickly change course when it is
+
+21
+00:01:18,290 --> 00:01:22,025
+realized that a product feature is heading down the wrong path.
+
+22
+00:01:22,025 --> 00:01:26,635
+That is what the Agile world refers to as failing fast and learning.
+
+23
+00:01:26,635 --> 00:01:29,205
+With a limited amount of resources,
+
+24
+00:01:29,205 --> 00:01:31,490
+the longer it takes for an organization to
+
+25
+00:01:31,490 --> 00:01:34,655
+realize that a particular idea is not a true winner,
+
+26
+00:01:34,655 --> 00:01:37,030
+the more resources are wasted.
+
+27
+00:01:37,030 --> 00:01:41,120
+The significant advantage of failing fast is that if
+
+28
+00:01:41,120 --> 00:01:45,245
+a customer does not provide positive feedback for functionality being built,
+
+29
+00:01:45,245 --> 00:01:47,560
+the Agile team can quickly readjust
+
+30
+00:01:47,560 --> 00:01:51,415
+their priorities and focus on other more important items.
+
+31
+00:01:51,415 --> 00:01:54,410
+Enlightened and directed trial and error is what
+
+32
+00:01:54,410 --> 00:01:58,565
+the growth mindset promotes when it comes to fail fast and learn.
+
+33
+00:01:58,565 --> 00:02:04,375
+An absolutely key driver behind anything Agile is to deliver value.
+
+34
+00:02:04,375 --> 00:02:07,835
+Each Agile Framework, which we will be discussing,
+
+35
+00:02:07,835 --> 00:02:11,945
+is driven by the goal of delivering maximum business value.
+
+36
+00:02:11,945 --> 00:02:15,620
+It is aligned with the organization's vision.
+
+37
+00:02:15,620 --> 00:02:18,500
+A continual improvement process,
+
+38
+00:02:18,500 --> 00:02:22,340
+also often called a continuous improvement process,
+
+39
+00:02:22,340 --> 00:02:26,360
+is an ongoing effort to challenge everyone involved
+
+40
+00:02:26,360 --> 00:02:30,790
+to improve the product features or processes being used to deliver the product.
+
+41
+00:02:30,790 --> 00:02:37,745
+Agile promotes incremental improvement to minimize resistance from all who were involved.
+
+42
+00:02:37,745 --> 00:02:42,820
+Ultimately, flexibility is one of the foundations of any Agile framework.
+
+43
+00:02:42,820 --> 00:02:46,430
+Identifying opportunities for flexibility in
+
+44
+00:02:46,430 --> 00:02:49,670
+the processes and the adaptive planning that Agile frameworks
+
+45
+00:02:49,670 --> 00:02:53,270
+promote allows the Agile team to adapt to changes
+
+46
+00:02:53,270 --> 00:02:57,410
+and still have the strong capability to deliver a valuable product.
+
+47
+00:02:57,410 --> 00:03:01,430
+Agile frameworks promote trust and respect because
+
+48
+00:03:01,430 --> 00:03:05,660
+such trust and respect motivates Agile teams.
+
+49
+00:03:05,660 --> 00:03:11,920
+All the framework state that Agile team strive to deliver what they have committed to.
+
+50
+00:03:11,920 --> 00:03:18,520
+In fact, trust and respect are really the foundation for all Agile frameworks.
+
+51
+00:03:18,520 --> 00:03:23,255
+All Agile frameworks encourage Agile teams to cultivate mastery.
+
+52
+00:03:23,255 --> 00:03:28,010
+In Agile teams, time is put aside for learning and growth.
+
+53
+00:03:28,010 --> 00:03:31,885
+This allows Agile team members to sharpen their skills.
+
+54
+00:03:31,885 --> 00:03:35,300
+This built-in structure to hone their skills,
+
+55
+00:03:35,300 --> 00:03:40,835
+further motivates the Agile team and additional valuable results are produced.
+
+56
+00:03:40,835 --> 00:03:47,710
+This mindset of continual improvement is built-in alongside built-in quality.
+
+57
+00:03:47,710 --> 00:03:49,775
+Under the Agile umbrella,
+
+58
+00:03:49,775 --> 00:03:54,485
+there are large number of ever-growing frameworks some are listed here.
+
+59
+00:03:54,485 --> 00:03:59,430
+They include the ones identified here, plus many others.
+

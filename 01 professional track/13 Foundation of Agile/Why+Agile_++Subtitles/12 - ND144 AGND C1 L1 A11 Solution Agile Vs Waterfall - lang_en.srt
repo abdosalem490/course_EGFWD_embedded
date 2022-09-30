@@ -1,0 +1,96 @@
+1
+00:00:00,000 --> 00:00:03,630
+In this exercise, we asked you to look at the weaknesses of
+
+2
+00:00:03,630 --> 00:00:07,500
+the waterfall approach to the Socialcare.gov project.
+
+3
+00:00:07,500 --> 00:00:09,150
+You are asked to identify
+
+4
+00:00:09,150 --> 00:00:14,115
+at least two weaknesses and explain why you see them as weaknesses,
+
+5
+00:00:14,115 --> 00:00:18,240
+when compared to the Agile approach for Socialcare.gov.
+
+6
+00:00:18,240 --> 00:00:20,430
+Let's look at my solution.
+
+7
+00:00:20,430 --> 00:00:26,470
+The first weakness of waterfall planning is thorough documentation and paper trails.
+
+8
+00:00:26,470 --> 00:00:30,290
+We can see that this is a weakness because instead of
+
+9
+00:00:30,290 --> 00:00:34,775
+focusing on actual working solutions of value to end users,
+
+10
+00:00:34,775 --> 00:00:37,430
+the team spent a significant amount of time on
+
+11
+00:00:37,430 --> 00:00:40,510
+creating and maintaining project documents.
+
+12
+00:00:40,510 --> 00:00:45,190
+That meant, the team lost focus on working solutions,
+
+13
+00:00:45,190 --> 00:00:49,970
+and time was taken away from valuable product development.
+
+14
+00:00:49,970 --> 00:00:55,025
+An Agile approach would have ensured that the focus remains on working solutions,
+
+15
+00:00:55,025 --> 00:00:57,820
+as opposed to thorough documentation.
+
+16
+00:00:57,820 --> 00:01:01,070
+The other weakness I identified is that
+
+17
+00:01:01,070 --> 00:01:04,400
+the testing process started once development was over.
+
+18
+00:01:04,400 --> 00:01:08,150
+We can see this because all testing was planned and
+
+19
+00:01:08,150 --> 00:01:12,965
+conducted only after the development of the project was completed.
+
+20
+00:01:12,965 --> 00:01:19,205
+As a result, bugs were found later in development where they are expensive to fix.
+
+21
+00:01:19,205 --> 00:01:23,630
+An Agile approach would have included testing in each iteration.
+
+22
+00:01:23,630 --> 00:01:27,155
+This would have ensured built-in quality.
+
+23
+00:01:27,155 --> 00:01:29,310
+These are the problems I found.
+
+24
+00:01:29,310 --> 00:01:34,440
+Did you identify any other issues with the team using a waterfall approach?
+

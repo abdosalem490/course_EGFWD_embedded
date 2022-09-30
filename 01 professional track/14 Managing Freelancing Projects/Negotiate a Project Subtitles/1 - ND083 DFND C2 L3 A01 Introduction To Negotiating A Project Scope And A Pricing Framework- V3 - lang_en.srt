@@ -1,0 +1,156 @@
+1
+00:00:00,260 --> 00:00:03,690
+In the previous lesson, we talked about where
+
+2
+00:00:03,690 --> 00:00:06,210
+to look for clients and how to apply to work for them.
+
+3
+00:00:06,210 --> 00:00:07,410
+Now, in this lesson,
+
+4
+00:00:07,410 --> 00:00:12,235
+we will talk about what happens when a client has indeed got an interested in us,
+
+5
+00:00:12,235 --> 00:00:16,035
+and it's trying to walk on the finite details before starting work.
+
+6
+00:00:16,035 --> 00:00:19,500
+Now, let's look at our freelancing journey with the client,
+
+7
+00:00:19,500 --> 00:00:23,265
+and what this specific lesson is about in that journey.
+
+8
+00:00:23,265 --> 00:00:28,320
+So far, we discussed about finding clients and sending what
+
+9
+00:00:28,320 --> 00:00:33,780
+we call expression of interests to them to increase our chances of getting work.
+
+10
+00:00:33,780 --> 00:00:37,890
+Now, once the client has shown interest in working with us and has
+
+11
+00:00:37,890 --> 00:00:41,610
+also finalized the contract to start working with us,
+
+12
+00:00:41,610 --> 00:00:46,120
+we can go ahead and start managing the project until completion.
+
+13
+00:00:46,120 --> 00:00:48,320
+But even before we do that,
+
+14
+00:00:48,320 --> 00:00:50,765
+there is an important phase in between,
+
+15
+00:00:50,765 --> 00:00:56,230
+where we discuss the scope and the appropriate pricing framework with the client.
+
+16
+00:00:56,230 --> 00:00:58,610
+As you go through this lesson,
+
+17
+00:00:58,610 --> 00:01:03,155
+you will learn how important this phase can be in a freelancing project.
+
+18
+00:01:03,155 --> 00:01:07,235
+The more specific the details are on scope and pricing framework,
+
+19
+00:01:07,235 --> 00:01:10,640
+the smoother will your project be later.
+
+20
+00:01:10,640 --> 00:01:14,405
+Let's take a look at what we will cover in this lesson.
+
+21
+00:01:14,405 --> 00:01:19,070
+First, we start out by discussing what do we mean by scoping
+
+22
+00:01:19,070 --> 00:01:24,115
+the project and best practices to scope a project before we started.
+
+23
+00:01:24,115 --> 00:01:26,900
+We will also discuss the common types of
+
+24
+00:01:26,900 --> 00:01:30,560
+pricing frameworks and how to figure out the best fit,
+
+25
+00:01:30,560 --> 00:01:36,785
+keeping the client in mind and the correlation between the scope and the pricing.
+
+26
+00:01:36,785 --> 00:01:40,520
+Then we'll talk about how to set a rate and
+
+27
+00:01:40,520 --> 00:01:44,215
+fixed costs when you start out your freelancing carrier.
+
+28
+00:01:44,215 --> 00:01:49,280
+Then we'll touch upon non-disclosure agreements and service agreements,
+
+29
+00:01:49,280 --> 00:01:53,875
+and how to avoid usual pitfalls before starting a project.
+
+30
+00:01:53,875 --> 00:01:57,425
+Lastly, we'll discuss an edge case,
+
+31
+00:01:57,425 --> 00:02:00,110
+a situation that is less common in
+
+32
+00:02:00,110 --> 00:02:04,340
+a regular freelancing project and best practice to deal with it.
+
+33
+00:02:04,340 --> 00:02:06,305
+By the end of this lesson,
+
+34
+00:02:06,305 --> 00:02:08,480
+you'll be able to work with the client,
+
+35
+00:02:08,480 --> 00:02:13,295
+to create the project scope by applying freelancing best practices.
+
+36
+00:02:13,295 --> 00:02:16,820
+Determine the pricing framework by deciding between
+
+37
+00:02:16,820 --> 00:02:22,260
+fixed cost or time and materials contract based on client needs.
+
+38
+00:02:22,310 --> 00:02:27,740
+Lastly, you'll be able to formalize the initiation of the project,
+
+39
+00:02:27,740 --> 00:02:34,260
+including any non-disclosure agreements or service agreements involved in the project.
+

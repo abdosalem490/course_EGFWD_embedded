@@ -1,0 +1,260 @@
+1
+00:00:00,000 --> 00:00:04,965
+Let us look at how seasoned Agilers, approach Agile frameworks.
+
+2
+00:00:04,965 --> 00:00:07,740
+As an Agile transformation expert,
+
+3
+00:00:07,740 --> 00:00:11,610
+I envision these frameworks as the enablers that
+
+4
+00:00:11,610 --> 00:00:15,300
+bring to fruition the good intention of an organization's leaders,
+
+5
+00:00:15,300 --> 00:00:17,550
+as well as Agile team members.
+
+6
+00:00:17,550 --> 00:00:20,790
+It brings some comfort to everyone involved to follow
+
+7
+00:00:20,790 --> 00:00:24,690
+a prominent framework that has been tried and tested in the market.
+
+8
+00:00:24,690 --> 00:00:30,435
+Agilers leverage a framework to deliver on some of the significant promises of Agile.
+
+9
+00:00:30,435 --> 00:00:34,100
+This includes, as the Agile Manifesto states,
+
+10
+00:00:34,100 --> 00:00:37,720
+focusing more on the individuals and interactions.
+
+11
+00:00:37,720 --> 00:00:43,430
+The organization must bring to life the theoretical appreciation that
+
+12
+00:00:43,430 --> 00:00:45,920
+the most significant impact on the success of
+
+13
+00:00:45,920 --> 00:00:49,655
+an Agile team are the skilled team members themselves.
+
+14
+00:00:49,655 --> 00:00:54,740
+All Agile frameworks emphasize that the ultimate determining factor for
+
+15
+00:00:54,740 --> 00:01:00,160
+success of a product are the resources on the Agile Product Delivery team.
+
+16
+00:01:00,160 --> 00:01:02,700
+How do we do this practically?
+
+17
+00:01:02,700 --> 00:01:07,510
+We have to recruit and retain the right skilled resources,
+
+18
+00:01:07,510 --> 00:01:11,030
+and cultivate a collaborative and value-driven environment
+
+19
+00:01:11,030 --> 00:01:13,160
+that elevates the human spirit,
+
+20
+00:01:13,160 --> 00:01:18,040
+to bring out the best in each resource for the collective benefit of all.
+
+21
+00:01:18,040 --> 00:01:23,374
+While Agilers look at a proven track record of accomplishments when recruiting,
+
+22
+00:01:23,374 --> 00:01:27,950
+they also look at the right team-oriented mindset
+
+23
+00:01:27,950 --> 00:01:32,485
+and willingness to adapt to meet the business' emergent needs.
+
+24
+00:01:32,485 --> 00:01:37,295
+Such a recruit, who is a flexible and collaborative team player,
+
+25
+00:01:37,295 --> 00:01:39,410
+when given the right environment,
+
+26
+00:01:39,410 --> 00:01:43,105
+propels an Agile team forward in the right direction.
+
+27
+00:01:43,105 --> 00:01:47,700
+As they say, if it's working well, don't over-fix it.
+
+28
+00:01:47,700 --> 00:01:52,970
+Leaders have to regularly be reminded that adopting Agile is supposed to improve
+
+29
+00:01:52,970 --> 00:01:55,865
+performance and deliver more value
+
+30
+00:01:55,865 --> 00:02:00,115
+directed at the product and, ultimately, organizational vision.
+
+31
+00:02:00,115 --> 00:02:04,865
+Each of the Agile frameworks allows for some flexibility,
+
+32
+00:02:04,865 --> 00:02:08,990
+so it is important to not impose everything Agile
+
+33
+00:02:08,990 --> 00:02:13,625
+all at once on a team that's already performing well in delivering value.
+
+34
+00:02:13,625 --> 00:02:17,300
+In fact, high-performing teams are quite likely to
+
+35
+00:02:17,300 --> 00:02:21,820
+already be engaged in many Agile practices without even realizing it.
+
+36
+00:02:21,820 --> 00:02:27,860
+Such high-performing teams can be gradually introduced to additional Agile practices,
+
+37
+00:02:27,860 --> 00:02:30,470
+based on a specific Agile framework,
+
+38
+00:02:30,470 --> 00:02:36,010
+through retrospectives and other guided, continually improvement opportunities.
+
+39
+00:02:36,010 --> 00:02:38,990
+The potential of an Agile team only
+
+40
+00:02:38,990 --> 00:02:43,705
+grows when they are challenged to find opportunities for improvement.
+
+41
+00:02:43,705 --> 00:02:48,305
+The quality of the stories that are brought into the backlog is important.
+
+42
+00:02:48,305 --> 00:02:51,560
+Agilers work with product owners to ensure
+
+43
+00:02:51,560 --> 00:02:55,990
+the users' toys have been sufficiently refined for the Agile team to proceed.
+
+44
+00:02:55,990 --> 00:02:59,540
+Now, a PO has to be reminded that it is
+
+45
+00:02:59,540 --> 00:03:03,625
+not their job to zero in on a specific technical solution.
+
+46
+00:03:03,625 --> 00:03:06,750
+That is the Agile team's responsibility.
+
+47
+00:03:06,750 --> 00:03:09,680
+A PO who heavily intrudes into solutioning
+
+48
+00:03:09,680 --> 00:03:13,180
+will inhibit the Agile team's innovative drive.
+
+49
+00:03:13,180 --> 00:03:17,750
+Transforming teams into an Agile mindset is hard enough.
+
+50
+00:03:17,750 --> 00:03:21,350
+A lack of respect for the backlog's priorities and
+
+51
+00:03:21,350 --> 00:03:26,275
+realistic estimates can drive the Agile team and everyone else crazy.
+
+52
+00:03:26,275 --> 00:03:29,780
+Agilers focus on ensuring that the Agile team does
+
+53
+00:03:29,780 --> 00:03:33,529
+not over-commit to what can be accomplished in each iteration,
+
+54
+00:03:33,529 --> 00:03:36,620
+especially during the first few iterations.
+
+55
+00:03:36,620 --> 00:03:40,280
+A close eye must be kept on the product backlog board,
+
+56
+00:03:40,280 --> 00:03:47,620
+with the help of a regularly updated work tracking system such as JIRA, ADO, or Rally.
+
+57
+00:03:47,620 --> 00:03:49,430
+At the end of the day,
+
+58
+00:03:49,430 --> 00:03:54,380
+implementing a specific Agile framework is a fine balancing act.
+
+59
+00:03:54,380 --> 00:03:57,154
+Organizations must be willing to adapt,
+
+60
+00:03:57,154 --> 00:04:00,820
+based on each organization's unique culture and context.
+
+61
+00:04:00,820 --> 00:04:05,615
+Experts have to regularly remind both leaders and the Agile team
+
+62
+00:04:05,615 --> 00:04:10,975
+to remember that there is no one way to execute Agile practices in an organization.
+
+63
+00:04:10,975 --> 00:04:13,950
+Agile principles and practices are,
+
+64
+00:04:13,950 --> 00:04:15,150
+by their very nature,
+
+65
+00:04:15,150 --> 00:04:18,280
+to be adapted as needed.
+

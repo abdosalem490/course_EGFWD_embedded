@@ -1,0 +1,100 @@
+1
+00:00:00,000 --> 00:00:01,890
+Nice to see you again.
+
+2
+00:00:01,890 --> 00:00:05,335
+This lesson takes a deep dive into Agile frameworks.
+
+3
+00:00:05,335 --> 00:00:07,930
+It begins with an introduction to Agile frameworks in
+
+4
+00:00:07,930 --> 00:00:11,680
+general and what the benefits are of an Agile framework.
+
+5
+00:00:11,680 --> 00:00:15,010
+This includes coverage of the shared characteristics of
+
+6
+00:00:15,010 --> 00:00:19,794
+Agile frameworks and reasons why adopting an agile framework makes sense.
+
+7
+00:00:19,794 --> 00:00:23,530
+We then look at Scrum as a framework and how Scrum
+
+8
+00:00:23,530 --> 00:00:27,320
+can be advantageous to when trying to balance priorities.
+
+9
+00:00:27,320 --> 00:00:29,635
+Once you get familiar with Scrum,
+
+10
+00:00:29,635 --> 00:00:31,450
+you will be able to deliver value with
+
+11
+00:00:31,450 --> 00:00:34,900
+flexibility and patience in a collaborative manner.
+
+12
+00:00:34,900 --> 00:00:38,710
+This lesson then goes into Kanban as a framework and it's
+
+13
+00:00:38,710 --> 00:00:42,855
+unique advantage in managing flow and work in progress or WIP.
+
+14
+00:00:42,855 --> 00:00:46,730
+Finally, a third discussion on XP and its advantages will
+
+15
+00:00:46,730 --> 00:00:51,940
+follow with an appreciation for its best practices around technical excellence.
+
+16
+00:00:51,940 --> 00:00:53,855
+By the end of this lesson,
+
+17
+00:00:53,855 --> 00:00:58,445
+you will be able to identify the advantages of using a framework,
+
+18
+00:00:58,445 --> 00:01:02,435
+identify the specific and shared characteristics of Scrum,
+
+19
+00:01:02,435 --> 00:01:05,320
+Kanban and the XP frameworks.
+
+20
+00:01:05,320 --> 00:01:10,510
+You will also be able to determine which frameworks are appropriate for a given project,
+
+21
+00:01:10,510 --> 00:01:12,935
+identify the core team roles,
+
+22
+00:01:12,935 --> 00:01:15,510
+and assign team members to each role,
+
+23
+00:01:15,510 --> 00:01:18,875
+as well as implement best practices for each framework,
+
+24
+00:01:18,875 --> 00:01:21,755
+including ceremonies and artifacts.
+
+25
+00:01:21,755 --> 00:01:24,210
+Let's get going.
+

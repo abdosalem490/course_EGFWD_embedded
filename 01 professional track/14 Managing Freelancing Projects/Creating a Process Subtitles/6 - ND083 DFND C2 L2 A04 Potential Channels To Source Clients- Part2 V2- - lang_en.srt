@@ -1,0 +1,424 @@
+1
+00:00:00,000 --> 00:00:02,955
+Now let's look at the positives and negatives
+
+2
+00:00:02,955 --> 00:00:07,180
+of using social media as a channel to find clients.
+
+3
+00:00:07,190 --> 00:00:13,440
+Primary advantage of social media is that it is more trusted than other avenues,
+
+4
+00:00:13,440 --> 00:00:17,669
+like a freelancing platform or public forums, etc.
+
+5
+00:00:17,669 --> 00:00:20,295
+It's your social network.
+
+6
+00:00:20,295 --> 00:00:25,050
+Either forks that you are directly connected with like friends and family and
+
+7
+00:00:25,050 --> 00:00:30,765
+folks that are connected with your data connections like friends of friends, etc.
+
+8
+00:00:30,765 --> 00:00:35,630
+A client would be more comfortable working with someone they already
+
+9
+00:00:35,630 --> 00:00:38,480
+know or was referred by someone they
+
+10
+00:00:38,480 --> 00:00:41,785
+know as compared to working with a complete stranger.
+
+11
+00:00:41,785 --> 00:00:44,655
+Same goes with you as a freelancer.
+
+12
+00:00:44,655 --> 00:00:48,630
+Now if you find someone to work with through your own social network,
+
+13
+00:00:48,630 --> 00:00:52,030
+there is no intermediary involved who helped you find them,
+
+14
+00:00:52,030 --> 00:00:54,920
+which means no intermediary fee like
+
+15
+00:00:54,920 --> 00:00:58,300
+a platform fee that comes with freelancing platforms.
+
+16
+00:00:58,300 --> 00:01:02,810
+One unique thing about social media is that you'll find a bunch of domain
+
+17
+00:01:02,810 --> 00:01:07,250
+specific groups that you could subscribe to in order to find work.
+
+18
+00:01:07,250 --> 00:01:12,990
+For example, if you're a Python developer you could just join a Python Facebook group,
+
+19
+00:01:12,990 --> 00:01:15,920
+or if you are a digital marketing consultant you
+
+20
+00:01:15,920 --> 00:01:19,085
+can join a digital marketing freelancers group on LinkedIn.
+
+21
+00:01:19,085 --> 00:01:22,460
+This could give you access to specific clients who are
+
+22
+00:01:22,460 --> 00:01:26,215
+interested specifically in your area of work.
+
+23
+00:01:26,215 --> 00:01:30,020
+That said, if you are working with someone whom you found on
+
+24
+00:01:30,020 --> 00:01:33,740
+a social media platform and if there is a dispute, for example,
+
+25
+00:01:33,740 --> 00:01:37,145
+disagreement on the scope at a later point in the project,
+
+26
+00:01:37,145 --> 00:01:39,860
+payment defaults and so on,
+
+27
+00:01:39,860 --> 00:01:41,870
+now since there is no intermediary,
+
+28
+00:01:41,870 --> 00:01:44,530
+you are on your own to resolve those disputes.
+
+29
+00:01:44,530 --> 00:01:51,335
+Sometimes this may lead to loss of time and money due to lack of an intermediary to help.
+
+30
+00:01:51,335 --> 00:01:55,505
+Lastly, also you can find good clients from within your network,
+
+31
+00:01:55,505 --> 00:01:57,770
+social media is a free for all.
+
+32
+00:01:57,770 --> 00:02:03,290
+You might find many non-serious clients as well on an open platform like this,
+
+33
+00:02:03,290 --> 00:02:05,810
+who may not be serious enough to work on
+
+34
+00:02:05,810 --> 00:02:09,170
+a project or may not even have the funds to pay for it.
+
+35
+00:02:09,170 --> 00:02:13,040
+You won't find this drawback on platforms which are meant for
+
+36
+00:02:13,040 --> 00:02:17,345
+freelancing and have clients that are rated to some extent.
+
+37
+00:02:17,345 --> 00:02:20,270
+Now let's look at the positives and negatives of
+
+38
+00:02:20,270 --> 00:02:23,200
+using networks as a channel to find clients.
+
+39
+00:02:23,200 --> 00:02:25,055
+Now, as we discussed earlier,
+
+40
+00:02:25,055 --> 00:02:28,970
+by networks here we basically mean, your closed network.
+
+41
+00:02:28,970 --> 00:02:30,830
+People that you directly know.
+
+42
+00:02:30,830 --> 00:02:34,264
+Your family, friends, ex colleagues,
+
+43
+00:02:34,264 --> 00:02:38,430
+that guy you meet at the coffee shop sometimes, and so on.
+
+44
+00:02:38,490 --> 00:02:40,840
+As with social media,
+
+45
+00:02:40,840 --> 00:02:43,570
+this is your trusted network that you
+
+46
+00:02:43,570 --> 00:02:46,895
+or the client would be more comfortable to work with.
+
+47
+00:02:46,895 --> 00:02:49,300
+Since this is your close network,
+
+48
+00:02:49,300 --> 00:02:55,715
+there is a higher level of trust which means that you can get long-term projects.
+
+49
+00:02:55,715 --> 00:02:58,495
+Now when you get a lead through your network,
+
+50
+00:02:58,495 --> 00:03:01,075
+it may not be an advertised assignment.
+
+51
+00:03:01,075 --> 00:03:04,690
+Someone you know, might just be looking for someone like you to
+
+52
+00:03:04,690 --> 00:03:08,870
+work on their project and they may not have advertised it widely.
+
+53
+00:03:08,870 --> 00:03:11,245
+Hence, there may be less or
+
+54
+00:03:11,245 --> 00:03:15,895
+no competition increasing the probability of you getting the project.
+
+55
+00:03:15,895 --> 00:03:17,640
+As in social media,
+
+56
+00:03:17,640 --> 00:03:20,170
+if there is a disagreement between the two parties
+
+57
+00:03:20,170 --> 00:03:22,540
+on things like project's scope or payments,
+
+58
+00:03:22,540 --> 00:03:24,830
+there is no intermediary to mediate.
+
+59
+00:03:24,830 --> 00:03:27,635
+You're on your own to resolve the dispute.
+
+60
+00:03:27,635 --> 00:03:31,535
+Hence, it is important to proceed with caution here,
+
+61
+00:03:31,535 --> 00:03:33,950
+since any disputes may also affect
+
+62
+00:03:33,950 --> 00:03:38,600
+your long-term relationship with a client who is a part of your network.
+
+63
+00:03:38,600 --> 00:03:41,600
+Lastly, since you are tapping your network,
+
+64
+00:03:41,600 --> 00:03:44,200
+your options are really limited.
+
+65
+00:03:44,200 --> 00:03:47,300
+You may be lucky to find someone in your network who is
+
+66
+00:03:47,300 --> 00:03:50,150
+looking for someone with your skills,
+
+67
+00:03:50,150 --> 00:03:53,930
+since your network is limited to people whom you already know.
+
+68
+00:03:53,930 --> 00:03:56,975
+Which isn't the case with freelancing platforms or social media,
+
+69
+00:03:56,975 --> 00:03:59,550
+where you'll find lots of clients.
+
+70
+00:03:59,720 --> 00:04:04,190
+Now that we know how a freelancing platform achieves its purpose,
+
+71
+00:04:04,190 --> 00:04:09,100
+let's see what are the positives and negatives of using these freelancing platforms.
+
+72
+00:04:09,100 --> 00:04:10,815
+Being a marketplace,
+
+73
+00:04:10,815 --> 00:04:14,690
+of course you'll have a lot of clients publishing a lot of requests.
+
+74
+00:04:14,690 --> 00:04:18,760
+It's a hub where clients come to get work done.
+
+75
+00:04:18,760 --> 00:04:22,160
+You'll have a wide variety of clients and work to
+
+76
+00:04:22,160 --> 00:04:25,670
+choose from which match your skills and interest.
+
+77
+00:04:25,670 --> 00:04:29,465
+Now before you or a client decide to work with each other,
+
+78
+00:04:29,465 --> 00:04:32,535
+both of you can see reviews of each other.
+
+79
+00:04:32,535 --> 00:04:35,650
+Now these reviews are left by other people
+
+80
+00:04:35,650 --> 00:04:39,490
+who have worked with you or the client in the past.
+
+81
+00:04:39,490 --> 00:04:45,310
+These reviews are a pretty important feature of any freelancing platform and can
+
+82
+00:04:45,310 --> 00:04:47,440
+give you a pretty good idea about the client
+
+83
+00:04:47,440 --> 00:04:50,770
+or a freelancer before starting to work with them.
+
+84
+00:04:50,770 --> 00:04:54,730
+[inaudible] is that these platforms will
+
+85
+00:04:54,730 --> 00:04:59,590
+also manage the payments and we'll resolve any disputes that arise.
+
+86
+00:04:59,590 --> 00:05:04,840
+For many platforms, the payment for the work is securely kept with the platform
+
+87
+00:05:04,840 --> 00:05:10,255
+even before starting the work and is released to the freelancer after the work is done,
+
+88
+00:05:10,255 --> 00:05:12,745
+which is commonly called as escrow.
+
+89
+00:05:12,745 --> 00:05:14,815
+Now looking at the downsides,
+
+90
+00:05:14,815 --> 00:05:19,685
+an important clade off of using these platforms is that they charge a fee.
+
+91
+00:05:19,685 --> 00:05:24,445
+A platform fee which is related to what you earn there at the platform.
+
+92
+00:05:24,445 --> 00:05:28,790
+This platform fee is usually around 15-20 percent,
+
+93
+00:05:28,790 --> 00:05:32,845
+but could go up or down depending on the terms of the platform.
+
+94
+00:05:32,845 --> 00:05:36,515
+Sometimes platforms are willing to lower this fee for you
+
+95
+00:05:36,515 --> 00:05:40,855
+if you have lots of clients and hence giving good business to them.
+
+96
+00:05:40,855 --> 00:05:42,965
+Second, and yet,
+
+97
+00:05:42,965 --> 00:05:47,360
+another important downside of a freelancing platform is that there may be
+
+98
+00:05:47,360 --> 00:05:52,520
+a lot of freelancers applying for each request and so it becomes competitive.
+
+99
+00:05:52,520 --> 00:05:56,570
+It is important to mention here that some platforms have started
+
+100
+00:05:56,570 --> 00:06:01,370
+using artificial intelligence and machine learning to reduce that competition.
+
+101
+00:06:01,370 --> 00:06:05,465
+They automatically filter the requests that you see based on your skills,
+
+102
+00:06:05,465 --> 00:06:08,810
+your read, your history with other clients and so on.
+
+103
+00:06:08,810 --> 00:06:13,070
+With that list of pros and cons of a freelancing platform, I would say,
+
+104
+00:06:13,070 --> 00:06:15,980
+overall a freelancing platform is a great place to
+
+105
+00:06:15,980 --> 00:06:19,010
+start if you're just starting your freelancing career,
+
+106
+00:06:19,010 --> 00:06:22,410
+as compared to other channels that we talked about.
+

@@ -1,0 +1,308 @@
+1
+00:00:00,000 --> 00:00:03,165
+As Agile becomes more accepted by the market,
+
+2
+00:00:03,165 --> 00:00:07,200
+I continue to see a number of detrimental anti-patterns and
+
+3
+00:00:07,200 --> 00:00:13,305
+misconceptions that are preventing organizations from truly realizing the value of Agile.
+
+4
+00:00:13,305 --> 00:00:17,430
+I'm going to share five of the ones I see as more common that can
+
+5
+00:00:17,430 --> 00:00:22,709
+relatively easily be rectified if the Agile mindset is kept in focus.
+
+6
+00:00:22,709 --> 00:00:28,905
+Misconception number 1, scheduling Agile Ceremonies makes a team Agile.
+
+7
+00:00:28,905 --> 00:00:31,995
+Just holding Agile Ceremonies,
+
+8
+00:00:31,995 --> 00:00:38,440
+such as daily stand-ups and retrospectives does not equate to a team becoming Agile.
+
+9
+00:00:38,440 --> 00:00:43,310
+The ceremonies are a vital part of virtually all Agile Frameworks,
+
+10
+00:00:43,310 --> 00:00:48,380
+but just holding them for the sake of it does not necessarily deliver any benefits.
+
+11
+00:00:48,380 --> 00:00:52,925
+In order for an Agile Team to realize the gains from ceremonies,
+
+12
+00:00:52,925 --> 00:00:56,570
+it is important to adhere to the core principles of Agile.
+
+13
+00:00:56,570 --> 00:00:59,210
+I see many organizations continue to have
+
+14
+00:00:59,210 --> 00:01:02,825
+managers in these ceremonies who continue to be directive,
+
+15
+00:01:02,825 --> 00:01:09,050
+which kills the opportunity for collaboration, self-direction, and self-organization.
+
+16
+00:01:09,050 --> 00:01:15,970
+Misconception number 2, the facilitator role is filled by a traditional Project Manager.
+
+17
+00:01:15,970 --> 00:01:18,410
+While leaders will acknowledge
+
+18
+00:01:18,410 --> 00:01:22,830
+the valuable role of facilitator in any Agile Framework place,
+
+19
+00:01:22,830 --> 00:01:25,040
+such as the Scrum Master and Scrum.
+
+20
+00:01:25,040 --> 00:01:26,990
+In reality, many a times
+
+21
+00:01:26,990 --> 00:01:31,055
+this facilitator role continues to be a traditional project manager.
+
+22
+00:01:31,055 --> 00:01:36,260
+The reason this is a challenge for many leaders with the right intention,
+
+23
+00:01:36,260 --> 00:01:39,650
+is that this facilitator role generally does not
+
+24
+00:01:39,650 --> 00:01:43,610
+have any equivalent in the traditional project management team structure.
+
+25
+00:01:43,610 --> 00:01:46,400
+Now, it is entirely possible for
+
+26
+00:01:46,400 --> 00:01:48,980
+a former traditional Project Manager to
+
+27
+00:01:48,980 --> 00:01:52,205
+step in and play this facilitator role brilliantly,
+
+28
+00:01:52,205 --> 00:01:56,410
+but it's certainly requires the Agile Mindset shift.
+
+29
+00:01:56,410 --> 00:01:59,525
+The facilitator role is absolutely critical.
+
+30
+00:01:59,525 --> 00:02:01,760
+In many Agile Frameworks,
+
+31
+00:02:01,760 --> 00:02:04,370
+this role is responsible for facilitating,
+
+32
+00:02:04,370 --> 00:02:09,725
+coaching and really is the Uber Servant Leader who works with everyone and
+
+33
+00:02:09,725 --> 00:02:12,680
+anyone to mitigate impediments and
+
+34
+00:02:12,680 --> 00:02:16,445
+assist in whatever can help the Agile team move forward.
+
+35
+00:02:16,445 --> 00:02:21,245
+This individual does not and should not manage the Agile team.
+
+36
+00:02:21,245 --> 00:02:26,645
+This is where I see a lot of organizations struggle when transitioning to Agile.
+
+37
+00:02:26,645 --> 00:02:30,650
+Misconception number 3, Agile team size
+
+38
+00:02:30,650 --> 00:02:35,075
+is justified to be larger than Agile Frameworks recommend.
+
+39
+00:02:35,075 --> 00:02:39,740
+Agile recommend small cross-functional teams to allow for
+
+40
+00:02:39,740 --> 00:02:42,545
+the nimbleness to remain flexible yet
+
+41
+00:02:42,545 --> 00:02:46,249
+powerful enough to deliver value in every iteration.
+
+42
+00:02:46,249 --> 00:02:52,100
+Unfortunately, I see a lot of larger Agile team sizes being blessed by leaders in
+
+43
+00:02:52,100 --> 00:02:55,025
+organizations that are supposedly moving towards
+
+44
+00:02:55,025 --> 00:02:59,630
+Agile because they feel that their circumstances are unique.
+
+45
+00:02:59,630 --> 00:03:02,540
+The problem with teams that are larger than somewhere close to
+
+46
+00:03:02,540 --> 00:03:07,220
+15 is that it becomes challenging to track everyone's work,
+
+47
+00:03:07,220 --> 00:03:08,900
+and consolidate it all into
+
+48
+00:03:08,900 --> 00:03:13,295
+a minimum shippable product at the end of every short iteration.
+
+49
+00:03:13,295 --> 00:03:17,240
+Misconception number 4, the product backlog is
+
+50
+00:03:17,240 --> 00:03:21,020
+managed analogous to a traditional requirements document.
+
+51
+00:03:21,020 --> 00:03:24,140
+Product backlogs can be presented in many forms,
+
+52
+00:03:24,140 --> 00:03:28,490
+but the one thing that should never be is just a pretty front end for
+
+53
+00:03:28,490 --> 00:03:33,215
+traditional plan driven and process-driven requirements document.
+
+54
+00:03:33,215 --> 00:03:36,770
+The product backlog needs to follow an Agile mindset,
+
+55
+00:03:36,770 --> 00:03:40,790
+which drives us to have a feature breakdown approach with a focus on
+
+56
+00:03:40,790 --> 00:03:45,545
+customer value streams based on the organization's strategic objectives.
+
+57
+00:03:45,545 --> 00:03:48,190
+Why it does not sound too dramatic?
+
+58
+00:03:48,190 --> 00:03:53,930
+I see a lot of organizations transitioning to Agile struggle with
+
+59
+00:03:53,930 --> 00:03:55,010
+the effort of moving from
+
+60
+00:03:55,010 --> 00:04:00,140
+a traditional business analysis mindset to having a customer centric approach,
+
+61
+00:04:00,140 --> 00:04:03,530
+where priorities are truly driven by the business.
+
+62
+00:04:03,530 --> 00:04:07,460
+This is where an empowered product owner plays a pivotal role.
+
+63
+00:04:07,460 --> 00:04:09,770
+Misconception number 5,
+
+64
+00:04:09,770 --> 00:04:14,195
+documentation audit trails for compliance are not important in Agile.
+
+65
+00:04:14,195 --> 00:04:15,890
+This has got to be one of
+
+66
+00:04:15,890 --> 00:04:19,955
+the most confusing and inaccurate misconceptions in the industry.
+
+67
+00:04:19,955 --> 00:04:22,970
+As a result, it causes a lot of concern to
+
+68
+00:04:22,970 --> 00:04:27,535
+leaders who are looking for important documentation to continue to exist.
+
+69
+00:04:27,535 --> 00:04:31,460
+While the Agile Manifesto states that Agile teams should provide
+
+70
+00:04:31,460 --> 00:04:36,245
+more emphasis on completed product results over comprehensive documentation,
+
+71
+00:04:36,245 --> 00:04:40,825
+this does not by any means equate to no documentation at all.
+
+72
+00:04:40,825 --> 00:04:47,180
+Adaptive planning in Agile Frameworks push Agile teams to do away with non-value
+
+73
+00:04:47,180 --> 00:04:50,450
+added or redundant documents and paper trails
+
+74
+00:04:50,450 --> 00:04:54,175
+that have been created over the years just to meet some requirement.
+
+75
+00:04:54,175 --> 00:04:58,310
+Agile teams are being asked to challenge themselves to truly
+
+76
+00:04:58,310 --> 00:05:02,765
+document what is valuable to maintain and sustain the product.
+
+77
+00:05:02,765 --> 00:05:09,630
+Again, the customer-centric and product-focused thought process is essential here.
+

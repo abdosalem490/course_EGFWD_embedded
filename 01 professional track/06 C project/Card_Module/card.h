@@ -1,8 +1,8 @@
 /*
  * --------------------------------------------------------------------------------------------------------------------------------------
  * |   @author                  : abdo salm (abdelrahman mohamed salem)                                                                 |
- * |   @date_of_creation        : 06/09/2022                                                                                            |
- * |   @version                 : 1.0                                                                                                   |
+ * |   @date_of_creation        : 21/09/2022                                                                                            |
+ * |   @version                 : 2.0                                                                                                   |
  * |   @contact_email           : abdosalm555@gmail.com                                                                                 |
  * |   @Github_account          : https://github.com/abdosalem490                                                                       |
  * |   @stack_overflow_account  : https://stackoverflow.com/users/16305340/abdo-salm                                                    |
@@ -30,19 +30,35 @@
 #endif
 
 #ifndef ACCOUNT_EXPIRY_DATE_LEN
-    #define ACCOUNT_EXPIRY_DATE_LEN     8
+    #define ACCOUNT_EXPIRY_DATE_LEN     5
     #define ACCOUNT_EXPIRY_MON_LEN      2
-    #define ACCOUNT_EXPIRY_YEAR_LEN     4
+    #define ACCOUNT_EXPIRY_YEAR_LEN     2
 #endif
 
 #ifndef ACCOUNT_PAN_SIZE
     #define ACCOUNT_PAN_SIZE            16
 #endif
 
+/*handle structure to handle all the data related to the card owner*/
+typedef struct ST_cardData_t
+{
+    uint8_t cardHolderName[ACCOUNT_NAME_SIZE];
+    uint8_t primaryAccountNumber[ACCOUNT_PAN_SIZE + 1];
+    uint8_t cardExpirationDate[ACCOUNT_EXPIRY_DATE_LEN + 1];
+}ST_cardData_t;
+
+/*psossible errors that could occur*/
+typedef enum EN_cardError_t
+{
+    CARD_OK = 0,
+    WRONG_NAME = 1,
+    WRONG_EXP_DATE = 2,
+    WRONG_PAN = 3,
+}EN_cardError_t;
+
 /*************************************************** global function prototypes ****************************************************/
-int8_t* getCardHolderName(void);                        /*<get the name of the person who holds that credit card and return that name in form of string>*/                   
-int8_t* getCardExpiryDate(void);                        /*<get the expiry date of that credit card and return that date in form of string in form of month/year>*/  
-int8_t* getCardPAN(void);                               /*<get the primary account number (16 numbers) of the transmitter from the user and return it in form of string*/  
-int8_t* getRecieverAccountPAN(void);                    /*<get the primary account number (16 numbers) of the reciever from the user and return it in form of string>*/
+EN_cardError_t getCardHolderName(ST_cardData_t *cardData);                       /*<get the name of the person who holds that credit card and return that name in form of string>*/                   
+EN_cardError_t getCardExpiryDate(ST_cardData_t *cardData);                       /*<get the expiry date of that credit card and return that date in form of string in form of month/year>*/  
+EN_cardError_t getCardPAN(ST_cardData_t *cardData);                              /*<get the primary account number (16 numbers) of the transmitter from the user and return it in form of string*/  
 
 #endif

@@ -1,0 +1,36 @@
+1
+00:00:00,140 --> 00:00:05,835
+Let's start with discussing what we will cover in this introductory lesson of the course.
+
+2
+00:00:05,835 --> 00:00:09,900
+We'll start with discussing the prerequisites of this course.
+
+3
+00:00:09,900 --> 00:00:14,040
+What do we need to know before we take on this course?
+
+4
+00:00:14,040 --> 00:00:17,684
+Then, we'll cover the high-level outline of the course,
+
+5
+00:00:17,684 --> 00:00:21,290
+the different lessons that we will cover in this course.
+
+6
+00:00:21,290 --> 00:00:25,175
+Then we'll touch upon why is this course important,
+
+7
+00:00:25,175 --> 00:00:27,734
+why would you take this course?
+
+8
+00:00:27,734 --> 00:00:31,875
+Then we'll touch upon stakeholders in a freelancing ecosystem,
+
+9
+00:00:31,875 --> 00:00:38,110
+followed by an overview of the project that you will do at the end of the course.
+

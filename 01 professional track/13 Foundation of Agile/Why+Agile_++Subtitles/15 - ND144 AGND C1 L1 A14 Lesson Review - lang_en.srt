@@ -1,0 +1,88 @@
+1
+00:00:00,560 --> 00:00:05,055
+We have covered some key Agile concepts in this lesson.
+
+2
+00:00:05,055 --> 00:00:10,695
+Hopefully, you will now appreciate while Agile has taken the market by storm.
+
+3
+00:00:10,695 --> 00:00:12,900
+In this lesson, we covered
+
+4
+00:00:12,900 --> 00:00:17,220
+some fundamental groundwork for developing our understanding of Agile.
+
+5
+00:00:17,220 --> 00:00:20,775
+We first learn that Agile is a mindset.
+
+6
+00:00:20,775 --> 00:00:26,910
+It is essential to be agile and not just do the mechanics of what Agile recommends.
+
+7
+00:00:26,910 --> 00:00:29,925
+We then went on to cover the Agile Manifesto.
+
+8
+00:00:29,925 --> 00:00:32,630
+We talked about how the need for Agile grew
+
+9
+00:00:32,630 --> 00:00:37,550
+organically as a result of experts realizing that there was a gap in
+
+10
+00:00:37,550 --> 00:00:41,120
+customer value delivery in many projects that
+
+11
+00:00:41,120 --> 00:00:45,465
+follow the traditional waterfall or process-centric structures.
+
+12
+00:00:45,465 --> 00:00:47,240
+We discussed the importance of
+
+13
+00:00:47,240 --> 00:00:51,895
+the four paired core values and their associated 12 guiding principles.
+
+14
+00:00:51,895 --> 00:00:56,410
+This lesson also talked about the difference between Agile and Waterfall.
+
+15
+00:00:56,410 --> 00:01:01,430
+The advantages and disadvantages of each were covered to ensure
+
+16
+00:01:01,430 --> 00:01:07,120
+everyone appreciates that one size does not necessarily fit all projects.
+
+17
+00:01:07,120 --> 00:01:11,890
+In some instances, Waterfall may still be the optimal approach.
+
+18
+00:01:11,890 --> 00:01:16,175
+We finished up by talking about some misconceptions of Agile.
+
+19
+00:01:16,175 --> 00:01:19,025
+If you can avoid such misconceptions,
+
+20
+00:01:19,025 --> 00:01:23,035
+you will become a valuable member of an agile organization.
+
+21
+00:01:23,035 --> 00:01:25,835
+Moving on, in the next lesson,
+
+22
+00:01:25,835 --> 00:01:30,900
+we will dive into the topic of building and evolving successful Agile teams.
+

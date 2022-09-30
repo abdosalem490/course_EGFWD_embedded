@@ -1,0 +1,304 @@
+1
+00:00:00,000 --> 00:00:03,250
+In order to appreciate the Agile Manifesto,
+
+2
+00:00:03,250 --> 00:00:08,915
+we need to look at what led it to being created by 17 thought leaders in 2001.
+
+3
+00:00:08,915 --> 00:00:11,345
+Up until the late 1990s,
+
+4
+00:00:11,345 --> 00:00:13,360
+majority of product development followed
+
+5
+00:00:13,360 --> 00:00:16,330
+a waterfall-style project management life cycle
+
+6
+00:00:16,330 --> 00:00:20,360
+that was based on adhering to strict processes.
+
+7
+00:00:20,360 --> 00:00:26,540
+Product development teams focused heavily on gathering detailed requirements upfront.
+
+8
+00:00:26,540 --> 00:00:29,320
+The contract between the development team and
+
+9
+00:00:29,320 --> 00:00:32,500
+customer became the primary focus of the delivery,
+
+10
+00:00:32,500 --> 00:00:38,150
+resulting in value taking on a secondary level of importance.
+
+11
+00:00:38,150 --> 00:00:42,640
+Products started to get more complex with several interconnected pieces,
+
+12
+00:00:42,640 --> 00:00:46,855
+that got discovered and entangled further down the development pipeline.
+
+13
+00:00:46,855 --> 00:00:49,250
+This resulted in delays which
+
+14
+00:00:49,250 --> 00:00:53,515
+further frustrated customers and impacted their bottom line.
+
+15
+00:00:53,515 --> 00:00:55,540
+To add to the woes,
+
+16
+00:00:55,540 --> 00:00:59,510
+final product delivery would often have features and functionality
+
+17
+00:00:59,510 --> 00:01:04,055
+that did not work as expected or anticipated by the customer.
+
+18
+00:01:04,055 --> 00:01:09,890
+The whole product procedure was process centric with the goal of delivering
+
+19
+00:01:09,890 --> 00:01:15,695
+the product successfully rather than focusing on delivering a successful product.
+
+20
+00:01:15,695 --> 00:01:20,030
+This is what led 17 experts to get together and finalize
+
+21
+00:01:20,030 --> 00:01:24,770
+the Agile Manifesto at a meeting in Utah, back in 2001.
+
+22
+00:01:24,770 --> 00:01:28,760
+The four agile core values or better
+
+23
+00:01:28,760 --> 00:01:33,200
+stated as the four paired core values are listed here.
+
+24
+00:01:33,200 --> 00:01:39,470
+Again, these were developed by 17 industry experts who finalized this in 2001.
+
+25
+00:01:39,470 --> 00:01:41,950
+Let's walk through each one.
+
+26
+00:01:41,950 --> 00:01:46,405
+Individuals and interactions over processes and tools.
+
+27
+00:01:46,405 --> 00:01:50,450
+Agile places more importance and emphasis on people
+
+28
+00:01:50,450 --> 00:01:54,790
+and their interactions over processes and even tools.
+
+29
+00:01:54,790 --> 00:01:58,305
+After all, it is the skilled human resources,
+
+30
+00:01:58,305 --> 00:02:01,355
+when given a purpose, motivation,
+
+31
+00:02:01,355 --> 00:02:03,110
+and a suitable environment,
+
+32
+00:02:03,110 --> 00:02:05,810
+who respond to business needs and drive
+
+33
+00:02:05,810 --> 00:02:10,790
+the development process to successfully deliver a valuable product.
+
+34
+00:02:10,790 --> 00:02:16,030
+Processes and tools by their very nature are less responsive to change.
+
+35
+00:02:16,030 --> 00:02:21,560
+Working software over comprehensive documentation.
+
+36
+00:02:21,560 --> 00:02:26,130
+Documentation requires a time and resource commitment.
+
+37
+00:02:26,130 --> 00:02:29,660
+A heavy focus on documentation leads to
+
+38
+00:02:29,660 --> 00:02:32,570
+slower processes that businesses are looking to
+
+39
+00:02:32,570 --> 00:02:35,990
+mitigate in a market that requires rapid action.
+
+40
+00:02:35,990 --> 00:02:39,140
+Moreover, some of the documentation can be
+
+41
+00:02:39,140 --> 00:02:42,200
+redundant and just not as useful to the Agile team,
+
+42
+00:02:42,200 --> 00:02:44,840
+the business users, or even those looking for
+
+43
+00:02:44,840 --> 00:02:49,015
+reliable trace of the valuable work being accomplished.
+
+44
+00:02:49,015 --> 00:02:51,230
+Now, let's be clear here.
+
+45
+00:02:51,230 --> 00:02:56,780
+Agile is about streamlining, not eliminating documentation.
+
+46
+00:02:56,780 --> 00:03:00,550
+However, while documentation has its value,
+
+47
+00:03:00,550 --> 00:03:02,300
+in the Agile mindset,
+
+48
+00:03:02,300 --> 00:03:05,120
+it is working solutions that are paramount.
+
+49
+00:03:05,120 --> 00:03:08,840
+Agile clearly states that we get more traction from
+
+50
+00:03:08,840 --> 00:03:13,000
+working software that can be presented to the business.
+
+51
+00:03:13,000 --> 00:03:18,035
+Customer collaboration over contract negotiation.
+
+52
+00:03:18,035 --> 00:03:22,700
+Agile promotes a collaborative outlook when product owners work
+
+53
+00:03:22,700 --> 00:03:27,445
+with their customers in reaching agreement on the details of the product delivery.
+
+54
+00:03:27,445 --> 00:03:29,120
+This is in contrast to
+
+55
+00:03:29,120 --> 00:03:34,250
+traditional project management methodologies in which both sides exhaustively
+
+56
+00:03:34,250 --> 00:03:36,950
+negotiate requirements for the product in
+
+57
+00:03:36,950 --> 00:03:41,785
+tremendous detail before the product development work even begins.
+
+58
+00:03:41,785 --> 00:03:47,630
+Agile in contrast, suggests a more practical approach by including
+
+59
+00:03:47,630 --> 00:03:49,970
+the customer throughout the life cycle of
+
+60
+00:03:49,970 --> 00:03:54,155
+the product delivery to ensure continual feedback.
+
+61
+00:03:54,155 --> 00:03:58,985
+Responding to change over following a plan.
+
+62
+00:03:58,985 --> 00:04:03,355
+Every Agilist will tell you that Agile embraces change.
+
+63
+00:04:03,355 --> 00:04:07,880
+When working with a more traditional project management methodology,
+
+64
+00:04:07,880 --> 00:04:13,130
+changes often have an inefficient and multi-step formal review process.
+
+65
+00:04:13,130 --> 00:04:20,179
+In such circumstances, changes are often seen as to be avoided since supposedly,
+
+66
+00:04:20,179 --> 00:04:22,010
+all the requirements were documented,
+
+67
+00:04:22,010 --> 00:04:24,290
+reviewed, and approved upfront.
+
+68
+00:04:24,290 --> 00:04:29,510
+However, Agile intentionally works to maximize the power of
+
+69
+00:04:29,510 --> 00:04:32,935
+progressive elaboration through short iterations
+
+70
+00:04:32,935 --> 00:04:36,315
+which allows for easier value driven changes.
+
+71
+00:04:36,315 --> 00:04:40,010
+Agile truly embraces changes that make
+
+72
+00:04:40,010 --> 00:04:45,985
+practical and business sense as a means to improve a product and add value.
+
+73
+00:04:45,985 --> 00:04:50,320
+The goal is not to police change request stringently, but rather,
+
+74
+00:04:50,320 --> 00:04:53,000
+to continue to challenge ourselves to
+
+75
+00:04:53,000 --> 00:04:57,235
+identify changes that can add additional business value.
+
+76
+00:04:57,235 --> 00:05:04,020
+The Agile Manifesto is four paired core values drive the 12 Agile principles.
+

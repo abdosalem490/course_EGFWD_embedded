@@ -1,0 +1,264 @@
+1
+00:00:00,000 --> 00:00:04,200
+Let us examine the important characteristics of the Kanban framework.
+
+2
+00:00:04,200 --> 00:00:07,740
+Kanban has its origins in lean product development,
+
+3
+00:00:07,740 --> 00:00:10,440
+an approach to product development inspired by
+
+4
+00:00:10,440 --> 00:00:13,945
+lean manufacturing principles and practices at Toyota.
+
+5
+00:00:13,945 --> 00:00:17,550
+Let us first delve into lean product development.
+
+6
+00:00:17,550 --> 00:00:22,845
+Lean product development focuses on seven fundamental principles.
+
+7
+00:00:22,845 --> 00:00:26,430
+The lean principles of eliminate waste,
+
+8
+00:00:26,430 --> 00:00:30,405
+build in quality, create knowledge,
+
+9
+00:00:30,405 --> 00:00:34,520
+defer commitment, deliver fast,
+
+10
+00:00:34,520 --> 00:00:39,154
+respect people, and optimize the whole,
+
+11
+00:00:39,154 --> 00:00:42,400
+set the foundation for Kanban.
+
+12
+00:00:42,400 --> 00:00:47,225
+To eliminate waste, it must be recognized and identified.
+
+13
+00:00:47,225 --> 00:00:49,490
+So what is waste exactly?
+
+14
+00:00:49,490 --> 00:00:53,630
+Waste is anything that does not add value to
+
+15
+00:00:53,630 --> 00:00:58,385
+the customer or anything that does not improve the quality,
+
+16
+00:00:58,385 --> 00:01:01,100
+and anything that unnecessarily increases
+
+17
+00:01:01,100 --> 00:01:04,325
+the amount of time or effort to produce the product.
+
+18
+00:01:04,325 --> 00:01:08,600
+Traditional product development focuses on finding defects.
+
+19
+00:01:08,600 --> 00:01:15,160
+Lean focuses on good practices to ensure integrity and prevent defects.
+
+20
+00:01:15,160 --> 00:01:24,060
+Lean encourages both training and peer-to-peer knowledge transfer to create knowledge.
+
+21
+00:01:24,060 --> 00:01:27,800
+In Lean, iterative demo to the business users
+
+22
+00:01:27,800 --> 00:01:32,645
+allows the team to live through the concept of do a little,
+
+23
+00:01:32,645 --> 00:01:35,320
+show a little, learn a little.
+
+24
+00:01:35,320 --> 00:01:40,315
+Collaboration enhances sharing of explicit and tacit knowledge.
+
+25
+00:01:40,315 --> 00:01:47,180
+Lean recommends the Agile team wait until the last responsible moment to make a decision.
+
+26
+00:01:47,180 --> 00:01:50,630
+The last responsible moment is that point
+
+27
+00:01:50,630 --> 00:01:54,364
+where if the Agile team does not make a decision,
+
+28
+00:01:54,364 --> 00:01:56,950
+you will either significantly impact the work
+
+29
+00:01:56,950 --> 00:02:00,205
+or a decision will be made by others for them.
+
+30
+00:02:00,205 --> 00:02:04,370
+The last responsible moment allows for the Agile team to
+
+31
+00:02:04,370 --> 00:02:09,365
+remain agile and to have some stretch of innovation.
+
+32
+00:02:09,365 --> 00:02:15,170
+Lean encourages the Agile team to create product incrementally where
+
+33
+00:02:15,170 --> 00:02:21,635
+the team builds only what is truly needed and avoids unnecessary features.
+
+34
+00:02:21,635 --> 00:02:27,835
+Lean recommends to release product earlier to get feedback from the customer sooner.
+
+35
+00:02:27,835 --> 00:02:31,370
+The Agile team needs to feel trusted and
+
+36
+00:02:31,370 --> 00:02:35,990
+valuable to be able to think and solve problems for themselves.
+
+37
+00:02:35,990 --> 00:02:39,685
+They need authority to effect outcomes.
+
+38
+00:02:39,685 --> 00:02:43,955
+Product development involves interdependencies with business partners,
+
+39
+00:02:43,955 --> 00:02:47,695
+customers, and IT departmental units.
+
+40
+00:02:47,695 --> 00:02:52,700
+Lean encourages decreasing barriers to increase efficiencies,
+
+41
+00:02:52,700 --> 00:02:55,295
+to decrease the amount of hand-offs,
+
+42
+00:02:55,295 --> 00:02:57,485
+and to decrease work-in-progress,
+
+43
+00:02:57,485 --> 00:02:59,335
+also known as WIP.
+
+44
+00:02:59,335 --> 00:03:01,984
+When lean principles are followed,
+
+45
+00:03:01,984 --> 00:03:08,240
+customer satisfaction and quality increases while the time to market is reduced.
+
+46
+00:03:08,240 --> 00:03:12,410
+Kanban in Japanese refers to a signboard.
+
+47
+00:03:12,410 --> 00:03:16,000
+This Kanban board is instrumental in Kanban.
+
+48
+00:03:16,000 --> 00:03:19,820
+An approach where the Agile team can visualize the workflow is
+
+49
+00:03:19,820 --> 00:03:23,780
+important since it helps in organizing,
+
+50
+00:03:23,780 --> 00:03:27,820
+tracking, and optimizing the work.
+
+51
+00:03:27,820 --> 00:03:34,025
+Kanban recommends establishing limits to the work the Agile team has in progress.
+
+52
+00:03:34,025 --> 00:03:39,185
+Kanban establishes and respects the team's ideal work capacity.
+
+53
+00:03:39,185 --> 00:03:44,165
+Limiting WIP helps to smooth the flow of work,
+
+54
+00:03:44,165 --> 00:03:48,710
+reduce lead times, improve quality,
+
+55
+00:03:48,710 --> 00:03:51,405
+and deliver more frequently.
+
+56
+00:03:51,405 --> 00:03:56,300
+By monitoring and measuring the flow of work through each work state,
+
+57
+00:03:56,300 --> 00:03:59,330
+issues are identified as soon as possible.
+
+58
+00:03:59,330 --> 00:04:05,515
+This helps to minimize lead times and improve delivery predictability.
+
+59
+00:04:05,515 --> 00:04:10,100
+Establishing policies that provides the Agile team with
+
+60
+00:04:10,100 --> 00:04:14,615
+explicit understanding of the processes has tremendous benefits.
+
+61
+00:04:14,615 --> 00:04:18,650
+Most importantly, discussions around issues
+
+62
+00:04:18,650 --> 00:04:23,405
+can take place in an objective rather than in an emotional manner.
+
+63
+00:04:23,405 --> 00:04:29,045
+The Agile team must own the team's work related processes
+
+64
+00:04:29,045 --> 00:04:35,345
+and work collaboratively to improve the processes being utilized.
+
+65
+00:04:35,345 --> 00:04:39,365
+A Kanban board plays a valuable role since it
+
+66
+00:04:39,365 --> 00:04:45,570
+articulates the work items in their various stages of the product development journey.
+

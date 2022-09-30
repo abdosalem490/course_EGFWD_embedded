@@ -1,0 +1,244 @@
+1
+00:00:00,000 --> 00:00:06,045
+In this exercise, we ask you to think about the situation at SocialKare.gov and
+
+2
+00:00:06,045 --> 00:00:12,870
+outline three recommendations to set in place a more Agile Mindset at SocialKare.gov.
+
+3
+00:00:12,870 --> 00:00:15,960
+We ask you to take into account the Agile Manifesto in
+
+4
+00:00:15,960 --> 00:00:20,175
+your recommendation and avoid the negative pitfalls of waterfall.
+
+5
+00:00:20,175 --> 00:00:22,425
+Let's look at what I came up with.
+
+6
+00:00:22,425 --> 00:00:27,510
+The first strategy I'd recommend is ensuring management commitment.
+
+7
+00:00:27,510 --> 00:00:33,900
+Any successful Agile transformation initiative requires a serious management commitment.
+
+8
+00:00:33,900 --> 00:00:36,680
+This senior commitment ensures
+
+9
+00:00:36,680 --> 00:00:40,760
+strategic input and support by identifying critical business goals,
+
+10
+00:00:40,760 --> 00:00:43,790
+providing the necessary realistic support and
+
+11
+00:00:43,790 --> 00:00:47,690
+resources to meet the established expectations.
+
+12
+00:00:47,690 --> 00:00:50,120
+As product development progresses,
+
+13
+00:00:50,120 --> 00:00:54,140
+continuing to receive clear direction from executives on aligning
+
+14
+00:00:54,140 --> 00:00:57,050
+the product with the organization's strategic goals
+
+15
+00:00:57,050 --> 00:00:59,435
+can have a significant positive impact.
+
+16
+00:00:59,435 --> 00:01:01,535
+From a resourcing perspective,
+
+17
+00:01:01,535 --> 00:01:04,730
+management support ensures that a capable product owner,
+
+18
+00:01:04,730 --> 00:01:10,150
+facilitator, and Agile team are put together to deliver successful results.
+
+19
+00:01:10,150 --> 00:01:12,890
+Finally, as a last resort,
+
+20
+00:01:12,890 --> 00:01:18,035
+senior management can play a critical role in removing significant roadblocks.
+
+21
+00:01:18,035 --> 00:01:24,535
+The second strategy I'd recommend is to provide the team autonomy by empowering them.
+
+22
+00:01:24,535 --> 00:01:29,090
+A decentralized decision-making model where timely decisions are
+
+23
+00:01:29,090 --> 00:01:34,085
+critical for moving the product development forward is needed in Agile environments.
+
+24
+00:01:34,085 --> 00:01:37,730
+The only decisions that should remain centralized with
+
+25
+00:01:37,730 --> 00:01:42,425
+senior management are the long-term strategic and financial ones.
+
+26
+00:01:42,425 --> 00:01:45,530
+Having the right resources on the Agile team,
+
+27
+00:01:45,530 --> 00:01:50,120
+who are capable decision-makers with cross-functional skills
+
+28
+00:01:50,120 --> 00:01:55,630
+will help facilitate the decision-making process at SocialKare.gov.
+
+29
+00:01:55,630 --> 00:01:58,865
+The product owner, facilitator,
+
+30
+00:01:58,865 --> 00:02:02,360
+and Agile team must be empowered to
+
+31
+00:02:02,360 --> 00:02:06,515
+become self-managing and collaborative at SocialKare.gov.
+
+32
+00:02:06,515 --> 00:02:10,220
+The product owner and facilitator will obviously need
+
+33
+00:02:10,220 --> 00:02:13,610
+to ensure collaboration and involvement of
+
+34
+00:02:13,610 --> 00:02:17,180
+the stakeholder community at the appropriate times to keep
+
+35
+00:02:17,180 --> 00:02:21,950
+products on track and outcomes aligned with business needs.
+
+36
+00:02:21,950 --> 00:02:27,950
+A third success strategy is incorporating adaptive planning with relevant buy-in.
+
+37
+00:02:27,950 --> 00:02:31,190
+It all begins with an inspiring product vision,
+
+38
+00:02:31,190 --> 00:02:35,695
+which represents the future state of SocialKare.gov and its product offering.
+
+39
+00:02:35,695 --> 00:02:39,815
+This future state vision should be created by the sponsors,
+
+40
+00:02:39,815 --> 00:02:43,640
+with this vision being crystal-clear for the product owner,
+
+41
+00:02:43,640 --> 00:02:47,725
+the vision drives all other elements of adaptive planning.
+
+42
+00:02:47,725 --> 00:02:51,490
+The next layer of adaptive planning is a product roadmap.
+
+43
+00:02:51,490 --> 00:02:55,610
+The roadmap, typically presented visually with a timeline,
+
+44
+00:02:55,610 --> 00:03:00,800
+outlines a product functionality planned for each time period.
+
+45
+00:03:00,800 --> 00:03:05,149
+This roadmap will progressively evolve over time.
+
+46
+00:03:05,149 --> 00:03:07,675
+This is followed by a Release Plan.
+
+47
+00:03:07,675 --> 00:03:12,740
+If the team has a well-refined set of requirements for the first few iterations,
+
+48
+00:03:12,740 --> 00:03:17,755
+initial Release Plan should comfortably be able to cover the first 2-3 releases.
+
+49
+00:03:17,755 --> 00:03:20,210
+This has to be balanced with the need to remain
+
+50
+00:03:20,210 --> 00:03:23,540
+flexible and adaptable with an Agile mindset.
+
+51
+00:03:23,540 --> 00:03:28,375
+Planning out in tremendous details too far out is not recommended.
+
+52
+00:03:28,375 --> 00:03:31,340
+Once a release plan is in place,
+
+53
+00:03:31,340 --> 00:03:35,750
+Iteration Plan should follow in which SocialKare.gov takes
+
+54
+00:03:35,750 --> 00:03:38,450
+a prioritized backlog and breaks them
+
+55
+00:03:38,450 --> 00:03:41,920
+down into iterations with a business priority focus.
+
+56
+00:03:41,920 --> 00:03:48,425
+Finally, SocialKare.gov could benefit through an informal level of daily planning,
+
+57
+00:03:48,425 --> 00:03:50,810
+which is a natural fringe benefit of
+
+58
+00:03:50,810 --> 00:03:54,980
+the daily stand-ups recommended by virtually all Agile Frameworks.
+
+59
+00:03:54,980 --> 00:03:59,690
+This ensures we're proactively dealing with anything important that comes up.
+
+60
+00:03:59,690 --> 00:04:02,600
+What strategies did you come up with to make
+
+61
+00:04:02,600 --> 00:04:07,830
+SocialKare.gov more successful in setting an Agile Framework?
+

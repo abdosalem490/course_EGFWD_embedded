@@ -1,0 +1,428 @@
+1
+00:00:00,000 --> 00:00:03,000
+Now, since we have a good understanding of the scope
+
+2
+00:00:03,000 --> 00:00:06,240
+and the pricing structure and how they're correlated,
+
+3
+00:00:06,240 --> 00:00:12,375
+let's take a deeper dive into how to set rates or fixed costs for the project.
+
+4
+00:00:12,375 --> 00:00:17,910
+You know that for a time and materials or in hourly model as it's sometimes called,
+
+5
+00:00:17,910 --> 00:00:20,519
+we need to set a rate for ourselves.
+
+6
+00:00:20,519 --> 00:00:23,460
+That is the amount of money that we expect to pay
+
+7
+00:00:23,460 --> 00:00:27,690
+the client for every hour that we spend on their project.
+
+8
+00:00:27,690 --> 00:00:30,465
+When you start on a freelancing platform,
+
+9
+00:00:30,465 --> 00:00:34,170
+take a moment to browse it under their profiles and other rates,
+
+10
+00:00:34,170 --> 00:00:36,750
+you'll see a large variation among them.
+
+11
+00:00:36,750 --> 00:00:43,340
+Some freelancers maybe you okay to charge $10 an hour or $20 an hour,
+
+12
+00:00:43,340 --> 00:00:47,210
+while some may charge $50 an hour to $60 an hour.
+
+13
+00:00:47,210 --> 00:00:50,285
+It is also common to see rates of a $100,
+
+14
+00:00:50,285 --> 00:00:52,685
+even $150 or beyond.
+
+15
+00:00:52,685 --> 00:00:55,460
+But that really leaves us with the question,
+
+16
+00:00:55,460 --> 00:00:57,395
+what should hour rate be?
+
+17
+00:00:57,395 --> 00:00:59,740
+How to figure out a rate?
+
+18
+00:00:59,740 --> 00:01:05,165
+But before that, let's get back to a mindset of thinking from the client's point of view.
+
+19
+00:01:05,165 --> 00:01:07,640
+From a client's perspective when they are
+
+20
+00:01:07,640 --> 00:01:11,675
+deciding whether to hire a freelancer from a freelancing platform,
+
+21
+00:01:11,675 --> 00:01:14,255
+they would primarily look at three things.
+
+22
+00:01:14,255 --> 00:01:18,155
+The profile of the freelancer that we talked about in the previous lesson,
+
+23
+00:01:18,155 --> 00:01:19,895
+which talks about the freelancer,
+
+24
+00:01:19,895 --> 00:01:22,630
+their skills, and any experience.
+
+25
+00:01:22,630 --> 00:01:27,035
+Then they would look at the reviews that are the clients have left about the work
+
+26
+00:01:27,035 --> 00:01:31,145
+that they got done from the freelancer and of course,
+
+27
+00:01:31,145 --> 00:01:34,150
+how much it would cost them to hire the freelancer.
+
+28
+00:01:34,150 --> 00:01:38,765
+Now we have to keep in mind that we are in a marketplace where there may be
+
+29
+00:01:38,765 --> 00:01:43,750
+other freelancers bidding for the same project that we have expressed interest in.
+
+30
+00:01:43,750 --> 00:01:47,660
+Let's say we have a freelancer who has a very similar profile then
+
+31
+00:01:47,660 --> 00:01:53,920
+ours and has the same cost as ours, but better reviews.
+
+32
+00:01:53,920 --> 00:01:57,180
+There is a high chance that the client goes ahead with
+
+33
+00:01:57,180 --> 00:02:02,860
+the other freelancer since she is specifically a better candidate at the same rate.
+
+34
+00:02:02,860 --> 00:02:07,190
+Even though we can't charge the same rate as other freelancers on the platform,
+
+35
+00:02:07,190 --> 00:02:09,650
+lack of reviews from other clients is
+
+36
+00:02:09,650 --> 00:02:13,500
+something that could be a blocker for us to charge that rate.
+
+37
+00:02:13,670 --> 00:02:18,625
+The question is, how to get good reviews?
+
+38
+00:02:18,625 --> 00:02:23,240
+But you'll notice now that there is really a chicken and egg problem here.
+
+39
+00:02:23,240 --> 00:02:27,050
+Freelancers who have good reviews on the platform,
+
+40
+00:02:27,050 --> 00:02:31,950
+get hired because that's a testimony of their work for new clients.
+
+41
+00:02:31,950 --> 00:02:34,564
+However, to get good reviews,
+
+42
+00:02:34,564 --> 00:02:36,805
+we need to get hired.
+
+43
+00:02:36,805 --> 00:02:39,800
+This could be a pretty hard problem when
+
+44
+00:02:39,800 --> 00:02:42,355
+we are just starting out their freelancing careers.
+
+45
+00:02:42,355 --> 00:02:44,300
+But to really break this deadlock,
+
+46
+00:02:44,300 --> 00:02:49,795
+it will be helpful to again go back to focusing on quality work for the client.
+
+47
+00:02:49,795 --> 00:02:53,825
+Let me describe that by taking an example from my own freelancing journey.
+
+48
+00:02:53,825 --> 00:02:57,005
+In fact, from the very first freelancing project.
+
+49
+00:02:57,005 --> 00:03:01,075
+I went ahead and created an account on one of the freelancing platforms,
+
+50
+00:03:01,075 --> 00:03:02,390
+set up my profile,
+
+51
+00:03:02,390 --> 00:03:04,190
+and started looking for gigs.
+
+52
+00:03:04,190 --> 00:03:07,760
+Some work that I could do using the skills I had then.
+
+53
+00:03:07,760 --> 00:03:09,635
+I approached a few clients,
+
+54
+00:03:09,635 --> 00:03:13,130
+send them expression of interests, not many responded.
+
+55
+00:03:13,130 --> 00:03:18,885
+One person who did respond wanted to fix a bug in their web application.
+
+56
+00:03:18,885 --> 00:03:22,135
+They were offering me 13 pounds for that job.
+
+57
+00:03:22,135 --> 00:03:24,580
+Yes, full 13 pounds.
+
+58
+00:03:24,580 --> 00:03:27,160
+That doesn't sound like the money you would
+
+59
+00:03:27,160 --> 00:03:29,785
+normally take to fix a bug in a web application,
+
+60
+00:03:29,785 --> 00:03:33,630
+which could take pretty long. But you know what?
+
+61
+00:03:33,630 --> 00:03:37,090
+I didn't have any other clients at that point and I wanted to try
+
+62
+00:03:37,090 --> 00:03:41,090
+freelancing out and see if I can get real money in my bank account.
+
+63
+00:03:41,090 --> 00:03:42,975
+I accepted the offer.
+
+64
+00:03:42,975 --> 00:03:45,745
+Spent a few hours trying to fix that bug.
+
+65
+00:03:45,745 --> 00:03:51,515
+I tried to put in a good amount of effort trying to help the client debug that bug.
+
+66
+00:03:51,515 --> 00:03:54,190
+I did make 13 pounds from that job,
+
+67
+00:03:54,190 --> 00:03:58,255
+which was not as important as the review I got from the client on the platform.
+
+68
+00:03:58,255 --> 00:04:01,610
+My first review, I knew I had gotten started.
+
+69
+00:04:01,610 --> 00:04:05,915
+Now, I got another client on the same platform who was ready to pay me
+
+70
+00:04:05,915 --> 00:04:10,710
+$100 for three days of work. Guess what?
+
+71
+00:04:10,710 --> 00:04:12,760
+I accepted that too.
+
+72
+00:04:12,760 --> 00:04:15,185
+I tried to do a neat job at it.
+
+73
+00:04:15,185 --> 00:04:20,750
+The same client gave me another task which was a little higher and costs,
+
+74
+00:04:20,750 --> 00:04:23,180
+related to the effort I would spend on it.
+
+75
+00:04:23,180 --> 00:04:26,660
+I got a few more tasks to do from the same client for which I could
+
+76
+00:04:26,660 --> 00:04:31,075
+set my own pricing since the client was slowly growing trust in my work.
+
+77
+00:04:31,075 --> 00:04:35,720
+I earned a total of $1,150 from that client,
+
+78
+00:04:35,720 --> 00:04:38,810
+who was really the second client in my freelancing carrier.
+
+79
+00:04:38,810 --> 00:04:42,380
+This money was not small money because I was just getting started and it
+
+80
+00:04:42,380 --> 00:04:46,735
+meant a lot to me to make something out from my freelancing journey.
+
+81
+00:04:46,735 --> 00:04:48,870
+I knew I had gotten started.
+
+82
+00:04:48,870 --> 00:04:52,550
+What do I really want to reiterate with the previous example,
+
+83
+00:04:52,550 --> 00:04:55,820
+is that when you are starting off your freelancing carrier,
+
+84
+00:04:55,820 --> 00:04:59,150
+if you really focus on doing quality work for the clients,
+
+85
+00:04:59,150 --> 00:05:01,115
+done justified before it,
+
+86
+00:05:01,115 --> 00:05:03,215
+then you could build a good profile,
+
+87
+00:05:03,215 --> 00:05:07,100
+get good reviews, build trust with the existing clients.
+
+88
+00:05:07,100 --> 00:05:11,365
+Then you can command the rate and the pay that you really deserve.
+
+89
+00:05:11,365 --> 00:05:15,005
+When I started out with that 13 pounds for that first job,
+
+90
+00:05:15,005 --> 00:05:19,115
+a few clients later I could charge $60 an hour,
+
+91
+00:05:19,115 --> 00:05:21,950
+and later $120 an hour, up till today,
+
+92
+00:05:21,950 --> 00:05:25,465
+when getting a three-digit hourly rate is quite common.
+
+93
+00:05:25,465 --> 00:05:27,245
+When we're starting out,
+
+94
+00:05:27,245 --> 00:05:30,335
+it gets more important to do good work.
+
+95
+00:05:30,335 --> 00:05:32,120
+Have happy clients,
+
+96
+00:05:32,120 --> 00:05:34,940
+and build up a good profile and good reviews.
+
+97
+00:05:34,940 --> 00:05:38,120
+Sooner than later, you will realize that
+
+98
+00:05:38,120 --> 00:05:42,505
+this balance is getting better as your reviews and profile builds up.
+
+99
+00:05:42,505 --> 00:05:45,290
+Keep in mind that along with the reviews,
+
+100
+00:05:45,290 --> 00:05:48,620
+you're also building up your profile by gaining
+
+101
+00:05:48,620 --> 00:05:53,260
+more experience and projects to demonstrate your work to other clients.
+
+102
+00:05:53,260 --> 00:05:56,355
+Let's get back to our original example.
+
+103
+00:05:56,355 --> 00:05:59,915
+If you happen to have a good profile and good reviews,
+
+104
+00:05:59,915 --> 00:06:04,060
+you are now much better placed to charge a competitive rate.
+
+105
+00:06:04,060 --> 00:06:08,555
+You have broken the deadlock and can command the rate you deserve.
+
+106
+00:06:08,555 --> 00:06:11,825
+All good things, take time and patience.
+
+107
+00:06:11,825 --> 00:06:17,580
+This time you might be the client's choice despite of your high rate.
+

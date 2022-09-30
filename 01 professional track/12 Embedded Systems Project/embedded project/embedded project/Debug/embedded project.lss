@@ -1,0 +1,408 @@
+
+embedded project.elf:     file format elf32-avr
+
+Sections:
+Idx Name          Size      VMA       LMA       File off  Algn
+  0 .text         0000024a  00000000  00000000  00000074  2**1
+                  CONTENTS, ALLOC, LOAD, READONLY, CODE
+  1 .data         00000000  00800060  00800060  000002be  2**0
+                  CONTENTS, ALLOC, LOAD, DATA
+  2 .bss          0000000a  00800060  00800060  000002be  2**0
+                  ALLOC
+  3 .comment      00000030  00000000  00000000  000002be  2**0
+                  CONTENTS, READONLY
+  4 .note.gnu.avr.deviceinfo 0000003c  00000000  00000000  000002f0  2**2
+                  CONTENTS, READONLY
+  5 .debug_aranges 000000c8  00000000  00000000  0000032c  2**0
+                  CONTENTS, READONLY, DEBUGGING
+  6 .debug_info   00000adc  00000000  00000000  000003f4  2**0
+                  CONTENTS, READONLY, DEBUGGING
+  7 .debug_abbrev 0000075d  00000000  00000000  00000ed0  2**0
+                  CONTENTS, READONLY, DEBUGGING
+  8 .debug_line   0000084b  00000000  00000000  0000162d  2**0
+                  CONTENTS, READONLY, DEBUGGING
+  9 .debug_frame  000002c0  00000000  00000000  00001e78  2**2
+                  CONTENTS, READONLY, DEBUGGING
+ 10 .debug_str    00000672  00000000  00000000  00002138  2**0
+                  CONTENTS, READONLY, DEBUGGING
+ 11 .debug_loc    00000f93  00000000  00000000  000027aa  2**0
+                  CONTENTS, READONLY, DEBUGGING
+ 12 .debug_ranges 00000098  00000000  00000000  0000373d  2**0
+                  CONTENTS, READONLY, DEBUGGING
+
+Disassembly of section .text:
+
+00000000 <__vectors>:
+   0:	0c 94 2a 00 	jmp	0x54	; 0x54 <__ctors_end>
+   4:	0c 94 4c 00 	jmp	0x98	; 0x98 <__vector_1>
+   8:	0c 94 77 00 	jmp	0xee	; 0xee <__vector_2>
+   c:	0c 94 a2 00 	jmp	0x144	; 0x144 <__vector_3>
+  10:	0c 94 3c 00 	jmp	0x78	; 0x78 <__bad_interrupt>
+  14:	0c 94 3c 00 	jmp	0x78	; 0x78 <__bad_interrupt>
+  18:	0c 94 3c 00 	jmp	0x78	; 0x78 <__bad_interrupt>
+  1c:	0c 94 3c 00 	jmp	0x78	; 0x78 <__bad_interrupt>
+  20:	0c 94 3c 00 	jmp	0x78	; 0x78 <__bad_interrupt>
+  24:	0c 94 3c 00 	jmp	0x78	; 0x78 <__bad_interrupt>
+  28:	0c 94 cd 00 	jmp	0x19a	; 0x19a <__vector_10>
+  2c:	0c 94 f8 00 	jmp	0x1f0	; 0x1f0 <__vector_11>
+  30:	0c 94 3c 00 	jmp	0x78	; 0x78 <__bad_interrupt>
+  34:	0c 94 3c 00 	jmp	0x78	; 0x78 <__bad_interrupt>
+  38:	0c 94 3c 00 	jmp	0x78	; 0x78 <__bad_interrupt>
+  3c:	0c 94 3c 00 	jmp	0x78	; 0x78 <__bad_interrupt>
+  40:	0c 94 3c 00 	jmp	0x78	; 0x78 <__bad_interrupt>
+  44:	0c 94 3c 00 	jmp	0x78	; 0x78 <__bad_interrupt>
+  48:	0c 94 3c 00 	jmp	0x78	; 0x78 <__bad_interrupt>
+  4c:	0c 94 3c 00 	jmp	0x78	; 0x78 <__bad_interrupt>
+  50:	0c 94 3c 00 	jmp	0x78	; 0x78 <__bad_interrupt>
+
+00000054 <__ctors_end>:
+  54:	11 24       	eor	r1, r1
+  56:	1f be       	out	0x3f, r1	; 63
+  58:	cf e5       	ldi	r28, 0x5F	; 95
+  5a:	d8 e0       	ldi	r29, 0x08	; 8
+  5c:	de bf       	out	0x3e, r29	; 62
+  5e:	cd bf       	out	0x3d, r28	; 61
+
+00000060 <__do_clear_bss>:
+  60:	20 e0       	ldi	r18, 0x00	; 0
+  62:	a0 e6       	ldi	r26, 0x60	; 96
+  64:	b0 e0       	ldi	r27, 0x00	; 0
+  66:	01 c0       	rjmp	.+2      	; 0x6a <.do_clear_bss_start>
+
+00000068 <.do_clear_bss_loop>:
+  68:	1d 92       	st	X+, r1
+
+0000006a <.do_clear_bss_start>:
+  6a:	aa 36       	cpi	r26, 0x6A	; 106
+  6c:	b2 07       	cpc	r27, r18
+  6e:	e1 f7       	brne	.-8      	; 0x68 <.do_clear_bss_loop>
+  70:	0e 94 3e 00 	call	0x7c	; 0x7c <main>
+  74:	0c 94 23 01 	jmp	0x246	; 0x246 <_exit>
+
+00000078 <__bad_interrupt>:
+  78:	0c 94 00 00 	jmp	0	; 0x0 <__vectors>
+
+0000007c <main>:
+#include "MCAL/atmega32_uPU/atmega32_uPU_header.h"
+#include "utils/math_btt.h"
+
+
+int main(void)
+{
+  7c:	cf 93       	push	r28
+  7e:	df 93       	push	r29
+  80:	1f 92       	push	r1
+  82:	cd b7       	in	r28, 0x3d	; 61
+  84:	de b7       	in	r29, 0x3e	; 62
+	volatile char s = 0;
+  86:	19 82       	std	Y+1, r1	; 0x01
+
+	ASSIGN_RANGE(s, 4, 6, 7);
+  88:	89 81       	ldd	r24, Y+1	; 0x01
+  8a:	80 67       	ori	r24, 0x70	; 112
+  8c:	89 83       	std	Y+1, r24	; 0x01
+
+	SAVE_SREG_IN_VAR(s);
+  8e:	8f b7       	in	r24, 0x3f	; 63
+  90:	89 83       	std	Y+1, r24	; 0x01
+
+	RESTORE_SREG_FROM_VAR(s);
+  92:	89 81       	ldd	r24, Y+1	; 0x01
+  94:	8f bf       	out	0x3f, r24	; 63
+  96:	ff cf       	rjmp	.-2      	; 0x96 <main+0x1a>
+
+00000098 <__vector_1>:
+
+/*
+ *	the handler of external interrupt on INT0
+ */
+void __vector_1(void)
+{
+  98:	1f 92       	push	r1
+  9a:	0f 92       	push	r0
+  9c:	0f b6       	in	r0, 0x3f	; 63
+  9e:	0f 92       	push	r0
+  a0:	11 24       	eor	r1, r1
+  a2:	2f 93       	push	r18
+  a4:	3f 93       	push	r19
+  a6:	4f 93       	push	r20
+  a8:	5f 93       	push	r21
+  aa:	6f 93       	push	r22
+  ac:	7f 93       	push	r23
+  ae:	8f 93       	push	r24
+  b0:	9f 93       	push	r25
+  b2:	af 93       	push	r26
+  b4:	bf 93       	push	r27
+  b6:	ef 93       	push	r30
+  b8:	ff 93       	push	r31
+	/*call the call back function*/
+	global_pvCallBackINT0();
+  ba:	e0 91 64 00 	lds	r30, 0x0064	; 0x800064 <global_pvCallBackINT0>
+  be:	f0 91 65 00 	lds	r31, 0x0065	; 0x800065 <global_pvCallBackINT0+0x1>
+  c2:	09 95       	icall
+
+	/*disable the flag of interrupt*/
+	SET_BIT(GIFR, GIFR_INTF0_1BIT);
+  c4:	8a b7       	in	r24, 0x3a	; 58
+  c6:	80 64       	ori	r24, 0x40	; 64
+  c8:	8a bf       	out	0x3a, r24	; 58
+
+	/*enable the global interrupt after the end of interrupt*/
+	ENABLE_GLOBAL_INT();
+  ca:	78 94       	sei
+}
+  cc:	ff 91       	pop	r31
+  ce:	ef 91       	pop	r30
+  d0:	bf 91       	pop	r27
+  d2:	af 91       	pop	r26
+  d4:	9f 91       	pop	r25
+  d6:	8f 91       	pop	r24
+  d8:	7f 91       	pop	r23
+  da:	6f 91       	pop	r22
+  dc:	5f 91       	pop	r21
+  de:	4f 91       	pop	r20
+  e0:	3f 91       	pop	r19
+  e2:	2f 91       	pop	r18
+  e4:	0f 90       	pop	r0
+  e6:	0f be       	out	0x3f, r0	; 63
+  e8:	0f 90       	pop	r0
+  ea:	1f 90       	pop	r1
+  ec:	18 95       	reti
+
+000000ee <__vector_2>:
+
+/*
+ *	the handler of external interrupt on INT1
+ */
+void __vector_2(void)
+{
+  ee:	1f 92       	push	r1
+  f0:	0f 92       	push	r0
+  f2:	0f b6       	in	r0, 0x3f	; 63
+  f4:	0f 92       	push	r0
+  f6:	11 24       	eor	r1, r1
+  f8:	2f 93       	push	r18
+  fa:	3f 93       	push	r19
+  fc:	4f 93       	push	r20
+  fe:	5f 93       	push	r21
+ 100:	6f 93       	push	r22
+ 102:	7f 93       	push	r23
+ 104:	8f 93       	push	r24
+ 106:	9f 93       	push	r25
+ 108:	af 93       	push	r26
+ 10a:	bf 93       	push	r27
+ 10c:	ef 93       	push	r30
+ 10e:	ff 93       	push	r31
+	/*call the call back function*/
+	global_pvCallBackINT1();
+ 110:	e0 91 62 00 	lds	r30, 0x0062	; 0x800062 <global_pvCallBackINT1>
+ 114:	f0 91 63 00 	lds	r31, 0x0063	; 0x800063 <global_pvCallBackINT1+0x1>
+ 118:	09 95       	icall
+
+	/*disable the flag of interrupt*/
+	SET_BIT(GIFR, GIFR_INTF1_1BIT);
+ 11a:	8a b7       	in	r24, 0x3a	; 58
+ 11c:	80 68       	ori	r24, 0x80	; 128
+ 11e:	8a bf       	out	0x3a, r24	; 58
+
+	/*enable the global interrupt after the end of interrupt*/
+	ENABLE_GLOBAL_INT();
+ 120:	78 94       	sei
+}
+ 122:	ff 91       	pop	r31
+ 124:	ef 91       	pop	r30
+ 126:	bf 91       	pop	r27
+ 128:	af 91       	pop	r26
+ 12a:	9f 91       	pop	r25
+ 12c:	8f 91       	pop	r24
+ 12e:	7f 91       	pop	r23
+ 130:	6f 91       	pop	r22
+ 132:	5f 91       	pop	r21
+ 134:	4f 91       	pop	r20
+ 136:	3f 91       	pop	r19
+ 138:	2f 91       	pop	r18
+ 13a:	0f 90       	pop	r0
+ 13c:	0f be       	out	0x3f, r0	; 63
+ 13e:	0f 90       	pop	r0
+ 140:	1f 90       	pop	r1
+ 142:	18 95       	reti
+
+00000144 <__vector_3>:
+
+/*
+ *	the handler of external interrupt on INT2
+ */
+ void __vector_3(void)
+{
+ 144:	1f 92       	push	r1
+ 146:	0f 92       	push	r0
+ 148:	0f b6       	in	r0, 0x3f	; 63
+ 14a:	0f 92       	push	r0
+ 14c:	11 24       	eor	r1, r1
+ 14e:	2f 93       	push	r18
+ 150:	3f 93       	push	r19
+ 152:	4f 93       	push	r20
+ 154:	5f 93       	push	r21
+ 156:	6f 93       	push	r22
+ 158:	7f 93       	push	r23
+ 15a:	8f 93       	push	r24
+ 15c:	9f 93       	push	r25
+ 15e:	af 93       	push	r26
+ 160:	bf 93       	push	r27
+ 162:	ef 93       	push	r30
+ 164:	ff 93       	push	r31
+	/*call the call back function*/
+	global_pvCallBackINT2();
+ 166:	e0 91 60 00 	lds	r30, 0x0060	; 0x800060 <__DATA_REGION_ORIGIN__>
+ 16a:	f0 91 61 00 	lds	r31, 0x0061	; 0x800061 <__DATA_REGION_ORIGIN__+0x1>
+ 16e:	09 95       	icall
+
+	/*disable the flag of interrupt*/
+	SET_BIT(GIFR, GIFR_INTF2_1BIT);
+ 170:	8a b7       	in	r24, 0x3a	; 58
+ 172:	80 62       	ori	r24, 0x20	; 32
+ 174:	8a bf       	out	0x3a, r24	; 58
+
+	/*enable the global interrupt after the end of interrupt*/
+	ENABLE_GLOBAL_INT();	
+ 176:	78 94       	sei
+ 178:	ff 91       	pop	r31
+ 17a:	ef 91       	pop	r30
+ 17c:	bf 91       	pop	r27
+ 17e:	af 91       	pop	r26
+ 180:	9f 91       	pop	r25
+ 182:	8f 91       	pop	r24
+ 184:	7f 91       	pop	r23
+ 186:	6f 91       	pop	r22
+ 188:	5f 91       	pop	r21
+ 18a:	4f 91       	pop	r20
+ 18c:	3f 91       	pop	r19
+ 18e:	2f 91       	pop	r18
+ 190:	0f 90       	pop	r0
+ 192:	0f be       	out	0x3f, r0	; 63
+ 194:	0f 90       	pop	r0
+ 196:	1f 90       	pop	r1
+ 198:	18 95       	reti
+
+0000019a <__vector_10>:
+ *
+ *	@brief		-:		-ISR of Timer/Counter1 Overflow
+ *
+ */
+void __attribute__ ((signal,used)) __vector_10 (void) 
+{
+ 19a:	1f 92       	push	r1
+ 19c:	0f 92       	push	r0
+ 19e:	0f b6       	in	r0, 0x3f	; 63
+ 1a0:	0f 92       	push	r0
+ 1a2:	11 24       	eor	r1, r1
+ 1a4:	2f 93       	push	r18
+ 1a6:	3f 93       	push	r19
+ 1a8:	4f 93       	push	r20
+ 1aa:	5f 93       	push	r21
+ 1ac:	6f 93       	push	r22
+ 1ae:	7f 93       	push	r23
+ 1b0:	8f 93       	push	r24
+ 1b2:	9f 93       	push	r25
+ 1b4:	af 93       	push	r26
+ 1b6:	bf 93       	push	r27
+ 1b8:	ef 93       	push	r30
+ 1ba:	ff 93       	push	r31
+	/*call the call back function*/
+	global_pvOverFlowCallBack();
+ 1bc:	e0 91 66 00 	lds	r30, 0x0066	; 0x800066 <global_pvOverFlowCallBack>
+ 1c0:	f0 91 67 00 	lds	r31, 0x0067	; 0x800067 <global_pvOverFlowCallBack+0x1>
+ 1c4:	09 95       	icall
+
+	/*disable the flag of interrupt*/
+	SET_BIT(TIFR, TIFR_TOV0_1BITS);
+ 1c6:	88 b7       	in	r24, 0x38	; 56
+ 1c8:	81 60       	ori	r24, 0x01	; 1
+ 1ca:	88 bf       	out	0x38, r24	; 56
+
+	/*enable the global interrupt after the end of interrupt*/
+	ENABLE_GLOBAL_INT();
+ 1cc:	78 94       	sei
+	
+}
+ 1ce:	ff 91       	pop	r31
+ 1d0:	ef 91       	pop	r30
+ 1d2:	bf 91       	pop	r27
+ 1d4:	af 91       	pop	r26
+ 1d6:	9f 91       	pop	r25
+ 1d8:	8f 91       	pop	r24
+ 1da:	7f 91       	pop	r23
+ 1dc:	6f 91       	pop	r22
+ 1de:	5f 91       	pop	r21
+ 1e0:	4f 91       	pop	r20
+ 1e2:	3f 91       	pop	r19
+ 1e4:	2f 91       	pop	r18
+ 1e6:	0f 90       	pop	r0
+ 1e8:	0f be       	out	0x3f, r0	; 63
+ 1ea:	0f 90       	pop	r0
+ 1ec:	1f 90       	pop	r1
+ 1ee:	18 95       	reti
+
+000001f0 <__vector_11>:
+ *
+ *	@brief		-:		-ISR of Timer/Counter0 Compare Match
+ *
+ */
+void __attribute__ ((signal,used)) __vector_11(void) 
+{
+ 1f0:	1f 92       	push	r1
+ 1f2:	0f 92       	push	r0
+ 1f4:	0f b6       	in	r0, 0x3f	; 63
+ 1f6:	0f 92       	push	r0
+ 1f8:	11 24       	eor	r1, r1
+ 1fa:	2f 93       	push	r18
+ 1fc:	3f 93       	push	r19
+ 1fe:	4f 93       	push	r20
+ 200:	5f 93       	push	r21
+ 202:	6f 93       	push	r22
+ 204:	7f 93       	push	r23
+ 206:	8f 93       	push	r24
+ 208:	9f 93       	push	r25
+ 20a:	af 93       	push	r26
+ 20c:	bf 93       	push	r27
+ 20e:	ef 93       	push	r30
+ 210:	ff 93       	push	r31
+	/*call the call back function*/
+	global_pvOutCmpCallBack();
+ 212:	e0 91 68 00 	lds	r30, 0x0068	; 0x800068 <global_pvOutCmpCallBack>
+ 216:	f0 91 69 00 	lds	r31, 0x0069	; 0x800069 <global_pvOutCmpCallBack+0x1>
+ 21a:	09 95       	icall
+
+	/*disable the flag of interrupt*/
+	SET_BIT(TIFR, TIFR_OCF0_1BITS);	
+ 21c:	88 b7       	in	r24, 0x38	; 56
+ 21e:	82 60       	ori	r24, 0x02	; 2
+ 220:	88 bf       	out	0x38, r24	; 56
+
+	/*enable the global interrupt after the end of interrupt*/
+	ENABLE_GLOBAL_INT();
+ 222:	78 94       	sei
+	
+ 224:	ff 91       	pop	r31
+ 226:	ef 91       	pop	r30
+ 228:	bf 91       	pop	r27
+ 22a:	af 91       	pop	r26
+ 22c:	9f 91       	pop	r25
+ 22e:	8f 91       	pop	r24
+ 230:	7f 91       	pop	r23
+ 232:	6f 91       	pop	r22
+ 234:	5f 91       	pop	r21
+ 236:	4f 91       	pop	r20
+ 238:	3f 91       	pop	r19
+ 23a:	2f 91       	pop	r18
+ 23c:	0f 90       	pop	r0
+ 23e:	0f be       	out	0x3f, r0	; 63
+ 240:	0f 90       	pop	r0
+ 242:	1f 90       	pop	r1
+ 244:	18 95       	reti
+
+00000246 <_exit>:
+ 246:	f8 94       	cli
+
+00000248 <__stop_program>:
+ 248:	ff cf       	rjmp	.-2      	; 0x248 <__stop_program>

@@ -1,0 +1,140 @@
+1
+00:00:00,000 --> 00:00:05,700
+In this exercise, you are asked to identify three benefits of using
+
+2
+00:00:05,700 --> 00:00:08,490
+an Agile framework and explain how
+
+3
+00:00:08,490 --> 00:00:12,150
+those benefits will help SocialKare.gov achieve its goals.
+
+4
+00:00:12,150 --> 00:00:14,505
+Let's look at my response.
+
+5
+00:00:14,505 --> 00:00:18,990
+Each Agile framework has grown out of the real life experiences of
+
+6
+00:00:18,990 --> 00:00:21,360
+professionals who did not want to be
+
+7
+00:00:21,360 --> 00:00:25,560
+limited by the challenges of the traditional waterfall approach.
+
+8
+00:00:25,560 --> 00:00:30,900
+So SocialKare.gov would benefit from the years of experience that
+
+9
+00:00:30,900 --> 00:00:33,420
+a proven framework has been built upon and further
+
+10
+00:00:33,420 --> 00:00:37,300
+refined over time at many organizations globally.
+
+11
+00:00:37,300 --> 00:00:40,025
+Such real life experiences will help
+
+12
+00:00:40,025 --> 00:00:44,765
+SocialKare.gov learn from the mistakes made by other Agile teams,
+
+13
+00:00:44,765 --> 00:00:48,730
+such as launching a feature without getting proper user input.
+
+14
+00:00:48,730 --> 00:00:51,390
+By using a proven framework,
+
+15
+00:00:51,390 --> 00:00:55,055
+there's a higher level of predictability for the organization.
+
+16
+00:00:55,055 --> 00:00:59,735
+For example, SocialKare.gov leadership and Agile team
+
+17
+00:00:59,735 --> 00:01:04,430
+both will benefit from defined ceremonies and defined roles for
+
+18
+00:01:04,430 --> 00:01:08,720
+the Agile team that make it easier to go through an Agile transformation
+
+19
+00:01:08,720 --> 00:01:14,350
+knowing that this has been tried and has worked for other organizations.
+
+20
+00:01:14,350 --> 00:01:19,090
+By adopting a proven Agile framework and its associated practices,
+
+21
+00:01:19,090 --> 00:01:23,585
+organizations benefit from higher quality product delivery.
+
+22
+00:01:23,585 --> 00:01:29,750
+SocialKare.gov will be able to deliver solutions in a timely manner with
+
+23
+00:01:29,750 --> 00:01:33,800
+a significantly higher level of end user satisfaction
+
+24
+00:01:33,800 --> 00:01:39,685
+because Agile Frameworks have quality built into each product deliverable iteration.
+
+25
+00:01:39,685 --> 00:01:42,830
+This prevents expensive delays due to
+
+26
+00:01:42,830 --> 00:01:46,540
+defects and rework at the end of the development cycle.
+
+27
+00:01:46,540 --> 00:01:51,560
+Another key benefit of any Agile framework is that it allows for customizing,
+
+28
+00:01:51,560 --> 00:01:55,105
+adapting the framework to better align with the organization.
+
+29
+00:01:55,105 --> 00:01:57,395
+Much like any organization,
+
+30
+00:01:57,395 --> 00:02:02,840
+the unique nature of SocialKare.gov product development environment will tend to lead to
+
+31
+00:02:02,840 --> 00:02:08,725
+some tailoring to better fit SocialKare.gov specific processes.
+
+32
+00:02:08,725 --> 00:02:13,250
+This refinement is best done once SocialKare.gov has tried out
+
+33
+00:02:13,250 --> 00:02:18,395
+an Agile Framework in its original form for awhile and learn from it.
+
+34
+00:02:18,395 --> 00:02:20,420
+That was my solution.
+
+35
+00:02:20,420 --> 00:02:23,520
+How does your answer differ from mine?
+

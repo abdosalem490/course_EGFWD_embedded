@@ -1,0 +1,196 @@
+1
+00:00:00,000 --> 00:00:03,885
+Now let's dive in a little deeper into freelancing platforms,
+
+2
+00:00:03,885 --> 00:00:07,395
+and see how we can use them to source clients.
+
+3
+00:00:07,395 --> 00:00:10,905
+Freelancing platform is a marketplace,
+
+4
+00:00:10,905 --> 00:00:14,980
+a marketplace of clients and freelancers.
+
+5
+00:00:15,020 --> 00:00:19,260
+Now a marketplace is all about matchmaking.
+
+6
+00:00:19,260 --> 00:00:21,930
+Lots of service providers who are freelancers
+
+7
+00:00:21,930 --> 00:00:25,035
+like you are willing to provide their services,
+
+8
+00:00:25,035 --> 00:00:30,500
+and lots of clients who are willing to hire these freelancers to avail their services.
+
+9
+00:00:30,500 --> 00:00:34,700
+Now, each client in this marketplace has a task or
+
+10
+00:00:34,700 --> 00:00:40,220
+a project that they publish on this freelancing platform in this marketplace,
+
+11
+00:00:40,220 --> 00:00:43,820
+for which they are looking for someone to work on.
+
+12
+00:00:43,820 --> 00:00:47,765
+Their interest is in picking one freelancer who is
+
+13
+00:00:47,765 --> 00:00:52,370
+available and qualified to work on that task.
+
+14
+00:00:52,370 --> 00:00:58,120
+Now let's walk through a mock-up of how a typical freelancing platform looks like.
+
+15
+00:00:58,120 --> 00:00:59,870
+Now as one would expect,
+
+16
+00:00:59,870 --> 00:01:01,175
+the main dashboard of
+
+17
+00:01:01,175 --> 00:01:05,915
+any freelancing platform would have a list of job requests from clients,
+
+18
+00:01:05,915 --> 00:01:10,835
+which means tasks or projects that the clients want to get done.
+
+19
+00:01:10,835 --> 00:01:14,350
+This request usually has four elements.
+
+20
+00:01:14,350 --> 00:01:17,420
+A title or a description of the project,
+
+21
+00:01:17,420 --> 00:01:20,855
+which gives a brief idea of what the project is about.
+
+22
+00:01:20,855 --> 00:01:23,525
+Usually when you click on that specific request,
+
+23
+00:01:23,525 --> 00:01:26,630
+it leads you to another page describing this project
+
+24
+00:01:26,630 --> 00:01:30,720
+in more detail if the client did put those details.
+
+25
+00:01:31,090 --> 00:01:34,475
+Then it also has a proposed payment type.
+
+26
+00:01:34,475 --> 00:01:37,225
+Whether fixed costs or hourly.
+
+27
+00:01:37,225 --> 00:01:41,050
+Then a proposed cost that the client is willing to pay.
+
+28
+00:01:41,050 --> 00:01:44,825
+This will either be an hourly rate or an end-to-end fixed cost,
+
+29
+00:01:44,825 --> 00:01:46,840
+depending on the payment type.
+
+30
+00:01:46,840 --> 00:01:52,425
+You will see us covering the fixed costs and the hourly rates later in this course.
+
+31
+00:01:52,425 --> 00:01:56,335
+You'll also see different skills that the project requires.
+
+32
+00:01:56,335 --> 00:01:59,690
+This could include programming languages that they want to use,
+
+33
+00:01:59,690 --> 00:02:02,105
+or off-the-shelf tools they're using,
+
+34
+00:02:02,105 --> 00:02:05,074
+or even high level domains like web development,
+
+35
+00:02:05,074 --> 00:02:08,995
+digital marketing, android app development, and so on.
+
+36
+00:02:08,995 --> 00:02:12,620
+A dashboard would usually have a filter section
+
+37
+00:02:12,620 --> 00:02:16,115
+where you could filter the type of projects that you want to see.
+
+38
+00:02:16,115 --> 00:02:19,160
+For example, if you're interested in projects that pay by the hour,
+
+39
+00:02:19,160 --> 00:02:20,540
+you could use that filter.
+
+40
+00:02:20,540 --> 00:02:23,945
+Or if you'd like to see projects requiring some specific skills,
+
+41
+00:02:23,945 --> 00:02:25,705
+you could filter by those skills.
+
+42
+00:02:25,705 --> 00:02:31,040
+Almost all of the freelancing platforms have such useful dashboards that help you
+
+43
+00:02:31,040 --> 00:02:36,935
+see the tasks or projects that you're looking for and apply to those.
+
+44
+00:02:36,935 --> 00:02:41,690
+Now it is worth mentioning here that freelancing platforms have gone a step
+
+45
+00:02:41,690 --> 00:02:47,420
+further and try to use Deep Tech to decide which jobs to show to which will freelancer,
+
+46
+00:02:47,420 --> 00:02:50,020
+depending on a lot of parameters.
+
+47
+00:02:50,020 --> 00:02:53,180
+This enables different freelancers to see
+
+48
+00:02:53,180 --> 00:02:56,200
+different jobs instead of everyone seeing the same list,
+
+49
+00:02:56,200 --> 00:03:00,480
+hence increasing relevancy and reducing competition.
+

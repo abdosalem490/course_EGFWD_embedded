@@ -1,0 +1,236 @@
+1
+00:00:00,000 --> 00:00:03,150
+In this exercise, you are asked to identify
+
+2
+00:00:03,150 --> 00:00:07,635
+at least three anti-type patterns that prevented the agile mindset from being present,
+
+3
+00:00:07,635 --> 00:00:12,915
+and explain why each anti-pattern is problematic for SocialKare.gov.
+
+4
+00:00:12,915 --> 00:00:16,935
+While your answers could have been a little different, here are mine;
+
+5
+00:00:16,935 --> 00:00:20,040
+the project manager did not build an environment of
+
+6
+00:00:20,040 --> 00:00:23,475
+making the team self-directed and self-organized,
+
+7
+00:00:23,475 --> 00:00:26,340
+this was evident when each team member worked on
+
+8
+00:00:26,340 --> 00:00:30,225
+their own list of tasks rather than a shared list.
+
+9
+00:00:30,225 --> 00:00:33,380
+The project manager monitored everyone's progress
+
+10
+00:00:33,380 --> 00:00:37,355
+individually rather than looking at team output.
+
+11
+00:00:37,355 --> 00:00:39,470
+The project manager stepped into
+
+12
+00:00:39,470 --> 00:00:44,735
+troubleshoot technical problems instead of having the team solve their own problems.
+
+13
+00:00:44,735 --> 00:00:49,880
+As a result, the team did not get an opportunity to build autonomy
+
+14
+00:00:49,880 --> 00:00:55,070
+and confidence without relying on the project manager to step into troubleshoot,
+
+15
+00:00:55,070 --> 00:00:58,475
+and that impacted team morale.
+
+16
+00:00:58,475 --> 00:01:04,325
+Quality was not built-in iteratively in the product development life cycle.
+
+17
+00:01:04,325 --> 00:01:08,180
+The evidence for this is that major coding flaws
+
+18
+00:01:08,180 --> 00:01:12,925
+arose and supporting systems integration testing was patchy.
+
+19
+00:01:12,925 --> 00:01:16,345
+This resulted in delays going into production,
+
+20
+00:01:16,345 --> 00:01:20,965
+which frustrated both the business leadership and the end users.
+
+21
+00:01:20,965 --> 00:01:26,060
+Further, defects and issues were identified after going to production.
+
+22
+00:01:26,060 --> 00:01:29,770
+Interim working solutions were not presented frequently to
+
+23
+00:01:29,770 --> 00:01:34,000
+the business and end users for proactive buying an feedback.
+
+24
+00:01:34,000 --> 00:01:37,780
+The evidence is that the product team did not have
+
+25
+00:01:37,780 --> 00:01:41,965
+frequent hands-on demonstration on front-end functionality.
+
+26
+00:01:41,965 --> 00:01:47,890
+The few scattered demos did not have the results vertically sliced, that is,
+
+27
+00:01:47,890 --> 00:01:51,235
+all the layers of the interim technical solution were not
+
+28
+00:01:51,235 --> 00:01:55,745
+integrated to present an observable version to users.
+
+29
+00:01:55,745 --> 00:02:00,635
+This resulted in an incomplete set of features going to production,
+
+30
+00:02:00,635 --> 00:02:03,455
+complaints started to flow in rapidly,
+
+31
+00:02:03,455 --> 00:02:07,970
+and the development team had to respond in a reactionary manner,
+
+32
+00:02:07,970 --> 00:02:10,325
+which is often more expensive,
+
+33
+00:02:10,325 --> 00:02:14,300
+high-risk, and prone to further mistakes.
+
+34
+00:02:14,300 --> 00:02:19,435
+Excessive and not so valuable documentation was required by the project,
+
+35
+00:02:19,435 --> 00:02:23,300
+we can see this because the team created a lot of process driven
+
+36
+00:02:23,300 --> 00:02:29,405
+documentation to meet the paper trail needs of the government agencies.
+
+37
+00:02:29,405 --> 00:02:32,195
+Yet despite all this paperwork,
+
+38
+00:02:32,195 --> 00:02:38,330
+no one raised issues of SocialKare.gov's functionality at the quarterly meetings since
+
+39
+00:02:38,330 --> 00:02:41,220
+neither business representatives nor end
+
+40
+00:02:41,220 --> 00:02:44,900
+user representatives had any hands-on demonstration
+
+41
+00:02:44,900 --> 00:02:47,705
+of functionality that was being built.
+
+42
+00:02:47,705 --> 00:02:51,650
+Since this was not the right documentation,
+
+43
+00:02:51,650 --> 00:02:57,815
+oversight was inadequate, a large number of technical and functional issues arose.
+
+44
+00:02:57,815 --> 00:03:02,045
+The team ended up spending a lot of time creating documents.
+
+45
+00:03:02,045 --> 00:03:07,090
+This time would have been better spent on building the actual product functionality.
+
+46
+00:03:07,090 --> 00:03:11,075
+As a result, the product results were disappointing,
+
+47
+00:03:11,075 --> 00:03:15,185
+clearly indicating that the paper trail was not effective.
+
+48
+00:03:15,185 --> 00:03:17,810
+There was little in the way of ensuring
+
+49
+00:03:17,810 --> 00:03:21,860
+these requirements made business sense throughout the project life cycle.
+
+50
+00:03:21,860 --> 00:03:23,420
+We can see that because
+
+51
+00:03:23,420 --> 00:03:27,715
+several key requirements were never uncovered until going to production.
+
+52
+00:03:27,715 --> 00:03:29,990
+It was later realized that several of
+
+53
+00:03:29,990 --> 00:03:33,410
+these requirements were of little value to end users,
+
+54
+00:03:33,410 --> 00:03:36,530
+as a result the resource effort put into
+
+55
+00:03:36,530 --> 00:03:42,635
+lower priority requirements ended up pushing out the higher priority needs.
+
+56
+00:03:42,635 --> 00:03:45,965
+So those are the anti-patterns I found,
+
+57
+00:03:45,965 --> 00:03:48,485
+which ones did you identify?
+
+58
+00:03:48,485 --> 00:03:51,905
+As you spend more time as an aguist,
+
+59
+00:03:51,905 --> 00:03:55,860
+you'll be able to spot these anti-patterns more quickly.
+

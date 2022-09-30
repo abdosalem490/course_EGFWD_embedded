@@ -1,0 +1,112 @@
+1
+00:00:00,000 --> 00:00:03,990
+In this exercise, you are asked to select and recommend
+
+2
+00:00:03,990 --> 00:00:06,300
+a particular Agile Framework for
+
+3
+00:00:06,300 --> 00:00:11,145
+socialkare.gov taking into account their specific scenario.
+
+4
+00:00:11,145 --> 00:00:13,095
+You are asked to include
+
+5
+00:00:13,095 --> 00:00:18,330
+a specific characteristic of the project that makes sense for this Agile Framework,
+
+6
+00:00:18,330 --> 00:00:21,870
+as well as an explanation or justification for it.
+
+7
+00:00:21,870 --> 00:00:29,235
+Here my responses, I recommend socialkare.gov to consider adopting the Scrum Framework.
+
+8
+00:00:29,235 --> 00:00:33,240
+There is a need for time-boxed iterations or sprints,
+
+9
+00:00:33,240 --> 00:00:38,700
+and the justification is that socialkare.gov is a complex project,
+
+10
+00:00:38,700 --> 00:00:44,270
+and time-boxed sprints will allow for regular demos and proactive feedback from
+
+11
+00:00:44,270 --> 00:00:46,310
+the business to ensure that
+
+12
+00:00:46,310 --> 00:00:50,075
+the project and the product deliverables are heading in the right direction.
+
+13
+00:00:50,075 --> 00:00:54,115
+This was missing and caused a lot of issues.
+
+14
+00:00:54,115 --> 00:01:00,440
+There is a need for and tremendous benefit with Retrospectives.
+
+15
+00:01:00,440 --> 00:01:07,520
+Sprint Retrospectives will ensure the Agile team at socialkare.gov is working towards
+
+16
+00:01:07,520 --> 00:01:10,760
+guided continual improvement to help
+
+17
+00:01:10,760 --> 00:01:16,534
+such a complex project successfully delivered the anticipated business value.
+
+18
+00:01:16,534 --> 00:01:20,030
+Otherwise, the danger of losing the focus on
+
+19
+00:01:20,030 --> 00:01:24,790
+business value is eminent in such an intertwined project.
+
+20
+00:01:24,790 --> 00:01:30,009
+Socialkare.gov has a need for self-directed and self-organized teams.
+
+21
+00:01:30,009 --> 00:01:34,450
+Now, the Scrum Framework insists on the Agile team being given
+
+22
+00:01:34,450 --> 00:01:39,365
+autonomy to work on the prioritized and assigned features and functionality.
+
+23
+00:01:39,365 --> 00:01:43,390
+This will allow the Agile team to innovatively identify
+
+24
+00:01:43,390 --> 00:01:48,560
+solution details without the burden of excessive micromanagement.
+
+25
+00:01:48,560 --> 00:01:54,580
+Kanban does not provide sufficient rigor to manage such a complex project,
+
+26
+00:01:54,580 --> 00:01:59,045
+and XP will be a bit of overkill for a project like socialkare.gov.
+
+27
+00:01:59,045 --> 00:02:04,450
+The transformation to XP requires considerably more rigor in structure,
+
+28
+00:02:04,450 --> 00:02:09,830
+and XP is too software centric and heavy for socialkare.gov.
+

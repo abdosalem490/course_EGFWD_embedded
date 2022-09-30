@@ -1,0 +1,152 @@
+1
+00:00:00,000 --> 00:00:05,910
+Let's start with an understanding of what this course is about and what it's not about.
+
+2
+00:00:05,910 --> 00:00:09,840
+One example of what this course is about is that here we will talk
+
+3
+00:00:09,840 --> 00:00:14,010
+about strategies to build up a good freelancing profile.
+
+4
+00:00:14,010 --> 00:00:19,470
+Some best practices to find work from clients when we're starting out.
+
+5
+00:00:19,470 --> 00:00:24,435
+Strategies to work sustainably with clients.
+
+6
+00:00:24,435 --> 00:00:28,995
+Think of this course to be about kickstarting your freelancing career,
+
+7
+00:00:28,995 --> 00:00:33,570
+how to get those first few clients and best practices,
+
+8
+00:00:33,570 --> 00:00:38,670
+tips and tricks to walk through as you continue in your freelancing journey.
+
+9
+00:00:38,670 --> 00:00:41,965
+Different tools and platforms that are used.
+
+10
+00:00:41,965 --> 00:00:47,200
+Real-life scenarios in a freelancing journey and how to deal with each of those.
+
+11
+00:00:47,200 --> 00:00:53,975
+But here we won't be talking about things like what is freelancing or its pros and cons,
+
+12
+00:00:53,975 --> 00:00:59,330
+because it is assumed that we already have a basic understanding of what is freelancing.
+
+13
+00:00:59,330 --> 00:01:01,205
+We will also not go through
+
+14
+00:01:01,205 --> 00:01:05,300
+the logistical details of each freelancing platform individually,
+
+15
+00:01:05,300 --> 00:01:07,580
+and would generally talk about the basics of
+
+16
+00:01:07,580 --> 00:01:11,900
+a freelancing platform that would be handy for you when you work with any platform.
+
+17
+00:01:11,900 --> 00:01:17,530
+Now, let's quickly take a look at what do we need to know before we take on this course.
+
+18
+00:01:17,530 --> 00:01:21,605
+First, we need to know the fundamentals of digital freelancing.
+
+19
+00:01:21,605 --> 00:01:25,765
+What is freelancing and how it is different from a full-time job.
+
+20
+00:01:25,765 --> 00:01:29,090
+Second, and the most important is that we need to
+
+21
+00:01:29,090 --> 00:01:32,410
+have a skill that we can use to get work from clients.
+
+22
+00:01:32,410 --> 00:01:34,910
+For example, you could build a website for
+
+23
+00:01:34,910 --> 00:01:38,315
+a client or you could provide a digital marketing solution.
+
+24
+00:01:38,315 --> 00:01:42,800
+You could also get an idea of the marketable skills that are popular by looking at some
+
+25
+00:01:42,800 --> 00:01:47,315
+of the freelancing platforms that we will cover in detail in this course.
+
+26
+00:01:47,315 --> 00:01:49,850
+Since you'll mostly be working remotely,
+
+27
+00:01:49,850 --> 00:01:53,180
+it's good to have a stable Internet connection so you can have
+
+28
+00:01:53,180 --> 00:01:56,675
+audio or video calls with clients comfortably,
+
+29
+00:01:56,675 --> 00:02:00,545
+and also be able to use online collaboration tools.
+
+30
+00:02:00,545 --> 00:02:03,515
+Since you will be mostly conversing in English,
+
+31
+00:02:03,515 --> 00:02:06,350
+it's good to be able to speak and write English.
+
+32
+00:02:06,350 --> 00:02:08,990
+It will also help if you can work on
+
+33
+00:02:08,990 --> 00:02:14,585
+Microsoft Office products like Microsoft Word and Excel, or Google Workspace.
+
+34
+00:02:14,585 --> 00:02:17,300
+Tools like Google Docs or Google Sheets,
+
+35
+00:02:17,300 --> 00:02:21,620
+since they may be quite handy when working with clients on projects,
+
+36
+00:02:21,620 --> 00:02:24,280
+documents, or service agreements.
+
+37
+00:02:24,280 --> 00:02:27,500
+Finally, it is recommended that you have completed
+
+38
+00:02:27,500 --> 00:02:33,629
+one Nanodegree through Udacity with at least two projects successfully passed.
+

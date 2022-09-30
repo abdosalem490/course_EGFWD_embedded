@@ -1,0 +1,180 @@
+1
+00:00:00,000 --> 00:00:03,810
+Developing and delivering products which customers do not
+
+2
+00:00:03,810 --> 00:00:08,910
+want and for which there may not be a market can be an expensive adventure.
+
+3
+00:00:08,910 --> 00:00:12,240
+Agile works to efficiently develop products where
+
+4
+00:00:12,240 --> 00:00:16,755
+the chances of it being valuable to customers and end users is enhanced.
+
+5
+00:00:16,755 --> 00:00:22,590
+Agile advocates for ensuring that the product strategy and execution remain aligned.
+
+6
+00:00:22,590 --> 00:00:27,330
+The heartbeat of Agile is the iterative approach which allows for
+
+7
+00:00:27,330 --> 00:00:32,340
+adjustments to ensure value-driven items are delivered in short time frames.
+
+8
+00:00:32,340 --> 00:00:37,275
+The proactive and transparent collaborative communication stands in Agile,
+
+9
+00:00:37,275 --> 00:00:40,320
+allows for constructive and genuine user and
+
+10
+00:00:40,320 --> 00:00:45,275
+market-driven insight to ensure the product is heading in the right direction.
+
+11
+00:00:45,275 --> 00:00:48,885
+Agile helps manage risks more proactively.
+
+12
+00:00:48,885 --> 00:00:52,430
+By evaluating project progress more frequently,
+
+13
+00:00:52,430 --> 00:00:57,155
+we are able to meaningfully evaluate during each iteration.
+
+14
+00:00:57,155 --> 00:01:00,140
+This helps the team measure delivered value,
+
+15
+00:01:00,140 --> 00:01:04,640
+as well as showcase working product to obtain realistic feedback.
+
+16
+00:01:04,640 --> 00:01:08,390
+Specifically, risk reduction is accomplished through
+
+17
+00:01:08,390 --> 00:01:12,079
+iterative deliveries as requirements are discovered,
+
+18
+00:01:12,079 --> 00:01:16,505
+prioritized, and demoed to representatives from the business,
+
+19
+00:01:16,505 --> 00:01:20,160
+commonly referred to as business proxies in Agile.
+
+20
+00:01:20,160 --> 00:01:27,065
+Agile exposes and provides the opportunity to recognize and manage risks early.
+
+21
+00:01:27,065 --> 00:01:28,640
+Risks are managed through
+
+22
+00:01:28,640 --> 00:01:33,455
+cross-functional teams that respect and understand each other's skill sets,
+
+23
+00:01:33,455 --> 00:01:36,125
+sustainable and predictable pace,
+
+24
+00:01:36,125 --> 00:01:40,205
+continuous feedback, and technical excellence,
+
+25
+00:01:40,205 --> 00:01:42,760
+that is built-in quality.
+
+26
+00:01:42,760 --> 00:01:47,755
+This transparency ensures risks are managed early.
+
+27
+00:01:47,755 --> 00:01:52,745
+Building and delivering high-quality products requires a commitment,
+
+28
+00:01:52,745 --> 00:01:58,835
+but the business benefits and value delivered justify this investment.
+
+29
+00:01:58,835 --> 00:02:02,630
+The business benefits from elevated customer satisfaction,
+
+30
+00:02:02,630 --> 00:02:04,565
+as well as better velocity,
+
+31
+00:02:04,565 --> 00:02:09,665
+which is essentially a measure of how much valuable work was completed in an iteration.
+
+32
+00:02:09,665 --> 00:02:11,690
+The business also benefits for
+
+33
+00:02:11,690 --> 00:02:16,325
+a more predictable pace of the products incremental delivery.
+
+34
+00:02:16,325 --> 00:02:19,550
+A more reliable solution environment
+
+35
+00:02:19,550 --> 00:02:23,855
+enables an agile team to confidently innovate and scale.
+
+36
+00:02:23,855 --> 00:02:28,700
+Agile emboldens the culture by encouraging open communication,
+
+37
+00:02:28,700 --> 00:02:35,330
+collaboration, and a cohesiveness driven by a common business value-driven goal.
+
+38
+00:02:35,330 --> 00:02:37,760
+By breaking down silos,
+
+39
+00:02:37,760 --> 00:02:42,395
+Agile promotes a more adaptable work environment that boost morale,
+
+40
+00:02:42,395 --> 00:02:47,575
+prevents burnout, and encourages a highly productive, sustainable pace.
+
+41
+00:02:47,575 --> 00:02:49,865
+When treated with respect,
+
+42
+00:02:49,865 --> 00:02:51,710
+Agile team members evolve
+
+43
+00:02:51,710 --> 00:02:56,105
+their practices and find opportunities that benefit the business.
+
+44
+00:02:56,105 --> 00:02:59,090
+This aspiration is elevated when
+
+45
+00:02:59,090 --> 00:03:03,540
+Agile teams understand the larger purpose behind their work.
+

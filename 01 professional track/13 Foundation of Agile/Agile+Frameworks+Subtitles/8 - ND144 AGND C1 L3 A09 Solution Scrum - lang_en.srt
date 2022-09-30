@@ -1,0 +1,280 @@
+1
+00:00:00,000 --> 00:00:04,470
+In this exercise, you are asked to recommend how you would set
+
+2
+00:00:04,470 --> 00:00:08,805
+up the Scrum framework for the socialkare.com product delivery team.
+
+3
+00:00:08,805 --> 00:00:12,630
+You were asked to include the core roles to be filled,
+
+4
+00:00:12,630 --> 00:00:15,480
+the Scrum ceremonies to be conducted,
+
+5
+00:00:15,480 --> 00:00:20,535
+and finally, the schedule and duration of the ceremonies as well as their agenda.
+
+6
+00:00:20,535 --> 00:00:22,860
+Here are my responses.
+
+7
+00:00:22,860 --> 00:00:27,874
+The three core roles in a Scrum framework are the are PO,
+
+8
+00:00:27,874 --> 00:00:31,540
+Scrum Master and Agile Team.
+
+9
+00:00:31,540 --> 00:00:34,065
+Let's start with a Scrum master role.
+
+10
+00:00:34,065 --> 00:00:38,180
+This role is responsible for facilitating the Agile Team's work,
+
+11
+00:00:38,180 --> 00:00:40,280
+obtaining resources for it,
+
+12
+00:00:40,280 --> 00:00:42,910
+and protecting it from problems.
+
+13
+00:00:42,910 --> 00:00:47,235
+The Scrum Master is servant leader to the PO and Agile Team.
+
+14
+00:00:47,235 --> 00:00:50,825
+The next core role in Scrum is the Product Owner.
+
+15
+00:00:50,825 --> 00:00:54,050
+The Product Owner represents the SocialKare.gov
+
+16
+00:00:54,050 --> 00:00:58,420
+stakeholders and specifically is known as the voice of the customer.
+
+17
+00:00:58,420 --> 00:01:01,430
+This is the one individual who's responsible for
+
+18
+00:01:01,430 --> 00:01:05,300
+the prioritize work item list called a product backlog.
+
+19
+00:01:05,300 --> 00:01:10,190
+This role is SocialKare.gov will be responsible for prioritizing the backlog,
+
+20
+00:01:10,190 --> 00:01:13,280
+share business decisions in a timely manner,
+
+21
+00:01:13,280 --> 00:01:16,460
+and is responsible for providing any requirements or
+
+22
+00:01:16,460 --> 00:01:21,710
+functionality related information to the Agile Team in a timely manner.
+
+23
+00:01:21,710 --> 00:01:26,330
+The next core role in Scrum is the Agile Team member.
+
+24
+00:01:26,330 --> 00:01:31,400
+Agile Team members are responsible for the creation and delivery of a system.
+
+25
+00:01:31,400 --> 00:01:35,260
+This role at SocialKare.gov will primarily include developers.
+
+26
+00:01:35,260 --> 00:01:40,370
+However, all other Agile Team members will also be included in this category.
+
+27
+00:01:40,370 --> 00:01:43,220
+This includes, but is not limited to,
+
+28
+00:01:43,220 --> 00:01:47,375
+those who will conduct modeling, programming,
+
+29
+00:01:47,375 --> 00:01:52,625
+testing, front-end design, business analysis,
+
+30
+00:01:52,625 --> 00:01:56,090
+release activities, and others.
+
+31
+00:01:56,090 --> 00:01:59,630
+In the retrospective, there's an opportunity for
+
+32
+00:01:59,630 --> 00:02:04,280
+the Scrum team to inspect itself and create a plan for improvements.
+
+33
+00:02:04,280 --> 00:02:07,490
+Team member discuss what went well during this sprint,
+
+34
+00:02:07,490 --> 00:02:10,160
+as well as opportunities for improvement.
+
+35
+00:02:10,160 --> 00:02:16,310
+This occurs once per sprint and is time-boxed to three hours per sprint.
+
+36
+00:02:16,310 --> 00:02:18,800
+In the project vision ceremony,
+
+37
+00:02:18,800 --> 00:02:21,980
+the business articulates a business need that is intended to
+
+38
+00:02:21,980 --> 00:02:25,370
+be achieved where they discuss the goals,
+
+39
+00:02:25,370 --> 00:02:27,125
+who the sponsor is,
+
+40
+00:02:27,125 --> 00:02:28,960
+what the vision is,
+
+41
+00:02:28,960 --> 00:02:34,325
+they clearly identify the success criteria as well as the assumptions and risks.
+
+42
+00:02:34,325 --> 00:02:40,205
+The project vision ceremony occurs once per project and is time-boxed to one hour.
+
+43
+00:02:40,205 --> 00:02:45,230
+In release planning, the organization develops a release plan that
+
+44
+00:02:45,230 --> 00:02:46,940
+defines when various sets of
+
+45
+00:02:46,940 --> 00:02:50,665
+usable functionality or products will be delivered to the customer.
+
+46
+00:02:50,665 --> 00:02:54,210
+They discuss critical dates and milestones,
+
+47
+00:02:54,210 --> 00:03:00,160
+a coordinated with dependent systems and balanced business value versus quality.
+
+48
+00:03:00,160 --> 00:03:06,185
+Release planning occurs once per release and is time-boxed to 20 minutes.
+
+49
+00:03:06,185 --> 00:03:08,464
+In the sprint planning ceremony,
+
+50
+00:03:08,464 --> 00:03:11,455
+work to be performed in the sprint is planned.
+
+51
+00:03:11,455 --> 00:03:15,280
+The agenda includes creating a sprint backlog,
+
+52
+00:03:15,280 --> 00:03:17,305
+planning out the tasks,
+
+53
+00:03:17,305 --> 00:03:19,990
+and estimating at the task level.
+
+54
+00:03:19,990 --> 00:03:22,570
+This can occur a few times per sprint,
+
+55
+00:03:22,570 --> 00:03:26,210
+but is time-boxed to a total of eight hours per sprint.
+
+56
+00:03:26,210 --> 00:03:28,305
+In the daily stand ups,
+
+57
+00:03:28,305 --> 00:03:33,700
+the Agile Team synchronizes activities and creates a plan for the next 24 hours.
+
+58
+00:03:33,700 --> 00:03:37,040
+Each team member answers three questions.
+
+59
+00:03:37,040 --> 00:03:39,630
+What did they do since the last time we met?
+
+60
+00:03:39,630 --> 00:03:41,865
+What do I plan to accomplish today,
+
+61
+00:03:41,865 --> 00:03:44,445
+and what impediments am I encountering.
+
+62
+00:03:44,445 --> 00:03:46,870
+The daily stand up is held daily,
+
+63
+00:03:46,870 --> 00:03:48,625
+preferably in the morning,
+
+64
+00:03:48,625 --> 00:03:51,440
+and is time-boxed to 15 minutes.
+
+65
+00:03:51,440 --> 00:03:53,880
+In this sprint review and demo,
+
+66
+00:03:53,880 --> 00:03:55,470
+along with the demo,
+
+67
+00:03:55,470 --> 00:04:02,140
+the Agile Team discusses marketplace changes and the backlog with the PO.
+
+68
+00:04:02,140 --> 00:04:05,540
+The team presents the completed sprint deliverables to
+
+69
+00:04:05,540 --> 00:04:10,370
+the product owner based on acceptance criteria and the definition of done.
+
+70
+00:04:10,370 --> 00:04:16,110
+This occurs once per sprint and is time-boxed to four hours per sprint.
+

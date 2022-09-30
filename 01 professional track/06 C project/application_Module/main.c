@@ -22,7 +22,8 @@ char credits2[] = "@github_account : https://github.com/abdosalem490 | @linkedin
 const char userListChoice[] = "choose one of the following :\n"
                             "[1] : show your balance account \n"
                             "[2] : show all your previous transactions \n"
-                            "[3] : make a new transaction\n";
+                            "[3] : make a new transaction\n"
+                            "[4] : block your account\n";
 
 int main()
 {
@@ -49,30 +50,18 @@ int main()
 
     /*flag to exit the infinite loop*/
     int8_t local_u8DummyFlag;
-
-    /*the new amount the user would enter to set the max amount limit*/
-    float lcoal_f32NewMaxAmount;
     
-    /*user card PAN number*/
-    int8_t local_arrs8SendPAN[ACCOUNT_PAN_SIZE];
+    /*user card data*/
+    ST_cardData_t local_senderCard_t;
 
-    /*user card holder name*/
-    int8_t local_arrs8SendName[ACCOUNT_NAME_SIZE];
+    /*the card data of the receiver if the user wants to transact*/
+    ST_cardData_t local_receiverCard_t;
 
-    /*user card Expiry date*/
-    int8_t local_arrs8SendExpDate[ACCOUNT_EXPIRY_DATE_LEN];
+    /*the transaction data*/
+    ST_terminalData_t local_transactionData_t;
 
-    /*the other account PAN number to transact to*/
-    int8_t local_arrs8RcvPAN[ACCOUNT_PAN_SIZE + 1];
-
-    /*the amount to transact*/
-    float local_f32AmountToTransact = 0;
-
-    /*dummy account node to put it as args to the server functions*/
-    account_data_node local_Dummyacct_t;
-
-    /*dummy transaction node to put it as args to the server functions*/
-    account_transaction_node local_dummyTrans_t;
+    /*initialize the transaction date with today*/
+    strcpy((char*)local_transactionData_t.transactionDate, (char*)getCurrentDate());
 
     /*infinty loop as long as the user wants to do many things*/
     do
@@ -92,13 +81,13 @@ int main()
             fputs(BLUE "enter the new max limit to set\n", stdout);
 
             /*get the amount to be set and make sure it's a correct float*/
-            if(scanf("%f", &lcoal_f32NewMaxAmount) == 1)
+            if(scanf("%f", &local_transactionData_t.maxTransAmount) == 1)
             {
                 /*flust the input buffer*/
                 fflush(stdin);
 
                 /*try to set the new max amount and check if he is correctly admin*/
-                if(setMaxAmount(lcoal_f32NewMaxAmount) == 1)
+                if(setMaxAmount(&local_transactionData_t) == TERMINAL_OK)
                 {
                     fputs(GREEN "new amount set successfully\n", stdout);
                 }
@@ -124,21 +113,21 @@ int main()
             fputs(WHITE "---------------------------------------------------------------------------------------------------------------------\n", stdout);
 
             /*gets the user card PAN*/
-            strncpy((char*)local_arrs8SendPAN , (char*)getCardPAN(), ACCOUNT_PAN_SIZE);
+            while(getCardPAN(&local_senderCard_t) != CARD_OK);
 
             /*gets the user card holder name*/
-            strncpy((char*)local_arrs8SendName , (char*)getCardHolderName(), ACCOUNT_NAME_SIZE);
+            while(getCardHolderName(&local_senderCard_t) != CARD_OK);
 
             /*gets the user card expiry date*/
-            strncpy((char*)local_arrs8SendExpDate , (char*)getCardExpiryDate(), ACCOUNT_EXPIRY_DATE_LEN);
+            while(getCardExpiryDate(&local_senderCard_t) != CARD_OK);
 
             /*checks if the PAN number is fake*/
-            if(isFakePAN(local_arrs8SendPAN) == 1)
+            if(isValidCardPAN(&local_senderCard_t) != TERMINAL_OK)
             {
                 fputs(RED "PAN is fake\n", stdout);
             }
             /*check if the card isn't expired*/
-            else if(isCardExpried(local_arrs8SendExpDate) == 1)
+            else if(isCardExpired(local_senderCard_t, local_transactionData_t) != TERMINAL_OK)
             {
                 fputs(RED "card is expired\n", stdout);
             }
@@ -147,112 +136,126 @@ int main()
             {
                 fputs(MAGENTA "checking credentials with the server\n", stdout);
                 
-                /*assging the value PAN to the account dummy node*/
-                strncpy((char*)local_Dummyacct_t.PAN , (char*)local_arrs8SendPAN, ACCOUNT_PAN_SIZE);
-
-                /*assging the value holder name to the account dummy node*/
-                strncpy((char*)local_Dummyacct_t.name , (char*)local_arrs8SendName, ACCOUNT_NAME_SIZE);
-
-                /*assging the value expiry date to the account dummy node*/
-                local_Dummyacct_t.month = 10 * (uint8_t)(local_arrs8SendExpDate[0] - '0') + (uint8_t)(local_arrs8SendExpDate[1] - '0');
-                local_Dummyacct_t.year = 1000 * (uint16_t)(local_arrs8SendExpDate[3] - '0') + 100 * (uint16_t)(local_arrs8SendExpDate[4] - '0') + 10 * (uint16_t)(local_arrs8SendExpDate[5] - '0') + (uint16_t)(local_arrs8SendExpDate[6] - '0');
-
                 /*checks if the account is valid by connecting to the server*/
-                if(isValidAccount(&local_Dummyacct_t) == 0)
+                if(isValidAccount(local_senderCard_t) != SERVER_OK)
                 {
                     fputs(RED "the account isn't there in the database\n", stdout);
                 }
                 /*the account is valid*/
                 else
                 {
-                    fputs(GREEN "signed in successfully\n", stdout);
+                    if(isBlockedAccount(&local_senderCard_t) == BLOCKED_ACCOUNT)
+                    {
+                        fputs(RED "your account is blocked , you cannot sign in \n", stdout);
+                    }
+                    else
+                    {
+                        fputs(GREEN "signed in successfully\n", stdout);
 
-                    /*checks if there is any pending transactions waiting for this account approval*/
-                    recieveTransactionData(local_arrs8SendPAN);
+                        /*checks if there is any pending transactions waiting for this account approval*/
+                        recieveTransactionData(&local_senderCard_t);
 
-                    do{
-                        /*show the user a list of choices to choose from*/
-                        printf(MAGENTA "%s" YELLOW,userListChoice);
+                        do{
+                            /*show the user a list of choices to choose from*/
+                            printf(MAGENTA "%s" YELLOW,userListChoice);
 
-                        /*get the user choice*/
-                        scanf("%c", &local_u8DummyFlag);
+                            /*get the user choice*/
+                            scanf("%c", &local_u8DummyFlag);
 
-                        /*flush the buffer*/
-                        fflush(stdin);
+                            /*flush the buffer*/
+                            fflush(stdin);
 
-                        /*invalid choice*/
-                        if(!(local_u8DummyFlag == '1' || local_u8DummyFlag == '2' || local_u8DummyFlag == '3'))
-                        {
-                            fputs(RED "invalid choice \n", stdout);
-                        }
-                        /*valid input*/
-                        else if(local_u8DummyFlag == '1') 
-                        {   
-                            /*show your current balance*/
-                            showCurrentBalance(local_arrs8SendPAN);
-                        }
-                        else if(local_u8DummyFlag == '2')
-                        {
-                            /*show all previouse transactions*/
-                            showAllPrvTrans(local_arrs8SendPAN);
-                        }
-                        else if(local_u8DummyFlag == '3')
-                        {
-                            /*make a new transaction*/
-
-                            /*ask the user for the PAN to transact to*/
-                            strncpy((char*)local_arrs8RcvPAN , (char*)getRecieverAccountPAN(), ACCOUNT_PAN_SIZE);
-
-                            /*get entered number from the user*/
-                            local_f32AmountToTransact = gatTransactionAmount();
-
-                            /*check if that PAN exists in the database*/
-                            if(isThatPANThere(local_arrs8RcvPAN) == 0)
+                            /*invalid choice*/
+                            if(!(local_u8DummyFlag == '1' || local_u8DummyFlag == '2' || local_u8DummyFlag == '3' || local_u8DummyFlag == '4'))
                             {
-                                fputs(RED "there is no one in our database with this PAN \n", stdout);
+                                fputs(RED "invalid choice \n", stdout);
                             }
-                            /*check if there is enough money to be transacted*/
-                            else if(isAmountAvailable(local_arrs8SendPAN, local_f32AmountToTransact) == 0)
+                            /*valid input*/
+                            else if(local_u8DummyFlag == '1') 
+                            {   
+                                /*show your current balance*/
+                                showCurrentBalance(&local_senderCard_t);
+                            }
+                            else if(local_u8DummyFlag == '2')
                             {
-                                fputs(RED "there is not enough money in your account \n", stdout);
+                                /*show all previouse transactions*/
+                                showAllPrvTrans(&local_senderCard_t);
                             }
-                            /*checks if the transacted money exceeded the limit*/
-                            else if(isBelowMaxAmount(local_f32AmountToTransact) == 0)
+                            else if(local_u8DummyFlag == '3')
                             {
-                                fputs(RED "you exceeded the maximum allowed limit to transact \n", stdout);
+                                /*make a new transaction*/
+
+                                /*ask the user for the PAN to transact to*/
+                                puts(CYAN "receiver PAN : ");
+                                while(getCardPAN(&local_receiverCard_t) != CARD_OK);
+
+                                /*get entered number from the user*/
+                                while(getTransactionAmount(&local_transactionData_t) != TERMINAL_OK);
+
+                                /*check if that PAN exists in the database*/
+                                if(isThatPANThere(&local_receiverCard_t) != SERVER_OK)
+                                {
+                                    fputs(RED "there is no one in our database with this PAN \n", stdout);
+                                }
+                                /*check if the receiver account is blocked or not*/
+                                else if(isBlockedAccount(&local_receiverCard_t) == BLOCKED_ACCOUNT)
+                                {
+                                    fputs(RED "the receiver account is blocked , you cann't send anything to him not receiver from him \n", stdout);
+                                }
+                                /*check if there is enough money to be transacted*/
+                                else if(isAmountAvailable(&local_transactionData_t, &local_senderCard_t) != SERVER_OK)
+                                {
+                                    fputs(RED "there is not enough money in your account \n", stdout);
+                                }
+                                /*checks if the transacted money exceeded the limit*/
+                                else if(isBelowMaxAmount(&local_transactionData_t) != TERMINAL_OK)
+                                {
+                                    fputs(RED "you exceeded the maximum allowed limit to transact \n", stdout);
+                                }
+                                /*all's good , save the transaction*/
+                                else
+                                {
+                                    /*create a transaction*/
+                                    ST_transaction *local_transaction_t = (ST_transaction*)malloc(sizeof(ST_transaction));
+                                    local_transaction_t->cardHolderDataFrom = local_senderCard_t;
+                                    local_transaction_t->cardHolderDataTo = local_receiverCard_t;
+                                    local_transaction_t->terminalData = local_transactionData_t;
+                                    local_transaction_t->transState = PENDING;
+
+                                    /*save the transaction*/
+                                    saveTransaction(local_transaction_t);
+
+                                    /*tell the user that the operation went successfully*/
+                                    fputs(GREEN "the operation went successfully \n", stdout);
+                                }
+                                                        
                             }
-                            /*all's good , save the transaction*/
+                            else if(local_u8DummyFlag == '4')
+                            {
+                                /*block my account*/
+                                if(blockAccount(&local_senderCard_t) == SERVER_OK)
+                                {
+                                    fputs(GREEN "account blocked successfully and signing out now \n", stdout);
+
+                                    /*to sign out*/
+                                    break;
+                                }
+                            }
                             else
                             {
-                                /*create a transaction*/
-                                strncpy((char*)local_dummyTrans_t.PAN_from , (char*)local_arrs8SendPAN, ACCOUNT_PAN_SIZE);
-                                strncpy((char*)local_dummyTrans_t.PAN_to , (char*)local_arrs8RcvPAN, ACCOUNT_PAN_SIZE);
-                                strncpy((char*)local_dummyTrans_t.date , (char*)getTransactionDate(), TRANS_DATE_SIZE);
-                                strncpy((char*)local_dummyTrans_t.state , (char*)TRANS_STATE_PEND, strlen(TRANS_STATE_PEND) + 1);
-                                local_dummyTrans_t.amount = local_f32AmountToTransact;
-
-                                /*save the transaction*/
-                                saveTransaction(local_dummyTrans_t);
-
-                                /*tell the user that the operation went successfully*/
-                                fputs(GREEN "the operation went successfully \n", stdout);
+                                /*unreachable*/
                             }
-                                                       
-                        }
-                        else
-                        {
-                            /*unreachable*/
-                        }
 
-                        /*ask the user if he is done or he wants to do anything else*/
-                        fputs(BLUE "are you done ?\n", stdout);
-                        fputs(CYAN "press [y] to sign out , [n] to return to the list\n", stdout);
-                        scanf("%c", &local_u8DummyFlag);
+                            /*ask the user if he is done or he wants to do anything else*/
+                            fputs(BLUE "are you done ?\n", stdout);
+                            fputs(CYAN "press [y] to sign out , [n] to return to the list\n", stdout);
+                            scanf("%c", &local_u8DummyFlag);
 
-                        /*flush the buffer*/
-                        fflush(stdin);
+                            /*flush the buffer*/
+                            fflush(stdin);
 
-                    }while(local_u8DummyFlag == 'n');
+                        }while(local_u8DummyFlag == 'n');
+                    }
 
                 }
             }
@@ -291,4 +294,8 @@ void __attribute__ ((constructor)) appStart()
 
     /*get max amount limit to be transacted and password*/
     terminalInit();
+
+    /*print the date of Today*/
+    printf(GREEN "======================================================================================================================================================\n");
+    printf(GREEN "today is %s\n", getCurrentDate());
 }

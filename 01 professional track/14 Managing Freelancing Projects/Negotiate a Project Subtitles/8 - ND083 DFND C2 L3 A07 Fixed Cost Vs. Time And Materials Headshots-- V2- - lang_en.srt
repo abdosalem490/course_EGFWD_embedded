@@ -1,0 +1,164 @@
+1
+00:00:00,000 --> 00:00:06,165
+We talked about project scope and pricing structure and how they are interdependent.
+
+2
+00:00:06,165 --> 00:00:10,095
+Now let's talk a little bit about how these work in real life.
+
+3
+00:00:10,095 --> 00:00:13,530
+What kind of pricing structures are most common?
+
+4
+00:00:13,530 --> 00:00:17,050
+How do the clients react in different scenarios?
+
+5
+00:00:17,050 --> 00:00:20,175
+Firstly, for any sizable project,
+
+6
+00:00:20,175 --> 00:00:24,165
+fixing the scope at the start of the project is quite hard.
+
+7
+00:00:24,165 --> 00:00:26,715
+In the last 16 years of my career,
+
+8
+00:00:26,715 --> 00:00:29,520
+whatever software development projects I have seen,
+
+9
+00:00:29,520 --> 00:00:31,425
+there have been hardly any project
+
+10
+00:00:31,425 --> 00:00:35,955
+whose requirements did not change significantly by the end of the project.
+
+11
+00:00:35,955 --> 00:00:38,175
+This is not because of human error,
+
+12
+00:00:38,175 --> 00:00:40,680
+but because of theoretical limitations.
+
+13
+00:00:40,680 --> 00:00:44,720
+Sometimes, it is just too hard to imagine the end goal in
+
+14
+00:00:44,720 --> 00:00:49,855
+a very granular way until you start seeing its bits and pieces coming together.
+
+15
+00:00:49,855 --> 00:00:51,880
+In software projects, especially,
+
+16
+00:00:51,880 --> 00:00:54,575
+the clients often question their own assumptions,
+
+17
+00:00:54,575 --> 00:00:56,945
+change some modules significantly,
+
+18
+00:00:56,945 --> 00:01:00,625
+or change the entire direction of the project midway.
+
+19
+00:01:00,625 --> 00:01:05,630
+Now, that makes a time and material or the [inaudible] model more compelling for
+
+20
+00:01:05,630 --> 00:01:08,540
+freelancing projects because the clients may not even
+
+21
+00:01:08,540 --> 00:01:11,735
+know what they do not know at the start of the project.
+
+22
+00:01:11,735 --> 00:01:17,750
+But that does not mean that fixed cost projects are not common, they are common.
+
+23
+00:01:17,750 --> 00:01:22,010
+In fact, they are used in general as long as there is enough buffer,
+
+24
+00:01:22,010 --> 00:01:26,395
+including the proposed cost for any significant changes.
+
+25
+00:01:26,395 --> 00:01:30,260
+I personally prefer the time and material model with
+
+26
+00:01:30,260 --> 00:01:35,390
+new clients because that gives the client and myself time to test each other.
+
+27
+00:01:35,390 --> 00:01:38,450
+The client does not have to make a big commitment of plan,
+
+28
+00:01:38,450 --> 00:01:41,285
+nor am I logged in with the client at this chart.
+
+29
+00:01:41,285 --> 00:01:45,230
+Also, the client may not really have the scope of the project defined in
+
+30
+00:01:45,230 --> 00:01:50,200
+detail and may not sometimes understand the importance of having a detailed scope.
+
+31
+00:01:50,200 --> 00:01:53,135
+Thirdly, if you as a freelancer,
+
+32
+00:01:53,135 --> 00:01:54,905
+give a fixed cost to the client,
+
+33
+00:01:54,905 --> 00:01:58,280
+which according to you is justified based on the effort estimate,
+
+34
+00:01:58,280 --> 00:02:02,650
+the client may not even agree to it and refuse to give the project to you.
+
+35
+00:02:02,650 --> 00:02:05,510
+But usually, when you start working on the project,
+
+36
+00:02:05,510 --> 00:02:08,990
+the client slowly develops an appreciation for the amount of work
+
+37
+00:02:08,990 --> 00:02:13,795
+involved and is more liberal and trusting to spend their money on the project.
+
+38
+00:02:13,795 --> 00:02:17,510
+Starting with time and materials pricing not only helps
+
+39
+00:02:17,510 --> 00:02:21,250
+the client to not make an upfront commitment and test the waters first,
+
+40
+00:02:21,250 --> 00:02:24,770
+it also helps them to learn what it takes to reach the end goal of
+
+41
+00:02:24,770 --> 00:02:29,520
+the project so they can better evaluate the pricing of the project.
+

@@ -1,0 +1,124 @@
+1
+00:00:00,000 --> 00:00:03,390
+Welcome to foundations of Agile and Agile frameworks.
+
+2
+00:00:03,390 --> 00:00:05,220
+My name is Dr. Hasnain Rizvi,
+
+3
+00:00:05,220 --> 00:00:06,825
+and I will be your instructor.
+
+4
+00:00:06,825 --> 00:00:08,940
+I am delighted to have you on board.
+
+5
+00:00:08,940 --> 00:00:11,745
+A little introduction about myself.
+
+6
+00:00:11,745 --> 00:00:17,325
+Like many agilelists, I started my career in traditional project management.
+
+7
+00:00:17,325 --> 00:00:23,445
+My first foray into Agile was in southern California back in early 2011.
+
+8
+00:00:23,445 --> 00:00:26,864
+Coming from a traditional project management mindset,
+
+9
+00:00:26,864 --> 00:00:29,250
+I initially thought Agile frameworks were a little
+
+10
+00:00:29,250 --> 00:00:34,165
+impractical for large projects in old school organizations.
+
+11
+00:00:34,165 --> 00:00:38,255
+I have since been proven wrong many a times.
+
+12
+00:00:38,255 --> 00:00:43,055
+I've had the good fortune of growing in the Agile space over the last decade.
+
+13
+00:00:43,055 --> 00:00:47,420
+I've been involved in complex Agile transformations across the globe,
+
+14
+00:00:47,420 --> 00:00:52,715
+including North America, the Middle East, Europe, and China.
+
+15
+00:00:52,715 --> 00:00:54,800
+I'm currently consulting as
+
+16
+00:00:54,800 --> 00:00:59,930
+an Agile transformation coach for a Fortune 100 company in America.
+
+17
+00:00:59,930 --> 00:01:01,820
+I love to teach,
+
+18
+00:01:01,820 --> 00:01:03,620
+and I'm an adjunct instructor and
+
+19
+00:01:03,620 --> 00:01:07,220
+professional trainer with several universities and organizations,
+
+20
+00:01:07,220 --> 00:01:09,770
+including the University of British Columbia,
+
+21
+00:01:09,770 --> 00:01:12,500
+Southern Alberta Institute of Technology,
+
+22
+00:01:12,500 --> 00:01:16,250
+Steinbeis School of International Business and Entrepreneurship,
+
+23
+00:01:16,250 --> 00:01:19,615
+as well as Leoron Professional Development Institute.
+
+24
+00:01:19,615 --> 00:01:24,675
+I have trained and mentored over 25,000 professionals across the globe.
+
+25
+00:01:24,675 --> 00:01:26,900
+I'm regularly invited to speak on
+
+26
+00:01:26,900 --> 00:01:29,900
+key Agile topics at professional events in North America,
+
+27
+00:01:29,900 --> 00:01:31,610
+Europe, and the Middle East.
+
+28
+00:01:31,610 --> 00:01:34,400
+Finally, I have a doctorate in Project and Program
+
+29
+00:01:34,400 --> 00:01:37,234
+Management from SKEMA Business School in France,
+
+30
+00:01:37,234 --> 00:01:41,510
+where my research was focused on Agile project management.
+
+31
+00:01:41,510 --> 00:01:48,329
+Again, welcome aboard, and I wish you all the best in this exciting course.
+

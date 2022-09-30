@@ -1,8 +1,8 @@
 /*
  * --------------------------------------------------------------------------------------------------------------------------------------
  * |   @author                  : abdo salm (abdelrahman mohamed salem)                                                                 |
- * |   @date_of_creation        : 06/09/2022                                                                                            |
- * |   @version                 : 1.0                                                                                                   |
+ * |   @date_of_creation        : 21/09/2022                                                                                            |
+ * |   @version                 : 2.0                                                                                                   |
  * |   @contact_email           : abdosalm555@gmail.com                                                                                 |
  * |   @Github_account          : https://github.com/abdosalem490                                                                       |
  * |   @stack_overflow_account  : https://stackoverflow.com/users/16305340/abdo-salm                                                    |
@@ -19,7 +19,10 @@
 #ifndef _SERVER_INCLUDE_H_
 #define _SERVER_INCLUDE_H_
 
+/*get the necessary includes*/
 #include <stdint.h>
+#include "../Card_Module/card.h"
+#include "../Terminal_Module/terminal.h"
 
 /*************************************************** maacros & structs & typedefs ****************************************************/
 
@@ -31,10 +34,15 @@
 //node account related data
 #define ACCOUNT_PAN_SIZE                16
 #define ACCOUNT_NAME_SIZE               70
+#define ACCOUNT_STATE_SIZE              7
 
 //node transaction related data
 #define TRANS_STATE_SIZE                30
 #define TRANS_DATE_SIZE                 10
+
+//account status
+#define ACC_STATE_RUN                   "running"
+#define ACC_STATE_BLOCK                 "blocked"
 
 //transactions status
 #define TRANS_STATE_COMP                "completed"
@@ -44,38 +52,67 @@
 #define MAX_FLOAT_CHAR_LEN              25
 #define MAX_FLOAT_PREC_STORE            "%.6f"
 
-typedef struct account_node{
+
+/*enum used to get the transaction error status*/
+typedef enum EN_transState_t
+{
+    PENDING                     = 0, 
+    COMPLETED                   = 1, 
+    REFUSED                     = 2, 
+}EN_transState_t;
+ 
+/*enum used to get the server error status*/
+typedef enum EN_serverError_t
+{
+    SERVER_OK               = 0, 
+    SAVING_FAILED           = 1, 
+    TRANSACTION_NOT_FOUND   = 2,
+    ACCOUNT_NOT_FOUND       = 3, 
+    LOW_BALANCE             = 4,   
+    BLOCKED_ACCOUNT         = 5,
+}EN_serverError_t ;
+
+/*enum used to get the account state whether it's blocked or running*/
+typedef enum EN_accountState_t
+{
+    RUNNING                 = 0,
+    BLOCKED                 = 1,
+}EN_accountState_t;
+
+/*account node*/
+typedef struct ST_accountsDB_t
+{
     float balance;
-    uint16_t year;
-    uint8_t month;
-    struct account_node *next;
-    int8_t name[ACCOUNT_NAME_SIZE+1];
-    int8_t PAN[ACCOUNT_PAN_SIZE+1];
-}account_data_node;
+    struct ST_accountsDB_t *next;
+    ST_cardData_t cardHolderData;
+    EN_accountState_t state;
+}ST_accountsDB_t;
 
-typedef struct transaction_node{
-    float amount;
-    int8_t date[TRANS_DATE_SIZE+1];
-    int8_t PAN_from[ACCOUNT_PAN_SIZE+1];
-    int8_t PAN_to[ACCOUNT_PAN_SIZE+1];
-    int8_t state[TRANS_STATE_SIZE];
-    struct transaction_node *next;
-}account_transaction_node;
+/*transaction node*/
+typedef struct ST_transaction_t
+{
+    EN_transState_t transState;
+    struct ST_transaction_t *next;
+    ST_cardData_t cardHolderDataFrom;
+    ST_cardData_t cardHolderDataTo;
+    ST_terminalData_t terminalData;
+}ST_transaction;
 
-
+/*list of all accounts*/
 typedef struct{
-    account_data_node* head;
-    account_data_node* tail;
+    ST_accountsDB_t* head;
+    ST_accountsDB_t* tail;
     int32_t size;
 }accounts_list;
 
+/*list of all transactions*/
 typedef struct{
-    account_transaction_node* head;
-    account_transaction_node* tail;
+    ST_transaction* head;
+    ST_transaction* tail;
     int32_t size;
 }transactions_list;
 
- 
+
 
 /*
  *  @note: the last 4 numbers of the PAN number are generated due to an equation made up of my own own which is 
@@ -83,22 +120,30 @@ typedef struct{
  */
 
 
-
-
 /*************************************************** function prototypes ****************************************************/
 
 /*
  *@public_functions
  */
-void serverInit(void);                                                                                  /*<must be called before using any other function in the server>*/
+void serverInit(void);                                                                                      /*<must be called before using any other function in the server>*/
 
-void recieveTransactionData(int8_t* arg_arrs8ReceiverPAN);                                              /*function that called regularly to iterate over all pending transactions and update amounts*/
-_Bool isValidAccount(account_data_node *arg_account_t);                                                 /*function that checks is someone exist there in the database or not*/
-_Bool isAmountAvailable(int8_t* arg_arrsAccountPAN, float arg_f32amount);                               /*function that checks that if someone has the enough amount in their balance to complete payment*/
-void saveTransaction(account_transaction_node arg_trans_t);                                             /*function that saves the transaction in both database and in program*/
+EN_serverError_t recieveTransactionData(ST_cardData_t *arg_RcvCard_t);                                      /*function that called regularly to iterate over all pending transactions and update amounts*/
+EN_serverError_t isValidAccount(ST_cardData_t cardData);                                                    /*function that checks is someone exist there in the database or not*/
+EN_serverError_t isAmountAvailable(ST_terminalData_t *termData, ST_cardData_t *arg_SenderCard_t);           /*function that checks that if someone has the enough amount in their balance to complete payment*/
+EN_serverError_t saveTransaction(ST_transaction *transData);                                                /*function that saves the transaction in both database and in program*/
+EN_serverError_t isBlockedAccount(ST_cardData_t *args_Card_t);                                              /*fucntion to check whether that account is blocked or not*/
+EN_serverError_t isThatPANThere(ST_cardData_t* arg_Card_t);                                                 /*a function to check if someone that will recive the money is there in that database*/
+EN_serverError_t blockAccount(ST_cardData_t* arg_Card_t);                                                   /*a function to block the user card*/
 
-void showCurrentBalance(int8_t* arg_arrs8AccPAN);                                                       /*a function to show th current balance of this account*/
-void showAllPrvTrans(int8_t* arg_arrs8AccPAN);                                                          /*a function to show all previous trans related to this account*/
-_Bool isThatPANThere(int8_t* arg_arrsAccPAN);                                                           /*a function to check if someone that will recive the money is there in that database*/
+
+void showCurrentBalance(ST_cardData_t* arg_Card_t);                                                         /*a function to show th current balance of this account*/
+void showAllPrvTrans(ST_cardData_t* arg_Card_t);                                                            /*a function to show all previous trans related to this account*/
+
+
+
+
+
+
+
 
 #endif

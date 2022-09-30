@@ -1,0 +1,88 @@
+1
+00:00:00,000 --> 00:00:02,595
+Now, let's take a different example.
+
+2
+00:00:02,595 --> 00:00:05,010
+I was working as a freelance consultant on
+
+3
+00:00:05,010 --> 00:00:08,700
+a development project for a client in the Southeast in the US.
+
+4
+00:00:08,700 --> 00:00:13,980
+I noticed that the client was using the Amazon Cloud to host their application,
+
+5
+00:00:13,980 --> 00:00:17,370
+and they were paying $500 per month for the hosting.
+
+6
+00:00:17,370 --> 00:00:22,995
+Now, a simple web app with 500 users doesn't have much infrastructure cost these days,
+
+7
+00:00:22,995 --> 00:00:24,480
+especially on the Cloud.
+
+8
+00:00:24,480 --> 00:00:27,170
+I noticed that they were using a lot of servers on
+
+9
+00:00:27,170 --> 00:00:30,720
+the Cloud that they won't need unless they reach a critical mass of the users,
+
+10
+00:00:30,720 --> 00:00:32,505
+maybe like 300,000 users.
+
+11
+00:00:32,505 --> 00:00:34,665
+Unless they reach 300,000 users,
+
+12
+00:00:34,665 --> 00:00:36,975
+they won't need so many servers.
+
+13
+00:00:36,975 --> 00:00:40,070
+Something like that doesn't have enough value for me to
+
+14
+00:00:40,070 --> 00:00:43,430
+fix personally in terms of revenue from the client.
+
+15
+00:00:43,430 --> 00:00:45,950
+I just need to get on one call and try to explain it to
+
+16
+00:00:45,950 --> 00:00:49,940
+the client and they'll take care of the rest in case they're convinced.
+
+17
+00:00:49,940 --> 00:00:53,770
+But it would be of immense value to the client if that is fixed.
+
+18
+00:00:53,770 --> 00:00:57,590
+I made the effort to do that and the client was able to reduce their costs by
+
+19
+00:00:57,590 --> 00:01:01,160
+90 percent of what they were paying earlier to the Amazon Cloud.
+
+20
+00:01:01,160 --> 00:01:04,625
+Even though this was not of significant value to me in terms of revenue,
+
+21
+00:01:04,625 --> 00:01:06,740
+this deepened clients' trust in me,
+
+22
+00:01:06,740 --> 00:01:11,490
+causing them to continue to give work to me at a rate that I was comfortable with.
+

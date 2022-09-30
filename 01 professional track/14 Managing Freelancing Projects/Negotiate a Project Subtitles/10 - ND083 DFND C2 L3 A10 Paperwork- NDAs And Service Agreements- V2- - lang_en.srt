@@ -1,0 +1,244 @@
+1
+00:00:00,000 --> 00:00:02,580
+Now, when a client engages a freelancer,
+
+2
+00:00:02,580 --> 00:00:08,355
+they may share a lot of information about their work and company with the freelancer.
+
+3
+00:00:08,355 --> 00:00:12,915
+This information could be things like source code of a software application,
+
+4
+00:00:12,915 --> 00:00:15,540
+their long-term or short-term business plans,
+
+5
+00:00:15,540 --> 00:00:17,310
+a design of their product,
+
+6
+00:00:17,310 --> 00:00:21,750
+even their passwords, their secret source of a key product.
+
+7
+00:00:21,750 --> 00:00:24,570
+This information may be shared with
+
+8
+00:00:24,570 --> 00:00:28,950
+different methods through emails or verbally in meetings,
+
+9
+00:00:28,950 --> 00:00:31,635
+through chats, even WhatsApp or Slack,
+
+10
+00:00:31,635 --> 00:00:35,670
+and in some cases shared Cloud drives.
+
+11
+00:00:35,670 --> 00:00:39,240
+In this case, it becomes really important for
+
+12
+00:00:39,240 --> 00:00:42,980
+the client to protect the information and make
+
+13
+00:00:42,980 --> 00:00:46,745
+sure that the freelancer takes utmost care to not
+
+14
+00:00:46,745 --> 00:00:51,380
+transmit this information to a third party without the client approving it.
+
+15
+00:00:51,380 --> 00:00:55,060
+That's what a non-disclosure agreement really is.
+
+16
+00:00:55,060 --> 00:00:57,980
+It's a legal document to ascertain that
+
+17
+00:00:57,980 --> 00:01:01,610
+the freelancer does not transfer any information obtained
+
+18
+00:01:01,610 --> 00:01:04,490
+from the client to any third party without
+
+19
+00:01:04,490 --> 00:01:08,990
+proper purpose and proper authorization as required.
+
+20
+00:01:08,990 --> 00:01:14,630
+On the other hand, a service agreement is more about the work that you do.
+
+21
+00:01:14,630 --> 00:01:20,120
+It's a legal document that lists down the terms of engagement between the two of you.
+
+22
+00:01:20,120 --> 00:01:25,355
+Examples of things that one might include here are interim delivery schedules,
+
+23
+00:01:25,355 --> 00:01:27,230
+frequency of code drops,
+
+24
+00:01:27,230 --> 00:01:29,210
+or weekly update schedules,
+
+25
+00:01:29,210 --> 00:01:33,815
+working with companies that might work in the same domain as the client,
+
+26
+00:01:33,815 --> 00:01:36,905
+hiring employees that work for the client,
+
+27
+00:01:36,905 --> 00:01:40,925
+and also terminating the contract prematurely.
+
+28
+00:01:40,925 --> 00:01:44,810
+Sometimes, if things go wrong and you are held liable,
+
+29
+00:01:44,810 --> 00:01:48,080
+the contracts may allow unlimited liability,
+
+30
+00:01:48,080 --> 00:01:53,125
+which means you may need to pay an indefinite amount to cover the losses.
+
+31
+00:01:53,125 --> 00:01:54,950
+This is not a good idea,
+
+32
+00:01:54,950 --> 00:01:56,870
+especially when you're starting out.
+
+33
+00:01:56,870 --> 00:02:00,515
+It is always a good idea to limit your liability.
+
+34
+00:02:00,515 --> 00:02:04,640
+A good idea to limit your liability is to limit it to
+
+35
+00:02:04,640 --> 00:02:09,820
+a monetary amount of the all the service fee that you receive from the client.
+
+36
+00:02:09,820 --> 00:02:12,855
+Another one is indemnification.
+
+37
+00:02:12,855 --> 00:02:15,515
+Indemnification happens when you need to
+
+38
+00:02:15,515 --> 00:02:19,010
+compensate the client for a breach in the contract.
+
+39
+00:02:19,010 --> 00:02:22,130
+Now you know the world is not fair and there's
+
+40
+00:02:22,130 --> 00:02:25,309
+a rare chance that you might get into a situation,
+
+41
+00:02:25,309 --> 00:02:29,795
+but the client wrongly put charges on you and you'll need to indemnify.
+
+42
+00:02:29,795 --> 00:02:32,585
+This is not common and is very rare.
+
+43
+00:02:32,585 --> 00:02:34,130
+But if it does happen,
+
+44
+00:02:34,130 --> 00:02:37,135
+it could lead to significant monetary losses.
+
+45
+00:02:37,135 --> 00:02:40,775
+To mitigate the risk of any such unexpected situations,
+
+46
+00:02:40,775 --> 00:02:43,460
+it is a good idea to limit the extent of
+
+47
+00:02:43,460 --> 00:02:47,930
+indemnification to the sum of all the fee that the client paid you.
+
+48
+00:02:47,930 --> 00:02:51,785
+For example, if the client sues you for a million dollars and they
+
+49
+00:02:51,785 --> 00:02:55,985
+paid you $20,000 for everything that you did for them,
+
+50
+00:02:55,985 --> 00:02:59,725
+you only owe them $20,000 in the lawsuit.
+
+51
+00:02:59,725 --> 00:03:02,870
+It's also important to make sure that contracts like
+
+52
+00:03:02,870 --> 00:03:06,590
+non-disclosure agreements do not have unlimited validity.
+
+53
+00:03:06,590 --> 00:03:09,560
+A five-year period from the end of the contract is
+
+54
+00:03:09,560 --> 00:03:12,945
+a good time frame to limit the validity, which means,
+
+55
+00:03:12,945 --> 00:03:16,190
+you'll be obligated to the non-disclosure agreement until
+
+56
+00:03:16,190 --> 00:03:20,825
+five years after the contract has ended and not more than that.
+
+57
+00:03:20,825 --> 00:03:26,615
+Lastly, it is important to put in a premature termination clause there.
+
+58
+00:03:26,615 --> 00:03:29,810
+You don't want to get stuck with a client if you don't like
+
+59
+00:03:29,810 --> 00:03:33,800
+the nature of work or you don't like the client's work culture.
+
+60
+00:03:33,800 --> 00:03:36,680
+Having a premature termination clause with
+
+61
+00:03:36,680 --> 00:03:42,090
+enough notice period is good for a healthy exit from any client relationship.
+

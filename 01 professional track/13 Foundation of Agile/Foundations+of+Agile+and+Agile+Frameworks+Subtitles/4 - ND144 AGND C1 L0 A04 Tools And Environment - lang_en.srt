@@ -1,0 +1,76 @@
+1
+00:00:00,000 --> 00:00:03,705
+There are a number of valuable agile tools in the market,
+
+2
+00:00:03,705 --> 00:00:06,930
+such as Microsoft Teams, Jira, Confluence,
+
+3
+00:00:06,930 --> 00:00:11,625
+Trello, Slack, Kanbanize, VersionOne,
+
+4
+00:00:11,625 --> 00:00:14,880
+Rally, and many others.
+
+5
+00:00:14,880 --> 00:00:21,095
+These agile tools are an excellent communication and collaboration resource.
+
+6
+00:00:21,095 --> 00:00:25,265
+For example, they help track progress,
+
+7
+00:00:25,265 --> 00:00:31,115
+iteratively assign work, track defects, plus much more.
+
+8
+00:00:31,115 --> 00:00:36,820
+The tools help monitor the team's progress in a transparent and visible manner.
+
+9
+00:00:36,820 --> 00:00:41,540
+Majority of the tools are customizable to accommodate
+
+10
+00:00:41,540 --> 00:00:48,110
+Agile Teams in various industries with various agile frameworks.
+
+11
+00:00:48,110 --> 00:00:54,155
+Agile tools make cross-functional teamwork and collaboration easier.
+
+12
+00:00:54,155 --> 00:00:56,940
+Whether it is pre-planning with the product team
+
+13
+00:00:56,940 --> 00:01:00,530
+to getting user feedback from the customers directly,
+
+14
+00:01:00,530 --> 00:01:06,035
+the agile team works together in one platform to deliver valuable results.
+
+15
+00:01:06,035 --> 00:01:10,100
+Agile tools provide real-time dashboards and
+
+16
+00:01:10,100 --> 00:01:15,020
+reports that show the Agile Teams progress against the product roadmap.
+
+17
+00:01:15,020 --> 00:01:20,450
+This helps Agile Teams better estimate capacity for future iterations.
+
+18
+00:01:20,450 --> 00:01:24,530
+When used properly, agile tools help
+
+19
+00:01:24,530 --> 00:01:30,720
+elevate and Agile Teams effectiveness and efficiency to deliver value.
+

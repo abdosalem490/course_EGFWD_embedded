@@ -1,0 +1,168 @@
+1
+00:00:00,000 --> 00:00:05,130
+In order to minimize wasting time in unnecessary meetings and group discussions,
+
+2
+00:00:05,130 --> 00:00:10,510
+the Kanban framework recommends focused meetings with a specific purpose.
+
+3
+00:00:10,670 --> 00:00:14,430
+You remember the six Scrum ceremonies, right?
+
+4
+00:00:14,430 --> 00:00:17,940
+In Kanban, the ceremonies are simplified.
+
+5
+00:00:17,940 --> 00:00:20,910
+There is no sprint planning ceremony,
+
+6
+00:00:20,910 --> 00:00:23,745
+and there is no sprint retrospective,
+
+7
+00:00:23,745 --> 00:00:28,305
+and the sprint review or demo is just called a review or demo,
+
+8
+00:00:28,305 --> 00:00:33,790
+so the four Kanban ceremonies align with four of the Scrum ceremonies.
+
+9
+00:00:33,790 --> 00:00:36,840
+The four Kanban ceremonies are virtually the
+
+10
+00:00:36,840 --> 00:00:40,140
+same as their counterpart ceremonies in the Scrum framework.
+
+11
+00:00:40,140 --> 00:00:41,885
+As you can see here,
+
+12
+00:00:41,885 --> 00:00:46,325
+the project vision ceremony in Kanban has virtually the same purpose,
+
+13
+00:00:46,325 --> 00:00:50,885
+agenda, timing, as well as expected outcome.
+
+14
+00:00:50,885 --> 00:00:54,200
+The same can be said for the daily stand up,
+
+15
+00:00:54,200 --> 00:00:56,690
+as well as the review or demo,
+
+16
+00:00:56,690 --> 00:01:01,015
+and the same also goes for release planning.
+
+17
+00:01:01,015 --> 00:01:04,700
+Kanban provides the ability to view in one instance,
+
+18
+00:01:04,700 --> 00:01:07,805
+the status of the entire product development journey.
+
+19
+00:01:07,805 --> 00:01:12,170
+The Kanban board makes it very easy to visualize what has been completed,
+
+20
+00:01:12,170 --> 00:01:14,435
+what is currently in progress,
+
+21
+00:01:14,435 --> 00:01:17,900
+and what work items have not commenced yet.
+
+22
+00:01:17,900 --> 00:01:22,369
+Since it focuses on the Agile team's workflow and throughput,
+
+23
+00:01:22,369 --> 00:01:27,830
+Kanban is seen as a better Agile Framework option solution for projects where
+
+24
+00:01:27,830 --> 00:01:33,550
+the work is likely to involve a large quantity of relatively small activities.
+
+25
+00:01:33,550 --> 00:01:38,765
+Kanban is also suitable for work that may arise on an ad-hoc basis.
+
+26
+00:01:38,765 --> 00:01:43,250
+Now, let us discuss Kanban roles and artifacts.
+
+27
+00:01:43,250 --> 00:01:46,020
+Much like the various Agile Frameworks,
+
+28
+00:01:46,020 --> 00:01:50,030
+there are three core roles in the Kanban framework as well.
+
+29
+00:01:50,030 --> 00:01:52,760
+The first is a product owner or PO,
+
+30
+00:01:52,760 --> 00:01:55,240
+who is seen as the voice of the customer,
+
+31
+00:01:55,240 --> 00:01:58,275
+the next key role is that of the facilitator,
+
+32
+00:01:58,275 --> 00:02:00,885
+and then we have the Agile team.
+
+33
+00:02:00,885 --> 00:02:04,160
+Let's look at all three of these important roles.
+
+34
+00:02:04,160 --> 00:02:07,475
+Kanban has a much more flexible approach,
+
+35
+00:02:07,475 --> 00:02:14,645
+but two key recommended artifacts are the Kanban board and cumulative flow diagram.
+
+36
+00:02:14,645 --> 00:02:19,190
+A Kanban board plays a valuable role since it
+
+37
+00:02:19,190 --> 00:02:23,795
+articulates the work items in the various stages of the product developing journey.
+
+38
+00:02:23,795 --> 00:02:26,540
+With a cumulative flow diagram,
+
+39
+00:02:26,540 --> 00:02:29,330
+problem areas are easily detected,
+
+40
+00:02:29,330 --> 00:02:33,760
+changes could be made so that work can continue efficiently,
+
+41
+00:02:33,760 --> 00:02:38,660
+and accumulative flow diagram also shows the total amount
+
+42
+00:02:38,660 --> 00:02:44,370
+of WIP or work in process and how quickly projects are being completed.
+

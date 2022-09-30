@@ -1,0 +1,140 @@
+1
+00:00:00,000 --> 00:00:03,555
+Let me go through a few examples from my own experience.
+
+2
+00:00:03,555 --> 00:00:06,420
+While working with about 90 plus clients in
+
+3
+00:00:06,420 --> 00:00:09,240
+the last five years from different parts of the world,
+
+4
+00:00:09,240 --> 00:00:13,829
+I've tried to maximize value for the client in numerous ways in these projects.
+
+5
+00:00:13,829 --> 00:00:16,440
+One client that I was working for who was based in
+
+6
+00:00:16,440 --> 00:00:19,500
+the East Coast in the US was trying to build a platform by
+
+7
+00:00:19,500 --> 00:00:21,990
+collecting a lot of government data from
+
+8
+00:00:21,990 --> 00:00:25,425
+government websites through freely available APIs.
+
+9
+00:00:25,425 --> 00:00:28,830
+Now, this use case was unique and not many had done that
+
+10
+00:00:28,830 --> 00:00:32,655
+before because the data was not very standardized enough,
+
+11
+00:00:32,655 --> 00:00:35,085
+and the client was very non-technical.
+
+12
+00:00:35,085 --> 00:00:36,965
+So they wouldn't know much about coding,
+
+13
+00:00:36,965 --> 00:00:39,410
+about APIs, or libraries.
+
+14
+00:00:39,410 --> 00:00:41,660
+Interestingly, I found a library on
+
+15
+00:00:41,660 --> 00:00:46,535
+the GitHub repository that was free and allowed integrating with commercial applications.
+
+16
+00:00:46,535 --> 00:00:49,250
+This would do a lot of heavy lifting for us to build
+
+17
+00:00:49,250 --> 00:00:52,600
+this module on collecting data in the way we wanted to.
+
+18
+00:00:52,600 --> 00:00:55,790
+That prompted me to search for other libraries like this one.
+
+19
+00:00:55,790 --> 00:00:58,265
+But this seemed to be the most compelling.
+
+20
+00:00:58,265 --> 00:01:00,860
+If I was focusing on only maximizing
+
+21
+00:01:00,860 --> 00:01:03,920
+my revenue without balancing it for the client's value,
+
+22
+00:01:03,920 --> 00:01:05,885
+I could have just built it from scratch
+
+23
+00:01:05,885 --> 00:01:08,405
+and could have charged the client for all that work.
+
+24
+00:01:08,405 --> 00:01:11,150
+But that did not seem to be the right thing to do,
+
+25
+00:01:11,150 --> 00:01:14,350
+and definitely not efficient for the overall project.
+
+26
+00:01:14,350 --> 00:01:18,455
+I took the result of the search and the library to the client,
+
+27
+00:01:18,455 --> 00:01:21,290
+and explained how much effort and money would that
+
+28
+00:01:21,290 --> 00:01:24,470
+save by using the library and building off of it.
+
+29
+00:01:24,470 --> 00:01:28,615
+We went ahead and ended up using that library for that project.
+
+30
+00:01:28,615 --> 00:01:33,530
+The client continued to give me work on other parts of the application and in total,
+
+31
+00:01:33,530 --> 00:01:36,365
+I got worth $35,000 from the client,
+
+32
+00:01:36,365 --> 00:01:40,720
+which meant a lot to me back then when I had just started out.
+
+33
+00:01:40,720 --> 00:01:45,920
+Doing things most efficiently for a client will not only make you satisfied,
+
+34
+00:01:45,920 --> 00:01:48,035
+it will earn your trust in the client,
+
+35
+00:01:48,035 --> 00:01:52,740
+ending up in great reviews and more work from the same client.
+

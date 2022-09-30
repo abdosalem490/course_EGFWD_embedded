@@ -1,0 +1,132 @@
+1
+00:00:00,000 --> 00:00:04,019
+Let's look at the important characteristics of the XP framework.
+
+2
+00:00:04,019 --> 00:00:09,090
+Extreme programming, which is routinely referred to XP is in the industry,
+
+3
+00:00:09,090 --> 00:00:14,085
+is a powerful Agile framework with its roots in software development.
+
+4
+00:00:14,085 --> 00:00:20,685
+XP has a strong focus on technical excellence and best practices in software development.
+
+5
+00:00:20,685 --> 00:00:24,150
+Now, let's look at the XP core values.
+
+6
+00:00:24,150 --> 00:00:26,880
+There are five XP core values.
+
+7
+00:00:26,880 --> 00:00:31,715
+They are; simplicity, communication,
+
+8
+00:00:31,715 --> 00:00:37,190
+feedback, courage, and respect.
+
+9
+00:00:37,190 --> 00:00:41,285
+Let's discuss each one of these XP core values.
+
+10
+00:00:41,285 --> 00:00:46,910
+XP encourages reducing unnecessary complexity when building a solution.
+
+11
+00:00:46,910 --> 00:00:51,140
+Minimizing extra features is also encouraged in XP since it
+
+12
+00:00:51,140 --> 00:00:56,485
+reduces waste and maximizes value for the investment.
+
+13
+00:00:56,485 --> 00:01:03,925
+Simplicity, just like all the XP core values stems from the Agile manifesto.
+
+14
+00:01:03,925 --> 00:01:06,425
+In an XP environment,
+
+15
+00:01:06,425 --> 00:01:09,350
+all the team members have transparency in being aware of
+
+16
+00:01:09,350 --> 00:01:12,425
+what is expected of them in terms of deliverables,
+
+17
+00:01:12,425 --> 00:01:17,390
+as well as being aware of what others in the team are contributing towards.
+
+18
+00:01:17,390 --> 00:01:22,430
+A reliable avenue for keeping everyone informed is the daily stand-up,
+
+19
+00:01:22,430 --> 00:01:25,630
+which is a pivotal communication tool in XP.
+
+20
+00:01:25,630 --> 00:01:29,825
+Feedback in every iteration is taken seriously in XP,
+
+21
+00:01:29,825 --> 00:01:34,535
+with an opportunity to demonstrate working results early and often.
+
+22
+00:01:34,535 --> 00:01:40,435
+Failing fast allows the team to make changes proactively to improve the product.
+
+23
+00:01:40,435 --> 00:01:45,560
+Courage, allows a team to bravely tell the truth about progress,
+
+24
+00:01:45,560 --> 00:01:49,310
+estimates and any impediments to value delivery.
+
+25
+00:01:49,310 --> 00:01:54,605
+Paired programming and XP core practice that will be explained shortly,
+
+26
+00:01:54,605 --> 00:01:58,595
+requires that courage of paired team members to share code
+
+27
+00:01:58,595 --> 00:02:04,085
+and valiantly adapt to adhere to shared coding standards.
+
+28
+00:02:04,085 --> 00:02:09,535
+Respect is a key foundational element in XP for a high-achieving team.
+
+29
+00:02:09,535 --> 00:02:15,200
+In XP, each team member is accountable for a successful product delivery,
+
+30
+00:02:15,200 --> 00:02:18,290
+which requires giving everyone respect to
+
+31
+00:02:18,290 --> 00:02:22,265
+accomplish their own tasks while working collaboratively.
+
+32
+00:02:22,265 --> 00:02:26,110
+Respect is practiced in pair programming as well,
+
+33
+00:02:26,110 --> 00:02:30,720
+where paired team members respect their differences.
+

@@ -1,0 +1,192 @@
+1
+00:00:00,410 --> 00:00:06,360
+Why are forward thinking organizations rabidly adopting Agile?
+
+2
+00:00:06,360 --> 00:00:09,450
+Why are we seeing that global professional bodies such as
+
+3
+00:00:09,450 --> 00:00:13,530
+the Project Management Institute or PMI in their PMBOK Guide,
+
+4
+00:00:13,530 --> 00:00:18,705
+and the International Institute of Business Analysis or IIBA in their BABOK guide,
+
+5
+00:00:18,705 --> 00:00:23,925
+have incorporated and highlighted the importance of Agile in project management,
+
+6
+00:00:23,925 --> 00:00:28,155
+business analysis, and other product delivery activities.
+
+7
+00:00:28,155 --> 00:00:33,180
+In an increasingly interconnected and competitive global market space,
+
+8
+00:00:33,180 --> 00:00:37,320
+I am seeing Agile being leveraged by successful organizations
+
+9
+00:00:37,320 --> 00:00:41,655
+across the globe to thrive in today's digital economy.
+
+10
+00:00:41,655 --> 00:00:45,770
+Agile enables organizations to predictably deliver value
+
+11
+00:00:45,770 --> 00:00:49,715
+in a world where we are constantly being challenged with volatility,
+
+12
+00:00:49,715 --> 00:00:53,860
+uncertainty, complexity, and ambiguity.
+
+13
+00:00:53,860 --> 00:00:56,270
+Organizations that I have seen go through
+
+14
+00:00:56,270 --> 00:00:59,990
+Agile transformation have benefited from the following.
+
+15
+00:00:59,990 --> 00:01:02,375
+Faster time to market.
+
+16
+00:01:02,375 --> 00:01:06,500
+An Agile approach accelerates product development cycles.
+
+17
+00:01:06,500 --> 00:01:08,585
+According to various studies,
+
+18
+00:01:08,585 --> 00:01:12,640
+Agile teams are able to release products anywhere from 50-80 percent
+
+19
+00:01:12,640 --> 00:01:15,110
+faster that teams that continue to
+
+20
+00:01:15,110 --> 00:01:18,139
+use a more traditional approach to product development.
+
+21
+00:01:18,139 --> 00:01:20,715
+Early return on investment.
+
+22
+00:01:20,715 --> 00:01:22,470
+On the ROI front,
+
+23
+00:01:22,470 --> 00:01:28,475
+Agile helps us accomplish two things: help squeeze cash out of work in progress,
+
+24
+00:01:28,475 --> 00:01:30,185
+also known as WIP,
+
+25
+00:01:30,185 --> 00:01:33,905
+and increase project and portfolio returns.
+
+26
+00:01:33,905 --> 00:01:36,175
+Let's look at each of these.
+
+27
+00:01:36,175 --> 00:01:42,890
+In Agile, by not allocating funds up front and hampering organizational liquidity,
+
+28
+00:01:42,890 --> 00:01:49,505
+cash is freed up to more flexibly invest as the product evolves based on market needs.
+
+29
+00:01:49,505 --> 00:01:54,515
+Waste, commonly referred to as the Japanese term Muda in the real-world,
+
+30
+00:01:54,515 --> 00:01:58,700
+is reduced by trimming down on unproven assumptions and
+
+31
+00:01:58,700 --> 00:02:03,050
+mitigating the chances when investing in non-value added features.
+
+32
+00:02:03,050 --> 00:02:09,065
+That is, features that are of no value and are probably a waste of resources.
+
+33
+00:02:09,065 --> 00:02:12,800
+This helps a product management team prioritize features more
+
+34
+00:02:12,800 --> 00:02:17,419
+proactively and steer towards better decisions for product's success.
+
+35
+00:02:17,419 --> 00:02:22,565
+Agile allows us to fail fast or even stop early.
+
+36
+00:02:22,565 --> 00:02:25,400
+This allows executives to move funds around
+
+37
+00:02:25,400 --> 00:02:28,505
+from one project to another at a portfolio level.
+
+38
+00:02:28,505 --> 00:02:31,490
+Priorities are re-evaluated more frequently and
+
+39
+00:02:31,490 --> 00:02:36,490
+proactively to maintain a close alignment to the pulse of the market.
+
+40
+00:02:36,490 --> 00:02:40,370
+As Eric Reis outlines in his book, The Lean Startup,
+
+41
+00:02:40,370 --> 00:02:43,460
+that early feedback loop from the customer or
+
+42
+00:02:43,460 --> 00:02:47,065
+a proxy who represents the customer is priceless.
+
+43
+00:02:47,065 --> 00:02:50,840
+Frequent feedback from the business and end-users ensures
+
+44
+00:02:50,840 --> 00:02:55,580
+the Agile team is focused on the solutions and intended goals,
+
+45
+00:02:55,580 --> 00:02:59,665
+and helps ensure they deliver high-value features.
+
+46
+00:02:59,665 --> 00:03:02,930
+Equally important, feedback loops allow
+
+47
+00:03:02,930 --> 00:03:07,879
+the team to accommodate change later in the development process,
+
+48
+00:03:07,879 --> 00:03:12,450
+particularly as newer refined requirements emerge.
+

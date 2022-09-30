@@ -1,0 +1,216 @@
+1
+00:00:00,290 --> 00:00:03,915
+Now, let's look into the common pricing frameworks
+
+2
+00:00:03,915 --> 00:00:05,780
+that are used in the freelancing world.
+
+3
+00:00:05,780 --> 00:00:08,325
+Now, by pricing framework here,
+
+4
+00:00:08,325 --> 00:00:14,370
+what we mean is the structure within which you as a freelancer would get paid.
+
+5
+00:00:14,370 --> 00:00:18,400
+The two types that we discussed now would make this clearer.
+
+6
+00:00:18,400 --> 00:00:22,520
+One kind of pricing framework is called fixed cost.
+
+7
+00:00:22,520 --> 00:00:24,125
+As the name suggests,
+
+8
+00:00:24,125 --> 00:00:27,050
+this means that the total cost of the project
+
+9
+00:00:27,050 --> 00:00:30,490
+end-to-end is fixed at the start of the project.
+
+10
+00:00:30,490 --> 00:00:36,500
+For example, you could say that you charge $100 to add a module to an existing website,
+
+11
+00:00:36,500 --> 00:00:40,745
+or you would charge $400 to build a static website,
+
+12
+00:00:40,745 --> 00:00:44,725
+or maybe $3,000 to build a web application.
+
+13
+00:00:44,725 --> 00:00:47,840
+All these are fixed costs for the project
+
+14
+00:00:47,840 --> 00:00:51,775
+that you have decided to work on for the client.
+
+15
+00:00:51,775 --> 00:00:56,134
+Then the client will pay you after the work is completed.
+
+16
+00:00:56,134 --> 00:00:59,225
+All these are fixed costs for the project
+
+17
+00:00:59,225 --> 00:01:02,845
+that the client will pay you after the work is done.
+
+18
+00:01:02,845 --> 00:01:04,650
+On the other hand,
+
+19
+00:01:04,650 --> 00:01:07,565
+time and material is the other pricing framework
+
+20
+00:01:07,565 --> 00:01:11,075
+which requires a fixed rate for the work that you do.
+
+21
+00:01:11,075 --> 00:01:14,875
+This rate is usually set as an hourly rate.
+
+22
+00:01:14,875 --> 00:01:19,295
+For example, you could set your rate to $25 an hour,
+
+23
+00:01:19,295 --> 00:01:25,585
+which means you'll get $25 for every hour that you spend working on the client's task,
+
+24
+00:01:25,585 --> 00:01:27,615
+or $40 an hour,
+
+25
+00:01:27,615 --> 00:01:30,855
+or maybe $110 an hour.
+
+26
+00:01:30,855 --> 00:01:35,265
+Fixed-cost project is primarily work-based,
+
+27
+00:01:35,265 --> 00:01:40,240
+you get paid for the work that you have done whose cost is pre-decided.
+
+28
+00:01:40,240 --> 00:01:42,825
+On the other hand, as we saw,
+
+29
+00:01:42,825 --> 00:01:45,690
+time and material is time-based,
+
+30
+00:01:45,690 --> 00:01:49,525
+you are paid based on the time you spend on the task.
+
+31
+00:01:49,525 --> 00:01:51,215
+Keep in mind though,
+
+32
+00:01:51,215 --> 00:01:56,875
+that some projects may put a cap on the maximum number of hours that you can spend there.
+
+33
+00:01:56,875 --> 00:02:01,040
+But what gets done in those hours cannot be fixed since this is
+
+34
+00:02:01,040 --> 00:02:06,070
+a time-based model where you are paid for the time you spend on the project.
+
+35
+00:02:06,070 --> 00:02:10,650
+If you're thinking about what's the material bid in time and material,
+
+36
+00:02:10,650 --> 00:02:13,080
+that's the next point of difference.
+
+37
+00:02:13,080 --> 00:02:20,210
+In fixed cost, the cost is inclusive of any overheads that are required for the project.
+
+38
+00:02:20,210 --> 00:02:24,170
+You would not build them separately since the total cost of the project
+
+39
+00:02:24,170 --> 00:02:28,435
+is already fixed and the client has already budgeted for it.
+
+40
+00:02:28,435 --> 00:02:30,270
+Whereas in time and material,
+
+41
+00:02:30,270 --> 00:02:34,610
+you will build any overheads on actuals to the client since it is not
+
+42
+00:02:34,610 --> 00:02:37,745
+a fixed cost project and you're billing for any time
+
+43
+00:02:37,745 --> 00:02:41,915
+or material that you use for the project as you go along.
+
+44
+00:02:41,915 --> 00:02:46,030
+Now, what do we really mean by overheads, you might ask.
+
+45
+00:02:46,030 --> 00:02:51,080
+Overheads are things like any special hardware that you use for the project,
+
+46
+00:02:51,080 --> 00:02:55,025
+like a webcam when you're developing an image sensing application,
+
+47
+00:02:55,025 --> 00:02:59,875
+or any specific software license that you need to obtain for the client's project,
+
+48
+00:02:59,875 --> 00:03:02,600
+like Microsoft Word license to create and edit
+
+49
+00:03:02,600 --> 00:03:06,365
+documents or a paid WordPress stream for a website.
+
+50
+00:03:06,365 --> 00:03:09,530
+We discussed the two kinds of pricing structures that are
+
+51
+00:03:09,530 --> 00:03:13,170
+generally used by freelancers to build their clients.
+
+52
+00:03:13,170 --> 00:03:16,610
+I would say spend some time to look at these two types of
+
+53
+00:03:16,610 --> 00:03:21,170
+pricing structures in this chart and try to internalize them.
+
+54
+00:03:21,170 --> 00:03:26,340
+You'll see these coming handy whenever you work with new clients.
+
