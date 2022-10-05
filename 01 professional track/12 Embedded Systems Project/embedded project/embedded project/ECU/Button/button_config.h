@@ -12,5 +12,4 @@
 
 
 
-
 #endif /* BUTTON_CONFIG_H_ */

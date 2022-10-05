@@ -5,6 +5,7 @@
  *  Author: abdo
  */ 
 
+ #include "../../utils/standard_int.h"
 
 #ifndef BUTTON_HEADER_H_
 #define BUTTON_HEADER_H_
@@ -17,10 +18,10 @@
 #define BUTTON_STATE_PRESSED		0
 #define BUTTON_STATE_UN_PRESSED		1
 
-//supported internal pull resistor
+//supported internal pull resistor : @OPTIONS_RES_TYPES
 #define BUTTON_INTERNAL_PULL_UP		0
 #define BUTTON_EXTERNAL_PULL_UP		1
-
+#define BUTTON_EXTERNAL_PULL_DOWN	2
 
 //error types of buttons input
 typedef enum ES_BUTTON_t{
@@ -32,8 +33,8 @@ typedef enum ES_BUTTON_t{
 /* public functions                                                     */
 /************************************************************************/
 ES_BUTTON_t button_init_Polling(uint8_t args_u8PortNumber, uint8_t args_u8PinNumber, uint8_t args_u8InternOrExternalRes);
-ES_BUTTON_t button_init_IT(uint8_t args_u8PortNumber, uint8_t args_u8PinNumber, void (*args_pvCallBack) (void), uint8_t args_u8InternOrExternalRes);
-ES_BUTTON_t button_read(uint8_t args_u8PortNumber, uint8_t args_u8PinNumber,uint8_t args_u8pinMode, uint8_t *args_u8Input);
-ES_BUTTON_t button_deinit_IT(uint8_t args_u8PortNumber, uint8_t args_u8PinNumber);
+ES_BUTTON_t button_init_IT(uint8_t args_u8IntNum, uint8_t args_u8IntMode, void (*args_pvCallBack) (void), uint8_t args_u8InternOrExternalRes);
+ES_BUTTON_t button_read(uint8_t args_u8PortNumber, uint8_t args_u8PinNumber, uint8_t *args_u8Input, uint8_t args_u8ButtonType);
+ES_BUTTON_t button_deinit_IT(uint8_t args_u8IntNum);
 
 #endif /* BUTTON_HEADER_H_ */

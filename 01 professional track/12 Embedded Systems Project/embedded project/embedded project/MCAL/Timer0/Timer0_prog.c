@@ -85,6 +85,7 @@ ES_TIMER0_t timer0_SetCompareReg(uint8_t args_u8tOCRVal)
 	return TIM0_OK;
 }
 
+
 ES_TIMER0_t timer0_start(uint8_t args_u8ClockSelect)
 {
 	/*local variable to indicate the error state*/
@@ -120,13 +121,13 @@ ES_TIMER0_t timer0_stop()
  *	@brief		-:		-ISR of Timer/Counter1 Overflow
  *
  */
-void __attribute__ ((signal,used)) __vector_10 (void) 
+void __attribute__((signal,used)) __vector_10 (void) 
 {
 	/*call the call back function*/
-	global_pvOverFlowCallBack();
+	global_pvOutCmpCallBack();
 
 	/*disable the flag of interrupt*/
-	SET_BIT(TIFR, TIFR_TOV0_1BITS);
+	SET_BIT(TIFR, TIFR_OCF0_1BITS);
 
 	/*enable the global interrupt after the end of interrupt*/
 	ENABLE_GLOBAL_INT();
@@ -139,15 +140,128 @@ void __attribute__ ((signal,used)) __vector_10 (void)
  *	@brief		-:		-ISR of Timer/Counter0 Compare Match
  *
  */
-void __attribute__ ((signal,used)) __vector_11(void) 
+void __attribute__((signal,used)) __vector_11(void) 
 {
 	/*call the call back function*/
-	global_pvOutCmpCallBack();
+	global_pvOverFlowCallBack();
 
 	/*disable the flag of interrupt*/
-	SET_BIT(TIFR, TIFR_OCF0_1BITS);	
+	SET_BIT(TIFR, TIFR_TOV0_1BITS);
 
 	/*enable the global interrupt after the end of interrupt*/
+	ENABLE_GLOBAL_INT();
+	
+}
+
+static void dummyCallBackFunc()
+{
+	// increase the number of overflows
+	global_countVar++;
+
+	// reset the value of the counter
+	TCNT0 = global_u8InitValForTim;
+
+	// call the 
+	if (global_countVar == global_ValueToReachCount)
+	{
+		/*reset the global variable*/
+		global_countVar = 0;
+
+		/*call the call back function*/
+		global_pvCallBackDelay();
+	}
+}
+
+/*
+ *	@fn			-:		-calculatInitValueForTimer0
+ *
+ *	@params[0]	-:		-a number in milliseconds to delay for 
+ *
+ *	@brief		-:		-calculate the initial value needed for timer0 to be inserted into the timer
+ *
+ *	@return		-:		-the initial value to be in the timer0
+ */
+static uint8_t calculatInitValueForTimer0(uint32_t args_u32TimeInMilliSeconds, uint16_t args_u8Prescalar)
+{
+	/*local variable for time in seconds*/
+	double volatile local_f64TimerInSeconds = args_u32TimeInMilliSeconds / 1000.0;
+
+	/*local variable that will contain the value for init timer*/
+	uint8_t volatile local_u8TimerInit = 0;
+
+	/*local variable that will contain the time for one tick*/
+	double volatile local_f64Ttick;
+
+
+	/*local variable that will contain the time for max delay*/
+	double volatile local_f64Tmaxdelay;
+
+	/*get the tick timer*/
+	local_f64Ttick = args_u8Prescalar / 1000000.0;
+
+	/*get the max delay*/
+	local_f64Tmaxdelay = 256 * local_f64Ttick;
+
+	/*see which init time to be used*/
+	if (local_f64TimerInSeconds == (uint32_t) local_f64Tmaxdelay)
+	{
+		/*only one overflow needed*/
+		global_ValueToReachCount = 1;
+		/*begin counting from the start*/
+		local_u8TimerInit = 0;
+	}
+	else if (local_f64TimerInSeconds < (uint32_t) local_f64Tmaxdelay)
+	{
+		/*only one overflow needed*/
+		global_ValueToReachCount = 1;
+		/*begin counting from the start*/
+		local_u8TimerInit = (uint8_t)((local_f64Tmaxdelay - local_f64TimerInSeconds) / local_f64Ttick);
+	}
+	else if (local_f64TimerInSeconds > (uint32_t) local_f64Tmaxdelay)
+	{
+		/*many overflow needed*/
+		global_ValueToReachCount = ((local_f64TimerInSeconds / local_f64Tmaxdelay) == ((uint32_t)local_f64TimerInSeconds / (uint32_t)local_f64Tmaxdelay)) ? (uint32_t)(local_f64TimerInSeconds / local_f64Tmaxdelay) : (uint32_t)(local_f64TimerInSeconds / local_f64Tmaxdelay) + 1;
+		
+		/*begin counting from the start*/
+		local_u8TimerInit = 256 -  (uint8_t)( (local_f64TimerInSeconds / local_f64Ttick) / global_ValueToReachCount);
+	}
+
+	/*return the calculated value*/
+	return local_u8TimerInit;
+}
+
+/*
+ *	@fn			-:		-timer0_delay
+ *
+ *	@params[0]	-:		-a number in milliseconds to delay for 
+ *
+ *	@params[1]	-:		-a call back function to be called after the end of the delay
+ *
+ *	@brief		-:		-delay a specific amount of time
+ *
+ *	@return		-:		-none
+ */
+void timer0_InterruptEvery(uint32_t args_u32TimeInMilliSeconds,  void (*args_pvCallBackFunc)(void))
+{
+	/*assign the call back function*/
+	global_pvCallBackDelay = args_pvCallBackFunc;
+
+	/*assign the dummy call back function*/
+	global_pvOverFlowCallBack = dummyCallBackFunc;
+
+	/*initialize the timer with normal mode*/
+	timer0_init(0, TIM0_MODE_NORMAL, TIM0_COM_NORM_NORMAL, dummyCallBackFunc, dummyCallBackFunc);
+
+	/*calculate all required parameters*/
+	global_u8InitValForTim = calculatInitValueForTimer0(args_u32TimeInMilliSeconds, (uint16_t)1024);
+
+	/*init TCNT0*/
+	TCNT0 = global_u8InitValForTim;
+
+	/*start the timer*/
+	timer0_start(TIM0_CLK_SRC_PRES_1024);	
+
+	/*enable the global interrupt*/
 	ENABLE_GLOBAL_INT();
 	
 }

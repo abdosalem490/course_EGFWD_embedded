@@ -14,14 +14,14 @@
 /*
  *	@PINS_NAMES
  */
- #define GPIO_PIN0			0x1
- #define GPIO_PIN1			0x2
- #define GPIO_PIN2			0x4
- #define GPIO_PIN3			0x8
- #define GPIO_PIN4			0x16
- #define GPIO_PIN5			0x32
- #define GPIO_PIN6			0x64
- #define GPIO_PIN7			0x128
+ #define GPIO_PIN0			1
+ #define GPIO_PIN1			2
+ #define GPIO_PIN2			4
+ #define GPIO_PIN3			8
+ #define GPIO_PIN4			16
+ #define GPIO_PIN5			32
+ #define GPIO_PIN6			64
+ #define GPIO_PIN7			128
 
 /*
  *  @PORTS_NAMES

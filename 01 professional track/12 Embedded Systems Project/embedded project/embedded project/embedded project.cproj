@@ -133,6 +133,36 @@
     </ToolchainSettings>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="app\application.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="app\application.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="ECU\Button\button_config.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="ECU\Button\button_header.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="ECU\Button\button_private.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="ECU\Button\button_prog.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="ECU\Led\led_config.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="ECU\Led\led_header.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="ECU\Led\led_private.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="ECU\Led\led_prog.c">
+      <SubType>compile</SubType>
+    </Compile>
     <Compile Include="main.c">
       <SubType>compile</SubType>
     </Compile>

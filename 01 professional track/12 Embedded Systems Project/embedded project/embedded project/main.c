@@ -5,23 +5,14 @@
  * Author : abdo
  */ 
 
-#include "MCAL/atmega32_uPU/atmega32_uPU_header.h"
-#include "utils/math_btt.h"
 
-
-int main(void)
+int __attribute__((noreturn)) main(void)
 {
-	volatile char s = 0;
+	appSetup();
+	appStart();
 
-	ASSIGN_RANGE(s, 4, 6, 7);
+    while (1); 
 
-	SAVE_SREG_IN_VAR(s);
-
-	RESTORE_SREG_FROM_VAR(s);
-
-    while (1) 
-    {
-    }
 }
 
 

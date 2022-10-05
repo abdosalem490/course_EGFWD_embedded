@@ -55,6 +55,7 @@ ES_TIMER0_t timer0_init(uint8_t args_timer0_initValue, uint8_t args_u8timer0_mod
 ES_TIMER0_t timer0_SetCompareReg(uint8_t args_u8tOCRVal);
 ES_TIMER0_t timer0_start(uint8_t args_u8ClockSelect);
 ES_TIMER0_t timer0_stop();
+void timer0_InterruptEvery(uint32_t args_u32TimeInMilliSeconds,  void (*args_pvCallBackFunc)(void));
 
 
 #endif /* TIMER0_HEADER_H_ */

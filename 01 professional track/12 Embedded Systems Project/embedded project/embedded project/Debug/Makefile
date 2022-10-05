@@ -48,6 +48,9 @@ SUBDIRS :=  \
 
 # Add inputs and outputs from these tool invocations to the build variables 
 C_SRCS +=  \
+../app/application.c \
+../ECU/Button/button_prog.c \
+../ECU/Led/led_prog.c \
 ../main.c \
 ../MCAL/EEPROM/EEPROM_main.c \
 ../MCAL/GPIO/GPIO_main.c \
@@ -62,6 +65,9 @@ ASM_SRCS +=
 
 
 OBJS +=  \
+app/application.o \
+ECU/Button/button_prog.o \
+ECU/Led/led_prog.o \
 main.o \
 MCAL/EEPROM/EEPROM_main.o \
 MCAL/GPIO/GPIO_main.o \
@@ -69,6 +75,9 @@ MCAL/SleepModes/SleepModes_main.o \
 MCAL/Timer0/Timer0_prog.o
 
 OBJS_AS_ARGS +=  \
+app/application.o \
+ECU/Button/button_prog.o \
+ECU/Led/led_prog.o \
 main.o \
 MCAL/EEPROM/EEPROM_main.o \
 MCAL/GPIO/GPIO_main.o \
@@ -76,6 +85,9 @@ MCAL/SleepModes/SleepModes_main.o \
 MCAL/Timer0/Timer0_prog.o
 
 C_DEPS +=  \
+app/application.d \
+ECU/Button/button_prog.d \
+ECU/Led/led_prog.d \
 main.d \
 MCAL/EEPROM/EEPROM_main.d \
 MCAL/GPIO/GPIO_main.d \
@@ -83,6 +95,9 @@ MCAL/SleepModes/SleepModes_main.d \
 MCAL/Timer0/Timer0_prog.d
 
 C_DEPS_AS_ARGS +=  \
+app/application.d \
+ECU/Button/button_prog.d \
+ECU/Led/led_prog.d \
 main.d \
 MCAL/EEPROM/EEPROM_main.d \
 MCAL/GPIO/GPIO_main.d \
@@ -103,6 +118,27 @@ LINKER_SCRIPT_DEP+=
 
 
 # AVR32/GNU C Compiler
+app/application.o: ../app/application.c
+	@echo Building file: $<
+	@echo Invoking: AVR/GNU C Compiler : 5.4.0
+	$(QUOTE)C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avr8-gnu-toolchain\bin\avr-gcc.exe$(QUOTE)  -x c -funsigned-char -funsigned-bitfields -DDEBUG  -I"C:\Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\include"  -Og -ffunction-sections -fdata-sections -fpack-struct -fshort-enums -g2 -Wall -mmcu=atmega32 -B "C:\Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\gcc\dev\atmega32" -c -std=gnu99 -MD -MP -MF "$(@:%.o=%.d)" -MT"$(@:%.o=%.d)" -MT"$(@:%.o=%.o)"   -o "$@" "$<" 
+	@echo Finished building: $<
+	
+
+ECU/Button/button_prog.o: ../ECU/Button/button_prog.c
+	@echo Building file: $<
+	@echo Invoking: AVR/GNU C Compiler : 5.4.0
+	$(QUOTE)C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avr8-gnu-toolchain\bin\avr-gcc.exe$(QUOTE)  -x c -funsigned-char -funsigned-bitfields -DDEBUG  -I"C:\Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\include"  -Og -ffunction-sections -fdata-sections -fpack-struct -fshort-enums -g2 -Wall -mmcu=atmega32 -B "C:\Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\gcc\dev\atmega32" -c -std=gnu99 -MD -MP -MF "$(@:%.o=%.d)" -MT"$(@:%.o=%.d)" -MT"$(@:%.o=%.o)"   -o "$@" "$<" 
+	@echo Finished building: $<
+	
+
+ECU/Led/led_prog.o: ../ECU/Led/led_prog.c
+	@echo Building file: $<
+	@echo Invoking: AVR/GNU C Compiler : 5.4.0
+	$(QUOTE)C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avr8-gnu-toolchain\bin\avr-gcc.exe$(QUOTE)  -x c -funsigned-char -funsigned-bitfields -DDEBUG  -I"C:\Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\include"  -Og -ffunction-sections -fdata-sections -fpack-struct -fshort-enums -g2 -Wall -mmcu=atmega32 -B "C:\Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\gcc\dev\atmega32" -c -std=gnu99 -MD -MP -MF "$(@:%.o=%.d)" -MT"$(@:%.o=%.d)" -MT"$(@:%.o=%.o)"   -o "$@" "$<" 
+	@echo Finished building: $<
+	
+
 ./main.o: .././main.c
 	@echo Building file: $<
 	@echo Invoking: AVR/GNU C Compiler : 5.4.0
