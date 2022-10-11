@@ -1,0 +1,31 @@
+System Description
+------------------
+
+- the system is operating as a traffic leds controller where it has 2 operating modes:
+
+1) Normal mode: the cars are allowed to move when the leds are green or yellow and at this time 
+   the padestrians can't cross the road, but when the cars led turn red then the padestrian green led is on 
+   meaning that the padestrian can cross the road, and the system goes on like:
+	
+cars green led on -> cars yellow led blink -> cars red led on     -> cars yellow led blink -> cars green led on
+people red led on -> people red led on 	   -> people green led on -> people red led on     -> people red led on 
+
+
+2) padestrian mode: happens when some people press on the button in order to cross the road making the MCU take 
+   some squence to make the cars stop allowing the padestrians to move
+
+and it has 2 conditions:
+
+a- the cars green led was active when the button was pressed
+
+cars green led on -> cars yellow led blink   -> cars red led on     -> cars yellow led blink   -> cars green led on
+people red led on -> people Yellow led blink -> people green led on -> people Yellow led blink -> people red led on 
+
+then back to normal mode
+
+b- the cars red led was active when the button was pressed
+
+-> cars red led on  -> cars yellow led blink   -> cars green led on
+people green led on -> people Yellow led blink -> people red led on 
+
+then back to normal mode

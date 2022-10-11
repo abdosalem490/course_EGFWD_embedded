@@ -1,0 +1,22 @@
+System Constraints
+------------------
+
+1- Frequency used : 	must be exactly 1 MHZ (internal RC oscillator), 
+	            	if to use another exteranl Oscillator then it should be 1 MHZ
+ 			otherwise, the code must be edited accroding to the external new Oscillator value
+
+2- pins 	  :	*pulling up* any one of the led pins will lead to undefined behaviour, 
+			*pulling up or down* the button pins will lead to undefined behaviour, 
+			the vcc shall be connected to 5V not less nor more than that
+			the resistor connected to any one of the leds shall make the current source of any
+			one of led pins not more than 40 mA and the anode of the led is connected to pin not the cathode
+			one of the terminals of the button to be connected to the EXT0 pin and the other terminal to ground
+			no need to any external pull up or down resistors as I am using the internal pull up
+
+3- environment	  :	the environment that this MCU is put in shallnot be in a Mechanical Noisy environment
+			as the inernal Oscillator is being used which is affected by any mechanincal movements
+
+4- reset	  :	the reset pin should be connected to 5V as if not it may make the MCU go reset upon any noise
+			on this pin as causing the MCU while operating can lead to Car accidents.
+
+
