@@ -1,0 +1,312 @@
+1
+00:00:01,190 --> 00:00:07,470
+Let's look at a sample invoice and the key elements that appear in an invoice.
+
+2
+00:00:07,470 --> 00:00:12,060
+First and foremost, you need a date on the invoice.
+
+3
+00:00:12,060 --> 00:00:17,640
+This timestamps when the request was made to the client to make the payment.
+
+4
+00:00:17,640 --> 00:00:24,945
+Invoice ID is your own ID of the invoice that you maintain internally across all clients.
+
+5
+00:00:24,945 --> 00:00:27,900
+You could choose a format that you prefer here.
+
+6
+00:00:27,900 --> 00:00:33,235
+But keep in mind that this ID would be across all invoices and all clients.
+
+7
+00:00:33,235 --> 00:00:35,775
+For legal identification purposes,
+
+8
+00:00:35,775 --> 00:00:41,139
+you need to put your name and exact office or home address in the invoice.
+
+9
+00:00:41,139 --> 00:00:44,210
+Sometimes, depending on your local tax law,
+
+10
+00:00:44,210 --> 00:00:49,960
+you may need to include your income tax ID as well as your service tax ID in the invoice.
+
+11
+00:00:49,960 --> 00:00:53,000
+These IDs are termed differently in different countries.
+
+12
+00:00:53,000 --> 00:00:54,725
+For example, if you're in the US,
+
+13
+00:00:54,725 --> 00:00:57,515
+service tax maybe termed as sales tax.
+
+14
+00:00:57,515 --> 00:00:59,645
+If you are in India or Canada,
+
+15
+00:00:59,645 --> 00:01:04,120
+service tax maybe termed as GST or goods and services tax.
+
+16
+00:01:04,120 --> 00:01:09,620
+Keep in mind that in some countries there is no service tax for international services.
+
+17
+00:01:09,620 --> 00:01:13,550
+You could simply check your local tax law online to figure that out.
+
+18
+00:01:13,550 --> 00:01:17,930
+Alternatively, you could just look up a sample invoice online that was generated for
+
+19
+00:01:17,930 --> 00:01:22,945
+your country of residence to get an idea of the tax IDs you need in invoice.
+
+20
+00:01:22,945 --> 00:01:27,495
+In this example, the GST registration number is mentioned,
+
+21
+00:01:27,495 --> 00:01:30,200
+but the GST charge is zero percent,
+
+22
+00:01:30,200 --> 00:01:32,900
+since the client is in a different country.
+
+23
+00:01:32,900 --> 00:01:37,700
+You may also need to put the client's name and address for whom this invoice is for.
+
+24
+00:01:37,700 --> 00:01:40,670
+If you're invoicing a company instead of an individual,
+
+25
+00:01:40,670 --> 00:01:43,225
+you'll put the company's name and address here.
+
+26
+00:01:43,225 --> 00:01:48,440
+Services provided list down the services that you provided to the client.
+
+27
+00:01:48,440 --> 00:01:51,530
+For example, you could say you build a web application on
+
+28
+00:01:51,530 --> 00:01:56,520
+Python or you could get granular and list all the modules built.
+
+29
+00:01:56,520 --> 00:01:58,070
+Note that in this example,
+
+30
+00:01:58,070 --> 00:02:00,350
+since it was a time and materials contract,
+
+31
+00:02:00,350 --> 00:02:04,145
+the freelancer has put the details of everything that she spent
+
+32
+00:02:04,145 --> 00:02:08,180
+time on along with the hours she spent on each of them,
+
+33
+00:02:08,180 --> 00:02:12,530
+clearly specifying the rate and the aggregated cost for each item.
+
+34
+00:02:12,530 --> 00:02:14,230
+Put the total at the bottom.
+
+35
+00:02:14,230 --> 00:02:17,820
+Keep in mind though, that a break up is only required if
+
+36
+00:02:17,820 --> 00:02:21,320
+you agree to give a break up to the client when negotiating the cost.
+
+37
+00:02:21,320 --> 00:02:23,690
+If you're charging a lump-sum fixed cost,
+
+38
+00:02:23,690 --> 00:02:27,155
+you can just mention it in one line item if you so prefer.
+
+39
+00:02:27,155 --> 00:02:31,580
+Next, it is important to mention how the client can pay you.
+
+40
+00:02:31,580 --> 00:02:34,340
+The mode of payments that you're willing to accept.
+
+41
+00:02:34,340 --> 00:02:36,290
+For example, you could put in
+
+42
+00:02:36,290 --> 00:02:40,550
+your bank account information for a bank transfer or could give
+
+43
+00:02:40,550 --> 00:02:42,420
+your e-wallet ID to use
+
+44
+00:02:42,420 --> 00:02:48,625
+a digital wallet payment or you could use a PayPal or UPI to get payment.
+
+45
+00:02:48,625 --> 00:02:51,860
+Do keep in mind that if this is an invoice for
+
+46
+00:02:51,860 --> 00:02:54,830
+a client that you've worked with via a freelancing platform,
+
+47
+00:02:54,830 --> 00:02:57,930
+you cannot accept direct payments to your account.
+
+48
+00:02:57,930 --> 00:03:00,305
+The payment has to be made through the platform.
+
+49
+00:03:00,305 --> 00:03:03,920
+In which case, you can mention the platform name as a mode of
+
+50
+00:03:03,920 --> 00:03:08,815
+the payment or you can skip the mode of the payment in such an invoice.
+
+51
+00:03:08,815 --> 00:03:12,755
+The freelancer decided to put two modes of payment here,
+
+52
+00:03:12,755 --> 00:03:16,465
+her bank account for a bank transfer and a PayPal account.
+
+53
+00:03:16,465 --> 00:03:20,570
+Now due date is not mandatory to put in an invoice but it is
+
+54
+00:03:20,570 --> 00:03:25,010
+a good idea to put it to mark a deadline when the payment is due.
+
+55
+00:03:25,010 --> 00:03:30,235
+You could choose to put it depending on your understanding with the client on this.
+
+56
+00:03:30,235 --> 00:03:32,305
+Now in the digital world,
+
+57
+00:03:32,305 --> 00:03:35,345
+signatures are no longer mandatory in an invoice.
+
+58
+00:03:35,345 --> 00:03:37,985
+You sending the invoice from your email address
+
+59
+00:03:37,985 --> 00:03:41,245
+is enough proof that it originated from you.
+
+60
+00:03:41,245 --> 00:03:43,955
+For digital invoices without signatures,
+
+61
+00:03:43,955 --> 00:03:47,255
+you could optionally put a line at the bottom that says
+
+62
+00:03:47,255 --> 00:03:51,950
+this invoice is digitally generated and does not require a signature.
+
+63
+00:03:51,950 --> 00:03:55,565
+Alternatively, you could use a digital signature.
+
+64
+00:03:55,565 --> 00:03:58,610
+Alternatively, if the client insist,
+
+65
+00:03:58,610 --> 00:04:04,420
+you could even put a real signature using signature tools available in PDF viewers.
+
+66
+00:04:04,420 --> 00:04:08,720
+Now keep in mind that the format of the invoices is not
+
+67
+00:04:08,720 --> 00:04:12,980
+fixed and we are free to choose a format that works for you.
+
+68
+00:04:12,980 --> 00:04:16,550
+For example, you could place your address at the bottom of
+
+69
+00:04:16,550 --> 00:04:21,395
+the invoice instead of at the top or you could put the due date at the bottom.
+
+70
+00:04:21,395 --> 00:04:26,990
+Do remember to send this invoice as an email to the client from your own email account,
+
+71
+00:04:26,990 --> 00:04:30,020
+not from a client owned email account that you got
+
+72
+00:04:30,020 --> 00:04:33,470
+temporarily or via a client's chat application.
+
+73
+00:04:33,470 --> 00:04:35,150
+Sending it as an email from
+
+74
+00:04:35,150 --> 00:04:41,275
+your own email address will create a permanent record of it for you to refer back later.
+
+75
+00:04:41,275 --> 00:04:46,820
+Lastly, instead of sending the invoice to the client as an editable document,
+
+76
+00:04:46,820 --> 00:04:52,720
+it's a good idea to export it in PDF format and then send it out since PDF formats are
+
+77
+00:04:52,720 --> 00:04:55,550
+widely acceptable on different operating systems and
+
+78
+00:04:55,550 --> 00:04:59,730
+a client would not need a license software to open it.
+

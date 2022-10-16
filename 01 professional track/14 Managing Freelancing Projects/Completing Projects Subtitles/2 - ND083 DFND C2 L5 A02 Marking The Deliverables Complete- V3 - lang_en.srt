@@ -1,0 +1,212 @@
+1
+00:00:00,000 --> 00:00:02,625
+Now when we are done with the project,
+
+2
+00:00:02,625 --> 00:00:06,540
+it becomes important for us to be on the same page with the client,
+
+3
+00:00:06,540 --> 00:00:11,085
+so that both parties agree that the requirements have been met.
+
+4
+00:00:11,085 --> 00:00:14,775
+Now this becomes important for two reasons.
+
+5
+00:00:14,775 --> 00:00:17,715
+Especially in fixed cost projects,
+
+6
+00:00:17,715 --> 00:00:22,040
+your final payment from the client could be blocked until the client
+
+7
+00:00:22,040 --> 00:00:26,845
+confirms that all the requirements in the project scope have been met.
+
+8
+00:00:26,845 --> 00:00:30,320
+Second, it formally ends the project and
+
+9
+00:00:30,320 --> 00:00:34,075
+marks an end to the time that you need to spend on the project,
+
+10
+00:00:34,075 --> 00:00:37,430
+so now you can allocate your time to other projects.
+
+11
+00:00:37,430 --> 00:00:41,690
+You don't want the client to keep coming back to you with small fixes even after
+
+12
+00:00:41,690 --> 00:00:43,700
+a month of finishing the project just
+
+13
+00:00:43,700 --> 00:00:46,595
+because the client got delayed in validating the solution.
+
+14
+00:00:46,595 --> 00:00:48,500
+For fixed cost projects,
+
+15
+00:00:48,500 --> 00:00:53,395
+that could mean you spending extra time for the claim for an indefinite period of time.
+
+16
+00:00:53,395 --> 00:00:55,245
+For time and materials project,
+
+17
+00:00:55,245 --> 00:00:58,310
+that could mean extra revenue for you but could also be
+
+18
+00:00:58,310 --> 00:01:03,375
+a distraction if you're working on other larger project that needs your attention.
+
+19
+00:01:03,375 --> 00:01:07,930
+Now in order to meet the deliverable complete and not keep the project lingering,
+
+20
+00:01:07,930 --> 00:01:10,195
+there are two things that we can do.
+
+21
+00:01:10,195 --> 00:01:15,220
+First, it is important to communicate in writing that from your perspective,
+
+22
+00:01:15,220 --> 00:01:17,080
+you have completed the project,
+
+23
+00:01:17,080 --> 00:01:19,690
+but the client is free to come back and let
+
+24
+00:01:19,690 --> 00:01:22,525
+you know if they think that there are things to be done.
+
+25
+00:01:22,525 --> 00:01:25,300
+For example, there may be bugs in the software application,
+
+26
+00:01:25,300 --> 00:01:29,750
+you bet, or workstreams left out in a digital marketing solution.
+
+27
+00:01:29,750 --> 00:01:31,680
+Why is this important?
+
+28
+00:01:31,680 --> 00:01:33,580
+This helps with two things.
+
+29
+00:01:33,580 --> 00:01:39,175
+First, it creates a record of you informing the client that the work is done.
+
+30
+00:01:39,175 --> 00:01:44,170
+Second, it puts a timestamp on when you are done with the work.
+
+31
+00:01:44,170 --> 00:01:47,360
+It is generally a good idea for this to be sent from
+
+32
+00:01:47,360 --> 00:01:49,850
+your own email account and not just
+
+33
+00:01:49,850 --> 00:01:53,470
+mentioned in a project management tool or a communication tool
+
+34
+00:01:53,470 --> 00:01:58,400
+like Skype so that you have a permanent record of that communication even
+
+35
+00:01:58,400 --> 00:02:03,730
+after you leave the project and no longer have access to clients communication tools.
+
+36
+00:02:03,730 --> 00:02:07,280
+If the client gave you a separate email address to communicate with,
+
+37
+00:02:07,280 --> 00:02:12,515
+you could send email from that email address and cc your own email address,
+
+38
+00:02:12,515 --> 00:02:14,150
+so you have a record.
+
+39
+00:02:14,150 --> 00:02:17,920
+If needed, you can mention it to the client so they're okay with it.
+
+40
+00:02:17,920 --> 00:02:21,660
+Secondly, we need to make sure to set a timeline
+
+41
+00:02:21,660 --> 00:02:25,640
+until which the client can come back to you instead of keeping it indefinite.
+
+42
+00:02:25,640 --> 00:02:28,970
+For example, you can say that the client is free to come
+
+43
+00:02:28,970 --> 00:02:32,570
+back within 48 hours of delivery of the final submission,
+
+44
+00:02:32,570 --> 00:02:35,050
+in case they have any issues with it.
+
+45
+00:02:35,050 --> 00:02:38,930
+If you have a contract or a service agreement with the client,
+
+46
+00:02:38,930 --> 00:02:41,275
+it is a good idea to put this clause in there.
+
+47
+00:02:41,275 --> 00:02:43,670
+If not, you can put it nicely in
+
+48
+00:02:43,670 --> 00:02:46,790
+the email that you send to the client for the final submission,
+
+49
+00:02:46,790 --> 00:02:50,860
+so they know that they have to get back within a definite time period.
+
+50
+00:02:50,860 --> 00:02:54,720
+This will help set a deadline to your availability for the project,
+
+51
+00:02:54,720 --> 00:02:57,185
+and you can avoid a scenario where the client
+
+52
+00:02:57,185 --> 00:03:00,290
+keeps coming back to you even after a month of delivery,
+
+53
+00:03:00,290 --> 00:03:05,190
+finding issues in your work that you may feel obligated to fix.
+
