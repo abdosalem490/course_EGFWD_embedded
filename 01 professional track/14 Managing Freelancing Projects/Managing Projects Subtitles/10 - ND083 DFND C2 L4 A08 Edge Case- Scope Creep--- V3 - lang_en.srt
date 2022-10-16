@@ -1,0 +1,156 @@
+1
+00:00:00,000 --> 00:00:05,640
+Now here we will talk about how in some projects a scope creep may happen,
+
+2
+00:00:05,640 --> 00:00:07,350
+that could be detrimental to
+
+3
+00:00:07,350 --> 00:00:10,800
+the freelancers relationship with the client and the project.
+
+4
+00:00:10,800 --> 00:00:14,805
+But first let's try to understand what a scope creep is.
+
+5
+00:00:14,805 --> 00:00:16,395
+In the last lesson,
+
+6
+00:00:16,395 --> 00:00:21,915
+we talked in detail about a project score that you and the client would agree upon.
+
+7
+00:00:21,915 --> 00:00:24,450
+This is a detailed document explaining
+
+8
+00:00:24,450 --> 00:00:28,320
+the features of work streams that you will work on in the project.
+
+9
+00:00:28,320 --> 00:00:32,430
+Now let's say you and the client agreed on requirements A,
+
+10
+00:00:32,430 --> 00:00:34,710
+B, C, and D for a project.
+
+11
+00:00:34,710 --> 00:00:36,165
+After a while,
+
+12
+00:00:36,165 --> 00:00:39,435
+client also adds requirement A1,
+
+13
+00:00:39,435 --> 00:00:44,205
+which as per the client's claim was anyway a part of A1,
+
+14
+00:00:44,205 --> 00:00:49,910
+whereas per you it was not a part of the original score and is a new requirement.
+
+15
+00:00:49,910 --> 00:00:53,920
+This is a scenario in which a scope creep has happened.
+
+16
+00:00:53,920 --> 00:00:57,470
+While you as a freelancer have the opinion that
+
+17
+00:00:57,470 --> 00:01:02,150
+a new requirement is added in the middle of the project which was not decided earlier.
+
+18
+00:01:02,150 --> 00:01:05,420
+Scope creeps could create misunderstandings and
+
+19
+00:01:05,420 --> 00:01:09,335
+frustrations amongst both the client and the freelancer.
+
+20
+00:01:09,335 --> 00:01:15,235
+Sometimes they even become the cause of the client and the freelancer parting ways.
+
+21
+00:01:15,235 --> 00:01:19,350
+But the question is, what to do when a scope creep happens?
+
+22
+00:01:19,350 --> 00:01:24,820
+Now, really the best strategy to deal with a scope creep is to avoid it.
+
+23
+00:01:24,820 --> 00:01:26,900
+You can avoid it by having
+
+24
+00:01:26,900 --> 00:01:31,745
+a detailed enough requirements specification at the start of the project.
+
+25
+00:01:31,745 --> 00:01:35,905
+This will significantly help reduce the chances of a scope creep,
+
+26
+00:01:35,905 --> 00:01:39,900
+and will also help the client think clearly about the project.
+
+27
+00:01:39,900 --> 00:01:45,025
+Now the second important thing to keep in mind is that scope creeps do happen.
+
+28
+00:01:45,025 --> 00:01:49,130
+Things do change in the course of the project and when they happen,
+
+29
+00:01:49,130 --> 00:01:52,325
+it is important to educate the client and while
+
+30
+00:01:52,325 --> 00:01:56,335
+you as a freelancer think that a requirement is out of scope.
+
+31
+00:01:56,335 --> 00:01:58,020
+If the client agrees,
+
+32
+00:01:58,020 --> 00:02:02,080
+calculate the Delta effort and give a new effort estimate to the client.
+
+33
+00:02:02,080 --> 00:02:05,315
+If the client is convinced that it is a new requirement,
+
+34
+00:02:05,315 --> 00:02:10,805
+they may be happy to factor in the new cost or time required to work on the requirement.
+
+35
+00:02:10,805 --> 00:02:14,945
+That said, sometimes the client is indeed right,
+
+36
+00:02:14,945 --> 00:02:20,765
+or sometimes the Delta effort is not so much as to put the whole contract in jeopardy.
+
+37
+00:02:20,765 --> 00:02:22,115
+If that's the case,
+
+38
+00:02:22,115 --> 00:02:25,850
+it is in your best interest to give benefit of doubt to the client
+
+39
+00:02:25,850 --> 00:02:31,020
+and go ahead and work on the requirement as part of the original estimate.
+

@@ -1,0 +1,236 @@
+1
+00:00:00,000 --> 00:00:05,595
+Now we come to the second aspect of managing projects, which is communication.
+
+2
+00:00:05,595 --> 00:00:07,230
+Doing good work is, of course,
+
+3
+00:00:07,230 --> 00:00:09,450
+important, but not enough.
+
+4
+00:00:09,450 --> 00:00:13,125
+Keeping the client in the loop of that good work is critical.
+
+5
+00:00:13,125 --> 00:00:16,050
+It's also important to note here that most of
+
+6
+00:00:16,050 --> 00:00:19,690
+the digital freelancing that you do could be done remotely.
+
+7
+00:00:19,690 --> 00:00:22,365
+You may never end up meeting the client in person.
+
+8
+00:00:22,365 --> 00:00:25,695
+This does leave room for misunderstandings and hence,
+
+9
+00:00:25,695 --> 00:00:29,940
+the need to think about a communication strategy at the outset.
+
+10
+00:00:29,940 --> 00:00:35,415
+Now, communication in the project could be of different types and at different levels.
+
+11
+00:00:35,415 --> 00:00:39,720
+The most indispensable kind of communication is project status,
+
+12
+00:00:39,720 --> 00:00:44,660
+which is nothing but informing what was done since the last update.
+
+13
+00:00:44,660 --> 00:00:46,430
+This, as you can imagine,
+
+14
+00:00:46,430 --> 00:00:51,170
+is the most common and obvious kind of communication in any project.
+
+15
+00:00:51,170 --> 00:00:57,340
+The client wants to know where you are in the project and what's going to happen next.
+
+16
+00:00:57,340 --> 00:01:01,564
+Now, this kind of communication is done through various means,
+
+17
+00:01:01,564 --> 00:01:05,015
+depending on the size of the project and preference of the client.
+
+18
+00:01:05,015 --> 00:01:06,680
+Some clients may want to use
+
+19
+00:01:06,680 --> 00:01:11,150
+sophisticated project management tools like Trello or Wrike and others.
+
+20
+00:01:11,150 --> 00:01:17,060
+Other clients may just be okay with e-mail updates coupled with calls with the client.
+
+21
+00:01:17,060 --> 00:01:18,890
+Other communication tools like
+
+22
+00:01:18,890 --> 00:01:22,955
+Slack and WhatsApp groups are also common for such updates.
+
+23
+00:01:22,955 --> 00:01:25,760
+It is also a good idea to maintain
+
+24
+00:01:25,760 --> 00:01:30,530
+a schedule to periodically update the client about the project's status.
+
+25
+00:01:30,530 --> 00:01:34,870
+This scheduling could also be facilitated by these tools.
+
+26
+00:01:34,870 --> 00:01:39,590
+You will see us coming back to project management tools later in the lesson and even
+
+27
+00:01:39,590 --> 00:01:44,365
+picking up one tool to see how we can use it to manage a client's project.
+
+28
+00:01:44,365 --> 00:01:47,180
+Now, another kind of update is conveying
+
+29
+00:01:47,180 --> 00:01:52,255
+the design decisions of the solution that you make while you're working on the project.
+
+30
+00:01:52,255 --> 00:01:56,975
+This kind of communication may or may not be asked for by the client,
+
+31
+00:01:56,975 --> 00:02:00,185
+depending on the client's technical expertise in the project,
+
+32
+00:02:00,185 --> 00:02:02,000
+but it's important for you,
+
+33
+00:02:02,000 --> 00:02:03,230
+as a freelancer,
+
+34
+00:02:03,230 --> 00:02:05,470
+to convey these design decisions.
+
+35
+00:02:05,470 --> 00:02:09,080
+This not only demonstrates your ability to think about
+
+36
+00:02:09,080 --> 00:02:12,875
+a problem holistically instead of picking a one-sided approach,
+
+37
+00:02:12,875 --> 00:02:18,205
+but also demonstrates your expertise and knowledge in the task that you're working on.
+
+38
+00:02:18,205 --> 00:02:20,645
+The client would really appreciate that you're
+
+39
+00:02:20,645 --> 00:02:24,160
+keeping them in the loop about how you're building the solution.
+
+40
+00:02:24,160 --> 00:02:29,375
+This also educates them about the possible ways to work on the solution and
+
+41
+00:02:29,375 --> 00:02:34,925
+makes them gain confidence that they're investing in a well thought out solution.
+
+42
+00:02:34,925 --> 00:02:38,080
+Lastly, this could be your chance to let them
+
+43
+00:02:38,080 --> 00:02:41,770
+know about the efficient means that you use to work on a solution,
+
+44
+00:02:41,770 --> 00:02:44,940
+making the work more productive and efficient.
+
+45
+00:02:44,940 --> 00:02:49,025
+Now let's see what could be the examples of such kind of communication.
+
+46
+00:02:49,025 --> 00:02:52,510
+For example, if a client has asked you to make a script,
+
+47
+00:02:52,510 --> 00:02:55,105
+to make all the numbers human-readable,
+
+48
+00:02:55,105 --> 00:02:57,835
+like adding commas, number formats,
+
+49
+00:02:57,835 --> 00:02:59,110
+date and time formats,
+
+50
+00:02:59,110 --> 00:03:01,915
+and so on in a web application,
+
+51
+00:03:01,915 --> 00:03:07,825
+you could just tell the client that you would do it through the Python humanize library.
+
+52
+00:03:07,825 --> 00:03:12,830
+This will save a lot of time writing the code and hence would be more efficient.
+
+53
+00:03:12,830 --> 00:03:17,444
+If you're working on a digital marketing solution and trying to find in-links,
+
+54
+00:03:17,444 --> 00:03:22,505
+you can inform the client of the design decision of not scraping the logs,
+
+55
+00:03:22,505 --> 00:03:26,945
+but using a third party tool that can be used with commercial applications.
+
+56
+00:03:26,945 --> 00:03:30,230
+There could also be other kinds of design decisions,
+
+57
+00:03:30,230 --> 00:03:32,720
+like the design of the process itself.
+
+58
+00:03:32,720 --> 00:03:37,745
+For example, working on a detail spec before starting to build a module,
+
+59
+00:03:37,745 --> 00:03:40,470
+given the complexity of it.
+

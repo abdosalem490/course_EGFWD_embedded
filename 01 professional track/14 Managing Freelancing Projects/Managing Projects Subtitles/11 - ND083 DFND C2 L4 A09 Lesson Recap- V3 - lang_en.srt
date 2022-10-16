@@ -1,0 +1,40 @@
+1
+00:00:00,000 --> 00:00:02,070
+Good job.
+
+2
+00:00:02,070 --> 00:00:05,340
+We are at the end of this important lesson where we learned how to
+
+3
+00:00:05,340 --> 00:00:09,285
+shine and use strategies to effectively manage projects,
+
+4
+00:00:09,285 --> 00:00:12,270
+where we learned about aligning with clients priorities,
+
+5
+00:00:12,270 --> 00:00:14,640
+importance of effective communication,
+
+6
+00:00:14,640 --> 00:00:18,990
+and working efficiently with the discussion on professionalism.
+
+7
+00:00:18,990 --> 00:00:23,930
+We also talked about project management tools and when to use them,
+
+8
+00:00:23,930 --> 00:00:26,425
+with an introduction to Trello.
+
+9
+00:00:26,425 --> 00:00:29,730
+Finally, we looked at an edge case of scope
+
+10
+00:00:29,730 --> 00:00:34,120
+creep and our potential strategies in such a scenario.
+

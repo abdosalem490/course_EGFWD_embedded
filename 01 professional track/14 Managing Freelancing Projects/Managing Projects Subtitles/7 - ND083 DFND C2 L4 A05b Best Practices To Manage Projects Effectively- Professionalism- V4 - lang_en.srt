@@ -1,0 +1,172 @@
+1
+00:00:00,000 --> 00:00:02,280
+Here's an example of that.
+
+2
+00:00:02,280 --> 00:00:07,650
+I was once working for a large client with offices in more than one country.
+
+3
+00:00:07,650 --> 00:00:09,375
+I was working on a module,
+
+4
+00:00:09,375 --> 00:00:14,880
+which needed some significant data from another stakeholder within the same organization.
+
+5
+00:00:14,880 --> 00:00:18,450
+This was a hard dependency that was not being met
+
+6
+00:00:18,450 --> 00:00:23,775
+despite many reminders to the stakeholder who was supposed to provide that data.
+
+7
+00:00:23,775 --> 00:00:25,739
+The business for surprisingly,
+
+8
+00:00:25,739 --> 00:00:32,125
+not pushing the stakeholder to get that data to me and things kept getting delayed.
+
+9
+00:00:32,125 --> 00:00:35,780
+Later on, I did get the data and implemented the module,
+
+10
+00:00:35,780 --> 00:00:38,090
+but it was way past the deadline.
+
+11
+00:00:38,090 --> 00:00:41,240
+When it was time for payment for that module,
+
+12
+00:00:41,240 --> 00:00:43,640
+the client was not very willing to make the payment in
+
+13
+00:00:43,640 --> 00:00:48,125
+full and mentioned reasons like the delay caused in the delivery.
+
+14
+00:00:48,125 --> 00:00:52,160
+I knew that there were significant delays because of this
+
+15
+00:00:52,160 --> 00:00:57,425
+dependency not being fulfilled and not entirely because of the delays my end.
+
+16
+00:00:57,425 --> 00:01:01,040
+But this was not the time to lose my cool.
+
+17
+00:01:01,040 --> 00:01:05,060
+I approached the client and asked them to get on a call.
+
+18
+00:01:05,060 --> 00:01:10,985
+This is the time to take care of your relationship with the client and not get mad.
+
+19
+00:01:10,985 --> 00:01:14,285
+Believe me, I was mad from within.
+
+20
+00:01:14,285 --> 00:01:16,220
+But when I talked to the client,
+
+21
+00:01:16,220 --> 00:01:20,510
+I tried to keep calm and focus on the main issue,
+
+22
+00:01:20,510 --> 00:01:23,545
+and tried to point out reasons for delay to the client.
+
+23
+00:01:23,545 --> 00:01:26,780
+I also gently asked if I could pause working
+
+24
+00:01:26,780 --> 00:01:30,985
+further on the project until this payment of this module is cleared.
+
+25
+00:01:30,985 --> 00:01:33,980
+The discussion with the client helped clarify
+
+26
+00:01:33,980 --> 00:01:37,775
+the disconnect and calm down the matters. Guess what?
+
+27
+00:01:37,775 --> 00:01:40,610
+The client agreed to make the payment in full,
+
+28
+00:01:40,610 --> 00:01:43,895
+and also pause the project until the payment was cleared.
+
+29
+00:01:43,895 --> 00:01:46,940
+Eventually, I decided not to pause the project and kept
+
+30
+00:01:46,940 --> 00:01:50,590
+going in good faith and the client paid me in full.
+
+31
+00:01:50,590 --> 00:01:53,525
+In fact, the client went ahead and signed
+
+32
+00:01:53,525 --> 00:01:56,540
+another contract with me for the next six months.
+
+33
+00:01:56,540 --> 00:01:59,570
+This time, I could put my terms in the contract
+
+34
+00:01:59,570 --> 00:02:02,930
+about the dependencies and how and when they should be fulfilled.
+
+35
+00:02:02,930 --> 00:02:07,055
+Something like this did not happen again and did not affect my payments.
+
+36
+00:02:07,055 --> 00:02:10,400
+Making sure that your communication is ethical,
+
+37
+00:02:10,400 --> 00:02:13,505
+may not just help you traverse through a difficult situation better,
+
+38
+00:02:13,505 --> 00:02:16,105
+it might end up winning the client for you.
+
+39
+00:02:16,105 --> 00:02:17,580
+On the flip side,
+
+40
+00:02:17,580 --> 00:02:21,200
+when things go ory and the communication becomes unethical,
+
+41
+00:02:21,200 --> 00:02:24,529
+it starts getting deflected in the payment disputes,
+
+42
+00:02:24,529 --> 00:02:30,160
+disagreements, and bad reviews which could adversely affect a freelancing career.
+
+43
+00:02:30,160 --> 00:02:34,980
+In short responding is way better than reacting.
+

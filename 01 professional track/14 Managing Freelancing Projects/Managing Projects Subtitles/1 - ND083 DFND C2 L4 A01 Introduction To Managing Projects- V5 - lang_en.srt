@@ -1,0 +1,120 @@
+1
+00:00:00,000 --> 00:00:03,765
+Hello and welcome to yet another lesson in our freelancing journey.
+
+2
+00:00:03,765 --> 00:00:05,940
+We have come a long way since we started.
+
+3
+00:00:05,940 --> 00:00:08,954
+So far, we've talked about how to find clients,
+
+4
+00:00:08,954 --> 00:00:11,205
+what are the different avenues to find them,
+
+5
+00:00:11,205 --> 00:00:15,585
+and how to get a client's project by sending an expression of interest to them.
+
+6
+00:00:15,585 --> 00:00:18,900
+How to finalize a project scope and also pricing
+
+7
+00:00:18,900 --> 00:00:23,160
+structures before we start work on a client's project.
+
+8
+00:00:23,160 --> 00:00:26,280
+Now this lesson is about real work.
+
+9
+00:00:26,280 --> 00:00:29,410
+The real work that we do for the client.
+
+10
+00:00:29,410 --> 00:00:33,335
+So far, all our preparation has been for this work.
+
+11
+00:00:33,335 --> 00:00:36,290
+Here we'll talk about best practices and
+
+12
+00:00:36,290 --> 00:00:40,295
+strategies of how we can manage the client's project effectively.
+
+13
+00:00:40,295 --> 00:00:43,085
+How can we deliver our best to the client,
+
+14
+00:00:43,085 --> 00:00:46,810
+as well as keep the client on the same page while doing that.
+
+15
+00:00:46,810 --> 00:00:52,010
+First, we'll start with best practices to manage projects effectively.
+
+16
+00:00:52,010 --> 00:00:55,430
+We will talk about aligning priorities with the clients,
+
+17
+00:00:55,430 --> 00:01:00,775
+emphasize the need of a conscious communication and how to work efficiently.
+
+18
+00:01:00,775 --> 00:01:05,185
+Then we'll have a discussion on professionalism and its benefits.
+
+19
+00:01:05,185 --> 00:01:07,370
+We'll then talk a bit more detail about
+
+20
+00:01:07,370 --> 00:01:09,650
+the project management tools available out there,
+
+21
+00:01:09,650 --> 00:01:11,950
+their positives and negatives and
+
+22
+00:01:11,950 --> 00:01:15,800
+specifically go through one specific tool called Trello,
+
+23
+00:01:15,800 --> 00:01:19,995
+which you can use to manage projects or even small tasks.
+
+24
+00:01:19,995 --> 00:01:22,775
+Finally, we'll be talking about
+
+25
+00:01:22,775 --> 00:01:27,650
+an edge case of what to do when a scope creep happens in a project.
+
+26
+00:01:27,650 --> 00:01:32,500
+Lastly, we'll do a quick review of what we learned in the lesson overall.
+
+27
+00:01:32,500 --> 00:01:34,155
+At the end of the lesson,
+
+28
+00:01:34,155 --> 00:01:40,240
+we'll be able to use best practices and strategies to manage client projects effectively.
+
+29
+00:01:40,240 --> 00:01:44,495
+We'll also be able to adopt effective communication strategies and
+
+30
+00:01:44,495 --> 00:01:50,280
+tools to keep the client on the same page while you're working on the project.
+

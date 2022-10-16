@@ -1,0 +1,372 @@
+1
+00:00:00,170 --> 00:00:03,105
+Now to dig in to one specific tool,
+
+2
+00:00:03,105 --> 00:00:07,755
+I'll hand over to my colleague Yasmin to introduce us to Trello.
+
+3
+00:00:07,755 --> 00:00:10,290
+Thanks [inaudible]. Hi, everyone.
+
+4
+00:00:10,290 --> 00:00:13,110
+We're going to go through how to make a Trello board
+
+5
+00:00:13,110 --> 00:00:16,290
+and look at the different organizational features it offers.
+
+6
+00:00:16,290 --> 00:00:19,200
+Trello is really useful when you're working with
+
+7
+00:00:19,200 --> 00:00:21,870
+more than one other person on a project because
+
+8
+00:00:21,870 --> 00:00:23,250
+it allows a clear way to
+
+9
+00:00:23,250 --> 00:00:27,810
+both assigned tasks and communicate the task status to the whole group.
+
+10
+00:00:27,810 --> 00:00:32,430
+You can create what we call boards for specific projects in Trello.
+
+11
+00:00:32,430 --> 00:00:35,295
+For example, you could create a board named
+
+12
+00:00:35,295 --> 00:00:37,620
+Wordpress Website Development to
+
+13
+00:00:37,620 --> 00:00:41,440
+track all the development tasks of that project in the board.
+
+14
+00:00:42,010 --> 00:00:47,585
+First, we're going to go ahead and select "Create new board" down here,
+
+15
+00:00:47,585 --> 00:00:49,565
+and let's add a name to that board.
+
+16
+00:00:49,565 --> 00:00:58,720
+Let's use the example that we said before, Wordpress Website Development.
+
+17
+00:00:59,180 --> 00:01:04,800
+We could go ahead and change it to different colors and different themes,
+
+18
+00:01:04,800 --> 00:01:07,255
+so I'm going to go ahead and select blue,
+
+19
+00:01:07,255 --> 00:01:09,950
+and then we're going to hit "Create board".
+
+20
+00:01:11,060 --> 00:01:15,795
+Awesome. So here is our blank Trello board.
+
+21
+00:01:15,795 --> 00:01:19,910
+To organize the tasks in the specific phases of the project,
+
+22
+00:01:19,910 --> 00:01:21,995
+we can use something called a list.
+
+23
+00:01:21,995 --> 00:01:27,425
+A list could have all the information about tasks in a specific phase of a project.
+
+24
+00:01:27,425 --> 00:01:30,830
+For example, let's go ahead and create three lists.
+
+25
+00:01:30,830 --> 00:01:34,260
+One of them can be called To Do,
+
+26
+00:01:35,390 --> 00:01:39,555
+another one can be To be Approved,
+
+27
+00:01:39,555 --> 00:01:45,315
+and then finally, we'll say Approved by Client.
+
+28
+00:01:45,315 --> 00:01:48,690
+Your lists don't have to look like this.
+
+29
+00:01:48,690 --> 00:01:49,740
+They don't have to be To Do,
+
+30
+00:01:49,740 --> 00:01:51,090
+To be Approved, Approved by Client.
+
+31
+00:01:51,090 --> 00:01:53,855
+We're just doing this for the sake of the demo.
+
+32
+00:01:53,855 --> 00:01:56,945
+We have our three lists here,
+
+33
+00:01:56,945 --> 00:02:04,355
+and we want to add the different tasks or activities. It's called cards.
+
+34
+00:02:04,355 --> 00:02:06,680
+These cards are just like post-it notes that you
+
+35
+00:02:06,680 --> 00:02:09,020
+can move across the list as a project moves on.
+
+36
+00:02:09,020 --> 00:02:11,795
+Let's say you completed something in the To-Do list.
+
+37
+00:02:11,795 --> 00:02:14,570
+You can drag the card over To be Approved,
+
+38
+00:02:14,570 --> 00:02:17,650
+and then Approved once it's approved by the client.
+
+39
+00:02:17,650 --> 00:02:20,840
+Let's go ahead, and in our to-do list,
+
+40
+00:02:20,840 --> 00:02:26,985
+we'll add a card called Create Sign in form.
+
+41
+00:02:26,985 --> 00:02:29,490
+We'll also add another card,
+
+42
+00:02:29,490 --> 00:02:33,029
+Add Forgot Password page,
+
+43
+00:02:33,029 --> 00:02:38,470
+and then Enable Search Functionality.
+
+44
+00:02:38,510 --> 00:02:45,035
+Awesome. Let's look at the things that you can edit in here.
+
+45
+00:02:45,035 --> 00:02:47,795
+There's different members to add to the card.
+
+46
+00:02:47,795 --> 00:02:51,740
+Let's say, the client is responsible for something or you're responsible for something,
+
+47
+00:02:51,740 --> 00:02:53,485
+you could click this.
+
+48
+00:02:53,485 --> 00:02:57,770
+What's really important that I want you to note here is dates.
+
+49
+00:02:57,770 --> 00:03:01,865
+Let's say that the client really wants this done by next week.
+
+50
+00:03:01,865 --> 00:03:06,290
+You can go ahead and change the due date here and hit "Save".
+
+51
+00:03:06,290 --> 00:03:08,510
+Now there's a date attached to it,
+
+52
+00:03:08,510 --> 00:03:12,155
+so everybody knows when to expect for this thing to be done.
+
+53
+00:03:12,155 --> 00:03:16,310
+When you have a task in a card,
+
+54
+00:03:16,310 --> 00:03:19,775
+it can also be broken down into more than one item.
+
+55
+00:03:19,775 --> 00:03:25,630
+You can create a checklist to be as transparent as possible about where that task is.
+
+56
+00:03:25,630 --> 00:03:27,875
+When the client asks you what the status is,
+
+57
+00:03:27,875 --> 00:03:31,510
+you can always open this card and show them where it's at.
+
+58
+00:03:31,510 --> 00:03:35,930
+In this card that we created called sign-in form,
+
+59
+00:03:35,930 --> 00:03:38,480
+there's more to it than just a sign in form.
+
+60
+00:03:38,480 --> 00:03:42,320
+There's going to be different features and steps that you need to take.
+
+61
+00:03:42,320 --> 00:03:45,250
+Let's go ahead and add a checklist.
+
+62
+00:03:45,250 --> 00:03:49,065
+You can name your checklist whatever you want and hit "Add".
+
+63
+00:03:49,065 --> 00:03:56,700
+Here let's add Design a form sent by designer,
+
+64
+00:03:57,170 --> 00:04:02,400
+Developed HTML and CSS of form,
+
+65
+00:04:02,400 --> 00:04:07,980
+then add Functionality to button of form.
+
+66
+00:04:07,980 --> 00:04:10,330
+Let's add these.
+
+67
+00:04:11,090 --> 00:04:13,690
+Once you're done with each of these,
+
+68
+00:04:13,690 --> 00:04:17,680
+you can check it off so that the client can just click on the card in
+
+69
+00:04:17,680 --> 00:04:22,685
+the list and see what phase you are of each task that you have to do.
+
+70
+00:04:22,685 --> 00:04:25,300
+For example, if you need to do
+
+71
+00:04:25,300 --> 00:04:28,180
+a specific task for each page on a website you're working on,
+
+72
+00:04:28,180 --> 00:04:31,450
+it'll be helpful to specify which one is complete and which one isn't.
+
+73
+00:04:31,450 --> 00:04:34,930
+Once you've completed all these tasks on the list,
+
+74
+00:04:34,930 --> 00:04:37,920
+you can say, okay, this is completed.
+
+75
+00:04:37,920 --> 00:04:41,470
+Now, it moves from To Do to Be Approved,
+
+76
+00:04:41,470 --> 00:04:43,660
+and once the client approves it,
+
+77
+00:04:43,660 --> 00:04:46,630
+then that can be moved over to Approved by the Client.
+
+78
+00:04:46,630 --> 00:04:50,845
+It's very clear what needs to be done on this project still,
+
+79
+00:04:50,845 --> 00:04:53,395
+what the client still needs to look at.
+
+80
+00:04:53,395 --> 00:04:55,390
+The client can come in here and just see,
+
+81
+00:04:55,390 --> 00:04:57,220
+oh, I need to review these.
+
+82
+00:04:57,220 --> 00:04:59,230
+Then finally, once they've approved it,
+
+83
+00:04:59,230 --> 00:05:00,700
+they can move over here.
+
+84
+00:05:00,700 --> 00:05:03,370
+There's all of this visibility that
+
+85
+00:05:03,370 --> 00:05:06,130
+goes on without even having to have a meeting about it.
+
+86
+00:05:06,130 --> 00:05:08,320
+You can have as many boards,
+
+87
+00:05:08,320 --> 00:05:11,240
+lists, or cards as you want in a project.
+
+88
+00:05:11,240 --> 00:05:14,015
+This is a high level overview of Trello.
+
+89
+00:05:14,015 --> 00:05:16,550
+The beauty of Trello is that it's quick to
+
+90
+00:05:16,550 --> 00:05:20,540
+learn and can be used for very simple and complex projects.
+
+91
+00:05:20,540 --> 00:05:22,685
+Using a tool like Trello helps you stay
+
+92
+00:05:22,685 --> 00:05:25,220
+organized and on the same page as the client throughout
+
+93
+00:05:25,220 --> 00:05:30,850
+the project and can be very useful guide during check-in Meetings.
+

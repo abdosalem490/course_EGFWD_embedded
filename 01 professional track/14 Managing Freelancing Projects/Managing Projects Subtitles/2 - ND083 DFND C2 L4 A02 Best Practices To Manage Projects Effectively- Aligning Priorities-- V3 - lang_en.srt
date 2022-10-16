@@ -1,0 +1,120 @@
+1
+00:00:00,000 --> 00:00:01,740
+Let me give you an example from
+
+2
+00:00:01,740 --> 00:00:05,745
+my own experience of hiring a freelancer for our own startup.
+
+3
+00:00:05,745 --> 00:00:09,675
+FYI, I've tweaked the context setting of this example,
+
+4
+00:00:09,675 --> 00:00:11,925
+but the essence remains the same.
+
+5
+00:00:11,925 --> 00:00:17,430
+We hired a developer who we paid to build a module on our tech platform,
+
+6
+00:00:17,430 --> 00:00:20,550
+which automatically would collect information about
+
+7
+00:00:20,550 --> 00:00:25,425
+social impact organizations who are trying to help underprivileged communities.
+
+8
+00:00:25,425 --> 00:00:29,280
+Now, this module has an admin interface where
+
+9
+00:00:29,280 --> 00:00:34,090
+the employees of our startup can see the status of the activity performed by the module.
+
+10
+00:00:34,090 --> 00:00:39,125
+Now, we wanted to make the external interface of this module to be well-polished.
+
+11
+00:00:39,125 --> 00:00:42,630
+The developer we hired was really skilled at his job.
+
+12
+00:00:42,630 --> 00:00:46,640
+In fact, I have not seen any developer better skilled than him
+
+13
+00:00:46,640 --> 00:00:52,090
+amongst all the freelancers that we have hired at that early in their careers so far.
+
+14
+00:00:52,090 --> 00:00:55,385
+The developer did a good job building the module,
+
+15
+00:00:55,385 --> 00:01:00,185
+but also focused on things we did not necessarily want to pay attention to.
+
+16
+00:01:00,185 --> 00:01:03,035
+Since the admin module will be used internally,
+
+17
+00:01:03,035 --> 00:01:08,075
+we did not want to make it as polished as the external facing module.
+
+18
+00:01:08,075 --> 00:01:12,020
+The developer insisted on making things look nice on
+
+19
+00:01:12,020 --> 00:01:16,900
+the admin module as well and the way they should be uniform across the platform.
+
+20
+00:01:16,900 --> 00:01:19,535
+Theoretically, that's a good thing to do,
+
+21
+00:01:19,535 --> 00:01:23,225
+but that was not our priority and did not fit into our budget.
+
+22
+00:01:23,225 --> 00:01:25,910
+Our priority is what our users see.
+
+23
+00:01:25,910 --> 00:01:31,615
+Internally, we could do away with an okay-looking interface for an internal employees.
+
+24
+00:01:31,615 --> 00:01:37,265
+After some time, we ended up discontinuing work with that developer,
+
+25
+00:01:37,265 --> 00:01:42,185
+one of the best developers that we have ever had for a simple reason,
+
+26
+00:01:42,185 --> 00:01:45,470
+that we did not feel aligned with that developer.
+
+27
+00:01:45,470 --> 00:01:47,960
+When the alignment is missing, my friends,
+
+28
+00:01:47,960 --> 00:01:50,434
+every task becomes a challenge.
+
+29
+00:01:50,434 --> 00:01:54,360
+I'll reiterate the two main points that we discussed,
+
+30
+00:01:54,360 --> 00:01:58,770
+hear the client and sense what their priorities are.
+

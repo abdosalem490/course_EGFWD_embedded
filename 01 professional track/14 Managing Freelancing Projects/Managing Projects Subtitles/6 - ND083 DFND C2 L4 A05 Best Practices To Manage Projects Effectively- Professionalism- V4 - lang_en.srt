@@ -1,0 +1,336 @@
+1
+00:00:00,000 --> 00:00:06,720
+Now the last topic in our series of best practices to manage project is professionalism.
+
+2
+00:00:06,720 --> 00:00:09,615
+Professionalism is more of an attitude,
+
+3
+00:00:09,615 --> 00:00:12,795
+something that is displayed by the way you work with the clients.
+
+4
+00:00:12,795 --> 00:00:14,100
+The way you take decisions,
+
+5
+00:00:14,100 --> 00:00:16,765
+the way you deal with unexpected situations.
+
+6
+00:00:16,765 --> 00:00:18,345
+In this part of the lesson,
+
+7
+00:00:18,345 --> 00:00:20,580
+we'll talk about some areas of work in
+
+8
+00:00:20,580 --> 00:00:24,105
+your freelancing journey that could portray professionalism.
+
+9
+00:00:24,105 --> 00:00:27,480
+But you'll realize that professionalism is something that is
+
+10
+00:00:27,480 --> 00:00:31,035
+naturally developed as one works with clients all the time.
+
+11
+00:00:31,035 --> 00:00:32,505
+First of all,
+
+12
+00:00:32,505 --> 00:00:36,260
+what I've learned in my freelancing career is that attention to
+
+13
+00:00:36,260 --> 00:00:40,370
+detail goes a long way in making a successful freelancing career.
+
+14
+00:00:40,370 --> 00:00:42,075
+The client would love,
+
+15
+00:00:42,075 --> 00:00:43,910
+if your work is detailed enough,
+
+16
+00:00:43,910 --> 00:00:46,745
+your communication is detailed and specific.
+
+17
+00:00:46,745 --> 00:00:48,260
+If you're writing software code,
+
+18
+00:00:48,260 --> 00:00:51,100
+for example, the code is clear with comments.
+
+19
+00:00:51,100 --> 00:00:56,975
+In fact, I would go on to say that do less if you have to but do it well,
+
+20
+00:00:56,975 --> 00:01:00,100
+instead of doing a bunch of things half-baked.
+
+21
+00:01:00,100 --> 00:01:03,440
+But you will realize that this aspect of attention
+
+22
+00:01:03,440 --> 00:01:06,560
+to detail has to be balanced with pragmatism.
+
+23
+00:01:06,560 --> 00:01:09,680
+The client may be in a hurry to get the first version
+
+24
+00:01:09,680 --> 00:01:12,785
+out and may not want you to spend time on the details,
+
+25
+00:01:12,785 --> 00:01:16,160
+in which case the scope of work is limited but
+
+26
+00:01:16,160 --> 00:01:19,640
+make sure you do a precise job within that scope.
+
+27
+00:01:19,640 --> 00:01:22,460
+Try it out and see how it helps you in
+
+28
+00:01:22,460 --> 00:01:25,810
+your relationship with the client and future prospects.
+
+29
+00:01:25,810 --> 00:01:28,729
+Knowing time and material projects precisely,
+
+30
+00:01:28,729 --> 00:01:31,790
+logging time will not only give you satisfaction,
+
+31
+00:01:31,790 --> 00:01:34,220
+but the client will appreciate our integrity to
+
+32
+00:01:34,220 --> 00:01:36,955
+precisely maintain a log of the time you spent.
+
+33
+00:01:36,955 --> 00:01:41,150
+You don't want to hurt your reputation for a few hours on the time log.
+
+34
+00:01:41,150 --> 00:01:47,060
+In some cases, I have even gone ahead and shared my precise time log with the client.
+
+35
+00:01:47,060 --> 00:01:51,370
+Even when I didn't have to and could just share with them the total spent,
+
+36
+00:01:51,370 --> 00:01:55,175
+but that gives more comfort and transparency to the client.
+
+37
+00:01:55,175 --> 00:01:57,770
+They feel more comfortable working with you.
+
+38
+00:01:57,770 --> 00:02:01,445
+If you find yourself jacking up a few hours to gain some money,
+
+39
+00:02:01,445 --> 00:02:04,685
+believe me, you're not the first one to try that,
+
+40
+00:02:04,685 --> 00:02:07,280
+but that'll only leave you dissatisfying.
+
+41
+00:02:07,280 --> 00:02:11,615
+There will always be an insecurity about the client questioning the time log,
+
+42
+00:02:11,615 --> 00:02:14,805
+leading to the lack of confidence in your work.
+
+43
+00:02:14,805 --> 00:02:17,645
+Lastly, attention to detail in
+
+44
+00:02:17,645 --> 00:02:22,025
+written and verbal communication not only portrays your professionalism,
+
+45
+00:02:22,025 --> 00:02:23,870
+but it also gives an impression to
+
+46
+00:02:23,870 --> 00:02:26,800
+the client that you're serious about what you're doing.
+
+47
+00:02:26,800 --> 00:02:29,625
+Minor things like good grammar in an email,
+
+48
+00:02:29,625 --> 00:02:31,635
+using correct cases in words,
+
+49
+00:02:31,635 --> 00:02:33,555
+naming convention of files,
+
+50
+00:02:33,555 --> 00:02:36,285
+or perhaps variables in a source code.
+
+51
+00:02:36,285 --> 00:02:42,865
+All of these do matter and demonstrate your alertness and seriousness towards the work.
+
+52
+00:02:42,865 --> 00:02:45,825
+Next, being professional is good,
+
+53
+00:02:45,825 --> 00:02:48,630
+but being always professional is better.
+
+54
+00:02:48,630 --> 00:02:52,640
+I have discovered that being consistent in the quality of work,
+
+55
+00:02:52,640 --> 00:02:55,145
+the timelines, the deliverables,
+
+56
+00:02:55,145 --> 00:02:58,045
+your consistent communication builds
+
+57
+00:02:58,045 --> 00:03:01,890
+clients' trust in you and this solid relationship with the client,
+
+58
+00:03:01,890 --> 00:03:06,085
+could lead to a longer engagement and more projects in the future.
+
+59
+00:03:06,085 --> 00:03:10,145
+Next, as touched upon briefly in the previous lesson,
+
+60
+00:03:10,145 --> 00:03:12,830
+it will demonstrate your professionalism if you
+
+61
+00:03:12,830 --> 00:03:15,980
+stay within the legal limits of any work that you do.
+
+62
+00:03:15,980 --> 00:03:20,689
+For example, it's important to stay within the legal limits of the freelancing platform,
+
+63
+00:03:20,689 --> 00:03:22,265
+as we discussed earlier.
+
+64
+00:03:22,265 --> 00:03:25,010
+If you bypass the platform and get the payment
+
+65
+00:03:25,010 --> 00:03:28,160
+directly from the client to avoid the intermediary fee,
+
+66
+00:03:28,160 --> 00:03:30,335
+even if the client is happy with that,
+
+67
+00:03:30,335 --> 00:03:32,875
+you may see losing their respect over time.
+
+68
+00:03:32,875 --> 00:03:35,595
+If you're using third party libraries in your code,
+
+69
+00:03:35,595 --> 00:03:37,865
+for example, the GitHub library,
+
+70
+00:03:37,865 --> 00:03:40,610
+it's important to check the licenses and
+
+71
+00:03:40,610 --> 00:03:44,470
+discuss with the client it's applicability in their project.
+
+72
+00:03:44,470 --> 00:03:47,355
+Lastly, doing things right,
+
+73
+00:03:47,355 --> 00:03:53,850
+give some authority which can only be understood with your own practical experience.
+
+74
+00:03:54,230 --> 00:03:57,530
+Now sometimes in your freelancing career,
+
+75
+00:03:57,530 --> 00:03:59,735
+things may not go as expected.
+
+76
+00:03:59,735 --> 00:04:03,635
+The client may not echo to what was discussed at the outset.
+
+77
+00:04:03,635 --> 00:04:06,590
+The scope may change significantly or
+
+78
+00:04:06,590 --> 00:04:11,050
+the client's deadlines will suddenly change expecting you to meet them.
+
+79
+00:04:11,050 --> 00:04:15,185
+The culture in the client's organization may not be courteous enough
+
+80
+00:04:15,185 --> 00:04:19,950
+even if you are trying to maximize value for the client and being professional.
+
+81
+00:04:19,950 --> 00:04:24,035
+Now, this is the time to focus on ethical communication,
+
+82
+00:04:24,035 --> 00:04:27,170
+which could go really a long way instead of reacting
+
+83
+00:04:27,170 --> 00:04:30,340
+to the situation which could lead to a long-term loss.
+
+84
+00:04:30,340 --> 00:04:35,890
+Sometimes responding instead of reacting helps us a big deal.
+

@@ -1,0 +1,196 @@
+1
+00:00:00,000 --> 00:00:05,970
+Now if you remember this whole mindset discussion on maximizing value for the client,
+
+2
+00:00:05,970 --> 00:00:11,490
+remember that the client is running this project in order to get some value out of it.
+
+3
+00:00:11,490 --> 00:00:17,340
+But they want to balance this value with the required amount of time and money,
+
+4
+00:00:17,340 --> 00:00:20,970
+that's why it becomes important to actively look out for
+
+5
+00:00:20,970 --> 00:00:25,215
+ways to work efficiently in the project.
+
+6
+00:00:25,215 --> 00:00:29,910
+Client may themselves not be conscious of what to prioritize and
+
+7
+00:00:29,910 --> 00:00:34,905
+how to bring that implicant balance in order for the overall project to be efficient.
+
+8
+00:00:34,905 --> 00:00:37,155
+But that's why they hired you.
+
+9
+00:00:37,155 --> 00:00:40,100
+They would assume that you would guide them
+
+10
+00:00:40,100 --> 00:00:43,940
+wherever you see areas of how to be most efficient,
+
+11
+00:00:43,940 --> 00:00:50,580
+so that they can achieve an optimal output with an optimal amount of time and money.
+
+12
+00:00:50,950 --> 00:00:56,450
+Now let's look at some areas where one can bring efficiency in a client's project.
+
+13
+00:00:56,450 --> 00:01:00,350
+First of all, it's important to pick the right tools,
+
+14
+00:01:00,350 --> 00:01:02,365
+to do the work that you have to do.
+
+15
+00:01:02,365 --> 00:01:06,515
+These tools could be caught by the off-the-shelf tools,
+
+16
+00:01:06,515 --> 00:01:09,080
+which would be either big or free.
+
+17
+00:01:09,080 --> 00:01:12,665
+These tools could either avoid reinventing the wheel
+
+18
+00:01:12,665 --> 00:01:16,510
+by already providing a workflow that we're looking to build,
+
+19
+00:01:16,510 --> 00:01:20,310
+or they could just help get work done faster.
+
+20
+00:01:20,310 --> 00:01:24,575
+For example, if the client wants to build a nice front end for a website,
+
+21
+00:01:24,575 --> 00:01:27,890
+you could just use a front-end framework like foundation,
+
+22
+00:01:27,890 --> 00:01:31,420
+that could avoid all the heavy lifting to build a nice front-end.
+
+23
+00:01:31,420 --> 00:01:36,800
+Or you can use an existing template and just customize it to suit the client's needs.
+
+24
+00:01:36,800 --> 00:01:41,255
+Some of the tools that you find to be optimal may not be available for free,
+
+25
+00:01:41,255 --> 00:01:43,775
+but the client may just be happy to pay for them
+
+26
+00:01:43,775 --> 00:01:47,460
+if they bring in significant impact on productivity.
+
+27
+00:01:47,570 --> 00:01:51,050
+Now, another area to bring in efficiency is
+
+28
+00:01:51,050 --> 00:01:54,800
+your wisdom to optimize the sequence of workstreams.
+
+29
+00:01:54,800 --> 00:01:57,680
+For example, you could prioritize working on
+
+30
+00:01:57,680 --> 00:02:00,950
+modules that could be reused later in the project.
+
+31
+00:02:00,950 --> 00:02:04,030
+Some modules may be dependent on other modules,
+
+32
+00:02:04,030 --> 00:02:06,680
+so you could prioritize the dependencies so that you
+
+33
+00:02:06,680 --> 00:02:10,315
+have them when you work with the modules that need them.
+
+34
+00:02:10,315 --> 00:02:13,760
+Now, it's important to note that this list of areas
+
+35
+00:02:13,760 --> 00:02:16,925
+to bring inefficiency is not exhaustive.
+
+36
+00:02:16,925 --> 00:02:20,750
+It is important to be on the lookout on how you can bring
+
+37
+00:02:20,750 --> 00:02:25,325
+inefficiency for the client's project depending on the project's context.
+
+38
+00:02:25,325 --> 00:02:28,160
+Again, keep in mind that the client may not be
+
+39
+00:02:28,160 --> 00:02:30,935
+proactive enough to make these optimizations,
+
+40
+00:02:30,935 --> 00:02:33,725
+even if they're technically qualified to do so.
+
+41
+00:02:33,725 --> 00:02:35,990
+Since you are working on the project,
+
+42
+00:02:35,990 --> 00:02:40,160
+it's important for you to determine how the entire project can be driven
+
+43
+00:02:40,160 --> 00:02:45,565
+most efficiently to result in optimal value for the client's investment in it.
+
+44
+00:02:45,565 --> 00:02:47,285
+But while you do that,
+
+45
+00:02:47,285 --> 00:02:49,970
+it's important to communicate that to the client.
+
+46
+00:02:49,970 --> 00:02:52,115
+Remember that communication discussion.
+
+47
+00:02:52,115 --> 00:02:55,490
+It's ideal if you communicate to the client in a manner
+
+48
+00:02:55,490 --> 00:02:58,915
+that they understand what value the optimization brings,
+
+49
+00:02:58,915 --> 00:03:04,920
+so that they can appreciate your contribution in bringing up that optimization.
+

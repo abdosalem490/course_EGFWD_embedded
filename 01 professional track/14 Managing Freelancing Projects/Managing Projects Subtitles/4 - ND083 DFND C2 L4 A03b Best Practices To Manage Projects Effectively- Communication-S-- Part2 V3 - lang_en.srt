@@ -1,0 +1,216 @@
+1
+00:00:00,230 --> 00:00:06,525
+Now, this one is a very important kind of communication that many a times freelancers or
+
+2
+00:00:06,525 --> 00:00:12,405
+people working at full-time jobs fail to do leading to bigger problems later.
+
+3
+00:00:12,405 --> 00:00:17,490
+Life doesn't go always as expected and things keep changing.
+
+4
+00:00:17,490 --> 00:00:20,565
+Digital freelancing is no different.
+
+5
+00:00:20,565 --> 00:00:24,630
+But many a times you would foresee something as a blocker
+
+6
+00:00:24,630 --> 00:00:28,860
+to your plans for the project even before it comes.
+
+7
+00:00:28,860 --> 00:00:32,205
+For example, based on the current base of the project,
+
+8
+00:00:32,205 --> 00:00:35,715
+you could assess if you're not on track to meet the deadline.
+
+9
+00:00:35,715 --> 00:00:38,355
+Or maybe there's a change on your person end
+
+10
+00:00:38,355 --> 00:00:41,425
+which could affect the deadline agreed for the client.
+
+11
+00:00:41,425 --> 00:00:44,780
+Sometimes there could be dependencies on other people
+
+12
+00:00:44,780 --> 00:00:48,575
+working for the client that you foresee not being met on time.
+
+13
+00:00:48,575 --> 00:00:50,495
+All of these is okay,
+
+14
+00:00:50,495 --> 00:00:52,340
+and part of any project.
+
+15
+00:00:52,340 --> 00:00:56,095
+Clients do understand delays that are within reason.
+
+16
+00:00:56,095 --> 00:00:59,310
+What is not okay is not keeping the client in
+
+17
+00:00:59,310 --> 00:01:03,330
+the loop of any foreseeable delays or blockers in the project.
+
+18
+00:01:03,330 --> 00:01:08,650
+This could lead to client frustration and give rise to blame game later.
+
+19
+00:01:08,650 --> 00:01:10,590
+Now, in many cases,
+
+20
+00:01:10,590 --> 00:01:11,985
+we as freelancers,
+
+21
+00:01:11,985 --> 00:01:15,080
+may think that even though the time is limited,
+
+22
+00:01:15,080 --> 00:01:17,825
+we might just be able to meet the deadline.
+
+23
+00:01:17,825 --> 00:01:21,300
+That's a good thing but giving your client a heads
+
+24
+00:01:21,300 --> 00:01:25,475
+up will make them prepared in case you're not able to do that.
+
+25
+00:01:25,475 --> 00:01:29,240
+In fact, they might be able to prioritize some of the stuff or
+
+26
+00:01:29,240 --> 00:01:33,770
+reduce the scope of the deliverable for that deadline if they are in the norm.
+
+27
+00:01:33,770 --> 00:01:36,335
+However, if you do meet the deadline,
+
+28
+00:01:36,335 --> 00:01:38,705
+it would be wonder for them and they'll be glad and
+
+29
+00:01:38,705 --> 00:01:42,230
+appreciate the extra effort you put in to meet the deadline.
+
+30
+00:01:42,230 --> 00:01:44,180
+At the end I would say,
+
+31
+00:01:44,180 --> 00:01:47,645
+avoid understanding the importance of a heads up to the client.
+
+32
+00:01:47,645 --> 00:01:53,135
+After all, this will demonstrate your interest in maximizing value for the client,
+
+33
+00:01:53,135 --> 00:01:57,520
+and the fact that you respect their timeline and their commitments.
+
+34
+00:01:57,520 --> 00:02:01,290
+Now, when a client starts a freelancing project,
+
+35
+00:02:01,290 --> 00:02:03,375
+they have a big picture in mind,
+
+36
+00:02:03,375 --> 00:02:07,495
+the final goal that they want to achieve through the project.
+
+37
+00:02:07,495 --> 00:02:11,850
+When you wear client's heart and try to maximize their value,
+
+38
+00:02:11,850 --> 00:02:18,430
+you'll want to demonstrate how your work fits into the big picture that they have.
+
+39
+00:02:18,430 --> 00:02:23,930
+Sometimes, we all get too bogged down with the details and we seem to forget
+
+40
+00:02:23,930 --> 00:02:29,960
+the big picture in mind and that may happen with the client as well.
+
+41
+00:02:30,350 --> 00:02:34,350
+But if you as a freelancer keep pointing back to
+
+42
+00:02:34,350 --> 00:02:38,910
+the big picture and how our small steps are leading towards it,
+
+43
+00:02:38,910 --> 00:02:41,055
+it would be very valuable for the client.
+
+44
+00:02:41,055 --> 00:02:43,460
+Do not only put things in perspective,
+
+45
+00:02:43,460 --> 00:02:46,610
+but to also remind them of why we are working on
+
+46
+00:02:46,610 --> 00:02:50,950
+the current problem at hand and how it fits into the big picture.
+
+47
+00:02:50,950 --> 00:02:54,680
+This one in fact further reaffirm to the client that you are
+
+48
+00:02:54,680 --> 00:02:59,420
+thinking in their lines and they can trust you for the work on the project.
+
+49
+00:02:59,420 --> 00:03:04,105
+Now an example of this kind of communication could be this,
+
+50
+00:03:04,105 --> 00:03:09,860
+when you're talking about why a GPS location detector is being built in the app and
+
+51
+00:03:09,860 --> 00:03:16,995
+how it fits into their model for their primary user segment or something like this,
+
+52
+00:03:16,995 --> 00:03:19,980
+reaffirming the client what advantage will be
+
+53
+00:03:19,980 --> 00:03:23,315
+gained with the front-end framework that is being used,
+
+54
+00:03:23,315 --> 00:03:29,850
+emphasizing on its mobile responsiveness and what use case or would be most useful then.
+
