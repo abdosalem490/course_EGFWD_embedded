@@ -1,0 +1,214 @@
+1
+00:00:00,530 --> 00:00:03,490
+Eu disse anteriormente que, às vezes,
+você poderá ser o usuário final de sua
+
+2
+00:00:03,490 --> 00:00:04,939
+própria documentação.
+
+3
+00:00:04,939 --> 00:00:07,900
+Estou aqui com Art,
+diretor de engenharia aqui na Udacity.
+
+4
+00:00:07,900 --> 00:00:09,660
+Então, Art, me conte uma história de terror.
+
+5
+00:00:09,660 --> 00:00:11,662
+Conte um momento em que
+você realmente ficou no sufoco
+
+6
+00:00:11,662 --> 00:00:13,720
+por não escrever a documentação.
+
+7
+00:00:13,720 --> 00:00:14,900
+>> Essa é uma boa pergunta, Walter.
+
+8
+00:00:16,550 --> 00:00:18,656
+Feedbacks, no início da minha carreira.
+
+9
+00:00:18,656 --> 00:00:20,147
+Eu estava fazendo um projeto
+
+10
+00:00:20,147 --> 00:00:24,408
+para um banco de investimentos bem
+conservador em Wall Street.
+
+11
+00:00:24,408 --> 00:00:28,555
+E estava criando a tela de suporte
+que é aberta quando
+
+12
+00:00:28,555 --> 00:00:32,409
+quem usa o aplicativo
+precisa de ajuda.
+
+13
+00:00:32,409 --> 00:00:34,990
+Eles clicam na ajuda e
+ela é aberta com um número de telefone.
+
+14
+00:00:34,990 --> 00:00:38,770
+Mas ainda não tínhamos o telefone,
+então incluí um espaço reservado de telefone.
+
+15
+00:00:38,770 --> 00:00:40,367
+Mas esqueci de colocar o Readme
+
+16
+00:00:40,367 --> 00:00:43,288
+de que alguém precisava atualizá-lo
+antes da entrega.
+
+17
+00:00:43,288 --> 00:00:46,778
+Então coloquei a primeira
+coisa que veio à minha cabeça,
+
+18
+00:00:46,778 --> 00:00:51,556
+que era o 1-900 do nome da
+empresa, ou seja, ABC-4EVA.
+
+19
+00:00:51,556 --> 00:00:53,476
+>> [RISOS]
+>> 4EVA, certo?
+
+20
+00:00:53,476 --> 00:00:54,256
+>> Sim.
+
+21
+00:00:54,256 --> 00:00:57,840
+>> E fiz a entrega, até me lembro quanto ganhei,
+nem pense nisso.
+
+22
+00:00:57,840 --> 00:01:01,680
+Seis meses depois, recebo uma ligação
+furiosa do gerente de projetos.
+
+23
+00:01:01,680 --> 00:01:04,280
+Estava histérico porque um de seus
+clientes ligou para o número;
+
+24
+00:01:04,280 --> 00:01:05,872
+ninguém jamais atualizou o número da ajuda.
+
+25
+00:01:05,872 --> 00:01:08,272
+O cara ligou perguntando:
+
+26
+00:01:08,272 --> 00:01:12,758
+"Por que você colocou um número 900 adulto
+na tela de ajuda do nosso aplicativo?"
+
+27
+00:01:12,758 --> 00:01:16,180
+Porque me esqueci de documentar
+que era apenas um espaço reservado e
+
+28
+00:01:16,180 --> 00:01:17,657
+alguém em Utah o atualizaria.
+
+29
+00:01:17,657 --> 00:01:20,914
+[RISOS]
+>> Oh, não.
+
+30
+00:01:20,914 --> 00:01:26,893
+[RISOS]
+>> [RISOS] Essa história não é real.
+
+31
+00:01:26,893 --> 00:01:31,090
+[RISOS] Você nunca faria
+algo assim, não é?
+
+32
+00:01:31,090 --> 00:01:33,030
+>> Eu sei, eu sei.
+
+33
+00:01:33,030 --> 00:01:33,730
+Sim, nunca faria.
+
+34
+00:01:33,730 --> 00:01:34,436
+>> O que é-
+
+35
+00:01:34,436 --> 00:01:38,636
+[MÚSICA]
+
+36
+00:01:38,636 --> 00:01:39,910
+>> Sou Walter no futuro, e
+
+37
+00:01:39,910 --> 00:01:42,828
+concordo totalmente com
+o que acabou de dizer, Art.
+
+38
+00:01:42,828 --> 00:01:45,417
+O Walter do presente se esqueceu
+de documentar o código em alguns
+
+39
+00:01:45,417 --> 00:01:47,189
+dos projetos em que trabalhamos.
+
+40
+00:01:47,189 --> 00:01:49,950
+E agora parece que não 
+lembramos o que estávamos pensando.
+
+41
+00:01:49,950 --> 00:01:52,801
+>> Walter, estou desapontado.
+
+42
+00:01:52,801 --> 00:01:55,681
+[MÚSICA]
+
+43
+00:01:55,681 --> 00:01:58,450
+>> Dê uma olhada em alguns dos
+seus projetos mais antigos.
+
+44
+00:01:58,450 --> 00:02:01,280
+Consegue se lembrar de tudo o que estava
+pensando quando estava escrevendo
+
+45
+00:02:01,280 --> 00:02:02,480
+aquele código?
+
+46
+00:02:02,480 --> 00:02:05,448
+Não seria útil ter uma referência
+prática de todas as decisões que você tomou
+
+47
+00:02:05,448 --> 00:02:06,181
+no passado.
+

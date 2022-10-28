@@ -1,0 +1,104 @@
+1
+00:00:00,690 --> 00:00:04,367
+Estou aqui com Daija,
+uma engenheira de devops aqui da Udacity.
+
+2
+00:00:04,367 --> 00:00:05,660
+Conte-me,
+
+3
+00:00:05,660 --> 00:00:09,620
+como você consome a documentação
+como parte de uma equipe de engenharia?
+
+4
+00:00:09,620 --> 00:00:11,500
+Consumimos a documentação diariamente
+
+5
+00:00:11,500 --> 00:00:14,720
+porque usamos
+bibliotecas e ferramentas de terceiros.
+
+6
+00:00:14,720 --> 00:00:19,500
+Uma das coisas mais fáceis é
+quando desejamos
+
+7
+00:00:19,500 --> 00:00:22,500
+fazer tudo funcionar:
+buscamos um exemplo
+
+8
+00:00:22,500 --> 00:00:25,100
+de como fazer isso
+na documentação.
+
+9
+00:00:25,100 --> 00:00:29,290
+O que você faria se não tivesse
+esta documentação disponível?
+
+10
+00:00:29,290 --> 00:00:31,580
+Ficaria lastimando isso.
+
+11
+00:00:32,780 --> 00:00:36,600
+Sejamos realistas,
+talvez nem usemos esta biblioteca,
+
+12
+00:00:36,600 --> 00:00:41,340
+ou talvez a gente consulte uma biblioteca
+com documentação melhor.
+
+13
+00:00:41,340 --> 00:00:43,600
+Ou podemos escrever nossa própria
+documentação interna
+
+14
+00:00:43,600 --> 00:00:47,070
+se esta é de fato a biblioteca
+que precisamos usar.
+
+15
+00:00:47,070 --> 00:00:51,860
+Como você descobriria o código
+se a documentação não estivesse lá?
+
+16
+00:00:51,860 --> 00:00:54,560
+Você precisaria verificar
+o código fonte várias vezes,
+
+17
+00:00:54,560 --> 00:00:57,430
+ou examiná-lo usando um depurador.
+
+18
+00:00:57,430 --> 00:01:04,220
+Ou empregar diversas outras ferramentas
+avançadas para detecção e solução de problemas.
+
+19
+00:01:04,220 --> 00:01:06,370
+Isso parece muito trabalhoso.
+
+20
+00:01:06,370 --> 00:01:09,460
+É como a engenharia reversa,
+em que vemos o processo de pensamento de outra pessoa.
+
+21
+00:01:09,460 --> 00:01:12,700
+Na prática, isso às vezes não dá
+muito certo.
+
+22
+00:01:12,700 --> 00:01:13,200
+Obrigado, Daija.
+

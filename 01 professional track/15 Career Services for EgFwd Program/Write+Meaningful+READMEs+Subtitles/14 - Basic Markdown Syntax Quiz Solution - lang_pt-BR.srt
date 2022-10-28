@@ -1,0 +1,33 @@
+1
+00:00:00,330 --> 00:00:04,170
+Em Markdown,
+usamos um hash para indicar um cabeçalho.
+
+2
+00:00:04,170 --> 00:00:07,968
+Usamos um único hash para indicar
+que este item está em todos.
+
+3
+00:00:07,968 --> 00:00:10,900
+Usamos acentos graves ao redor do nosso texto
+para indicar que ele é,
+
+4
+00:00:10,900 --> 00:00:13,080
+na verdade, código inline.
+
+5
+00:00:13,080 --> 00:00:17,330
+Usamos dois asteriscos
+no texto que queremos em negrito.
+
+6
+00:00:17,330 --> 00:00:20,400
+E usamos um único sublinhado
+no texto
+
+7
+00:00:20,400 --> 00:00:22,910
+que queremos em itálico.
+

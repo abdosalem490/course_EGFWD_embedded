@@ -1,0 +1,70 @@
+1
+00:00:00,440 --> 00:00:01,607
+Como disse antes,
+
+2
+00:00:01,663 --> 00:00:04,640
+queremos criar um código 
+de fácil leitura para todos.
+
+3
+00:00:05,050 --> 00:00:07,670
+Seus usuários precisam usar
+seu código para fazer alterações
+
+4
+00:00:07,670 --> 00:00:09,063
+ou compreender como usá-lo e,
+
+5
+00:00:09,163 --> 00:00:11,564
+como era de se esperar, 
+seus colegas de trabalho também.
+
+6
+00:00:11,690 --> 00:00:13,555
+Talvez você se surpreenda,
+
+7
+00:00:13,686 --> 00:00:16,630
+mas sabia que você 
+também é um usuário final da documentação?
+
+8
+00:00:16,800 --> 00:00:19,070
+Você no presente 
+e você no futuro
+
+9
+00:00:19,170 --> 00:00:21,065
+são pessoas diferentes.
+
+10
+00:00:21,090 --> 00:00:25,796
+E o futuro não se recordará
+de todos os pequenos detalhes do seu código.
+
+11
+00:00:26,180 --> 00:00:28,786
+Trate o futuro como se
+fosse um colega de trabalho.
+
+12
+00:00:28,834 --> 00:00:31,480
+Dê a eles o que precisam
+para serem bem-sucedidos.
+
+13
+00:00:31,480 --> 00:00:33,103
+Retomarei esse assunto 
+mais adiante.
+
+14
+00:00:33,120 --> 00:00:36,255
+Vejamos agora como alguns
+dos engenheiros da Udacity
+
+15
+00:00:36,267 --> 00:00:37,715
+usam a documentação.
+

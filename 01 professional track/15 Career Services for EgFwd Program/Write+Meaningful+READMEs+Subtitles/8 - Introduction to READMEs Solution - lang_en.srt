@@ -1,0 +1,169 @@
+1
+00:00:00,330 --> 00:00:03,640
+This first read me belongs
+to factory_girl, which is
+
+2
+00:00:03,640 --> 00:00:07,170
+an open source project maintained by
+a development shop called thoughtbot.
+
+3
+00:00:07,170 --> 00:00:11,240
+Without knowing the specifics of what
+this project does we can see that this
+
+4
+00:00:11,240 --> 00:00:16,100
+file is broken up into
+many small chunks.
+
+5
+00:00:16,100 --> 00:00:20,270
+Each one of them is very
+clearly defined and readable.
+
+6
+00:00:20,270 --> 00:00:23,970
+At the top we can see some links
+to more external documentation,
+
+7
+00:00:23,970 --> 00:00:26,460
+some installation instructions, and
+
+8
+00:00:26,460 --> 00:00:30,440
+then underneath we can find some
+essential additional information
+
+9
+00:00:30,440 --> 00:00:33,990
+along with information for
+how we can contribute to the project.
+
+10
+00:00:33,990 --> 00:00:39,440
+At the very bottom is
+a section that links out to
+
+11
+00:00:39,440 --> 00:00:42,630
+the license and
+all the licensing information.
+
+12
+00:00:42,630 --> 00:00:47,530
+So without knowing what factory_girl is
+or does we can assume that if we wanted
+
+13
+00:00:47,530 --> 00:00:51,470
+to use it we'd have all the information
+we'd need to get started right here.
+
+14
+00:00:51,470 --> 00:00:55,460
+Next we've got can.viewify, which is
+a personal project by my friend Kat.
+
+15
+00:00:55,460 --> 00:00:57,750
+This one is considerably shorter, but
+
+16
+00:00:57,750 --> 00:01:02,910
+it seems to be structured in a similar
+way with lots of short, clear sections.
+
+17
+00:01:02,910 --> 00:01:04,980
+We've got our description,
+
+18
+00:01:04,980 --> 00:01:10,180
+we've got our installation instructions,
+and this is a little different.
+
+19
+00:01:10,180 --> 00:01:12,590
+We've got some usage examples here.
+
+20
+00:01:12,590 --> 00:01:14,980
+This readme does not have
+contribution information, and
+
+21
+00:01:14,980 --> 00:01:20,040
+instead has a little section on an issue
+that is known within this code,
+
+22
+00:01:20,040 --> 00:01:24,680
+and down at the bottom we once again
+have some licensing information.
+
+23
+00:01:24,680 --> 00:01:26,920
+Lastly, we've got a readme
+from Udacity's very
+
+24
+00:01:26,920 --> 00:01:30,340
+own Create-Your-Own-Adventure game,
+which comes from our Git and
+
+25
+00:01:30,340 --> 00:01:33,120
+GitHub course, which you should
+check out if you haven't already.
+
+26
+00:01:33,120 --> 00:01:35,710
+This readme doesn't have
+too much code necessarily.
+
+27
+00:01:35,710 --> 00:01:40,650
+Just that one line there, but
+it does have a very detailed explanation
+
+28
+00:01:40,650 --> 00:01:43,530
+of how we're supposed to
+contribute to this repository.
+
+29
+00:01:43,530 --> 00:01:46,190
+Like the other two readme's we've
+got some licensing information
+
+30
+00:01:46,190 --> 00:01:47,740
+at the bottom as well.
+
+31
+00:01:47,740 --> 00:01:50,830
+So, without knowing anything about
+the actual code within each of these
+
+32
+00:01:50,830 --> 00:01:54,760
+projects we can see that all three of
+these readme's gives us a quick overview
+
+33
+00:01:54,760 --> 00:01:59,230
+of the essential information we may need
+to get these projects up and running.
+
+34
+00:01:59,230 --> 00:02:02,430
+In the next few sections we're
+going to be talking about
+
+35
+00:02:02,430 --> 00:02:04,440
+each of these sections in more detail.
+

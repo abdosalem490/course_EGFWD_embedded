@@ -1,0 +1,268 @@
+1
+00:00:00,240 --> 00:00:02,420
+Antes de criar
+seu arquivo readme,
+
+2
+00:00:02,420 --> 00:00:03,594
+vamos dar uma olhada mais atenta
+
+3
+00:00:03,651 --> 00:00:06,870
+nas seções 
+que tornam um readme útil.
+
+4
+00:00:07,061 --> 00:00:10,280
+Neste exemplo, vamos
+ver Ledbetter,
+
+5
+00:00:10,280 --> 00:00:12,820
+um projeto mantido
+pelo próprio GitHub.
+
+6
+00:00:12,820 --> 00:00:15,830
+Realmente não sei
+o que o Ledbetter faz,
+
+7
+00:00:15,830 --> 00:00:17,780
+mas não é isso o que veremos 
+aqui.
+
+8
+00:00:17,780 --> 00:00:21,890
+Veremos a linguagem 
+usada neste readme
+
+9
+00:00:21,890 --> 00:00:23,752
+e as partes que o formam.
+
+10
+00:00:23,752 --> 00:00:27,135
+Um readme deve fornecer
+contexto suficiente
+
+11
+00:00:27,160 --> 00:00:28,870
+para um usuário poder usar seu código.
+
+12
+00:00:28,870 --> 00:00:33,040
+Não se esqueça de que estamos escrevendo isso 
+para outros humanos.
+
+13
+00:00:33,040 --> 00:00:36,418
+Vamos começar com um título e
+uma descrição.
+
+14
+00:00:36,418 --> 00:00:38,425
+Uma ou duas 
+frases bastam,
+
+15
+00:00:38,425 --> 00:00:42,508
+mas não se esqueça de capturar o espírito
+do seu projeto de modo claro e conciso.
+
+16
+00:00:42,533 --> 00:00:44,894
+Isso ajudará a estruturar
+a experiência do leitor ao
+
+17
+00:00:44,919 --> 00:00:46,520
+percorrer sua documentação.
+
+18
+00:00:46,545 --> 00:00:50,300
+Para melhorar o estilo, 
+inclua o logotipo do seu projeto,
+
+19
+00:00:50,300 --> 00:00:51,673
+se houver.
+
+20
+00:00:51,698 --> 00:00:55,000
+Depois, inclua as informações
+absolutamente necessárias
+
+21
+00:00:55,000 --> 00:00:56,640
+para o entendimento do código.
+
+22
+00:00:56,640 --> 00:00:59,444
+Eles podem ser dependências
+em outros softwares ou bibliotecas,
+
+23
+00:00:59,469 --> 00:01:04,120
+instruções de instalação,
+uso comum ou bugs conhecidos.
+
+24
+00:01:04,120 --> 00:01:07,160
+Mais uma vez, vale mencionar
+que não há um padrão formal
+
+25
+00:01:07,160 --> 00:01:08,830
+de como deve ser um readme.
+
+26
+00:01:08,830 --> 00:01:11,870
+Não se sinta pressionado a
+fazer um readme de um certo tamanho.
+
+27
+00:01:11,870 --> 00:01:15,680
+Alguns podem ser bem pequenos, enquanto
+outros terão que ser maiores.
+
+28
+00:01:15,680 --> 00:01:17,190
+Depende apenas de seu projeto.
+
+29
+00:01:17,190 --> 00:01:20,170
+O importante é que
+você transmita de forma clara
+
+30
+00:01:20,170 --> 00:01:24,180
+e precisa as informações
+essenciais para o usuário.
+
+31
+00:01:24,180 --> 00:01:26,019
+E não faça suposições 
+sobre
+
+32
+00:01:26,096 --> 00:01:28,264
+o que o usuário final 
+já sabe.
+
+33
+00:01:28,676 --> 00:01:32,840
+Você decide quais informações 
+são essenciais ou não.
+
+34
+00:01:32,840 --> 00:01:34,357
+Algumas perguntas que devem ser feitas
+
+35
+00:01:34,382 --> 00:01:36,883
+incluem: quais são as etapas exatas
+
+36
+00:01:36,940 --> 00:01:39,590
+a serem executadas para
+fazer essa base de código funcionar?
+
+37
+00:01:39,590 --> 00:01:42,910
+O que já deve ter sido
+instalado e configurado?
+
+38
+00:01:42,910 --> 00:01:46,600
+O que pode ter sido difícil
+de entender rapidamente?
+
+39
+00:01:46,600 --> 00:01:48,240
+Com frequência, os desenvolvedores incluirão
+
+40
+00:01:48,240 --> 00:01:51,225
+uma seção de introdução ou
+instalação,
+
+41
+00:01:51,250 --> 00:01:53,497
+para ajudar na configuração inicial 
+que talvez seja necessária
+
+42
+00:01:53,498 --> 00:01:54,782
+antes do uso do código.
+
+43
+00:01:55,037 --> 00:01:57,836
+É útil incluir
+código de exemplo para mostrar
+
+44
+00:01:57,861 --> 00:02:00,918
+o uso apropriado 
+do código pelo usuário final.
+
+45
+00:02:00,943 --> 00:02:03,850
+É importante considerar
+as suposições feitas sobre
+
+46
+00:02:03,850 --> 00:02:05,520
+o que o usuário espera saber.
+
+47
+00:02:05,520 --> 00:02:08,320
+Lembre-se: você já está
+familiarizado com o código.
+
+48
+00:02:08,345 --> 00:02:09,804
+Pense nisso sob a perspectiva
+
+49
+00:02:09,829 --> 00:02:12,731
+de alguém que nunca o viu.
+
+50
+00:02:12,914 --> 00:02:15,465
+Por exemplo,
+se eu fosse fazer ovos Benedict
+
+51
+00:02:15,490 --> 00:02:18,101
+e minha receita fosse de 
+ovo pochê,
+
+52
+00:02:18,126 --> 00:02:20,247
+eu poderia enganar os novos chefs
+
+53
+00:02:20,272 --> 00:02:23,445
+ao não explicar 
+o que é um ovo pochê.
+
+54
+00:02:23,493 --> 00:02:24,287
+A
+
+55
+00:02:24,312 --> 00:02:27,611
+quantidade de detalhes que você 
+inclui é uma escolha sua.
+
+56
+00:02:27,661 --> 00:02:30,470
+Porém, para 
+conceitos difíceis,
+
+57
+00:02:30,470 --> 00:02:32,870
+talvez seja uma boa ideia
+incluir mais detalhes.
+

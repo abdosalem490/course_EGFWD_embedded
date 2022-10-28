@@ -1,0 +1,200 @@
+1
+00:00:00,520 --> 00:00:03,750
+As your code base grows, you may find
+yourself needing to re-evaluate what
+
+2
+00:00:03,750 --> 00:00:06,780
+information is essential for
+your documentation.
+
+3
+00:00:06,780 --> 00:00:09,500
+Deciding what goes into your
+readme is entirely up to you.
+
+4
+00:00:09,500 --> 00:00:13,400
+But let's go over a few common sections
+and then use cases in a readme.
+
+5
+00:00:13,400 --> 00:00:16,720
+Including copyright or licensing
+information, or at least a link to it,
+
+6
+00:00:16,720 --> 00:00:20,460
+is always a good idea,
+no matter how large or small a project.
+
+7
+00:00:20,460 --> 00:00:23,690
+By default, you retain full rights
+to your code even if you don't
+
+8
+00:00:23,690 --> 00:00:27,980
+include a license, but it's a safer
+bet to be explicit about this.
+
+9
+00:00:27,980 --> 00:00:30,130
+Often, what you really
+want to do though,
+
+10
+00:00:30,130 --> 00:00:32,560
+is allow others to
+contribute to your project.
+
+11
+00:00:32,560 --> 00:00:36,920
+In this case, it's super
+important to include a license.
+
+12
+00:00:36,920 --> 00:00:40,170
+You can choose to include the full
+license in your readme itself,
+
+13
+00:00:40,170 --> 00:00:42,790
+or you can link out to
+it from your readme.
+
+14
+00:00:42,790 --> 00:00:45,810
+Choosing which license is a bit
+beyond the scope of this course, but
+
+15
+00:00:45,810 --> 00:00:48,530
+I've included a link to a handy
+resource in the instructor notes,
+
+16
+00:00:48,530 --> 00:00:52,690
+appropriately titled choosealicense.com
+to help you out with this.
+
+17
+00:00:52,690 --> 00:00:55,760
+In the spirit of contribution, if you
+have a preferred way for others to
+
+18
+00:00:55,760 --> 00:00:59,270
+contribute to your project, the readme
+is the right place for that, too.
+
+19
+00:00:59,270 --> 00:01:01,690
+Briefly outlining simple steps,
+a style guide or
+
+20
+00:01:01,690 --> 00:01:04,610
+whatever information you'd like
+others to know about contributing,
+
+21
+00:01:04,610 --> 00:01:08,330
+is a great way to make your project more
+accessible for those wanting to help.
+
+22
+00:01:08,330 --> 00:01:11,960
+Some services, like ones that check
+to see if all your tests are passing,
+
+23
+00:01:11,960 --> 00:01:16,070
+will provide special graphics,
+known as shields, for your readme's.
+
+24
+00:01:16,070 --> 00:01:19,570
+These shields are useful because
+they're provided by a third party, and
+
+25
+00:01:19,570 --> 00:01:22,880
+let your users know helpful
+information about your code.
+
+26
+00:01:22,880 --> 00:01:26,010
+If this seems a bit confusing for
+now, don't worry too much about it.
+
+27
+00:01:26,010 --> 00:01:29,030
+I know when I started writing
+documentation these really confused me
+
+28
+00:01:29,030 --> 00:01:30,340
+because I thought I needed to have them.
+
+29
+00:01:30,340 --> 00:01:33,060
+Once you've written lots
+of tests in your code,
+
+30
+00:01:33,060 --> 00:01:34,670
+these shields will become useful.
+
+31
+00:01:34,670 --> 00:01:38,120
+But when you're just getting started,
+don't worry too much about it.
+
+32
+00:01:38,120 --> 00:01:42,700
+A word of caution, don't make your life
+more complicated than it needs to be.
+
+33
+00:01:42,700 --> 00:01:45,710
+Allow your documentation to
+grow with the code base and
+
+34
+00:01:45,710 --> 00:01:48,130
+only add new information as needed.
+
+35
+00:01:48,130 --> 00:01:50,740
+We've looked at just a few potential
+sections you might want to include in
+
+36
+00:01:50,740 --> 00:01:55,700
+your readme as you document your code
+but don't limit yourself to just these.
+
+37
+00:01:55,700 --> 00:01:57,027
+As your code base grows,
+
+38
+00:01:57,027 --> 00:02:00,200
+which sections might also make
+sense to add to your readme?
+
+39
+00:02:00,200 --> 00:02:05,637
+Known bugs, frequently asked questions,
+press that your project has received,
+
+40
+00:02:05,637 --> 00:02:09,120
+a table of contents or
+pictures of your cat.
+
+41
+00:02:09,120 --> 00:02:10,500
+Select as many as you think apply.
+

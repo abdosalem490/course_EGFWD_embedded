@@ -1,0 +1,23 @@
+1
+00:00:00,420 --> 00:00:01,795
+O markdown é útil no fim do dia,
+
+2
+00:00:01,795 --> 00:00:03,431
+pois você não precisa 
+escrever tanto código
+
+3
+00:00:03,515 --> 00:00:05,430
+quanto faria 
+se escrevesse em HTML.
+
+4
+00:00:05,430 --> 00:00:07,965
+Neste exercício, utilize o HTML 
+que fornecemos
+
+5
+00:00:08,263 --> 00:00:09,576
+e reescreva-o como markdown.
+

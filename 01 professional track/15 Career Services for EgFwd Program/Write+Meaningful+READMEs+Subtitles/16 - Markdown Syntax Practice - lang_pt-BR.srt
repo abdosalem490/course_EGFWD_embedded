@@ -1,0 +1,235 @@
+1
+00:00:00,310 --> 00:00:02,425
+Portanto, este código aqui
+faz o trabalho,
+
+2
+00:00:02,500 --> 00:00:04,890
+este HTML traduz para
+um feixe de leitura de boa aparência.
+
+3
+00:00:04,890 --> 00:00:08,520
+Mas podemos fazer isso com menos código,
+se o fizermos em markdown.
+
+4
+00:00:08,520 --> 00:00:11,828
+Portanto, vamos começar a convertê-lo para
+obtermos os mesmos resultados.
+
+5
+00:00:11,820 --> 00:00:14,775
+Logo no início, podemos ver que
+obtivemos um H1
+
+6
+00:00:14,900 --> 00:00:16,690
+e dois H2s aqui.
+
+7
+00:00:16,690 --> 00:00:21,050
+Eles podem ser convertidos muito
+facilmente usando a sintaxe hash
+
+8
+00:00:21,050 --> 00:00:22,370
+em markdown.
+
+9
+00:00:22,370 --> 00:00:25,320
+Lembre-se de que o número
+de hashes indica
+
+10
+00:00:25,320 --> 00:00:29,475
+qual tag H que você
+usará, de H1 a H6.
+
+11
+00:00:29,600 --> 00:00:32,200
+Em seguida, podemos ver que
+obtivemos dois parágrafos aqui.
+
+12
+00:00:32,200 --> 00:00:35,075
+Em markdown, estas tags P
+para os parágrafos não
+
+13
+00:00:35,075 --> 00:00:36,540
+são necessárias,
+
+14
+00:00:36,540 --> 00:00:38,440
+portanto, podemos ir em frente
+e removê-las.
+
+15
+00:00:38,440 --> 00:00:42,190
+Em seguida, temos a tag
+strong com a tag M
+
+16
+00:00:42,190 --> 00:00:44,850
+que deve ser familiar
+do exercício anterior.
+
+17
+00:00:44,850 --> 00:00:48,320
+Strong torna nosso texto em negrito,
+M transforma nosso texto em itálico.
+
+18
+00:00:48,320 --> 00:00:51,625
+Portanto, podemos ir em frente e reescrever
+estas e, agora, temos
+
+19
+00:00:51,625 --> 00:00:52,860
+as duas últimas seções,
+
+20
+00:00:52,860 --> 00:00:54,750
+nossa lista e nossos blocos de código.
+
+21
+00:00:54,750 --> 00:00:58,001
+Isso será onde o markdown
+realmente será útil
+
+22
+00:00:58,001 --> 00:00:59,570
+e economizará muito código.
+
+23
+00:00:59,570 --> 00:01:01,790
+Temos nossa lista não ordenada aqui.
+
+24
+00:01:01,790 --> 00:01:04,379
+E você pode ver que temos a tag UL
+
+25
+00:01:04,379 --> 00:01:07,680
+e, em seguida, uma tag LI para cada
+um destes itens de lista.
+
+26
+00:01:07,680 --> 00:01:11,130
+Em markdown, precisamos de um único
+asterisco para cada um desses itens
+
+27
+00:01:11,130 --> 00:01:13,075
+de lista, e ele saberá
+automaticamente
+
+28
+00:01:13,075 --> 00:01:14,430
+que isto é uma lista.
+
+29
+00:01:14,430 --> 00:01:18,030
+E você pode ver que nosso readme
+ainda parece exatamente o mesmo.
+
+30
+00:01:18,030 --> 00:01:22,410
+Em seguida, podemos usar esta tag anchor
+aqui e encurtá-la um pouco.
+
+31
+00:01:22,410 --> 00:01:25,125
+Vamos usar a sintaxe
+de colchete para indicar o texto
+
+32
+00:01:25,125 --> 00:01:26,650
+que desejamos em nosso link
+
+33
+00:01:26,650 --> 00:01:29,580
+e, em seguida, parênteses
+para indicar nosso caminho.
+
+34
+00:01:29,580 --> 00:01:33,280
+Aqui na parte inferior, vemos
+a combinação de pré-código aqui
+
+35
+00:01:33,280 --> 00:01:35,300
+que gerará
+este bloco de código.
+
+36
+00:01:35,300 --> 00:01:37,620
+Talvez este não seja um código
+com o qual você esteja familiarizado.
+
+37
+00:01:37,620 --> 00:01:42,070
+Mas quando você está escrevendo código como
+este, ele é sempre muito útil.
+
+38
+00:01:42,070 --> 00:01:46,010
+Mas isto pode ser reescrito facilmente
+usando três backticks.
+
+39
+00:01:46,010 --> 00:01:49,200
+Usaremos três backticks
+para indicar o início
+
+40
+00:01:49,200 --> 00:01:50,600
+de nosso bloco de código,
+
+41
+00:01:50,600 --> 00:01:53,670
+outros três para indicar
+o fim de nosso bloco de código.
+
+42
+00:01:53,670 --> 00:01:57,330
+Como você pode ver, esse markdown
+converte o mesmo readme
+
+43
+00:01:57,330 --> 00:01:59,520
+que o HTML que escrevemos converteu.
+
+44
+00:01:59,520 --> 00:02:01,920
+Mas o faz de uma maneira
+muito mais legível.
+
+45
+00:02:01,920 --> 00:02:04,600
+Mesmo que não tivéssemos este
+arquivo markdown
+
+46
+00:02:04,600 --> 00:02:06,100
+gerado aqui à direita,
+
+47
+00:02:06,100 --> 00:02:08,250
+ainda poderíamos examinar este
+arquivo markdown
+
+48
+00:02:08,250 --> 00:02:09,199
+e compreender mais ou menos
+
+49
+00:02:09,190 --> 00:02:11,575
+o que está acontecendo, e ele usou
+consideravelmente menos código
+
+50
+00:02:11,575 --> 00:02:13,570
+para chegar aqui.
+

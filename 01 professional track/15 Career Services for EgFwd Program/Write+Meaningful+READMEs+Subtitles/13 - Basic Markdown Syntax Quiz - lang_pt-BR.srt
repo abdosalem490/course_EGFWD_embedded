@@ -1,0 +1,14 @@
+1
+00:00:00,250 --> 00:00:03,340
+Vamos revisar rapidamente
+um pouco da sintaxe que já aprendemos.
+
+2
+00:00:03,340 --> 00:00:04,610
+Nos espaços fornecidos,
+
+3
+00:00:04,610 --> 00:00:08,540
+remova o mark-down necessário
+para criar cada uma dessas sentenças.
+

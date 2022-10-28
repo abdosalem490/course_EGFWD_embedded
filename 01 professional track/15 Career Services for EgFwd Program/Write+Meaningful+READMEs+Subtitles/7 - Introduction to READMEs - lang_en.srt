@@ -1,0 +1,100 @@
+1
+00:00:00,310 --> 00:00:03,700
+All right, so now we know we need
+to be documenting our own projects.
+
+2
+00:00:03,700 --> 00:00:07,340
+But all the documentation we've
+looked at so far is pretty intense.
+
+3
+00:00:07,340 --> 00:00:07,840
+In fact, for
+
+4
+00:00:07,840 --> 00:00:11,490
+a small personal project, the type
+of documentation is often overkill.
+
+5
+00:00:11,490 --> 00:00:17,080
+It would be like writing a cook book
+when all you need is a single recipe.
+
+6
+00:00:17,080 --> 00:00:19,820
+Luckily, there's a type of documentation
+that lends itself well to small
+
+7
+00:00:19,820 --> 00:00:21,814
+projects, known as a readme file.
+
+8
+00:00:22,858 --> 00:00:25,470
+A readme file's a convention that's
+existed since back when computer
+
+9
+00:00:25,470 --> 00:00:27,690
+programs were written with punch cards.
+
+10
+00:00:27,690 --> 00:00:30,370
+This single file contains
+relevant information
+
+11
+00:00:30,370 --> 00:00:32,100
+about the other files in
+a project's directory.
+
+12
+00:00:33,290 --> 00:00:35,920
+Readmes are so
+common that you may have encountered one
+
+13
+00:00:35,920 --> 00:00:38,380
+of your own in the past when
+installing something on your computer.
+
+14
+00:00:39,630 --> 00:00:43,876
+Its name exists, usually written in all
+caps to stand out in a directory so
+
+15
+00:00:43,876 --> 00:00:46,350
+that users would be
+more likely to read it.
+
+16
+00:00:46,350 --> 00:00:47,697
+Check it out for yourself.
+
+17
+00:00:47,697 --> 00:00:51,390
+I've included a link to three different
+readmes in the instructor notes.
+
+18
+00:00:51,390 --> 00:00:52,390
+As you examine them,
+
+19
+00:00:52,390 --> 00:00:56,100
+think to yourself, what information
+is being communicated in this file?
+
+20
+00:00:56,100 --> 00:00:58,670
+And how is this information
+being structured?
+
+21
+00:00:58,670 --> 00:01:01,670
+And do you notice any patterns
+across these readmes?
+

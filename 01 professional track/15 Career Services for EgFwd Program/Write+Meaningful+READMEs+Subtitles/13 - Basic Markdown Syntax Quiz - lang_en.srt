@@ -1,0 +1,14 @@
+1
+00:00:00,250 --> 00:00:03,340
+Let's do a quick review of some
+of the syntax you've learned.
+
+2
+00:00:03,340 --> 00:00:04,610
+In the spaces provided,
+
+3
+00:00:04,610 --> 00:00:08,540
+take out the necessary mark-down
+to create each of these sentences.
+

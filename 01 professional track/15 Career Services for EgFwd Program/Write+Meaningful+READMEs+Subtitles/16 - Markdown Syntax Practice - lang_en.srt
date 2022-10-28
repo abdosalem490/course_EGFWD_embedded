@@ -1,0 +1,193 @@
+1
+00:00:00,310 --> 00:00:02,060
+So this code over here
+gets the job done,
+
+2
+00:00:02,060 --> 00:00:04,890
+this HTML translates to
+a nice looking read beam.
+
+3
+00:00:04,890 --> 00:00:08,520
+But we can do this in less code
+if we do this in markdown.
+
+4
+00:00:08,520 --> 00:00:11,828
+So let's start translating this so
+that we get the same results.
+
+5
+00:00:11,828 --> 00:00:16,690
+Right off the bat, we can see that
+we've got an H1 and two H2s over here.
+
+6
+00:00:16,690 --> 00:00:22,370
+These can be translated pretty easily
+using the hash syntax in markdown.
+
+7
+00:00:22,370 --> 00:00:25,320
+Remember that the number
+of hashes indicates
+
+8
+00:00:25,320 --> 00:00:28,840
+which H tag you're going to be
+using from H1 all the way to H6.
+
+9
+00:00:28,840 --> 00:00:32,200
+Next we can see that we've
+got two paragraphs here.
+
+10
+00:00:32,200 --> 00:00:36,540
+In markdown, these P tags for
+the paragraphs are not necessary so
+
+11
+00:00:36,540 --> 00:00:38,440
+we can go ahead and take those out.
+
+12
+00:00:38,440 --> 00:00:42,190
+Next we've got the strong
+tag along with the M tag
+
+13
+00:00:42,190 --> 00:00:44,850
+which should look familiar
+from the last exercise.
+
+14
+00:00:44,850 --> 00:00:48,320
+Strong makes our text bold,
+M makes our texts italics.
+
+15
+00:00:48,320 --> 00:00:52,860
+So, we can go ahead and rewrite those
+and we've got now the last two sections,
+
+16
+00:00:52,860 --> 00:00:54,750
+our list and our code blocks.
+
+17
+00:00:54,750 --> 00:00:58,001
+This is going to be where mark down
+really going to come in handy And
+
+18
+00:00:58,001 --> 00:00:59,570
+save us a lot of code.
+
+19
+00:00:59,570 --> 00:01:01,790
+We've got our unordered list here.
+
+20
+00:01:01,790 --> 00:01:04,379
+And you can see we have the UL tag and
+
+21
+00:01:04,379 --> 00:01:07,680
+then an LI tag for
+each one of those list items.
+
+22
+00:01:07,680 --> 00:01:11,130
+In mark down, we just need a single
+asterisk for each one of those list
+
+23
+00:01:11,130 --> 00:01:14,430
+items, and it's going to automatically
+know that this is a list.
+
+24
+00:01:14,430 --> 00:01:18,030
+And you can see that our read
+me still looks exactly the same.
+
+25
+00:01:18,030 --> 00:01:22,410
+Next we can take this anchor tag
+here and shorten that a bit.
+
+26
+00:01:22,410 --> 00:01:26,650
+We're going to use the bracket syntax to
+indict the text that we want in our link
+
+27
+00:01:26,650 --> 00:01:29,580
+and then parenthesis
+to indicate our path.
+
+28
+00:01:29,580 --> 00:01:33,280
+Here at the bottom we see
+the pre-code combination here
+
+29
+00:01:33,280 --> 00:01:35,300
+which will generate this code block.
+
+30
+00:01:35,300 --> 00:01:37,620
+This may not be code that
+you're super familiar with.
+
+31
+00:01:37,620 --> 00:01:42,070
+But when you are writing code like
+this it comes in handy very often.
+
+32
+00:01:42,070 --> 00:01:46,010
+But this can be rewritten easily
+using the three back ticks.
+
+33
+00:01:46,010 --> 00:01:50,600
+So we'll use three back ticks to
+indicate the start of our code block,
+
+34
+00:01:50,600 --> 00:01:53,670
+another three to indicate
+the end of our code block.
+
+35
+00:01:53,670 --> 00:01:57,330
+So as you can see, this mark down
+translates to the same read me
+
+36
+00:01:57,330 --> 00:01:59,520
+that the HTML we had written did.
+
+37
+00:01:59,520 --> 00:02:01,920
+But it does it in a way
+that is much more readable.
+
+38
+00:02:01,920 --> 00:02:06,100
+Even if we didn't have this mark down
+file being generated here on the right.
+
+39
+00:02:06,100 --> 00:02:09,199
+We could still look through this mark
+down file and more or less understand
+
+40
+00:02:09,199 --> 00:02:12,170
+what's going on and it took us
+considerably less code to get there.
+

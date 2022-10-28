@@ -1,0 +1,109 @@
+1
+00:00:00,330 --> 00:00:03,960
+Tecnicamente falando, um arquivo readme
+pode ser escrito em qualquer formato de arquivo.
+
+2
+00:00:03,960 --> 00:00:06,800
+Você pode tornar a página do readme na Web
+um arquivo de texto simples,
+
+3
+00:00:06,800 --> 00:00:09,390
+ou com um formato
+diferente.
+
+4
+00:00:09,390 --> 00:00:10,380
+Nesta lição,
+
+5
+00:00:10,380 --> 00:00:14,165
+você irá gerar um readme
+usando uma linguagem conhecida como markdown.
+
+6
+00:00:14,165 --> 00:00:16,710
+O Markdown permite que você gere
+readmes bem formatados,
+
+7
+00:00:16,710 --> 00:00:19,240
+convertendo-os em HTML.
+
+8
+00:00:19,240 --> 00:00:21,500
+Sites que você costuma usar
+como desenvolvedor,
+
+9
+00:00:21,500 --> 00:00:25,700
+como GitHub, Stack Overflow,
+Slack e até mesmo Reddit, empregam
+
+10
+00:00:25,700 --> 00:00:29,565
+versões de markdown para
+formatação de conteúdo de forma rápida e fácil.
+
+11
+00:00:29,565 --> 00:00:32,100
+Uma das maiores vantagens
+de usar o markdown é que
+
+12
+00:00:32,100 --> 00:00:34,585
+podemos criar readmes que são
+fáceis de consultar.
+
+13
+00:00:34,585 --> 00:00:36,255
+Observe estas duas receitas.
+
+14
+00:00:36,255 --> 00:00:38,355
+As duas
+têm as mesmas informações.
+
+15
+00:00:38,355 --> 00:00:41,135
+Mas, sem ler o conteúdo
+de cada receita,
+
+16
+00:00:41,135 --> 00:00:42,965
+qual delas você escolheria?
+
+17
+00:00:42,965 --> 00:00:45,000
+A receita da direita
+está formatada de uma forma
+
+18
+00:00:45,000 --> 00:00:47,053
+que facilita a consulta.
+
+19
+00:00:47,053 --> 00:00:49,000
+Ao escrever readmes,
+
+20
+00:00:49,000 --> 00:00:51,850
+aproveite os ótimos recursos
+que o markdown oferece
+
+21
+00:00:51,850 --> 00:00:55,310
+para verificar
+se o texto é de fácil leitura.
+
+22
+00:00:55,310 --> 00:00:58,140
+Você terá a chance de praticar como escrever
+no markdown nos próximos nós,
+
+23
+00:00:58,140 --> 00:01:00,850
+mas primeiro veremos
+guia rápido sobre a sintaxe do markdown.
+

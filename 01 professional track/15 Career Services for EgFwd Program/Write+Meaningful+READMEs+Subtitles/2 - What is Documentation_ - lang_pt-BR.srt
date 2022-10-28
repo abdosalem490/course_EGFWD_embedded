@@ -1,0 +1,85 @@
+1
+00:00:00,520 --> 00:00:03,468
+Levei anos aperfeiçoando
+essa receita,
+
+2
+00:00:03,493 --> 00:00:05,263
+e acho que finalmente está pronta
+para mostrar ao mundo.
+
+3
+00:00:06,270 --> 00:00:10,045
+Acabei de publicar meu novo
+livro de receitas, Cozinhando com @walterlatimer.
+
+4
+00:00:10,070 --> 00:00:14,918
+[RUÍDO] O que é um livro de receitas?
+
+5
+00:00:14,943 --> 00:00:17,632
+É uma forma de
+documentar receitas.
+
+6
+00:00:17,632 --> 00:00:22,290
+Ele nos ajuda a entender os utensílios
+e os ingredientes na cozinha.
+
+7
+00:00:22,695 --> 00:00:26,210
+Sem a documentação, posso ter
+todo o necessário para fazer um prato delicioso,
+
+8
+00:00:26,235 --> 00:00:30,033
+sem nenhuma ideia
+de como usá-los juntos.
+
+9
+00:00:30,900 --> 00:00:34,640
+A documentação técnica existe
+por um propósito semelhante.
+
+10
+00:00:34,640 --> 00:00:36,860
+Para nos ajudar a entender o código.
+
+11
+00:00:36,860 --> 00:00:39,304
+Sem ela, os desenvolvedores, inclusive você,
+
+12
+00:00:39,352 --> 00:00:41,391
+não saberão
+como usar o código de outras pessoas.
+
+13
+00:00:41,416 --> 00:00:42,852
+Talvez nem saibam 
+como executá-lo.
+
+14
+00:00:43,911 --> 00:00:47,843
+Li a documentação de todos os 
+meus projetos, inclusive este.
+
+15
+00:00:47,868 --> 00:00:49,837
+Nas Notas do instrutor
+há um link para o Readme
+
+16
+00:00:49,862 --> 00:00:51,820
+que criei para este curso.
+
+17
+00:00:51,820 --> 00:00:54,373
+Aí você encontrará
+recursos para ajudá-lo
+
+18
+00:00:54,398 --> 00:00:55,460
+com o trabalho nesta lição.
+

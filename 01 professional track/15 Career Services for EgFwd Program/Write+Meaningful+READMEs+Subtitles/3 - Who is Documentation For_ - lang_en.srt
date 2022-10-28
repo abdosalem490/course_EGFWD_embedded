@@ -1,0 +1,136 @@
+1
+00:00:00,450 --> 00:00:03,710
+When you hear the phrase,
+technical documentation,
+
+2
+00:00:03,710 --> 00:00:07,390
+you might think of dry literature
+that's difficult to understand.
+
+3
+00:00:07,390 --> 00:00:10,880
+But good documentation isn't boring or
+unapproachable.
+
+4
+00:00:10,880 --> 00:00:13,160
+Often it's written in plain English.
+
+5
+00:00:13,160 --> 00:00:17,120
+Sometimes it's even written as
+a series of guides or tutorials.
+
+6
+00:00:17,120 --> 00:00:21,830
+As it turns out, there isn't a secret
+ruling body that makes laws for
+
+7
+00:00:21,830 --> 00:00:25,320
+what documentation should and
+shouldn't look like.
+
+8
+00:00:25,320 --> 00:00:28,050
+That's because, unlike your code,
+which is written for
+
+9
+00:00:28,050 --> 00:00:31,830
+computers, documentation is written for
+humans.
+
+10
+00:00:31,830 --> 00:00:35,180
+Documentation exists to help us make
+sense of the code that we've written,
+
+11
+00:00:35,180 --> 00:00:38,790
+which may not always be quite as
+intuitive as we'd like it to be.
+
+12
+00:00:38,790 --> 00:00:42,660
+For instance, if you're working on
+a large open source library that other
+
+13
+00:00:42,660 --> 00:00:45,960
+people can use, good documentation
+is absolutely essential for
+
+14
+00:00:45,960 --> 00:00:48,750
+acquiring both users and contributors.
+
+15
+00:00:48,750 --> 00:00:50,480
+If your documentation is good,
+
+16
+00:00:50,480 --> 00:00:53,460
+people will want to use your
+library in their projects.
+
+17
+00:00:53,460 --> 00:00:55,380
+If your documentation is great,
+
+18
+00:00:55,380 --> 00:00:58,200
+people might even chip in to
+help you with your library.
+
+19
+00:00:58,200 --> 00:01:02,320
+Perhaps your project is a portfolio
+piece to help you land your first
+
+20
+00:01:02,320 --> 00:01:03,640
+job as a developer.
+
+21
+00:01:03,640 --> 00:01:06,920
+In that case, you want to document
+your work in a way an employer can
+
+22
+00:01:06,920 --> 00:01:09,780
+easily skim and
+pull relevant information.
+
+23
+00:01:09,780 --> 00:01:13,570
+Give some thought as to who is going
+to be reading your documentation.
+
+24
+00:01:13,570 --> 00:01:15,390
+You won't always know who that is.
+
+25
+00:01:15,390 --> 00:01:16,830
+You want it to be easy for
+
+26
+00:01:16,830 --> 00:01:20,410
+anyone to dive into your code and
+get it up and running.
+
+27
+00:01:20,410 --> 00:01:21,490
+With that in mind,
+
+28
+00:01:21,490 --> 00:01:25,940
+who do you think might be a potential
+end user of documentation?
+
+29
+00:01:25,940 --> 00:01:30,030
+Yourself, your coworkers, or your users?
+

@@ -1,0 +1,119 @@
+1
+00:00:00,310 --> 00:00:03,600
+Certo, agora sabemos do que precisamos
+para documentar nossos projetos.
+
+2
+00:00:03,700 --> 00:00:07,175
+Mas toda a documentação que verificamos
+até o momento é muito complexa.
+
+3
+00:00:07,340 --> 00:00:08,925
+De fato, em pequenos
+projetos pessoais,
+
+4
+00:00:08,975 --> 00:00:11,490
+o tipo de documentação
+geralmente é exagerado.
+
+5
+00:00:11,975 --> 00:00:13,950
+É como escrever um livro de receitas
+
+6
+00:00:14,100 --> 00:00:16,900
+quando apenas uma receita
+já é suficiente.
+
+7
+00:00:17,080 --> 00:00:18,900
+Felizmente, há um tipo
+de documentação
+
+8
+00:00:18,900 --> 00:00:19,820
+que se adapta bem
+
+9
+00:00:19,820 --> 00:00:22,550
+a pequenos projetos,
+conhecida como arquivo readme.
+
+10
+00:00:22,858 --> 00:00:25,470
+Uma convenção de arquivo readme que
+já existe desde quando os programas
+
+11
+00:00:25,470 --> 00:00:27,550
+de computador eram escritos
+com cartões perfurados.
+
+12
+00:00:27,690 --> 00:00:30,250
+Esse único arquivo contém
+informações relevantes
+
+13
+00:00:30,370 --> 00:00:32,750
+sobre os outros arquivos
+no diretório do projeto.
+
+14
+00:00:33,290 --> 00:00:35,920
+Readmes são tão comuns que
+você pode ter encontrado um
+
+15
+00:00:35,920 --> 00:00:37,000
+dos seus no passado,
+
+16
+00:00:37,000 --> 00:00:39,250
+ao instalar algo
+no computador.
+
+17
+00:00:39,630 --> 00:00:42,500
+Seu nome costuma ser escrito
+todo em maiúsculas
+
+18
+00:00:42,625 --> 00:00:43,870
+para se destacar no diretório
+
+19
+00:00:43,876 --> 00:00:46,350
+e aumentar a possibilidade de que
+usuários o leiam.
+
+20
+00:00:46,350 --> 00:00:47,697
+Verifique você mesmo.
+
+21
+00:00:47,900 --> 00:00:51,225
+Já incluí um link para três diferentes
+readmes nas Notas do instrutor.
+
+22
+00:00:51,390 --> 00:00:52,390
+Ao examiná-los,
+
+23
+00:00:52,390 --> 00:00:55,925
+pergunte-se: quais informações
+estão sendo comunicadas neste arquivo?
+
+24
+00:00:56,100 --> 00:00:58,500
+Como essas informações
+estão sendo estruturadas?
+
+25
+00:00:58,670 --> 00:01:02,175
+Você notou qualquer padrão
+nesses readmes?
+

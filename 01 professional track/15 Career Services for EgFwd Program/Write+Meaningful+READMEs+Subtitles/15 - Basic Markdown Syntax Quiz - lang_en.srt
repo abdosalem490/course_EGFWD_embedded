@@ -1,0 +1,18 @@
+1
+00:00:00,420 --> 00:00:03,210
+Markdown is useful for evenings, since
+you won't need to write quite as much
+
+2
+00:00:03,210 --> 00:00:05,430
+code than if you'd written it with HTML.
+
+3
+00:00:05,430 --> 00:00:08,270
+In this exercise,
+take the HTML we've provided for you and
+
+4
+00:00:08,270 --> 00:00:09,080
+rewrite it as markdown.
+

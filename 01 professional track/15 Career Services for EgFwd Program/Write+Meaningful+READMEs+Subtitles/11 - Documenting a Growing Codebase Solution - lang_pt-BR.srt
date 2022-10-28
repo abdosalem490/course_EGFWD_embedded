@@ -1,0 +1,78 @@
+1
+00:00:00,170 --> 00:00:04,480
+Da perspectiva de um usuário, é muito útil saber sobre 
+bugs conhecidos.
+
+2
+00:00:04,480 --> 00:00:07,510
+De outra forma, posso
+bater com a cabeça na parede
+
+3
+00:00:07,510 --> 00:00:10,280
+por horas tentando descobrir
+por que o código não funciona,
+
+4
+00:00:10,280 --> 00:00:12,990
+achando
+que fiz algo errado.
+
+5
+00:00:12,940 --> 00:00:16,388
+Se você ouve
+as mesmas perguntas muitas vezes,
+
+6
+00:00:16,428 --> 00:00:20,485
+a seção de perguntas frequentes
+é bastante razoável.
+
+7
+00:00:20,510 --> 00:00:24,190
+A pressão sobre seu projeto
+não nos ajuda a usar seu
+
+8
+00:00:24,190 --> 00:00:27,230
+código, portanto, não é uma boa opção
+para um README.
+
+9
+00:00:27,230 --> 00:00:30,119
+Isso seria mais
+para o seu próprio site
+
+10
+00:00:30,144 --> 00:00:32,030
+sobre o site do projeto.
+
+11
+00:00:32,030 --> 00:00:35,860
+Um índice, embora não
+explique nada útil sobre seu código,
+
+12
+00:00:35,860 --> 00:00:39,190
+é ótimo para ajudar os usuários a
+passarem para seções importantes do README.
+
+13
+00:00:40,340 --> 00:00:41,809
+Como são para humanos,
+
+14
+00:00:41,834 --> 00:00:46,230
+índices fazem todo o sentido
+na documentação,
+
+15
+00:00:46,230 --> 00:00:49,670
+e embora eu tenha certeza de que seus dois gatos
+são as coisas mais fofas da Terra,
+
+16
+00:00:49,670 --> 00:00:52,780
+as fotos deles devem ir para o
+seu Snapchat, não para o README.
+

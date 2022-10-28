@@ -1,0 +1,78 @@
+1
+00:00:00,170 --> 00:00:04,480
+>From a user's perspective,
+known bugs would be very useful to know.
+
+2
+00:00:04,480 --> 00:00:07,510
+Otherwise, I might be banging
+my head against the wall for
+
+3
+00:00:07,510 --> 00:00:10,280
+hours trying to figure out
+why the code isn't working,
+
+4
+00:00:10,280 --> 00:00:12,990
+thinking it's me that's
+doing something wrong.
+
+5
+00:00:12,990 --> 00:00:15,190
+If you're getting asked
+the same questions over and
+
+6
+00:00:15,190 --> 00:00:20,510
+over, frequently asked questions
+section would be perfectly reasonable.
+
+7
+00:00:20,510 --> 00:00:24,190
+Press that your project has received
+doesn't really help us actually use your
+
+8
+00:00:24,190 --> 00:00:27,230
+code, so it's not a good fit for
+a README.
+
+9
+00:00:27,230 --> 00:00:30,390
+This would be something more
+appropriate for your own website, or
+
+10
+00:00:30,390 --> 00:00:32,030
+the project's website.
+
+11
+00:00:32,030 --> 00:00:35,860
+A table of contents, while it doesn't
+explain anything useful about your code,
+
+12
+00:00:35,860 --> 00:00:39,190
+is a great way to help users jump to
+important sections in your README.
+
+13
+00:00:40,340 --> 00:00:41,980
+Since these are for humans,
+
+14
+00:00:41,980 --> 00:00:46,230
+a table of contents would absolutely
+make sense in your documentation, and
+
+15
+00:00:46,230 --> 00:00:49,670
+while I'm sure your two cats
+are the most adorable things on Earth,
+
+16
+00:00:49,670 --> 00:00:52,780
+photos of them should probably
+go on Snapchat, not your README.
+

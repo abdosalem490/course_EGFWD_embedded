@@ -1,0 +1,149 @@
+1
+00:00:00,450 --> 00:00:03,710
+Ao ouvir a frase
+'documentação técnica',
+
+2
+00:00:03,710 --> 00:00:07,390
+talvez pense que estamos falando
+de literatura de difícil compreensão.
+
+3
+00:00:07,390 --> 00:00:10,880
+Mas uma boa documentação não é chata
+nem inacessível.
+
+4
+00:00:10,880 --> 00:00:13,160
+Ela costuma ser escrita
+em inglês simples.
+
+5
+00:00:13,160 --> 00:00:17,120
+Às vezes, ela é escrita como
+uma série de guias e tutoriais.
+
+6
+00:00:17,120 --> 00:00:20,000
+Tudo indica que não existe
+um segredo norteador
+
+7
+00:00:20,000 --> 00:00:25,320
+específico indicando o que uma
+documentação deve conter.
+
+8
+00:00:25,320 --> 00:00:28,900
+Diferente do seu código,
+que é escrito para computadores,
+
+9
+00:00:28,900 --> 00:00:31,830
+a documentação é escrita
+para seres humanos.
+
+10
+00:00:31,830 --> 00:00:34,200
+A documentação existe para nos ajudar
+a dar sentido ao código
+
+11
+00:00:34,200 --> 00:00:36,300
+que escrevemos,
+que nem sempre
+
+12
+00:00:36,300 --> 00:00:38,790
+é tão intuitivo
+quanto gostaríamos.
+
+13
+00:00:38,790 --> 00:00:42,160
+Por exemplo, se você está trabalhando
+em uma grande biblioteca de código aberto
+
+14
+00:00:42,160 --> 00:00:44,000
+que outras pessoas podem usar,
+
+15
+00:00:44,000 --> 00:00:45,960
+uma boa documentação
+é essencial,
+
+16
+00:00:45,960 --> 00:00:48,750
+com aquisições de usuários
+e colaboradores.
+
+17
+00:00:48,750 --> 00:00:50,480
+Se a sua documentação é boa,
+
+18
+00:00:50,480 --> 00:00:53,460
+as pessoas virão à sua
+biblioteca para consultas em projetos.
+
+19
+00:00:53,460 --> 00:00:55,380
+Se a sua documentação é excelente,
+
+20
+00:00:55,380 --> 00:00:58,200
+as pessoas podem vir até
+a contribuir com a sua biblioteca.
+
+21
+00:00:58,200 --> 00:01:01,620
+Talvez seu projeto seja um portfólio
+e pode ajudá-lo a conquistar
+
+22
+00:01:01,620 --> 00:01:03,640
+seu primeiro emprego como desenvolvedor.
+
+23
+00:01:03,640 --> 00:01:06,920
+Nesse caso, o documento deve
+funcionar de forma que um empregador
+
+24
+00:01:06,920 --> 00:01:09,780
+possa facilmente consultá-lo
+para extrair informações relevantes.
+
+25
+00:01:09,780 --> 00:01:13,570
+Pense bem em quem serão
+os leitores da sua documentação.
+
+26
+00:01:13,570 --> 00:01:15,390
+Nem sempre é possível saber isso.
+
+27
+00:01:15,390 --> 00:01:18,030
+Você quer facilitar a consulta por todos,
+por meio de um código
+
+28
+00:01:18,030 --> 00:01:20,410
+e que esteja funcionando.
+
+29
+00:01:20,410 --> 00:01:22,000
+Pensando nisso,
+quem você acha
+
+30
+00:01:22,000 --> 00:01:25,940
+que pode ser um usuário final
+em potencial da documentação?
+
+31
+00:01:25,940 --> 00:01:30,030
+Você mesmo, seus colegas de trabalho
+ou seus usuários?
+

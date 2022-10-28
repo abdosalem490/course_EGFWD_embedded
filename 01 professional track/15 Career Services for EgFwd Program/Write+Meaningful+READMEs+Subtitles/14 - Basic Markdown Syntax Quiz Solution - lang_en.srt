@@ -1,0 +1,29 @@
+1
+00:00:00,330 --> 00:00:04,170
+So in Markdown,
+we use a hash to indicate a header.
+
+2
+00:00:04,170 --> 00:00:07,968
+We use a single hash to note
+that this is in each one.
+
+3
+00:00:07,968 --> 00:00:11,920
+We use backticks around our text to
+indicate that this text is actually
+
+4
+00:00:11,920 --> 00:00:13,080
+inline code.
+
+5
+00:00:13,080 --> 00:00:17,330
+We use two asterisks around any
+text that we want to be bold.
+
+6
+00:00:17,330 --> 00:00:21,710
+And we use a single underscore around
+any text that we want to be italicized.
+

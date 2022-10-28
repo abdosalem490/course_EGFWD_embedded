@@ -1,0 +1,53 @@
+1
+00:00:00,440 --> 00:00:05,050
+As I mentioned previously, we want our
+code to be easy for anyone to dive into.
+
+2
+00:00:05,050 --> 00:00:07,670
+Your users may need to use
+your code to make changes or
+
+3
+00:00:07,670 --> 00:00:11,690
+to understand how to use it,
+predictably, so might your coworkers.
+
+4
+00:00:11,690 --> 00:00:16,800
+And while it may surprise you, you
+are also an end user of documentation.
+
+5
+00:00:16,800 --> 00:00:21,090
+You of the present and you of
+the future are two different people.
+
+6
+00:00:21,090 --> 00:00:26,180
+And future you will not remember
+every little detail about your code.
+
+7
+00:00:26,180 --> 00:00:29,050
+Treat future you just like
+you'd treat a coworker, and
+
+8
+00:00:29,050 --> 00:00:31,480
+give them the things
+they'll need to succeed.
+
+9
+00:00:31,480 --> 00:00:33,120
+I'll touch more on that in just a bit.
+
+10
+00:00:33,120 --> 00:00:36,580
+But let's first take a look at how some
+of the engineers here at Udacity use
+
+11
+00:00:36,580 --> 00:00:37,370
+documentation.
+

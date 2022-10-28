@@ -1,0 +1,61 @@
+1
+00:00:00,210 --> 00:00:03,070
+Now, you've got the skills to start
+documenting your code with simply
+
+2
+00:00:03,070 --> 00:00:05,110
+readmes written in Markdown.
+
+3
+00:00:05,110 --> 00:00:07,939
+If and when your code grows,
+you may want to
+
+4
+00:00:07,939 --> 00:00:10,990
+explore other forms of documentation,
+but this is a great place to start.
+
+5
+00:00:12,100 --> 00:00:15,010
+Writing great code isn't just about
+building something that works,
+
+6
+00:00:15,010 --> 00:00:18,530
+but building something that's both
+easy to use and easy to maintain.
+
+7
+00:00:18,530 --> 00:00:20,220
+If you're documenting your code,
+
+8
+00:00:20,220 --> 00:00:24,240
+then you're writing code that's
+meant to be used by humans.
+
+9
+00:00:24,240 --> 00:00:27,070
+Being conscious of this fact beforehand
+will make you a better developer.
+
+10
+00:00:27,070 --> 00:00:30,240
+I'm going to leave you with a challenge.
+
+11
+00:00:30,240 --> 00:00:33,530
+Go revisit some of the projects you've
+built and write a readme for them.
+
+12
+00:00:33,530 --> 00:00:37,820
+Make documentation a priority for
+all your projects moving forward.
+
+13
+00:00:37,820 --> 00:00:38,620
+You'll thank yourself later.
+

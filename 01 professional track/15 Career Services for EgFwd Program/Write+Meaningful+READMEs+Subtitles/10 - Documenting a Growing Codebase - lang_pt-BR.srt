@@ -1,0 +1,261 @@
+1
+00:00:00,416 --> 00:00:01,623
+À medida que sua base de código cresce,
+
+2
+00:00:01,742 --> 00:00:03,595
+você pode precisar
+reavaliar
+
+3
+00:00:03,627 --> 00:00:06,365
+quais informações são essenciais
+para sua documentação.
+
+4
+00:00:06,723 --> 00:00:09,300
+Cabe a você decidir o que será colocado
+no arquivo readme.
+
+5
+00:00:09,428 --> 00:00:11,301
+Contudo, vamos examinar
+algumas seções e
+
+6
+00:00:11,326 --> 00:00:12,731
+casos de uso comuns nesse arquivo.
+
+7
+00:00:13,304 --> 00:00:15,412
+Incluir informações
+de direitos autorais ou licença,
+
+8
+00:00:15,564 --> 00:00:16,607
+ou pelo menos um link para elas,
+
+9
+00:00:16,632 --> 00:00:19,868
+é sempre uma boa ideia, não importando
+o tamanho do projeto.
+
+10
+00:00:20,373 --> 00:00:22,890
+Por padrão, você detém
+todos os direitos do seu código
+
+11
+00:00:23,023 --> 00:00:24,699
+mesmo se você não incluir
+uma licença,
+
+12
+00:00:24,866 --> 00:00:27,469
+mas é mais seguro
+deixar isso explícito.
+
+13
+00:00:27,885 --> 00:00:29,925
+Contudo, geralmente,
+seu objetivo é
+
+14
+00:00:30,034 --> 00:00:32,287
+permitir que outras pessoas
+contribuam para o projeto.
+
+15
+00:00:32,481 --> 00:00:36,247
+Neste caso, é muito importante
+incluir uma licença.
+
+16
+00:00:36,840 --> 00:00:39,722
+Você pode optar por incluir
+a licença completa no próprio readme
+
+17
+00:00:40,051 --> 00:00:42,315
+ou disponibilizar um link para ela
+no readme.
+
+18
+00:00:42,734 --> 00:00:45,464
+Como escolher uma licença
+está além do escopo deste curso,
+
+19
+00:00:45,647 --> 00:00:48,454
+mas já inclui um link para
+um recurso útil nas Notas do instrutor,
+
+20
+00:00:48,530 --> 00:00:50,802
+adequadamente intitulado
+choosealicense.com
+
+21
+00:00:51,000 --> 00:00:52,137
+para auxiliá-lo.
+
+22
+00:00:52,586 --> 00:00:53,967
+No espírito da contribuição,
+
+23
+00:00:54,066 --> 00:00:56,199
+caso haja uma forma ideal
+para que outros contribuam
+
+24
+00:00:56,224 --> 00:00:58,845
+no projeto, o readme
+também é o lugar certo para isso.
+
+25
+00:00:59,222 --> 00:01:01,549
+Descrever brevemente etapas simples,
+um guia de estilo
+
+26
+00:01:01,574 --> 00:01:04,300
+ou qualquer informação que gostaria que
+outras pessoas conhecessem sobre contribuição,
+
+27
+00:01:04,523 --> 00:01:06,575
+é uma ótima forma de tornar
+o projeto mais acessível
+
+28
+00:01:06,607 --> 00:01:07,839
+àqueles que deseja ajudar.
+
+29
+00:01:08,306 --> 00:01:09,342
+Alguns serviços,
+
+30
+00:01:09,430 --> 00:01:11,906
+como aqueles que verificam
+se todos os testes estão passando,
+
+31
+00:01:11,960 --> 00:01:14,769
+fornecerão gráficos especiais,
+conhecidos como campos,
+
+32
+00:01:14,809 --> 00:01:15,809
+para seus readmes.
+
+33
+00:01:16,022 --> 00:01:19,214
+Esses campos são úteis porque
+são fornecidos por terceiros
+
+34
+00:01:19,363 --> 00:01:22,324
+e permitem que o usuário conheça
+informações úteis sobre o código.
+
+35
+00:01:22,760 --> 00:01:25,763
+Se isso parecer um pouco confuso agora,
+não fique muito preocupado.
+
+36
+00:01:25,906 --> 00:01:27,753
+Lembro que quando comecei a criar
+documentação,
+
+37
+00:01:27,959 --> 00:01:28,987
+eles me deixavam confuso
+
+38
+00:01:29,043 --> 00:01:30,482
+porque achava que
+precisava tê-los.
+
+39
+00:01:30,896 --> 00:01:32,811
+Depois de escrever vários
+testes no código,
+
+40
+00:01:32,996 --> 00:01:34,378
+esses campos tornam-se úteis.
+
+41
+00:01:34,583 --> 00:01:36,101
+Mas quando
+se está começando,
+
+42
+00:01:36,347 --> 00:01:37,663
+não é preciso se preocupar muito com isso.
+
+43
+00:01:38,024 --> 00:01:39,183
+Aí vai um conselho:
+
+44
+00:01:39,374 --> 00:01:42,229
+não torne sua vida
+mais complicada do que ela precisa ser.
+
+45
+00:01:42,588 --> 00:01:45,267
+Permita que sua documentação
+cresça com a base de código
+
+46
+00:01:45,297 --> 00:01:47,504
+e só adicione novas informações
+quando necessário.
+
+47
+00:01:47,800 --> 00:01:50,621
+Já verificamos algumas seções
+que podem ser incluídas
+
+48
+00:01:50,646 --> 00:01:52,614
+no readme
+quando estiver documentando seu código,
+
+49
+00:01:52,811 --> 00:01:55,189
+mas não se limite
+a apenas elas.
+
+50
+00:01:55,581 --> 00:01:56,908
+À medida que sua base de código aumentar,
+
+51
+00:01:57,073 --> 00:01:59,788
+quais seções também faz
+sentido adicionar ao readme?
+
+52
+00:02:00,320 --> 00:02:03,077
+Bugs conhecidos,
+perguntas feitas com frequência,
+
+53
+00:02:03,439 --> 00:02:05,356
+publicidade que seu projeto
+recebeu,
+
+54
+00:02:05,542 --> 00:02:08,579
+um sumário,
+ou imagens do seu gato.
+
+55
+00:02:09,032 --> 00:02:10,746
+Selecione todos as opções que achar que se aplicam.
+
