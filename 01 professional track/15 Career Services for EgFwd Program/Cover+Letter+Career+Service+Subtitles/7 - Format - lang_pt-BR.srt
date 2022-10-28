@@ -1,0 +1,122 @@
+1
+00:00:00,459 --> 00:00:02,334
+Antes de enviar
+a carta de apresentação,
+
+2
+00:00:02,375 --> 00:00:04,792
+verifique se a formatação dela
+está boa.
+
+3
+00:00:04,834 --> 00:00:09,501
+O seu objetivo é tornar a carta
+o mais fácil possível de ser lida.
+
+4
+00:00:09,542 --> 00:00:11,959
+Recomendamos que use
+fontes limpas e profissionais.
+
+5
+00:00:12,000 --> 00:00:14,834
+e que não amontoe
+um monte de palavras.
+
+6
+00:00:14,876 --> 00:00:17,334
+Eu entendo a vontade de reduzir
+
+7
+00:00:17,375 --> 00:00:21,501
+as margens e o corpo da fonte
+para inserir mais palavras.
+
+8
+00:00:21,542 --> 00:00:23,459
+Fazer isso não vai ajudar.
+
+9
+00:00:23,501 --> 00:00:27,124
+Sua carta vai parecer uma redação
+e desestimular a leitura.
+
+10
+00:00:27,459 --> 00:00:29,751
+Use margens de 2,5cm.
+
+11
+00:00:29,792 --> 00:00:32,959
+Também recomendo que alinhe
+os parágrafos à esquerda
+
+12
+00:00:33,000 --> 00:00:35,250
+ou justifique-os
+para manter uma estrutura.
+
+13
+00:00:35,284 --> 00:00:37,417
+Além da fonte
+e do espaçamento,
+
+14
+00:00:37,459 --> 00:00:39,667
+você deve incluir
+os seguintes elementos:
+
+15
+00:00:39,959 --> 00:00:44,542
+coloque a data, dia, mês e ano,
+na parte superior da página.
+
+16
+00:00:44,584 --> 00:00:46,876
+Inclua um endereço.
+
+17
+00:00:46,918 --> 00:00:49,667
+Enderece-a ao recrutador,
+se souber o nome dele.
+
+18
+00:00:49,709 --> 00:00:52,667
+Se não souber,
+escreva "cara equipe de engenharia",
+
+19
+00:00:52,701 --> 00:00:54,417
+de acordo com a vaga desejada.
+
+20
+00:00:54,459 --> 00:00:56,709
+Ou então
+"cara equipe de recrutamento".
+
+21
+00:00:56,751 --> 00:00:59,209
+Inclua uma despedida formal.
+
+22
+00:00:59,250 --> 00:01:01,584
+Como "atenciosamente"
+ou "cordialmente".
+
+23
+00:01:01,959 --> 00:01:06,792
+Por fim, recomendo que use
+o mesmo cabeçalho do seu currículo.
+
+24
+00:01:06,834 --> 00:01:09,584
+Isso mostra consistência
+e fica bem bonito.
+
+25
+00:01:09,626 --> 00:01:10,626
+*END*
+
+26
+00:01:10,667 --> 00:01:11,709
+*CODE*
+

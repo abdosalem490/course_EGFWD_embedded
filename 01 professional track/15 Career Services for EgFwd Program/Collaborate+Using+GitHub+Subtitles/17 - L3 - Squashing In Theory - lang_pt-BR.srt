@@ -1,0 +1,201 @@
+1
+00:00:00,289 --> 00:00:02,627
+Suponha que temos
+este repositório do Git,
+
+2
+00:00:02,661 --> 00:00:04,893
+mas vimos
+que estes últimos commits
+
+3
+00:00:04,927 --> 00:00:07,989
+são pequenas mudanças,
+como erros de digitação.
+
+4
+00:00:08,023 --> 00:00:10,289
+Para termos um git log
+mais limpo, seria ótimo
+
+5
+00:00:10,323 --> 00:00:13,518
+se estes commits pudessem ser
+combinados em um.
+
+6
+00:00:13,552 --> 00:00:17,181
+Poderíamos executar
+git rebase -i HEAD~3
+
+7
+00:00:17,215 --> 00:00:22,261
+para combinar ou fazer o squash
+dos três últimos commits em um.
+
+8
+00:00:22,295 --> 00:00:25,670
+Lembre-se de que HEAD aponta
+para o local atual.
+
+9
+00:00:25,704 --> 00:00:29,832
+Estamos no branch master,
+então HEAD aponta para master.
+
+10
+00:00:29,866 --> 00:00:33,103
+HEAD~1 é 1 antes de HEAD,
+
+11
+00:00:33,137 --> 00:00:35,804
+e é o commit anterior ou pai
+daquele em que estamos.
+
+12
+00:00:35,838 --> 00:00:40,679
+HEAD~2 é 2 antes de HEAD,
+e é o commit avô.
+
+13
+00:00:40,713 --> 00:00:44,203
+HEAD~3, você adivinhou,
+é 3 antes de HEAD,
+
+14
+00:00:44,237 --> 00:00:47,490
+e é o commit bisavô
+do commit em que estamos.
+
+15
+00:00:47,524 --> 00:00:51,519
+Não queremos nos livrar do commit 8,
+para o qual HEAD~3 aponta,
+
+16
+00:00:51,553 --> 00:00:56,655
+mas este é o comando git rebase,
+então vamos usar HEAD~3 como a base
+
+17
+00:00:56,689 --> 00:00:59,325
+na qual os outros commits
+serão colocados.
+
+18
+00:00:59,359 --> 00:01:02,756
+Isso pode ser complicado.
+A maneira mais fácil de lembrar
+
+19
+00:01:02,790 --> 00:01:05,932
+é, se você quiser fazer o squash
+de 17 commits,
+
+20
+00:01:05,966 --> 00:01:08,509
+use o número 17, neste caso,
+
+21
+00:01:08,543 --> 00:01:12,558
+como o número,
+então ficará HEAD~17.
+
+22
+00:01:12,592 --> 00:01:15,488
+Então, executar
+git rebase -i HEAD~3
+
+23
+00:01:15,522 --> 00:01:18,368
+pegará o commit em que estamos
+e os dois anteriores,
+
+24
+00:01:18,402 --> 00:01:20,527
+e nos deixará fazer
+o squash deles em um.
+
+25
+00:01:20,561 --> 00:01:22,548
+Isso cria um novo SHA
+para o commit,
+
+26
+00:01:22,582 --> 00:01:25,743
+e move o branch master
+para apontar para esse novo commit.
+
+27
+00:01:25,777 --> 00:01:29,999
+Mas observe que nenhum branch
+aponta para os commits originais,
+
+28
+00:01:30,033 --> 00:01:31,715
+logo, eles não estarão
+no git log,
+
+29
+00:01:31,749 --> 00:01:34,307
+e o Git irá apagá-los totalmente
+em algum momento.
+
+30
+00:01:34,341 --> 00:01:37,713
+Se estiver com medo de danificar
+seu repositório e quiser um backup,
+
+31
+00:01:37,747 --> 00:01:40,598
+criar um backup
+é o que você deve fazer.
+
+32
+00:01:40,632 --> 00:01:42,474
+Vamos recomeçar
+por um segundo.
+
+33
+00:01:42,508 --> 00:01:44,005
+Ao fazer rebase,
+
+34
+00:01:44,039 --> 00:01:47,048
+eu crio um branch chamado,
+convenientemente, "backup",
+
+35
+00:01:47,082 --> 00:01:50,704
+que coloco no mesmo local do branch
+em que estou fazendo rebase.
+
+36
+00:01:50,738 --> 00:01:54,380
+Ainda estou no master, logo,
+não verifiquei o branch backup.
+
+37
+00:01:54,414 --> 00:01:58,698
+Vou executar o mesmo comando.
+Isso junta os commits em um só,
+
+38
+00:01:58,732 --> 00:02:01,604
+e move o master para apontar
+para esse novo commit.
+
+39
+00:02:01,638 --> 00:02:04,469
+Mas os commits originais
+não foram excluídos
+
+40
+00:02:04,503 --> 00:02:06,286
+e aparecerão no git log,
+
+41
+00:02:06,320 --> 00:02:08,477
+pois há um branch
+apontando para eles.
+

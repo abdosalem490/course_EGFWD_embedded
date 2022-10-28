@@ -1,0 +1,59 @@
+1
+00:00:00,267 --> 00:00:03,600
+Aqui o repositório remoto
+tem commits
+
+2
+00:00:03,633 --> 00:00:05,467
+que o local não tem.
+
+3
+00:00:05,500 --> 00:00:08,133
+Nós podemos usar o Git
+para pegar os commits.
+
+4
+00:00:08,167 --> 00:00:11,333
+Se executarmos
+git fetch origin master,
+
+5
+00:00:11,367 --> 00:00:15,000
+ele obterá todos os commits
+no branch origin/master
+
+6
+00:00:15,033 --> 00:00:19,633
+e fará com que o branch
+de rastreamento aponte para ele.
+
+7
+00:00:19,667 --> 00:00:23,534
+É só isso. Isso não move
+o nosso branch master local.
+
+8
+00:00:23,567 --> 00:00:26,366
+Se quisermos que os commits
+que estão no origin/master
+
+9
+00:00:26,400 --> 00:00:30,433
+estejam no branch master local,
+fazemos um merge.
+
+10
+00:00:30,467 --> 00:00:32,066
+Se estivermos
+no branch master,
+
+11
+00:00:32,100 --> 00:00:35,433
+executar
+git merge origin/master,
+
+12
+00:00:35,467 --> 00:00:37,967
+atualizará
+nosso branch master local.
+

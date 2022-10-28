@@ -1,0 +1,132 @@
+1
+00:00:00,000 --> 00:00:03,645
+Okay, let's take just a second to orient ourselves to the page.
+
+2
+00:00:03,645 --> 00:00:06,464
+I'm here on my personal GitHub account
+
+3
+00:00:06,464 --> 00:00:10,050
+and we're looking at the my-travel-plans repository.
+
+4
+00:00:10,050 --> 00:00:12,025
+Now this is the remote repository.
+
+5
+00:00:12,025 --> 00:00:13,839
+This is the my-travel-plans repo,
+
+6
+00:00:13,839 --> 00:00:16,559
+but up on GitHub so it's the remote one.
+
+7
+00:00:16,559 --> 00:00:20,114
+And this remote repository has three commits.
+
+8
+00:00:20,114 --> 00:00:24,329
+So we need to manually create some commits using the GitHub interface.
+
+9
+00:00:24,329 --> 00:00:27,570
+So we can create a new file with this create new file button.
+
+10
+00:00:27,570 --> 00:00:31,530
+That will take us to this page where we can name the file and then set up
+
+11
+00:00:31,530 --> 00:00:35,380
+some of the configurations and then here we can add our content.
+
+12
+00:00:35,380 --> 00:00:39,270
+So we could say this would be like app.js and I like
+
+13
+00:00:39,270 --> 00:00:44,105
+four spaces and then we can add some content here.
+
+14
+00:00:44,104 --> 00:00:46,049
+But we're not going to do this right now.
+
+15
+00:00:46,049 --> 00:00:49,409
+We're actually going to edit an existing file.
+
+16
+00:00:49,409 --> 00:00:54,119
+So let's go into the css folder and edit the app.css file.
+
+17
+00:00:54,119 --> 00:00:59,669
+Now, here we need to click on this kind of tucked away pencil icon to edit the file.
+
+18
+00:00:59,670 --> 00:01:01,050
+Now, here's our file,
+
+19
+00:01:01,049 --> 00:01:05,679
+and let's just scroll down and I want to get to the place where I want to edit.
+
+20
+00:01:05,680 --> 00:01:07,800
+Now when we hover over the destination,
+
+21
+00:01:07,799 --> 00:01:11,864
+let's change the heading so it rotates back to a normal position.
+
+22
+00:01:11,864 --> 00:01:17,169
+Now we want this rotation to happen smoothly so let's add a transition.
+
+23
+00:01:17,170 --> 00:01:20,745
+Now that we've added these changes we can actually scroll back to the top,
+
+24
+00:01:20,745 --> 00:01:25,730
+click on preview changes and then see the changes that we're about to commit.
+
+25
+00:01:25,730 --> 00:01:27,439
+These changes look great to me,
+
+26
+00:01:27,438 --> 00:01:30,049
+so let's scroll down and actually make this commit.
+
+27
+00:01:30,049 --> 00:01:34,459
+I think add animation to destination headings is a good commit message.
+
+28
+00:01:34,459 --> 00:01:38,534
+So, that works for me and I'll just commit these changes.
+
+29
+00:01:38,534 --> 00:01:41,045
+So we have this commit that we just made right now.
+
+30
+00:01:41,045 --> 00:01:44,254
+Let's go back and check out the main page.
+
+31
+00:01:44,254 --> 00:01:47,644
+Notice that we now have four commits when we previously had three,
+
+32
+00:01:47,644 --> 00:01:51,379
+and that the css folder there has been a change 11 seconds ago.
+
+33
+00:01:51,379 --> 00:01:57,000
+If we go inside that folder we'll see that app.css was changed 29 seconds ago.
+

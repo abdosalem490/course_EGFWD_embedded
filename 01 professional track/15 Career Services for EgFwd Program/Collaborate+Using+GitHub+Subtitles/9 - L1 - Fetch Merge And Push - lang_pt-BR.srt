@@ -1,0 +1,95 @@
+1
+00:00:00,267 --> 00:00:02,700
+Este é o início
+com o qual estamos acostumados,
+
+2
+00:00:02,733 --> 00:00:07,100
+no qual o repositório local
+fica atrás do remoto.
+
+3
+00:00:07,133 --> 00:00:10,767
+Vamos fingir que não percebemos
+que estamos atrás do remoto
+
+4
+00:00:10,800 --> 00:00:13,800
+e que efetuamos um commit
+no nosso local.
+
+5
+00:00:13,833 --> 00:00:17,267
+Agora temos dois repositórios
+com os mesmos commits iniciais,
+
+6
+00:00:17,300 --> 00:00:20,967
+mas o branch master aponta
+para coisas diferentes.
+
+7
+00:00:21,000 --> 00:00:23,500
+Se tentarmos executar
+o git pull agora,
+
+8
+00:00:23,533 --> 00:00:25,100
+ele não funcionaria.
+
+9
+00:00:25,133 --> 00:00:27,500
+Mas podemos usar o git fetch
+
+10
+00:00:27,533 --> 00:00:30,333
+para obter os commits remotos
+sem fazer o merge.
+
+11
+00:00:30,367 --> 00:00:33,933
+Se executarmos
+git fetch origin master,
+
+12
+00:00:33,967 --> 00:00:36,800
+isso trará os commits
+do repositório remoto
+
+13
+00:00:36,833 --> 00:00:40,067
+e fará com que o origin/master
+aponte para eles.
+
+14
+00:00:40,867 --> 00:00:43,033
+Aqui no branch master,
+podemos executar
+
+15
+00:00:43,067 --> 00:00:45,433
+git merge origin/master
+
+16
+00:00:45,467 --> 00:00:49,400
+para trazer as alterações remotas
+para o branch master.
+
+17
+00:00:49,433 --> 00:00:53,467
+O repositório local tem commits
+que o remoto não tem.
+
+18
+00:00:53,500 --> 00:00:55,500
+Nós precisamos empurrá-los.
+
+19
+00:00:55,533 --> 00:00:57,833
+O git push origin master
+
+20
+00:00:57,867 --> 00:01:01,200
+atualizará o repositório remoto
+com os commits locais.
+

@@ -1,0 +1,79 @@
+1
+00:00:00,389 --> 00:00:03,450
+O comando git rebase
+é traiçoeiro.
+
+2
+00:00:03,484 --> 00:00:07,075
+Se pesquisar na internet,
+você verá vários avisos dizendo
+
+3
+00:00:07,109 --> 00:00:11,070
+como esse comando é perigoso
+e pode destruir o seu repositório.
+
+4
+00:00:11,104 --> 00:00:15,707
+Se isso não for evitar
+que você tente, não sei o que vai.
+
+5
+00:00:15,741 --> 00:00:18,134
+A verdade é que a ferramenta
+é poderosa
+
+6
+00:00:18,168 --> 00:00:21,863
+e pode apagar uma boa parte
+do seu repositório em poucos passos,
+
+7
+00:00:21,897 --> 00:00:25,630
+mas não é tão perigosa
+quanto você foi levado a crer.
+
+8
+00:00:25,664 --> 00:00:28,387
+É quase impossível destruir
+um repositório do Git
+
+9
+00:00:28,421 --> 00:00:30,809
+quando você usa
+os comandos do Git.
+
+10
+00:00:30,843 --> 00:00:34,508
+Vamos usar o git rebase para fazer
+algo chamado "squashing".
+
+11
+00:00:34,542 --> 00:00:36,831
+Squashing é pegar alguns commits
+
+12
+00:00:36,865 --> 00:00:39,836
+e combiná-los
+em um único commit.
+
+13
+00:00:39,870 --> 00:00:42,185
+Imagine que você está
+desenvolvendo um recurso,
+
+14
+00:00:42,219 --> 00:00:45,732
+e seus três últimos commits foram
+pequenas correções de digitação.
+
+15
+00:00:45,766 --> 00:00:48,663
+Com o git rebase,
+você pode combinar esses commits
+
+16
+00:00:48,697 --> 00:00:51,559
+em um commit maior.
+Vamos dar uma olhada.
+

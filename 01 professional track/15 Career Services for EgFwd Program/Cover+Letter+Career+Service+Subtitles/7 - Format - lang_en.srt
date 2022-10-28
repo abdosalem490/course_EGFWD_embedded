@@ -1,0 +1,121 @@
+1
+00:00:00,530 --> 00:00:02,439
+Before you submit your cover letter,
+
+2
+00:00:02,439 --> 00:00:04,910
+remember to make sure
+the formatting looks nice.
+
+3
+00:00:04,910 --> 00:00:08,240
+Your goal here is to make your
+letter as easy as possible for
+
+4
+00:00:08,240 --> 00:00:09,560
+a recruiter to read.
+
+5
+00:00:09,560 --> 00:00:12,160
+We recommend using clear,
+professional fonts.
+
+6
+00:00:12,160 --> 00:00:15,030
+And do not cram a bunch of
+words into a small space.
+
+7
+00:00:15,029 --> 00:00:17,750
+When you have a lot to say,
+I understand the urge to
+
+8
+00:00:17,750 --> 00:00:21,660
+decrease the size of your margins or
+font size to fit in more words.
+
+9
+00:00:21,660 --> 00:00:23,589
+Doing this may not help you.
+
+10
+00:00:23,589 --> 00:00:27,670
+Your letter may look like a long essay
+that the recruiter may not want to read.
+
+11
+00:00:27,670 --> 00:00:30,010
+Use standard or 1 inch margins.
+
+12
+00:00:30,010 --> 00:00:33,130
+I also recommend you align all
+paragraphs to the left of the page, or
+
+13
+00:00:33,130 --> 00:00:34,480
+justify them to show structure.
+
+14
+00:00:35,549 --> 00:00:36,359
+Beyond the font and
+
+15
+00:00:36,359 --> 00:00:40,219
+spacing of your cover letter, you also
+want include the following elements.
+
+16
+00:00:40,219 --> 00:00:44,649
+Include the date, month day and year,
+in the upper right or left hand corner.
+
+17
+00:00:44,649 --> 00:00:46,969
+Include a formal address in your letter.
+
+18
+00:00:46,969 --> 00:00:49,750
+This should be to the recruiter
+if the name is available.
+
+19
+00:00:49,750 --> 00:00:52,770
+If the name is not available,
+writing dear engineering team,
+
+20
+00:00:52,770 --> 00:00:54,570
+depending on the team
+you'd be working on.
+
+21
+00:00:54,570 --> 00:00:56,890
+Or dear recruiting team works too.
+
+22
+00:00:56,890 --> 00:00:59,329
+Be sure to include a formal
+closing salutation,
+
+23
+00:00:59,329 --> 00:01:02,195
+such as regards Sebastian Thrun.
+
+24
+00:01:02,195 --> 00:01:04,680
+Lastly, I also recommend using
+the same header you have for
+
+25
+00:01:04,680 --> 00:01:06,900
+your resume to be a header
+in your cover letter.
+
+26
+00:01:06,900 --> 00:01:09,010
+This shows consistency and
+looks really nice.
+

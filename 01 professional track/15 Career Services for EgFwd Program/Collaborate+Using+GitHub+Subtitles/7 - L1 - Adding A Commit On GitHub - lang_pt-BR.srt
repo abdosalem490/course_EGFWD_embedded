@@ -1,0 +1,181 @@
+1
+00:00:00,300 --> 00:00:03,667
+Vamos nos orientar na página.
+
+2
+00:00:03,700 --> 00:00:06,433
+Eu estou
+na minha conta pessoal GitHub
+
+3
+00:00:06,467 --> 00:00:10,100
+e estou no repositório
+"my-travel-plans".
+
+4
+00:00:10,133 --> 00:00:12,033
+Este é o repositório remoto,
+
+5
+00:00:12,067 --> 00:00:16,767
+o "my-travel-plans" do GitHub,
+então é o remoto.
+
+6
+00:00:16,800 --> 00:00:20,134
+Este repositório tem
+três commits.
+
+7
+00:00:20,167 --> 00:00:22,599
+Nós precisamos criar
+manualmente alguns commits
+
+8
+00:00:22,633 --> 00:00:24,467
+usando a interface GitHub.
+
+9
+00:00:24,500 --> 00:00:27,867
+Podemos criar um novo arquivo
+no botão Create new file.
+
+10
+00:00:27,900 --> 00:00:30,767
+Aqui nós poderemos nomear
+o arquivo,
+
+11
+00:00:30,800 --> 00:00:35,433
+fazer algumas configurações
+e adicionar o conteúdo.
+
+12
+00:00:35,467 --> 00:00:38,500
+Isso poderia ser app.js.
+
+13
+00:00:38,533 --> 00:00:41,333
+Eu quero quatro espaços.
+
+14
+00:00:41,367 --> 00:00:44,467
+Podemos adicionar
+algum conteúdo aqui.
+
+15
+00:00:44,500 --> 00:00:46,100
+Não faremos isso agora,
+
+16
+00:00:46,133 --> 00:00:49,333
+nós vamos editar
+um arquivo existente.
+
+17
+00:00:49,367 --> 00:00:53,967
+Vamos na pasta CSS
+para editar o arquivo app.css.
+
+18
+00:00:54,000 --> 00:00:59,600
+Clicamos neste ícone de lápis
+para editar o arquivo.
+
+19
+00:00:59,633 --> 00:01:02,500
+Aqui está o arquivo,
+vamos descer.
+
+20
+00:01:02,533 --> 00:01:05,700
+Eu quero ir até o ponto
+que desejo editar.
+
+21
+00:01:05,733 --> 00:01:09,200
+No destino,
+vamos alterar o cabeçalho
+
+22
+00:01:09,233 --> 00:01:11,467
+para voltar à posição normal.
+
+23
+00:01:12,333 --> 00:01:14,733
+Quero que isso ocorra
+suavemente,
+
+24
+00:01:14,767 --> 00:01:17,167
+então vamos adicionar
+uma transição.
+
+25
+00:01:17,200 --> 00:01:20,800
+Com estas mudanças,
+vamos retornar ao topo,
+
+26
+00:01:20,833 --> 00:01:22,500
+clicar nas alterações
+anteriores
+
+27
+00:01:22,533 --> 00:01:25,900
+e ver as mudanças
+com as quais faremos o commit.
+
+28
+00:01:25,933 --> 00:01:28,367
+Elas parecem boas,
+então vamos descer
+
+29
+00:01:28,400 --> 00:01:30,433
+e efetuar o commit.
+
+30
+00:01:30,467 --> 00:01:33,233
+"Adicionar uma animação
+ao cabeçalho do destino"
+
+31
+00:01:33,267 --> 00:01:35,867
+é uma boa mensagem de commit.
+Isso está bom.
+
+32
+00:01:35,900 --> 00:01:37,767
+Eu farei o commit
+das alterações.
+
+33
+00:01:38,833 --> 00:01:41,067
+Temos o commit
+que acabamos de fazer.
+
+34
+00:01:41,100 --> 00:01:44,167
+Vamos voltar para ver
+a página principal.
+
+35
+00:01:44,200 --> 00:01:47,667
+Agora nós temos quatro commits
+onde antes havia três.
+
+36
+00:01:47,700 --> 00:01:51,400
+A pasta CSS foi alterada
+há 11 segundos.
+
+37
+00:01:51,433 --> 00:01:53,167
+Se entrarmos na pasta,
+
+38
+00:01:53,200 --> 00:01:56,767
+veremos que o app.css foi alterado
+há 29 segundos.
+

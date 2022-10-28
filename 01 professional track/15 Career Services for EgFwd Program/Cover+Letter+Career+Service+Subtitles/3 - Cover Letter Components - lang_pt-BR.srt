@@ -1,0 +1,105 @@
+1
+00:00:00,334 --> 00:00:02,792
+Após exploramos o valor
+da carta de apresentação,
+
+2
+00:00:02,834 --> 00:00:05,417
+vamos detalhar
+os componentes dela.
+
+3
+00:00:05,834 --> 00:00:08,792
+Ela deve ser endereçada
+ao responsável pelas contratações.
+
+4
+00:00:08,834 --> 00:00:10,667
+Deve ser sucinta, cativante,
+
+5
+00:00:10,709 --> 00:00:13,209
+e formada por alguns parágrafos
+memoráveis.
+
+6
+00:00:13,250 --> 00:00:16,626
+Primeiro você precisa
+ter um cargo em mente.
+
+7
+00:00:16,667 --> 00:00:18,250
+Depois você escreve
+a introdução,
+
+8
+00:00:18,292 --> 00:00:20,876
+três parágrafos de desenvolvimento
+e uma conclusão.
+
+9
+00:00:20,910 --> 00:00:23,083
+Encontre um emprego
+que lhe interesse.
+
+10
+00:00:23,125 --> 00:00:25,751
+Pode escolher um emprego
+para o qual seja qualificado,
+
+11
+00:00:25,792 --> 00:00:28,209
+mas recomendamos que escolha
+o emprego ideal.
+
+12
+00:00:28,250 --> 00:00:31,709
+Mesmo que ainda não esteja
+qualificado para a vaga.
+
+13
+00:00:32,042 --> 00:00:34,751
+Isso fará com que você possa
+destacar áreas
+
+14
+00:00:34,792 --> 00:00:36,876
+que ainda precisa aprender.
+
+15
+00:00:36,918 --> 00:00:39,375
+E também o ensinará
+a se promover.
+
+16
+00:00:39,409 --> 00:00:42,167
+Mostre que, mesmo que não tenha
+os requisitos para a vaga,
+
+17
+00:00:42,201 --> 00:00:45,501
+você é capaz
+de aprender rápido
+
+18
+00:00:45,542 --> 00:00:47,083
+e merece uma oportunidade.
+
+19
+00:00:47,125 --> 00:00:49,876
+Veja a descrição da vaga,
+anote as habilidades que você tem
+
+20
+00:00:49,918 --> 00:00:53,709
+o que sabe fazer muito bem,
+e o que não sabe.
+
+21
+00:00:53,751 --> 00:00:54,834
+*END*
+
+22
+00:00:54,868 --> 00:00:55,918
+*CODE*
+

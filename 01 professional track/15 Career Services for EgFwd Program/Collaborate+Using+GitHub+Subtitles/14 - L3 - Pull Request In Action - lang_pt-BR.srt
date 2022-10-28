@@ -1,0 +1,240 @@
+1
+00:00:00,331 --> 00:00:03,409
+Estou no meu projeto
+"course-collaboration-travel-plans",
+
+2
+00:00:03,443 --> 00:00:05,614
+que bifurquei do da Lam, aqui.
+
+3
+00:00:05,648 --> 00:00:09,745
+Quero que minhas mudanças
+estejam neste projeto, o dela.
+
+4
+00:00:09,779 --> 00:00:12,133
+Preciso enviar
+um pull request.
+
+5
+00:00:12,167 --> 00:00:15,754
+Ainda bem que há um botão
+"New pull request" aqui.
+
+6
+00:00:15,788 --> 00:00:19,358
+Esta é a página onde podemos
+iniciar um novo pull request.
+
+7
+00:00:19,392 --> 00:00:22,678
+Ela nos mostra
+o meu branch master,
+
+8
+00:00:22,712 --> 00:00:24,392
+no meu repositório,
+
+9
+00:00:24,426 --> 00:00:27,717
+comparado ao branch master
+do projeto da Lam.
+
+10
+00:00:27,751 --> 00:00:30,809
+Agora não há o que comparar,
+porque ambos os branches
+
+11
+00:00:30,843 --> 00:00:33,272
+estão apontando
+para os mesmos commits.
+
+12
+00:00:33,306 --> 00:00:37,638
+Vamos alternar o meu branch
+para o novo branch que enviei.
+
+13
+00:00:38,096 --> 00:00:42,021
+Vamos repassar, pois esta área
+pode ser um pouco complicada.
+
+14
+00:00:42,055 --> 00:00:44,652
+Este é o meu projeto
+e o meu branch,
+
+15
+00:00:44,686 --> 00:00:46,895
+e estou comparando
+esta mudança
+
+16
+00:00:46,929 --> 00:00:50,320
+ao projeto da Lam
+e ao branch principal dela.
+
+17
+00:00:50,354 --> 00:00:53,898
+As mudanças entre o branch master
+dela e o meu aqui
+
+18
+00:00:53,932 --> 00:00:57,328
+estão listadas abaixo.
+Há três commits no meu branch
+
+19
+00:00:57,362 --> 00:01:01,136
+que não estão no branch master
+dela, e dois arquivos mudaram.
+
+20
+00:01:01,170 --> 00:01:04,236
+Estes são os commits e, aqui
+embaixo, os arquivos que mudaram.
+
+21
+00:01:04,270 --> 00:01:07,722
+No arquivo CSS,
+estas linhas foram adicionadas,
+
+22
+00:01:07,756 --> 00:01:10,695
+e no arquivo de índice,
+estas linhas foram adicionadas.
+
+23
+00:01:10,985 --> 00:01:12,816
+Vamos rolar para cima,
+
+24
+00:01:12,850 --> 00:01:15,737
+e agora, é só clicar
+neste botão "Create pull request".
+
+25
+00:01:16,072 --> 00:01:17,902
+A visão mudou um pouco.
+
+26
+00:01:17,936 --> 00:01:22,143
+Recebemos este formulário pelo qual
+podemos mandar o pull request.
+
+27
+00:01:22,177 --> 00:01:25,050
+Temos o título do pull request aqui
+que, como vemos,
+
+28
+00:01:25,084 --> 00:01:28,956
+está preenchido
+com o mesmo nome do branch.
+
+29
+00:01:28,990 --> 00:01:34,573
+Esse é outro motivo para dar
+aos seus branches nomes descritivos.
+
+30
+00:01:34,607 --> 00:01:36,958
+Acho que este é um bom título
+de pull request,
+
+31
+00:01:36,992 --> 00:01:40,528
+então vou deixar como está
+e vou escrever uma mensagem.
+
+32
+00:01:40,562 --> 00:01:43,196
+Esta área aqui embaixo
+suporta Markdown.
+
+33
+00:01:43,754 --> 00:01:45,939
+Parece correto,
+então vamos rolar para baixo
+
+34
+00:01:45,972 --> 00:01:48,902
+e clicar no botão
+"Create pull request".
+
+35
+00:01:48,936 --> 00:01:53,656
+Mas observe que saímos
+do meu projeto e da minha página.
+
+36
+00:01:53,690 --> 00:01:55,914
+Agora estou na conta
+da Udacity,
+
+37
+00:01:55,948 --> 00:01:58,568
+mas vendo o projeto da Lam.
+
+38
+00:01:58,602 --> 00:02:03,014
+E, em vez da aba Code, ele
+alternou para a aba Pull requests,
+
+39
+00:02:03,048 --> 00:02:05,526
+e está mostrando
+a conversa aqui.
+
+40
+00:02:06,067 --> 00:02:08,653
+A conversa inclui
+algumas informações:
+
+41
+00:02:08,687 --> 00:02:11,831
+a mensagem que escrevi
+e os commits que enviei.
+
+42
+00:02:11,865 --> 00:02:14,525
+Vemos esses commits
+com mais detalhes aqui.
+
+43
+00:02:14,559 --> 00:02:18,467
+E os arquivos que mudaram
+estão nesta aba.
+
+44
+00:02:19,019 --> 00:02:21,669
+Vamos voltar
+para a aba de conversas.
+
+45
+00:02:21,703 --> 00:02:24,622
+Rolando para baixo, vemos
+que este branch não tem conflitos
+
+46
+00:02:24,656 --> 00:02:27,846
+com o branch base da Lam
+nem com o branch master dela.
+
+47
+00:02:27,880 --> 00:02:32,019
+Mas não podemos fazer nada com isto.
+Precisamos que Lam consiga incluir
+
+48
+00:02:32,053 --> 00:02:35,864
+essas mudanças, este pull request,
+no branch master dela,
+
+49
+00:02:35,898 --> 00:02:37,987
+porque ela é
+a dona do repositório.
+

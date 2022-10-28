@@ -1,0 +1,172 @@
+1
+00:00:00,000 --> 00:00:02,609
+Let's say we have this GIT repository,
+
+2
+00:00:02,609 --> 00:00:07,740
+but we realized that these last few commits are all minor changes, like typo fixes.
+
+3
+00:00:07,740 --> 00:00:10,253
+It would make for a much cleaner GIT log,
+
+4
+00:00:10,253 --> 00:00:13,500
+if these commits can be combined to do just one commit.
+
+5
+00:00:13,500 --> 00:00:17,339
+We could run GIT rebase - i head till the three to
+
+6
+00:00:17,339 --> 00:00:22,324
+combine or squash the last three commits into one.
+
+7
+00:00:22,324 --> 00:00:25,513
+Remember that head points to the current location.
+
+8
+00:00:25,513 --> 00:00:27,745
+For us, were on the master branch,
+
+9
+00:00:27,745 --> 00:00:29,594
+so head points to master.
+
+10
+00:00:29,594 --> 00:00:33,009
+Head till the one is one before head,
+
+11
+00:00:33,009 --> 00:00:35,594
+and is the previous or parent commit to the one wrong.
+
+12
+00:00:35,594 --> 00:00:38,625
+Head till the two is two before head,
+
+13
+00:00:38,625 --> 00:00:40,408
+and is the grandparent commit.
+
+14
+00:00:40,408 --> 00:00:44,204
+Head till the three, you guessed it is three before head,
+
+15
+00:00:44,204 --> 00:00:47,059
+and is the great grandparent commit of the commit we're on.
+
+16
+00:00:47,060 --> 00:00:49,599
+Now we don't want to get rid of commit eight,
+
+17
+00:00:49,598 --> 00:00:51,464
+that head till the three points to.
+
+18
+00:00:51,465 --> 00:00:53,925
+But this is the GIT rebase command,
+
+19
+00:00:53,924 --> 00:00:55,919
+so we're using head till the three as
+
+20
+00:00:55,920 --> 00:00:59,405
+the base that the other commits will be placed on two.
+
+21
+00:00:59,405 --> 00:01:00,570
+This can be a little tricky,
+
+22
+00:01:00,570 --> 00:01:02,730
+so the easiest way to remember it,
+
+23
+00:01:02,729 --> 00:01:04,004
+is that if you want to squash,
+
+24
+00:01:04,004 --> 00:01:05,789
+let's say 17 commits,
+
+25
+00:01:05,790 --> 00:01:09,660
+just use that number- 17 in this example as the number,
+
+26
+00:01:09,659 --> 00:01:12,284
+so it will be head till the 17.
+
+27
+00:01:12,284 --> 00:01:15,959
+So running GIT rebase - i head till the three will take
+
+28
+00:01:15,959 --> 00:01:20,609
+the commit were on and the previous two and let's us squash them into one.
+
+29
+00:01:20,609 --> 00:01:22,469
+This creates a new commit sha,
+
+30
+00:01:22,469 --> 00:01:25,799
+and it moves the master branch to point to this new commit.
+
+31
+00:01:25,799 --> 00:01:29,939
+Notice though now, that no branch is pointing to the original permits,
+
+32
+00:01:29,939 --> 00:01:31,629
+so they won't appear in a GIT log,
+
+33
+00:01:31,629 --> 00:01:34,379
+and GIT will eventually completely erase them.
+
+34
+00:01:34,379 --> 00:01:37,933
+Now if you're worried about damaging your repository and want a backup, well,
+
+35
+00:01:37,933 --> 00:01:42,500
+then creating a backup is actually what you've got to do. Let's start over for a second.
+
+36
+00:01:42,500 --> 00:01:47,025
+When I rebase, I just create a branch conveniently called backup,
+
+37
+00:01:47,025 --> 00:01:50,680
+that I place at the same location as the branch I'm rebasing.
+
+38
+00:01:50,680 --> 00:01:52,830
+I'm still on master, so I haven't checked out
+
+39
+00:01:52,829 --> 00:01:56,840
+the backup branch and I'll just run the same command.
+
+40
+00:01:56,840 --> 00:01:58,680
+This squashes the commits into one,
+
+41
+00:01:58,680 --> 00:02:01,320
+and moves master to point to this new commit,
+
+42
+00:02:01,319 --> 00:02:06,194
+but the original commits haven't been deleted and will still appear and get log,
+
+43
+00:02:06,194 --> 00:02:08,340
+because a branch is pointing at them.
+

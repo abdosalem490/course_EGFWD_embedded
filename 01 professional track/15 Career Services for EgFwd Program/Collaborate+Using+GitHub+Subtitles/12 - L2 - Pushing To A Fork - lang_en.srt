@@ -1,0 +1,272 @@
+1
+00:00:00,000 --> 00:00:03,180
+I'm on a course collaboration travel plans
+
+2
+00:00:03,180 --> 00:00:07,589
+repository that I forked from Lam's project here.
+
+3
+00:00:07,589 --> 00:00:09,675
+Now, I want to make some changes on my local machine,
+
+4
+00:00:09,675 --> 00:00:10,920
+so I need to clone that down.
+
+5
+00:00:10,919 --> 00:00:13,219
+So, let's get the cloneable url.
+
+6
+00:00:13,220 --> 00:00:16,900
+And now, we can switch over to the terminal and clone this project.
+
+7
+00:00:16,899 --> 00:00:18,899
+So, I'm going to run git clone and
+
+8
+00:00:18,899 --> 00:00:22,695
+paste in the url to this repository to clone this down to my machine.
+
+9
+00:00:22,695 --> 00:00:26,370
+Now, the CD into the project.
+
+10
+00:00:26,370 --> 00:00:29,385
+And now, I'm going to switch over to my code editor to make some changes.
+
+11
+00:00:29,385 --> 00:00:31,344
+Before we switch to the code editor,
+
+12
+00:00:31,344 --> 00:00:35,700
+let's switch to a new branch so that all of our changes will be added to that branch,
+
+13
+00:00:35,700 --> 00:00:37,995
+instead of the master branch.
+
+14
+00:00:37,994 --> 00:00:42,823
+So, I've switched to a new branch called 'include-richards-destinations'.
+
+15
+00:00:42,823 --> 00:00:45,489
+I want Lam to come with me to my destinations,
+
+16
+00:00:45,490 --> 00:00:48,740
+so I'm going to add those here to her project.
+
+17
+00:00:48,740 --> 00:00:51,510
+I'm going to add these as three different commits because we're going to
+
+18
+00:00:51,509 --> 00:00:54,853
+be using those three separate commits later in the course.
+
+19
+00:00:54,853 --> 00:01:01,259
+So let's scroll down here and I'm going to add Florida to this list.
+
+20
+00:01:04,659 --> 00:01:11,030
+And now to add the styling for Florida over here.
+
+21
+00:01:11,030 --> 00:01:14,710
+So, I have these two sets of changes, let's commit them.
+
+22
+00:01:14,709 --> 00:01:17,219
+Before committing, I always like to run
+
+23
+00:01:17,219 --> 00:01:19,700
+a quick git diff to make sure I'm adding everything.
+
+24
+00:01:19,700 --> 00:01:21,635
+So, let's run git diff.
+
+25
+00:01:21,635 --> 00:01:24,670
+I've got the Florida css changes and
+
+26
+00:01:24,670 --> 00:01:28,674
+then the Florida html changes. Everything looks good.
+
+27
+00:01:28,674 --> 00:01:33,920
+So, let's add these files and then commit them.
+
+28
+00:01:33,920 --> 00:01:36,189
+Now, let's have the destination to Paris.
+
+29
+00:01:36,189 --> 00:01:39,599
+Copy the html over here and edit the I.D.
+
+30
+00:01:39,599 --> 00:01:43,349
+to Paris and edit the actual heading to Paris,
+
+31
+00:01:43,349 --> 00:01:51,514
+then I'll copy the styling and update this to Paris and change the background color.
+
+32
+00:01:51,515 --> 00:01:54,329
+Save this file and save this file and then,
+
+33
+00:01:54,329 --> 00:01:56,640
+back to the terminal to make another commit.
+
+34
+00:01:56,641 --> 00:01:59,882
+Let's check the diff for this Paris change.
+
+35
+00:01:59,882 --> 00:02:01,365
+So, we have the css file.
+
+36
+00:02:01,364 --> 00:02:03,140
+We have these changes, the html file,
+
+37
+00:02:03,140 --> 00:02:05,269
+we have these. Looks great.
+
+38
+00:02:05,269 --> 00:02:09,944
+So, I'll add these changes and then, I'll commit this.
+
+39
+00:02:09,944 --> 00:02:12,704
+And finally, let's add the destination to Scotland.
+
+40
+00:02:12,705 --> 00:02:15,160
+So, copy the html one more time,
+
+41
+00:02:15,159 --> 00:02:19,840
+changes to Scotland, change the heading to Scotland.
+
+42
+00:02:19,840 --> 00:02:22,344
+Now, change the css over here,
+
+43
+00:02:22,344 --> 00:02:27,034
+change this to Scotland and then changing the background color.
+
+44
+00:02:27,034 --> 00:02:30,503
+Now, let's save the css file and save the html file,
+
+45
+00:02:30,503 --> 00:02:34,844
+and back to the terminal one last time. Let's run get diff.
+
+46
+00:02:34,844 --> 00:02:37,585
+We've got the css change and the html change.
+
+47
+00:02:37,585 --> 00:02:43,045
+Awesome. So, I'll add these files and then I'll commit them.
+
+48
+00:02:43,044 --> 00:02:47,278
+Let's take a quick look at the git log.
+
+49
+00:02:47,278 --> 00:02:49,180
+We can see that our new
+
+50
+00:02:49,180 --> 00:02:53,995
+'include-richards-destinations' branch is up here while the master branch is down here,
+
+51
+00:02:53,995 --> 00:02:59,370
+but especially the remote origin master branch is right here on this commit.
+
+52
+00:02:59,370 --> 00:03:02,985
+So, both of these are on this commit while our new branch is up here.
+
+53
+00:03:02,985 --> 00:03:04,870
+So, we just need to push this branch up to
+
+54
+00:03:04,870 --> 00:03:08,730
+our remote repository to get these commits on the remote.
+
+55
+00:03:08,729 --> 00:03:13,579
+So, let's push to the origin remote this branch.
+
+56
+00:03:13,580 --> 00:03:19,440
+I'll enter in my username and then my password.
+
+57
+00:03:19,439 --> 00:03:24,764
+That created this new branch up on the remote repository.
+
+58
+00:03:24,764 --> 00:03:26,156
+Let's check that out.
+
+59
+00:03:26,157 --> 00:03:29,590
+I'm on my remote repository on the master branch.
+
+60
+00:03:29,590 --> 00:03:33,145
+Now, I need to switch over to the other branch that I just pushed,
+
+61
+00:03:33,145 --> 00:03:35,640
+so that we can see those changes.
+
+62
+00:03:35,639 --> 00:03:38,469
+Now, I can look at the index file and then,
+
+63
+00:03:38,469 --> 00:03:42,865
+here are the changes that I've added- the destinations that I've added.
+
+64
+00:03:42,865 --> 00:03:44,439
+Now, if I check out Lam's project
+
+65
+00:03:44,438 --> 00:03:47,500
+her remote repository and scroll down in the index file,
+
+66
+00:03:47,500 --> 00:03:50,439
+we'll see that those changes are not added there.
+
+67
+00:03:50,439 --> 00:03:51,519
+So, when I pushed,
+
+68
+00:03:51,519 --> 00:03:56,000
+my changes only went to my project, not to hers.
+

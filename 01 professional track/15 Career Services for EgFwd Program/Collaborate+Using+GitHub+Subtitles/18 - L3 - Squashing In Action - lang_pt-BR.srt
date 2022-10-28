@@ -1,0 +1,437 @@
+1
+00:00:00,371 --> 00:00:02,730
+Vamos fazer o squash
+destes três commits
+
+2
+00:00:02,764 --> 00:00:06,603
+com git rebase -i HEAD~3.
+
+3
+00:00:07,242 --> 00:00:11,354
+Isso exibe os três últimos commits
+que fizemos no projeto.
+
+4
+00:00:11,388 --> 00:00:14,568
+Observe que eles estão
+em ordem cronológica inversa.
+
+5
+00:00:14,602 --> 00:00:18,550
+Este aqui embaixo é o nosso
+commit mais recente.
+
+6
+00:00:18,584 --> 00:00:21,785
+Vamos ver
+cada uma destas colunas.
+
+7
+00:00:21,819 --> 00:00:24,692
+A última coluna
+é a mensagem do commit.
+
+8
+00:00:24,726 --> 00:00:27,901
+A coluna do meio
+é o SHA do commit.
+
+9
+00:00:27,935 --> 00:00:30,271
+A primeira coluna
+é onde você digita o comando
+
+10
+00:00:30,305 --> 00:00:33,619
+que quer que o git rebase
+execute.
+
+11
+00:00:33,653 --> 00:00:36,407
+O git rebase é uma ferramenta
+muito poderosa
+
+12
+00:00:36,441 --> 00:00:38,398
+e tem vários comandos.
+
+13
+00:00:38,432 --> 00:00:41,243
+Esses comandos estão listados
+aqui embaixo.
+
+14
+00:00:41,277 --> 00:00:44,157
+Vemos que todos estão
+listados como pick,
+
+15
+00:00:44,191 --> 00:00:47,188
+logo, pick significa
+"usar este commit".
+
+16
+00:00:47,222 --> 00:00:49,993
+Se salvarmos este arquivo
+e sairmos agora,
+
+17
+00:00:50,027 --> 00:00:53,831
+cada um destes três commits
+será salvo.
+
+18
+00:00:53,865 --> 00:00:56,886
+Então, apesar de fazermos rebase
+e squash dos nossos commits,
+
+19
+00:00:56,920 --> 00:01:00,004
+se deixássemos estes como pick,
+todos os três existiriam,
+
+20
+00:01:00,038 --> 00:01:02,780
+mas teriam SHAs diferentes.
+
+21
+00:01:02,814 --> 00:01:06,218
+Lam quer que juntemos nossos
+três últimos commits em um,
+
+22
+00:01:06,252 --> 00:01:08,507
+e este é um dos comandos:
+
+23
+00:01:08,541 --> 00:01:12,418
+o "s" aqui embaixo, ou podemos
+digitar a palavra "squash".
+
+24
+00:01:12,452 --> 00:01:14,147
+O squash usa o commit,
+
+25
+00:01:14,181 --> 00:01:16,755
+mas ele o combina
+ao commit anterior.
+
+26
+00:01:16,789 --> 00:01:21,429
+Vamos pegar este commit
+e digitar s, de squash.
+
+27
+00:01:21,463 --> 00:01:23,423
+Vamos mudar este para squash,
+
+28
+00:01:23,457 --> 00:01:25,738
+e não conseguimos alternar
+este para squash
+
+29
+00:01:25,772 --> 00:01:27,927
+porque não há commit
+anterior a ele.
+
+30
+00:01:27,961 --> 00:01:32,139
+Isso causaria um erro, logo,
+teríamos que deixar este como pick.
+
+31
+00:01:32,173 --> 00:01:36,164
+Se usássemos estes comandos aqui,
+pick, squash e squash,
+
+32
+00:01:36,198 --> 00:01:39,684
+ele juntaria estes
+dois commits neste,
+
+33
+00:01:39,718 --> 00:01:42,730
+mas usaria
+a mensagem deste commit.
+
+34
+00:01:42,764 --> 00:01:44,362
+Vai ficar confuso,
+
+35
+00:01:44,396 --> 00:01:47,694
+já que está adicionando destinos
+para Flórida, Paris e Escócia.
+
+36
+00:01:47,728 --> 00:01:49,628
+Em vez de usar
+esta mensagem do commit,
+
+37
+00:01:49,662 --> 00:01:52,677
+queremos poder reescrever
+a mensagem do commit.
+
+38
+00:01:52,711 --> 00:01:57,014
+E há um comando para isso.
+É o "reword", ou apenas "r".
+
+39
+00:01:57,048 --> 00:02:00,559
+Vou alternar pick para r.
+
+40
+00:02:00,593 --> 00:02:02,484
+Vamos repassar
+pela última vez.
+
+41
+00:02:02,518 --> 00:02:06,236
+Temos r aqui, logo, vamos reescrever
+esta mensagem do commit.
+
+42
+00:02:06,270 --> 00:02:10,080
+Vamos manter este commit,
+mas mudar a mensagem dele.
+
+43
+00:02:10,114 --> 00:02:14,109
+O s significa que vamos fazer
+o squash deste commit no anterior.
+
+44
+00:02:14,143 --> 00:02:17,862
+E o s aqui significa que vamos fazer
+o squash deste commit no anterior,
+
+45
+00:02:17,896 --> 00:02:20,489
+o que significa
+que ele será combinado a este.
+
+46
+00:02:20,523 --> 00:02:24,866
+Vamos salvar este arquivo e sair
+do editor para fazer o rebase.
+
+47
+00:02:24,900 --> 00:02:27,670
+Este rebase é um processo
+de vários passos.
+
+48
+00:02:27,704 --> 00:02:31,035
+O primeiro passo é reescrever
+esta mensagem do commit.
+
+49
+00:02:31,069 --> 00:02:34,878
+Vou mudá-la
+para "Add Richard's destinations".
+
+50
+00:02:34,912 --> 00:02:39,019
+Vou salvar o arquivo e sair
+do editor para continuar o rebase.
+
+51
+00:02:39,053 --> 00:02:40,985
+Esta é a última etapa
+do rebase.
+
+52
+00:02:41,019 --> 00:02:44,337
+Vemos que isto é uma combinação
+dos 3 commits anteriores.
+
+53
+00:02:44,371 --> 00:02:47,180
+Vamos fazer o squash
+destes commits.
+
+54
+00:02:47,214 --> 00:02:49,844
+O primeiro commit,
+que é o mais velho dos três,
+
+55
+00:02:49,878 --> 00:02:53,613
+é o que acabamos de reescrever.
+"Add Richard's destinations".
+
+56
+00:02:53,647 --> 00:02:56,336
+E esta é a mensagem
+do segundo commit.
+
+57
+00:02:56,370 --> 00:02:58,528
+E esta é a mensagem
+do último commit.
+
+58
+00:02:58,562 --> 00:03:00,976
+Vou excluir todas estas
+
+59
+00:03:01,010 --> 00:03:04,485
+para que a mensagem seja
+"Add Richard's destinations".
+
+60
+00:03:04,519 --> 00:03:07,130
+Lembre-se de que tudo
+com "#" na frente é comentário
+
+61
+00:03:07,164 --> 00:03:09,781
+e não é incluído
+na mensagem do commit.
+
+62
+00:03:09,815 --> 00:03:12,212
+Podemos excluir estes dois.
+
+63
+00:03:12,473 --> 00:03:14,767
+Vou salvar o arquivo
+e sair do editor
+
+64
+00:03:14,801 --> 00:03:16,536
+para terminar o rebase.
+
+65
+00:03:16,570 --> 00:03:19,386
+Aí está, fizemos o rebase
+dos três últimos commits.
+
+66
+00:03:20,327 --> 00:03:22,838
+Vamos dar uma olhada rápida
+no git log.
+
+67
+00:03:23,472 --> 00:03:27,007
+Vemos aqui que nosso branch
+include-richards-destinations
+
+68
+00:03:27,041 --> 00:03:30,294
+só tem um commit
+à frente do branch principal,
+
+69
+00:03:30,328 --> 00:03:33,696
+enquanto no repositório remoto,
+temos estes três commits.
+
+70
+00:03:33,730 --> 00:03:39,359
+Fizemos o squash destes commits
+neste único commit.
+
+71
+00:03:39,393 --> 00:03:41,108
+Vamos limpar a tela
+por um segundo,
+
+72
+00:03:41,142 --> 00:03:46,549
+e tentar enviar este branch
+para o repositório remoto.
+
+73
+00:03:47,058 --> 00:03:49,192
+Vemos que este push
+foi rejeitado
+
+74
+00:03:49,226 --> 00:03:53,266
+porque o repositório remoto tem
+commits que este não tem.
+
+75
+00:03:53,300 --> 00:03:56,055
+Então precisamos
+forçar o push.
+
+76
+00:03:57,148 --> 00:03:58,540
+E funcionou.
+
+77
+00:03:58,990 --> 00:04:02,517
+Esta é a página do pull request,
+e ainda não a atualizei.
+
+78
+00:04:02,551 --> 00:04:05,301
+Vemos que os três commits originais
+estão listados aqui
+
+79
+00:04:05,335 --> 00:04:08,340
+e estão listados aqui.
+Se eu rolar a tela para baixo,
+
+80
+00:04:08,374 --> 00:04:12,249
+vemos que fiz um novo commit
+neste pull request.
+
+81
+00:04:12,283 --> 00:04:15,485
+Este é o commit
+em que acabamos de forçar o push.
+
+82
+00:04:15,519 --> 00:04:18,121
+Se eu rolar até o topo
+e atualizar a página,
+
+83
+00:04:18,155 --> 00:04:20,905
+veremos que todos os números
+mudam.
+
+84
+00:04:20,939 --> 00:04:22,934
+Os três commits listados aqui
+sumiram,
+
+85
+00:04:22,968 --> 00:04:27,018
+e este pull request agora mostra
+que só há um commit no pull request,
+
+86
+00:04:27,052 --> 00:04:29,092
+que é este aqui.
+
+87
+00:04:30,822 --> 00:04:32,640
+Ao verificar
+a aba Files changed,
+
+88
+00:04:32,674 --> 00:04:35,395
+vemos que nossas mudanças são
+exatamente as mesmas.
+
+89
+00:04:35,429 --> 00:04:39,878
+A mudança em CSS está aqui,
+e as mudanças em HTML estão aqui.
+
+90
+00:04:39,912 --> 00:04:43,208
+Só que agora, estão todos
+combinados em um único commit.
+

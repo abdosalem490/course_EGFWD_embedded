@@ -1,0 +1,182 @@
+1
+00:00:00,234 --> 00:00:02,901
+Olá, seja bem-vindo
+ao curso sobre GitHub
+
+2
+00:00:02,934 --> 00:00:05,700
+e como colaborar em um projeto
+de controle de versão.
+
+3
+00:00:05,734 --> 00:00:09,200
+Vamos falar sobre colaboração
+e por que ela é tão importante.
+
+4
+00:00:09,234 --> 00:00:12,400
+Ela deve ser importante,
+pois criamos um curso sobre isso.
+
+5
+00:00:12,434 --> 00:00:16,367
+A colaboração é muito benéfica
+porque, na maioria das vezes,
+
+6
+00:00:16,400 --> 00:00:20,033
+você não trabalhará sozinho
+como desenvolvedor de um projeto.
+
+7
+00:00:20,067 --> 00:00:23,534
+Você trabalhará com uma equipe,
+com pessoas que nem conhece
+
+8
+00:00:23,567 --> 00:00:26,401
+ou contribuirá com projetos
+de código aberto.
+
+9
+00:00:26,434 --> 00:00:28,700
+Ser capaz de trabalhar
+de forma colaborativa
+
+10
+00:00:28,733 --> 00:00:30,234
+é fundamental,
+
+11
+00:00:30,267 --> 00:00:33,734
+mas é mais importante ainda
+nos projetos de código.
+
+12
+00:00:33,767 --> 00:00:35,834
+Algo fundamental
+na colaboração
+
+13
+00:00:35,868 --> 00:00:38,467
+é saber comunicar
+claramente o que está fazendo
+
+14
+00:00:38,501 --> 00:00:40,134
+e trabalhar
+com outras pessoas -
+
+15
+00:00:40,167 --> 00:00:41,867
+como os mantenedores
+do projeto -
+
+16
+00:00:41,900 --> 00:00:43,901
+para saber
+como você poderá contribuir.
+
+17
+00:00:43,934 --> 00:00:46,133
+Esta comunicação
+pode ser difícil,
+
+18
+00:00:46,167 --> 00:00:48,767
+pois trabalhamos de forma remota
+e não sincrônica.
+
+19
+00:00:48,800 --> 00:00:50,033
+Depois deste curso,
+
+20
+00:00:50,067 --> 00:00:53,100
+você poderá trabalhar em equipe
+com controle de versão,
+
+21
+00:00:53,133 --> 00:00:56,267
+usar o GitHub e os recursos dele
+para planejar alterações
+
+22
+00:00:56,300 --> 00:00:58,067
+e implementar tais alterações,
+
+23
+00:00:58,100 --> 00:01:00,868
+contribuir com um repositório
+existente
+
+24
+00:01:00,901 --> 00:01:02,801
+e adicionar
+recursos em um projeto
+
+25
+00:01:02,834 --> 00:01:04,834
+enquanto ele está
+sendo desenvolvido.
+
+26
+00:01:04,868 --> 00:01:09,734
+Acredito que você já saiba lidar
+com o controle de versão
+
+27
+00:01:09,767 --> 00:01:11,901
+e, especificamente, com o Git.
+
+28
+00:01:11,934 --> 00:01:15,902
+Há uma lista de habilidades
+necessárias abaixo deste vídeo.
+
+29
+00:01:15,935 --> 00:01:18,533
+Se você não conhece o Git
+ou o controle de versão,
+
+30
+00:01:18,567 --> 00:01:19,700
+não se preocupe,
+
+31
+00:01:19,734 --> 00:01:22,267
+eu criei o curso
+"Controle de Versão com Git",
+
+32
+00:01:22,300 --> 00:01:25,234
+que apresenta
+tudo que você precisa saber.
+
+33
+00:01:25,267 --> 00:01:27,234
+O link do curso
+está aqui embaixo.
+
+34
+00:01:27,267 --> 00:01:31,434
+Antes de falarmos
+do GitHub, de colaboração
+
+35
+00:01:31,467 --> 00:01:32,768
+ou de qualquer coisa,
+
+36
+00:01:32,801 --> 00:01:35,333
+precisamos entender
+o que é um "repositório remoto"
+
+37
+00:01:35,366 --> 00:01:36,734
+e como trabalhar com ele.
+
+38
+00:01:36,767 --> 00:01:38,167
+Vejamos isso agora.
+

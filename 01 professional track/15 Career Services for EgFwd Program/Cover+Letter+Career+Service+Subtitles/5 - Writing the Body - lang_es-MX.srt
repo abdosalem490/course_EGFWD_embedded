@@ -1,0 +1,199 @@
+1
+00:00:00,751 --> 00:00:03,292
+Ahora vamos a desarrollar
+el cuerpo de la carta.
+
+2
+00:00:03,334 --> 00:00:07,834
+Yo lo divido en categorías
+y funciones que demanda el cargo.
+
+3
+00:00:08,126 --> 00:00:12,667
+Al escribir la carta, usted necesita
+concentrarse en lo que es mejor.
+
+4
+00:00:12,709 --> 00:00:14,375
+Si es un experto
+en alguna cosa,
+
+5
+00:00:14,417 --> 00:00:17,542
+el empleador va a concluir
+que usted puede aprender
+
+6
+00:00:17,584 --> 00:00:19,584
+y convertirse en un experto
+en otra cosa.
+
+7
+00:00:19,618 --> 00:00:22,501
+Si el cargo exige habilidades
+que usted no tiene,
+
+8
+00:00:22,542 --> 00:00:24,125
+y no están en su currículum,
+
+9
+00:00:24,167 --> 00:00:26,792
+use la carta
+para promocionarse.
+
+10
+00:00:26,834 --> 00:00:30,626
+Imagine que yo anhele
+un cargo de analista de datos,
+
+11
+00:00:30,667 --> 00:00:33,584
+que exija tres años de experiencia
+en ciencia de datos,
+
+12
+00:00:33,618 --> 00:00:36,375
+y mi única experiencia
+es el curso de Nanodegree,
+
+13
+00:00:36,417 --> 00:00:38,834
+pero considero
+que puedo ejecutar bien el trabajo.
+
+14
+00:00:38,876 --> 00:00:42,125
+Yo escribiría sobre la importancia
+de resultados basados en datos
+
+15
+00:00:42,167 --> 00:00:44,000
+y de la toma de decisiones.
+
+16
+00:00:44,042 --> 00:00:46,083
+Y hablaría sobre mis proyectos
+más avanzados
+
+17
+00:00:46,125 --> 00:00:49,167
+que exigieron habilidades
+en ciencia de datos.
+
+18
+00:00:49,584 --> 00:00:54,459
+La carta también debe tener detalles
+de sus calificaciones y objetivos.
+
+19
+00:00:54,501 --> 00:00:58,584
+Debe incluir ejemplos concretos
+de su experiencia.
+
+20
+00:00:58,626 --> 00:01:00,501
+Vamos a hablar más sobre eso.
+
+21
+00:01:00,542 --> 00:01:03,125
+Por ejemplo, una frase como:
+
+22
+00:01:03,167 --> 00:01:06,584
+"Cree varias aplicaciones Web
+para públicos diferentes."
+
+23
+00:01:06,626 --> 00:01:09,252
+Es una frase vacía.
+Y esa información
+
+24
+00:01:09,286 --> 00:01:12,751
+puede deducirse
+de su currículo.
+
+25
+00:01:12,792 --> 00:01:16,709
+En vez de eso,
+describa una experiencia, como:
+
+26
+00:01:16,751 --> 00:01:20,709
+"Cree un sitio para miembros
+de una organización nacional.
+
+27
+00:01:20,751 --> 00:01:23,334
+Algunos de los recursos incluían
+una agenda de compromisos
+
+28
+00:01:23,375 --> 00:01:25,292
+que consideraba
+husos horarios
+
+29
+00:01:25,334 --> 00:01:27,876
+y un drive on-line
+con anotaciones de compromisos."
+
+30
+00:01:27,910 --> 00:01:31,417
+Eso muestra que usted sabe
+desarrollar varios recursos,
+
+31
+00:01:31,459 --> 00:01:33,292
+satisfacer
+las necesidades de su cliente
+
+32
+00:01:33,334 --> 00:01:37,000
+y desarrollar con la experiencia
+del usuario en mente.
+
+33
+00:01:37,335 --> 00:01:40,167
+Usted debe explicar bien eso.
+
+34
+00:01:40,209 --> 00:01:43,125
+Cuente qué lenguajes
+o frameworks usó.
+
+35
+00:01:43,167 --> 00:01:45,459
+Dar apenas un ejemplo,
+
+36
+00:01:45,501 --> 00:01:48,334
+que describa cómo usted trabaja
+y lo que puede hacer,
+
+37
+00:01:48,375 --> 00:01:52,042
+es mejor que escribir frases
+genéricas sobre su habilidad.
+
+38
+00:01:52,597 --> 00:01:56,709
+También debe dar ejemplos
+de trabajos en los que tuvo éxito.
+
+39
+00:01:56,751 --> 00:02:01,209
+O de cuando trabajó en un equipo
+produciendo algo inédito.
+
+40
+00:02:01,250 --> 00:02:04,876
+Esos párrafos también son buenos
+para fortalecer sus objetivos
+
+41
+00:02:04,918 --> 00:02:06,626
+y contar cómo tienen
+que ver con el cargo.
+

@@ -1,0 +1,28 @@
+1
+00:00:00,000 --> 00:00:05,745
+We have our local repository down here and a remote repository up here.
+
+2
+00:00:05,745 --> 00:00:10,250
+Our local repository has these commits on the master branch,
+
+3
+00:00:10,250 --> 00:00:13,574
+but the remote repository is completely empty.
+
+4
+00:00:13,574 --> 00:00:19,939
+Now, how do we get these commits from our local repository up into the remote repository?
+
+5
+00:00:19,940 --> 00:00:22,790
+We can do that with the git push command.
+
+6
+00:00:22,789 --> 00:00:25,894
+That will take all of the commits from the local repository
+
+7
+00:00:25,894 --> 00:00:30,000
+and send or push them up to the remote.
+

@@ -1,0 +1,152 @@
+1
+00:00:00,000 --> 00:00:02,835
+We have our original repository,
+
+2
+00:00:02,835 --> 00:00:05,129
+our fork of the original,
+
+3
+00:00:05,129 --> 00:00:07,935
+and then the clone of our fork.
+
+4
+00:00:07,934 --> 00:00:12,949
+Let's say that we forked the original repository to fix up a few mistakes.
+
+5
+00:00:12,949 --> 00:00:18,460
+So we have the bugfix branch that we've worked on locally and then pushed to our fork.
+
+6
+00:00:18,460 --> 00:00:20,475
+But while we've been working on these changes,
+
+7
+00:00:20,475 --> 00:00:22,575
+the original project's maintainers have
+
+8
+00:00:22,574 --> 00:00:25,480
+added some commits of their own to their repository.
+
+9
+00:00:25,480 --> 00:00:26,969
+So now, our fork and
+
+10
+00:00:26,969 --> 00:00:31,769
+the local repository's master branches are out of sync with the original repository.
+
+11
+00:00:31,769 --> 00:00:34,588
+To get these new changes in our local machine,
+
+12
+00:00:34,588 --> 00:00:37,789
+we need to fetch them from the original repository.
+
+13
+00:00:37,789 --> 00:00:42,875
+Now remember that we have a link to our remote repository because when we cloned it,
+
+14
+00:00:42,875 --> 00:00:45,750
+Git created a connection for us automatically and
+
+15
+00:00:45,750 --> 00:00:49,200
+gave this connection a short name of origin.
+
+16
+00:00:49,200 --> 00:00:54,245
+We can manually set up a connection to the original or source remote repository, though.
+
+17
+00:00:54,244 --> 00:00:57,924
+Typically, we'd name the short name upstream.
+
+18
+00:00:57,924 --> 00:01:02,640
+Let's add the short names origin and upstream so we can easily refer to them.
+
+19
+00:01:02,640 --> 00:01:07,549
+Now that we have this new upstream connection to the original remote repository,
+
+20
+00:01:07,549 --> 00:01:11,920
+let's display the remote branches that exist in our local repository.
+
+21
+00:01:11,920 --> 00:01:15,090
+Now if we fetch the commits from the upstream repository,
+
+22
+00:01:15,090 --> 00:01:20,125
+we'll end up with these two commits and an upstream/master branch.
+
+23
+00:01:20,125 --> 00:01:22,469
+These colors might be a bit misleading so let's
+
+24
+00:01:22,469 --> 00:01:25,950
+show how each branch relates to each remote.
+
+25
+00:01:25,950 --> 00:01:27,400
+Let's set local to red,
+
+26
+00:01:27,400 --> 00:01:30,900
+fork to yellow, and original to blue.
+
+27
+00:01:30,900 --> 00:01:35,440
+Both the bugfix branch and the master branch are in our local repository.
+
+28
+00:01:35,439 --> 00:01:38,167
+We've also pushed them to our fork.
+
+29
+00:01:38,167 --> 00:01:40,349
+Git knows where our remote branches are,
+
+30
+00:01:40,349 --> 00:01:46,424
+so the origin/bugfix and origin/master branches display in our local repository.
+
+31
+00:01:46,424 --> 00:01:50,534
+The original repository has just its master branch.
+
+32
+00:01:50,534 --> 00:01:53,535
+Because we've retrieved the upstream changes,
+
+33
+00:01:53,534 --> 00:01:57,655
+upstream/master displays in our local repository.
+
+34
+00:01:57,655 --> 00:02:01,465
+So let's go back to our original color scheme that's based on the branches.
+
+35
+00:02:01,465 --> 00:02:06,450
+Now if we're on our master branch and merge in the upstream/master branch,
+
+36
+00:02:06,450 --> 00:02:09,930
+our master branch will perform a fast-forward merge to point to
+
+37
+00:02:09,930 --> 00:02:13,875
+commit c. Then if we wanted to merge in the bugfix branch,
+
+38
+00:02:13,875 --> 00:02:18,060
+that would create a new merge commit and move master to point to it.
+

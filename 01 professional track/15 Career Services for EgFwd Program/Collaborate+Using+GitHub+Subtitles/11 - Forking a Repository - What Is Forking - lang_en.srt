@@ -1,0 +1,92 @@
+1
+00:00:00,000 --> 00:00:02,345
+This is a fork.
+
+2
+00:00:02,345 --> 00:00:04,675
+This is the noun form of the word.
+
+3
+00:00:04,674 --> 00:00:06,794
+When we talk about forks in version control,
+
+4
+00:00:06,794 --> 00:00:09,129
+we're not talking about this.
+
+5
+00:00:09,130 --> 00:00:12,620
+We're talking about the verb or action version of the word.
+
+6
+00:00:12,619 --> 00:00:15,089
+Let's say you're out hiking on a trail and all of a sudden,
+
+7
+00:00:15,089 --> 00:00:17,399
+it splits into two paths.
+
+8
+00:00:17,399 --> 00:00:21,929
+We'd say that the road forked into two different paths.
+
+9
+00:00:21,929 --> 00:00:24,059
+So, that's the verb form of the word.
+
+10
+00:00:24,059 --> 00:00:25,919
+In the version control world,
+
+11
+00:00:25,920 --> 00:00:27,520
+forking is a split,
+
+12
+00:00:27,519 --> 00:00:29,655
+but it's an identical split.
+
+13
+00:00:29,655 --> 00:00:34,285
+To fork a repository means to split it into an identical copy.
+
+14
+00:00:34,284 --> 00:00:36,228
+Now, forking is not a Git thing,
+
+15
+00:00:36,228 --> 00:00:38,600
+you can't run git fork on the command line.
+
+16
+00:00:38,600 --> 00:00:41,132
+There's no fork subcommand.
+
+17
+00:00:41,131 --> 00:00:44,040
+It's something provided by the hosting environment.
+
+18
+00:00:44,040 --> 00:00:45,539
+GitHub is our hosting environment,
+
+19
+00:00:45,539 --> 00:00:49,085
+so GitHub has a fork button that let's you fork a repository.
+
+20
+00:00:49,085 --> 00:00:52,620
+If you're on a repository's page on GitHub and click the fork button,
+
+21
+00:00:52,619 --> 00:00:57,140
+you make a copy of that repository and bring it over to your own account.
+
+22
+00:00:57,140 --> 00:00:59,880
+So this is what it means to fork something: make
+
+23
+00:00:59,880 --> 00:01:03,000
+an identical copy and become the owner of that copy.
+

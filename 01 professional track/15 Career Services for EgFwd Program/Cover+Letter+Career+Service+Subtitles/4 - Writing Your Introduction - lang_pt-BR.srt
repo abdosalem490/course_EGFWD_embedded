@@ -1,0 +1,168 @@
+1
+00:00:00,751 --> 00:00:04,501
+Comece a carta com uma introdução
+que inclua seu objetivo
+
+2
+00:00:04,542 --> 00:00:06,167
+e missão profissional.
+
+3
+00:00:06,201 --> 00:00:08,876
+A carta deve conter
+o nome da empresa
+
+4
+00:00:08,918 --> 00:00:11,918
+e o cargo a que você almeja
+no 1º parágrafo,
+
+5
+00:00:11,959 --> 00:00:14,083
+geralmente
+na primeira frase.
+
+6
+00:00:14,125 --> 00:00:17,000
+É um pequeno detalhe
+que realmente ajuda.
+
+7
+00:00:17,042 --> 00:00:20,584
+Ele ajuda na organização
+dos currículos enviados
+
+8
+00:00:20,626 --> 00:00:23,542
+e ajuda o leitor a associá-lo
+automaticamente ao trabalho.
+
+9
+00:00:23,584 --> 00:00:25,209
+Se você conhecer alguém
+na empresa,
+
+10
+00:00:25,250 --> 00:00:27,209
+não tenha medo de pedir
+que o indique.
+
+11
+00:00:27,250 --> 00:00:29,792
+Você pode mencionar o nome
+da pessoa no 1º parágrafo.
+
+12
+00:00:30,167 --> 00:00:33,709
+Concentre-se menos em por que
+a empresa deve contratá-lo
+
+13
+00:00:33,751 --> 00:00:36,292
+e mais em por que você
+quer trabalhar na empresa.
+
+14
+00:00:36,334 --> 00:00:37,876
+Isso é vital
+
+15
+00:00:37,918 --> 00:00:40,417
+para você se destacar
+entre os outros candidatos.
+
+16
+00:00:40,751 --> 00:00:43,459
+Se a maioria dos candidatos
+estão qualificados para a vaga,
+
+17
+00:00:43,501 --> 00:00:46,167
+eles devem ter
+as mesmas habilidades.
+
+18
+00:00:46,209 --> 00:00:50,250
+A sua declaração de interesse
+é pessoal e exclusiva.
+
+19
+00:00:50,792 --> 00:00:54,250
+Os melhores empregados são
+os que vestem a camisa da empresa.
+
+20
+00:00:54,292 --> 00:00:57,042
+Então comunique essa empolgação
+de forma específica.
+
+21
+00:00:57,083 --> 00:01:00,459
+Eis alguns exemplos de como escrever
+seu objetivo profissional.
+
+22
+00:01:00,751 --> 00:01:03,042
+Se quiser trabalhar
+no Udacity,
+
+23
+00:01:03,083 --> 00:01:04,751
+uma boa declaração seria:
+
+24
+00:01:05,128 --> 00:01:07,042
+"Sou um desenvolvedor web
+autodidata.
+
+25
+00:01:07,083 --> 00:01:09,584
+Estou ansioso para usar
+meus 5 anos de experiência
+
+26
+00:01:09,626 --> 00:01:12,876
+para ajudar a próxima revolução
+no ensino on-line."
+
+27
+00:01:13,167 --> 00:01:17,459
+Se você quiser uma vaga
+em uma empresa de contabilidade,
+
+28
+00:01:17,501 --> 00:01:19,375
+esta frase é mais apropriada:
+
+29
+00:01:19,409 --> 00:01:21,459
+"Adoro ser analista de dados.
+
+30
+00:01:21,501 --> 00:01:25,167
+Sou fascinado pelas oportunidades
+criadas pela abundância de dados
+
+31
+00:01:25,209 --> 00:01:28,000
+e pelo poder de computação
+da indústria da contabilidade."
+
+32
+00:01:28,042 --> 00:01:30,334
+Todos os trabalhos
+e empresas são diferentes.
+
+33
+00:01:30,375 --> 00:01:32,959
+Você precisa de abordagens
+diferentes para cada um.
+
+34
+00:01:33,000 --> 00:01:34,042
+*END*
+
+35
+00:01:34,083 --> 00:01:35,125
+*CODE*
+

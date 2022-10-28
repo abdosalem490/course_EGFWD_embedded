@@ -1,0 +1,240 @@
+1
+00:00:00,901 --> 00:00:04,434
+O currículo deve ter um cabeçalho
+com seu nome bem nítido
+
+2
+00:00:04,467 --> 00:00:07,601
+para o empregador
+distinguir o seu dos outros.
+
+3
+00:00:07,634 --> 00:00:10,267
+Ele deve ter
+os seus contatos
+
+4
+00:00:10,300 --> 00:00:12,334
+e os links para seus perfis
+na internet,
+
+5
+00:00:12,367 --> 00:00:15,834
+caso o empregador
+queira saber mais sobre você.
+
+6
+00:00:15,868 --> 00:00:18,834
+E o restante do currículo
+deve fornecer indícios
+
+7
+00:00:18,868 --> 00:00:21,367
+de que você está pronto
+para o emprego.
+
+8
+00:00:21,400 --> 00:00:25,501
+Inclua sua formação escolar
+e experiência profissional.
+
+9
+00:00:25,534 --> 00:00:30,234
+Se achar que essas áreas
+não impressionam, enfatize outras.
+
+10
+00:00:30,267 --> 00:00:32,269
+Quando me candidatei
+ao meu 1° emprego,
+
+11
+00:00:32,303 --> 00:00:34,868
+eu não tinha
+experiência profissional alguma.
+
+12
+00:00:34,901 --> 00:00:37,703
+Escrevi sobre os meus
+trabalhos voluntários e escolares
+
+13
+00:00:37,737 --> 00:00:39,434
+para mostrar
+que trabalhava em equipe,
+
+14
+00:00:39,467 --> 00:00:41,467
+cumprir prazos
+e diferentes tarefas.
+
+15
+00:00:41,501 --> 00:00:43,901
+A parte da formação
+era bem longa também.
+
+16
+00:00:43,934 --> 00:00:46,767
+Cheguei a incluir um prêmio
+que ganhei aos 13 anos,
+
+17
+00:00:46,801 --> 00:00:49,100
+porque não tinha
+muita coisa para mostrar.
+
+18
+00:00:49,134 --> 00:00:51,133
+Agora já tenho
+alguma experiência,
+
+19
+00:00:51,167 --> 00:00:53,366
+então descartei a seção
+de trabalhos voluntários,
+
+20
+00:00:53,400 --> 00:00:57,767
+e a da formação hoje é a menor
+e menos importante do currículo.
+
+21
+00:00:58,067 --> 00:00:59,400
+Uma boa notícia:
+
+22
+00:00:59,434 --> 00:01:01,701
+ao concluir o programa Nanodegree
+da Udacity,
+
+23
+00:01:01,734 --> 00:01:04,234
+você não vai ter
+que exagerar no seu currículo
+
+24
+00:01:04,267 --> 00:01:05,601
+como eu fiz há anos.
+
+25
+00:01:05,635 --> 00:01:07,367
+Finalizando
+os projetos principais,
+
+26
+00:01:07,400 --> 00:01:10,534
+você vai ter experiências
+relevantes para compartilhar.
+
+27
+00:01:10,567 --> 00:01:12,667
+A primeira coisa
+que um empregador lê
+
+28
+00:01:12,701 --> 00:01:15,767
+tem que ser o trabalho
+mais relevante do candidato.
+
+29
+00:01:15,801 --> 00:01:17,501
+Trabalhos anteriores
+aparecem primeiro
+
+30
+00:01:17,534 --> 00:01:19,434
+se tiverem relação
+com a nova carreira.
+
+31
+00:01:19,467 --> 00:01:22,467
+Se não tiverem, ou se você
+nunca teve um emprego,
+
+32
+00:01:22,501 --> 00:01:25,133
+pode listar seus projetos
+ou a formação antes,
+
+33
+00:01:25,167 --> 00:01:28,780
+dependendo de qual mostra melhor
+a sua preparação para o mercado.
+
+34
+00:01:30,068 --> 00:01:32,000
+Inclua também
+uma seção de habilidades,
+
+35
+00:01:32,033 --> 00:01:33,234
+que é uma lista curta
+
+36
+00:01:33,267 --> 00:01:35,634
+resumindo todas as técnicas
+adquiridas em empregos,
+
+37
+00:01:35,667 --> 00:01:39,667
+projetos e cursos que sejam
+relevantes ao futuro emprego.
+
+38
+00:01:39,701 --> 00:01:41,868
+As habilidades
+têm que ser técnicas,
+
+39
+00:01:41,901 --> 00:01:44,601
+como saber falar
+espanhol ou mandarim,
+
+40
+00:01:44,634 --> 00:01:46,801
+ou saber programar
+softwares.
+
+41
+00:01:46,834 --> 00:01:51,303
+Não ponha habilidades já esperadas
+ou aprendidas facilmente,
+
+42
+00:01:51,337 --> 00:01:53,667
+como usar o Word.
+
+43
+00:01:53,701 --> 00:01:57,033
+Há certas habilidades, às vezes
+chamadas de "intangíveis",
+
+44
+00:01:57,067 --> 00:02:00,033
+que são mais convincentes
+quando vistas na prática.
+
+45
+00:02:00,067 --> 00:02:03,634
+Não inclua comunicabilidade
+nem trabalho em equipe na lista.
+
+46
+00:02:03,667 --> 00:02:06,200
+Em vez disso, mostre que você
+é um bom comunicador
+
+47
+00:02:06,234 --> 00:02:10,400
+ou que trabalha bem em equipe
+na seção de experiências.
+
+48
+00:02:10,434 --> 00:02:11,834
+Vamos falar disso
+em seguida.
+
+49
+00:02:11,868 --> 00:02:12,869
+*END*
+

@@ -1,0 +1,188 @@
+1
+00:00:00,501 --> 00:00:02,836
+Bem-vindo à aula
+sobre a carta de apresentação.
+
+2
+00:00:02,878 --> 00:00:09,343
+A carta de apresentação é uma forma
+de se apresentar ao empregador
+
+3
+00:00:09,384 --> 00:00:11,136
+e contar,
+em suas próprias palavras,
+
+4
+00:00:11,178 --> 00:00:13,431
+por que você é perfeito
+para a vaga.
+
+5
+00:00:13,472 --> 00:00:15,974
+A carta de apresentação
+e o currículo
+
+6
+00:00:16,016 --> 00:00:19,686
+costumavam ser enviados
+por correio ou fax.
+
+7
+00:00:19,728 --> 00:00:22,606
+Atualmente,
+ela também acompanha o currículo,
+
+8
+00:00:22,648 --> 00:00:24,233
+mas é enviada por e-mail.
+
+9
+00:00:24,691 --> 00:00:27,569
+O modelo da carta de apresentação
+pode variar.
+
+10
+00:00:27,611 --> 00:00:29,947
+Às vezes ela é exigida,
+
+11
+00:00:29,988 --> 00:00:33,033
+às vezes é esperada,
+porém opcional.
+
+12
+00:00:33,075 --> 00:00:35,035
+Às vezes é opcional
+
+13
+00:00:35,077 --> 00:00:36,870
+e pode não parecer
+uma carta.
+
+14
+00:00:36,912 --> 00:00:39,748
+Eu enviei uma carta de apresentação
+para o Udacity,
+
+15
+00:00:39,790 --> 00:00:43,085
+porém tenho colegas que
+não enviaram informações pessoais
+
+16
+00:00:43,126 --> 00:00:46,255
+ou escreveram
+apenas um pequeno parágrafo.
+
+17
+00:00:46,296 --> 00:00:49,591
+Às vezes a carta de apresentação
+não é esperada nem solicitada,
+
+18
+00:00:49,633 --> 00:00:51,928
+mas você deve escrever
+uma breve apresentação.
+
+19
+00:00:51,969 --> 00:00:56,807
+Nos últimos 3 anos, enviei
+currículos para diversas empresas,
+
+20
+00:00:56,849 --> 00:00:59,434
+e sempre optei por enviar
+uma carta de apresentação.
+
+21
+00:00:59,476 --> 00:01:01,144
+Não escrevi todas do zero,
+
+22
+00:01:01,186 --> 00:01:04,773
+e sim editei uma cópia
+de uma carta que sempre envio
+
+23
+00:01:04,815 --> 00:01:07,609
+desde que comecei
+a trabalhar.
+
+24
+00:01:07,643 --> 00:01:10,612
+Não recebi uma oferta de trabalho
+de todas as empresas,
+
+25
+00:01:10,654 --> 00:01:14,324
+mas consegui uma entrevista
+com mais de 75% delas.
+
+26
+00:01:14,366 --> 00:01:16,201
+Cartas de apresentação
+realmente ajudam.
+
+27
+00:01:16,243 --> 00:01:18,745
+Após esta aula,
+você estará apto a lidar
+
+28
+00:01:18,787 --> 00:01:20,998
+com todos os tipos
+de exigências.
+
+29
+00:01:21,032 --> 00:01:23,750
+Antes de continuarmos,
+se não tiver concluído o curso
+
+30
+00:01:23,792 --> 00:01:25,544
+sobre realizar
+uma busca de trabalho,
+
+31
+00:01:25,586 --> 00:01:27,045
+ou precisar relembrar
+a matéria,
+
+32
+00:01:27,087 --> 00:01:29,006
+revise
+as três coisas necessárias
+
+33
+00:01:29,047 --> 00:01:31,133
+para procurar trabalho
+de forma efetiva.
+
+34
+00:01:31,175 --> 00:01:32,634
+Saiba o que quer.
+
+35
+00:01:32,676 --> 00:01:34,761
+Descubra
+o que o empregador quer.
+
+36
+00:01:34,803 --> 00:01:36,345
+Fique aberto
+a oportunidades.
+
+37
+00:01:36,680 --> 00:01:38,849
+Quando terminar,
+vamos começar.
+
+38
+00:01:38,891 --> 00:01:39,933
+*END*
+
+39
+00:01:39,975 --> 00:01:41,018
+*CODE*
+

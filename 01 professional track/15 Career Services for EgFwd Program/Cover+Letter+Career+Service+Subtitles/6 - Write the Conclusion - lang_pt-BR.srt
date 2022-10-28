@@ -1,0 +1,56 @@
+1
+00:00:00,918 --> 00:00:02,667
+Agora é a parte mais fácil.
+
+2
+00:00:02,709 --> 00:00:05,167
+A conclusão é a parte
+mais curta da carta
+
+3
+00:00:05,209 --> 00:00:07,667
+e a última impressão
+que você vai causar no empregador.
+
+4
+00:00:07,709 --> 00:00:09,667
+Resuma por que quer o cargo
+
+5
+00:00:09,709 --> 00:00:12,375
+e por que é a pessoa ideal
+para a vaga.
+
+6
+00:00:12,409 --> 00:00:14,501
+Lembre-se contar
+detalhes importantes.
+
+7
+00:00:14,542 --> 00:00:16,792
+Como, por exemplo,
+se você estiver viajando
+
+8
+00:00:16,834 --> 00:00:20,083
+e não puder ser entrevistado
+até certo dia.
+
+9
+00:00:20,125 --> 00:00:23,751
+E, claro, agradeça pelo tempo gasto
+e pela consideração.
+
+10
+00:00:23,792 --> 00:00:26,542
+Humildade e gratidão
+fazem muita diferença.
+
+11
+00:00:26,584 --> 00:00:27,626
+*END*
+
+12
+00:00:27,667 --> 00:00:28,709
+*CODE*
+

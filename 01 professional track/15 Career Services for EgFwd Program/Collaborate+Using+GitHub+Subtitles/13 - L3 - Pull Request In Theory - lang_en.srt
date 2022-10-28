@@ -1,0 +1,108 @@
+1
+00:00:00,000 --> 00:00:02,640
+Let's say this repository exists with
+
+2
+00:00:02,640 --> 00:00:06,890
+three commits and the master branches pointing at the last commit that was made.
+
+3
+00:00:06,889 --> 00:00:11,824
+Now, one thing to note: the orientation of these commits doesn't really matter here.
+
+4
+00:00:11,824 --> 00:00:14,724
+Typically I've been showing them as going horizontally,
+
+5
+00:00:14,724 --> 00:00:16,859
+but I had to switch them to a vertical so that I could
+
+6
+00:00:16,859 --> 00:00:19,945
+display all of the necessary information.
+
+7
+00:00:19,945 --> 00:00:21,655
+Now, this repository isn't ours.
+
+8
+00:00:21,655 --> 00:00:23,310
+It's some other developer's.
+
+9
+00:00:23,309 --> 00:00:25,625
+So we decide to fork it.
+
+10
+00:00:25,625 --> 00:00:27,859
+Remember that when you fork a repository,
+
+11
+00:00:27,859 --> 00:00:30,079
+you create an identical copy.
+
+12
+00:00:30,079 --> 00:00:31,459
+So these two repositories will have
+
+13
+00:00:31,460 --> 00:00:35,674
+the exact same commits and their branches will be pointing at the same commits.
+
+14
+00:00:35,674 --> 00:00:39,848
+Now to create a poll request we need some new commits in our fork.
+
+15
+00:00:39,848 --> 00:00:42,934
+So we clone our fork down to our local machine.
+
+16
+00:00:42,935 --> 00:00:48,020
+Let's create a bug fix branch and make a few commits to clean things up.
+
+17
+00:00:48,020 --> 00:00:51,830
+Now let's push the bug fix branch back to our fork to
+
+18
+00:00:51,829 --> 00:00:56,140
+get these new commits up on our remote repository.
+
+19
+00:00:56,140 --> 00:00:58,049
+We've done all the prep work now needed for
+
+20
+00:00:58,049 --> 00:01:00,824
+a pull request by pushing changes to our fork,
+
+21
+00:01:00,825 --> 00:01:04,075
+and now is when we'd actually create a pull request.
+
+22
+00:01:04,075 --> 00:01:06,859
+We'll look at how to do this on GitHub in just a second.
+
+23
+00:01:06,859 --> 00:01:10,929
+If the pull request is accepted by the original repository's maintainer,
+
+24
+00:01:10,929 --> 00:01:13,924
+the commits will be added to their repository.
+
+25
+00:01:13,924 --> 00:01:17,700
+A merge commit will be created combining our new commits with
+
+26
+00:01:17,700 --> 00:01:20,100
+their existing commits and
+
+27
+00:01:20,099 --> 00:01:24,000
+their master branch will move to point to this new merged commit.
+

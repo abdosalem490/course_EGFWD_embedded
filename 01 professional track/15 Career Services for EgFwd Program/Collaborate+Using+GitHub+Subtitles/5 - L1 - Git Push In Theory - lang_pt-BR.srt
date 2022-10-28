@@ -1,0 +1,42 @@
+1
+00:00:00,367 --> 00:00:02,667
+Nós temos o repositório local
+aqui embaixo
+
+2
+00:00:02,700 --> 00:00:05,033
+e o remoto aqui em cima.
+
+3
+00:00:06,400 --> 00:00:10,333
+O local tem estes commits
+no branch master,
+
+4
+00:00:10,367 --> 00:00:13,400
+mas o remoto está vazio.
+
+5
+00:00:13,433 --> 00:00:17,000
+Como passamos os commits
+do repositório local
+
+6
+00:00:17,033 --> 00:00:19,767
+para o remoto?
+
+7
+00:00:19,800 --> 00:00:22,900
+Nós podemos fazer isso
+com o comando git push.
+
+8
+00:00:22,933 --> 00:00:25,867
+Isso pegará todos os commits
+do repositório local
+
+9
+00:00:25,900 --> 00:00:29,433
+e os enviará ou os empurrará
+para o remoto.
+

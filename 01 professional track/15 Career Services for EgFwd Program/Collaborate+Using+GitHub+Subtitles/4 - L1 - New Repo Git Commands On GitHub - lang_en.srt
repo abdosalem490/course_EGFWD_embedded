@@ -1,0 +1,104 @@
+1
+00:00:00,000 --> 00:00:02,174
+After creating a new repository,
+
+2
+00:00:02,174 --> 00:00:05,400
+we're presented with this quick setup page.
+
+3
+00:00:05,400 --> 00:00:10,740
+The first thing we see is that we can choose either the HTTPS URL or the SSH version.
+
+4
+00:00:10,740 --> 00:00:15,754
+Clicking on the SSH version changes this URL here and then these URL's down here.
+
+5
+00:00:15,755 --> 00:00:18,495
+We're just going to switch back to HTTPS.
+
+6
+00:00:18,495 --> 00:00:20,820
+If you want any information about the SSH URL and
+
+7
+00:00:20,820 --> 00:00:24,210
+how to work with all that, check below the video.
+
+8
+00:00:24,210 --> 00:00:27,900
+The next section down here is what to do with a new repository.
+
+9
+00:00:27,899 --> 00:00:31,409
+We have an existing repository which will look at in just a second.
+
+10
+00:00:31,410 --> 00:00:36,570
+But if you want to create your remote repository on GitHub you can do that first,
+
+11
+00:00:36,570 --> 00:00:38,310
+and then you'd follow these commands.
+
+12
+00:00:38,310 --> 00:00:42,195
+So this first line would create a README file with a simple heading,
+
+13
+00:00:42,195 --> 00:00:43,859
+then you'd initialized git,
+
+14
+00:00:43,859 --> 00:00:46,260
+add that README file, commit it,
+
+15
+00:00:46,259 --> 00:00:50,869
+and then create a link to this remote repository.
+
+16
+00:00:50,869 --> 00:00:53,459
+We're not going to be looking at the new repository section
+
+17
+00:00:53,460 --> 00:00:56,929
+since we already have an existing repository, so let's check that out.
+
+18
+00:00:56,929 --> 00:00:59,070
+Now if you notice these two lines right here are
+
+19
+00:00:59,070 --> 00:01:01,865
+the exact same one as these two lines right here.
+
+20
+00:01:01,865 --> 00:01:03,420
+So when you start with a new repository,
+
+21
+00:01:03,420 --> 00:01:07,775
+you have these initial commands to run and then you run these lines right here.
+
+22
+00:01:07,775 --> 00:01:10,800
+If you already have an existing repository you would just run these lines right here.
+
+23
+00:01:10,799 --> 00:01:11,819
+So this first line,
+
+24
+00:01:11,819 --> 00:01:14,743
+it creates a connection to the remote repository upon GitHub.
+
+25
+00:01:14,743 --> 00:01:18,096
+We'll look at pushing in the next section,
+
+26
+00:01:18,096 --> 00:01:22,000
+but for now, just copy the top line and run it in your terminal.
+

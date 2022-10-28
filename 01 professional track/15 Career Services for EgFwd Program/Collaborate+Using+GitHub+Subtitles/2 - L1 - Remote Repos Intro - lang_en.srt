@@ -1,0 +1,112 @@
+1
+00:00:00,000 --> 00:00:02,959
+We're using git to keep track of our projects.
+
+2
+00:00:02,959 --> 00:00:04,753
+Now that's great for working locally,
+
+3
+00:00:04,753 --> 00:00:07,574
+but to be able to share this local repository with others,
+
+4
+00:00:07,575 --> 00:00:09,300
+we'll need another tool.
+
+5
+00:00:09,300 --> 00:00:11,554
+The tool we'll be using is GitHub.
+
+6
+00:00:11,554 --> 00:00:15,820
+GitHub is a service for hosting version control repositories.
+
+7
+00:00:15,820 --> 00:00:18,304
+Now even though their names are very similar,
+
+8
+00:00:18,304 --> 00:00:21,420
+git and GitHub are quite different.
+
+9
+00:00:21,420 --> 00:00:23,219
+Git is the tool you use to manage
+
+10
+00:00:23,219 --> 00:00:27,094
+the repository and you use git primarily on the command line.
+
+11
+00:00:27,094 --> 00:00:32,274
+Now GitHub is the hosting service which you typically interact with inside your browser.
+
+12
+00:00:32,274 --> 00:00:36,015
+We'll send a copy of our local repository up to GitHub.
+
+13
+00:00:36,015 --> 00:00:38,413
+This copy is not on our local machine,
+
+14
+00:00:38,412 --> 00:00:41,169
+so it's called a remote repository.
+
+15
+00:00:41,170 --> 00:00:43,905
+The main commands we'll be looking at in this lesson are:
+
+16
+00:00:43,905 --> 00:00:46,978
+git remote - to manage the remote repository,
+
+17
+00:00:46,978 --> 00:00:50,129
+git push - to send changes up to the remote,
+
+18
+00:00:50,130 --> 00:00:52,200
+and then we'll be looking at git pull which will
+
+19
+00:00:52,200 --> 00:00:55,200
+retrieve updates from the remote repository.
+
+20
+00:00:55,200 --> 00:00:57,509
+These commands, push and pull,
+
+21
+00:00:57,509 --> 00:00:59,185
+might not make a lot of sense at first,
+
+22
+00:00:59,185 --> 00:01:02,530
+but think of these from the standpoint of your local machine.
+
+23
+00:01:02,530 --> 00:01:07,831
+You've got changes in your local repository that you want to be in the remote repository,
+
+24
+00:01:07,831 --> 00:01:10,468
+so you'll push the changes to the remote.
+
+25
+00:01:10,468 --> 00:01:14,548
+But if there are changes on the remote repository that you want in your local one,
+
+26
+00:01:14,549 --> 00:01:18,019
+you need to pull those changes down.
+
+27
+00:01:18,019 --> 00:01:20,969
+So these are the three commands we'll be looking at in this lesson.
+
+28
+00:01:20,968 --> 00:01:25,000
+Let's start out by digging into what a remote repository actually is.
+

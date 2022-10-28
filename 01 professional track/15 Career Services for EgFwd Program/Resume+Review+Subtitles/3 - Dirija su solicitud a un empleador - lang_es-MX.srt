@@ -1,0 +1,327 @@
+1
+00:00:00,300 --> 00:00:02,200
+¿Ya le han pedido
+que haga un trabajo
+
+2
+00:00:02,234 --> 00:00:06,868
+sin darle instrucciones sobre
+la forma y el contenido?
+
+3
+00:00:06,902 --> 00:00:09,367
+Imagínese si Udacity le pidiera
+que creara un proyecto
+
+4
+00:00:09,401 --> 00:00:11,033
+y no le diera
+ninguna orientación.
+
+5
+00:00:11,067 --> 00:00:13,200
+Con seguridad
+sería frustrante.
+
+6
+00:00:13,234 --> 00:00:16,534
+Saber lo que el empleador quiere
+ayuda en la fase de preparación,
+
+7
+00:00:16,568 --> 00:00:18,535
+facilitando la elaboración
+del currículum
+
+8
+00:00:18,569 --> 00:00:20,234
+y la práctica
+para la entrevista.
+
+9
+00:00:20,268 --> 00:00:23,567
+Es importante que desempeñe
+una función necesaria
+
+10
+00:00:23,601 --> 00:00:26,300
+y que ayude a la empresa
+a alcanzar sus objetivos.
+
+11
+00:00:26,334 --> 00:00:29,334
+El mejor empleado
+no tiene solo competencia,
+
+12
+00:00:29,368 --> 00:00:31,634
+sino pasión por lo que hace.
+
+13
+00:00:31,668 --> 00:00:32,801
+Vea a Udacity.
+
+14
+00:00:32,835 --> 00:00:36,200
+A todos los que trabajan aquí
+les encanta la educación.
+
+15
+00:00:36,234 --> 00:00:38,100
+Aunque sea
+excelente en su área,
+
+16
+00:00:38,134 --> 00:00:40,033
+si no tiene interés
+en la educación,
+
+17
+00:00:40,067 --> 00:00:42,567
+no encajará
+con el perfil de esta empresa.
+
+18
+00:00:42,601 --> 00:00:45,601
+Vamos a hablar sobre cómo descubrir
+lo que la empresa quiere
+
+19
+00:00:45,635 --> 00:00:49,167
+y cómo comunicar eso
+al escribir sobre usted.
+
+20
+00:00:49,201 --> 00:00:51,767
+Estoy en la página de empleos
+de Udacity.com.
+
+21
+00:00:51,801 --> 00:00:53,868
+Antes incluso
+de buscar una vacante,
+
+22
+00:00:53,902 --> 00:00:56,000
+puedo deducir qué tipo
+de trabajo tendría.
+
+23
+00:00:56,034 --> 00:00:58,934
+Por ejemplo, Udacity está
+contratando en varios países
+
+24
+00:00:58,968 --> 00:01:01,501
+para difundir internacionalmente
+productos y programas.
+
+25
+00:01:01,535 --> 00:01:03,903
+Yo pondría en el CV
+o en la carta de presentación
+
+26
+00:01:03,937 --> 00:01:06,703
+toda la experiencia que tuve
+con equipos internacionales
+
+27
+00:01:06,737 --> 00:01:09,834
+y cómo solucioné problemas
+relacionados con la logística
+
+28
+00:01:09,868 --> 00:01:13,167
+debido a diferencias
+de huso horario, por ejemplo.
+
+29
+00:01:13,201 --> 00:01:16,767
+Veo palabras como "comunidad",
+"aliado" y "tutoría".
+
+30
+00:01:16,801 --> 00:01:17,968
+Eso me transmite que Udacity
+
+31
+00:01:18,002 --> 00:01:20,934
+quiere formar una comunidad global
+con sus alumnos.
+
+32
+00:01:20,968 --> 00:01:24,501
+Entonces voy a incluir en mi CV
+mi pasión por unir personas.
+
+33
+00:01:24,535 --> 00:01:27,734
+Creo que ya tengo una idea clara
+de qué es importante para Udacity,
+
+34
+00:01:27,768 --> 00:01:31,501
+pero a veces no queda claro
+lo que una empresa busca.
+
+35
+00:01:31,535 --> 00:01:34,501
+Visitar el sitio web
+generalmente ayuda.
+
+36
+00:01:34,535 --> 00:01:38,400
+Ahora estoy en la página inicial,
+y las palabras que aparecen son:
+
+37
+00:01:38,434 --> 00:01:40,667
+"innovación",
+"comunidad estudiantil",
+
+38
+00:01:40,701 --> 00:01:43,367
+"reconocimiento de mercado",
+"datos", "movilidad",
+
+39
+00:01:43,401 --> 00:01:45,334
+"cara a cara",
+"listo para el mercado".
+
+40
+00:01:45,368 --> 00:01:48,767
+Eso ayuda con la pregunta
+que responderé en la presentación
+
+41
+00:01:48,801 --> 00:01:51,000
+y que con seguridad
+me harán en la entrevista:
+
+42
+00:01:51,034 --> 00:01:53,701
+"Por qué usted quiere
+trabajar en Udacity?"
+
+43
+00:01:53,735 --> 00:01:56,234
+Puedo decir que quiero
+usar mis habilidades
+
+44
+00:01:56,268 --> 00:01:58,367
+para ayudar a personalizar
+la educación a distancia,
+
+45
+00:01:58,401 --> 00:02:00,434
+conectando a los alumnos
+con personas reales.
+
+46
+00:02:00,468 --> 00:02:03,033
+O que es porque el programa
+de Udacity no solo enseña,
+
+47
+00:02:03,067 --> 00:02:05,934
+también ayuda al alumno a encontrar
+empleo en un sector en crecimiento.
+
+48
+00:02:05,968 --> 00:02:08,334
+Este ejercicio tomó
+solo algunos minutos,
+
+49
+00:02:08,368 --> 00:02:10,133
+pero fue muy inspirador.
+
+50
+00:02:10,167 --> 00:02:12,968
+Antes tal vez iba a creer
+que lo ideal de Udacity
+
+51
+00:02:13,002 --> 00:02:15,734
+era crear contenido de calidad
+para firmas de tecnología.
+
+52
+00:02:15,768 --> 00:02:16,968
+Ese es un objetivo,
+
+53
+00:02:17,002 --> 00:02:20,834
+pero su misión parece ser
+posibilitar la educación en el mundo
+
+54
+00:02:20,868 --> 00:02:24,133
+y ayudar a alumnos
+a encontrar trabajo.
+
+55
+00:02:24,167 --> 00:02:25,934
+Estar en sintonía
+los ideales de la empresa
+
+56
+00:02:25,968 --> 00:02:28,567
+hace la diferencia entre
+estar calificado para el servicio
+
+57
+00:02:28,601 --> 00:02:30,868
+y conseguir la vacante.
+
+58
+00:02:30,902 --> 00:02:35,234
+Quizá quiera un área que no necesite
+tanta formación.
+
+59
+00:02:35,268 --> 00:02:38,133
+Mostrar que usted entiende
+lo que es importante para la empresa
+
+60
+00:02:38,167 --> 00:02:41,567
+y que hará todo lo posible
+para realizar sus ideales
+
+61
+00:02:41,601 --> 00:02:45,601
+deja al empleador más dispuesto
+a correr riesgos y a contratarlo.
+
+62
+00:02:45,635 --> 00:02:46,868
+Sucedió así conmigo.
+
+63
+00:02:46,902 --> 00:02:49,633
+En uno de mis primeros trabajos,
+mi jefe dijo que yo tenía
+
+64
+00:02:49,667 --> 00:02:52,968
+menos experiencia que todos
+los otros entrevistados.
+
+65
+00:02:53,002 --> 00:02:55,767
+Pero que estaba
+tan animada con el trabajo
+
+66
+00:02:55,801 --> 00:02:58,667
+que ella confió en mi valor
+para la empresa
+
+67
+00:02:58,701 --> 00:03:00,000
+y me contrató.
+

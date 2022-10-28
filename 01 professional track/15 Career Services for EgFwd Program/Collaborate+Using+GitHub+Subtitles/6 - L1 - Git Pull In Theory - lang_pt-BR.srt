@@ -1,0 +1,63 @@
+1
+00:00:00,267 --> 00:00:03,000
+O repositório local
+possui cinco commits,
+
+2
+00:00:03,033 --> 00:00:06,000
+e o remoto possui
+seis commits.
+
+3
+00:00:06,033 --> 00:00:10,867
+No local, o branch origin/master
+está apontando para e,
+
+4
+00:00:10,900 --> 00:00:15,433
+mas, no remoto, o branch master
+está um commit à frente do e.
+
+5
+00:00:15,467 --> 00:00:18,800
+Como o master do remoto está
+apontando para o commit 7,
+
+6
+00:00:18,833 --> 00:00:21,633
+estes dois repositórios
+não estão sincronizados.
+
+7
+00:00:21,667 --> 00:00:25,000
+Nós precisamos sincronizar
+o local com o remoto.
+
+8
+00:00:25,033 --> 00:00:29,900
+Para isso, executamos git pull,
+o nome do remoto -
+
+9
+00:00:29,933 --> 00:00:31,900
+que neste caso é origin -
+
+10
+00:00:31,933 --> 00:00:35,067
+e o branch a ser puxado,
+master.
+
+11
+00:00:35,100 --> 00:00:38,633
+Isso puxará o commit
+do branch origin/master
+
+12
+00:00:38,667 --> 00:00:41,500
+e criará um merge
+no nosso branch local,
+
+13
+00:00:41,533 --> 00:00:43,000
+que se moverá para frente.
+

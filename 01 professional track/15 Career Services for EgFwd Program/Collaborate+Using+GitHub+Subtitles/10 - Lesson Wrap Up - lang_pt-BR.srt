@@ -1,0 +1,50 @@
+1
+00:00:00,273 --> 00:00:02,991
+Entender o que é
+um repositório remoto
+
+2
+00:00:03,033 --> 00:00:05,343
+e como obter ou enviar
+alterações
+
+3
+00:00:05,385 --> 00:00:07,840
+está na base
+do trabalho colaborativo.
+
+4
+00:00:07,882 --> 00:00:11,632
+Usamos o git remote para gerenciar
+um repositório remoto,
+
+5
+00:00:11,674 --> 00:00:14,368
+o git push
+para enviar as alterações,
+
+6
+00:00:14,410 --> 00:00:16,736
+o git fetch
+para obter atualizações
+
+7
+00:00:16,778 --> 00:00:18,735
+e o git pull
+para obter atualizações
+
+8
+00:00:18,777 --> 00:00:23,360
+e criar um merge das alterações
+em um branch local.
+
+9
+00:00:23,402 --> 00:00:26,673
+Agora que vimos os fundamentos
+de como trabalhar remotamente,
+
+10
+00:00:26,715 --> 00:00:29,862
+vamos trabalhar com o repositório
+de outros desenvolvedores.
+

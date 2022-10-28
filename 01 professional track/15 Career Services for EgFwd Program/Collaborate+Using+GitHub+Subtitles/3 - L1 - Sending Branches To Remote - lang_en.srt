@@ -1,0 +1,52 @@
+1
+00:00:00,000 --> 00:00:04,004
+Let's say that our local repository has these branches in it.
+
+2
+00:00:04,004 --> 00:00:08,844
+Master, footer fix, and bugfix-login-form.
+
+3
+00:00:08,845 --> 00:00:10,075
+These branches are local,
+
+4
+00:00:10,074 --> 00:00:12,509
+meaning they exist only on our machine and are
+
+5
+00:00:12,509 --> 00:00:16,000
+not shared with other developers using the repository.
+
+6
+00:00:16,000 --> 00:00:18,410
+When we create a remote repository,
+
+7
+00:00:18,410 --> 00:00:20,390
+it starts out empty, typically.
+
+8
+00:00:20,390 --> 00:00:24,975
+To get the commits that are on these branches over to the remote repository,
+
+9
+00:00:24,975 --> 00:00:26,760
+we need to send them over.
+
+10
+00:00:26,760 --> 00:00:28,370
+We can do this in two ways,
+
+11
+00:00:28,370 --> 00:00:32,179
+we can merge footer fix and bugfix-login-form into
+
+12
+00:00:32,179 --> 00:00:36,000
+master and just send master to the remote repository,
+
+13
+00:00:36,000 --> 00:00:40,000
+or we can send all three branches to the remote repository.
+

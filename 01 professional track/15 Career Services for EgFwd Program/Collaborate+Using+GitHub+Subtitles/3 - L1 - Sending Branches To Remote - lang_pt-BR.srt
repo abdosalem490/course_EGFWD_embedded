@@ -1,0 +1,61 @@
+1
+00:00:00,333 --> 00:00:04,067
+Imagine que nosso repositório local
+possui estes branches:
+
+2
+00:00:04,100 --> 00:00:08,800
+master, footer-fix
+e o bugfix-login-form.
+
+3
+00:00:08,833 --> 00:00:12,267
+Eles são locais,
+só existem na nossa máquina
+
+4
+00:00:12,300 --> 00:00:15,600
+e não são compartilhados
+com outros desenvolvedores.
+
+5
+00:00:16,300 --> 00:00:20,667
+Ao criarmos um repositório
+remoto, ele começará vazio.
+
+6
+00:00:20,700 --> 00:00:22,900
+Para levarmos os commits
+dos branches
+
+7
+00:00:22,933 --> 00:00:24,900
+para o repositório remoto,
+
+8
+00:00:24,933 --> 00:00:26,600
+nós precisamos enviá-los.
+
+9
+00:00:26,633 --> 00:00:28,500
+Podemos fazer isso
+de duas formas:
+
+10
+00:00:28,533 --> 00:00:32,867
+podemos fundir o footer-fix
+e o bugfix em um master
+
+11
+00:00:32,900 --> 00:00:35,700
+e enviá-lo para o repositório
+
+12
+00:00:35,733 --> 00:00:37,767
+ou podemos enviar
+os três branches
+
+13
+00:00:37,800 --> 00:00:39,367
+para o repositório remoto.
+

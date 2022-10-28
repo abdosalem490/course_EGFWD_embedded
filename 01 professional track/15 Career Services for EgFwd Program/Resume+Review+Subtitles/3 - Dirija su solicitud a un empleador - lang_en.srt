@@ -1,0 +1,272 @@
+1
+00:00:00,570 --> 00:00:03,899
+Have you ever been asked to do
+something, and then given no guidelines
+
+2
+00:00:03,899 --> 00:00:06,949
+on what it should look like or
+what you should include?
+
+3
+00:00:06,950 --> 00:00:09,589
+Imagine if you'd asked the Udacity
+ask you to complete a project and
+
+4
+00:00:09,589 --> 00:00:10,890
+gave you no free break.
+
+5
+00:00:10,890 --> 00:00:12,210
+I'm sure that would be frustrating.
+
+6
+00:00:13,310 --> 00:00:16,519
+Knowing what the employer wants gives
+you direction in your application, and
+
+7
+00:00:16,519 --> 00:00:20,280
+will make it easier for you to edit your
+resume and prepare for the interview.
+
+8
+00:00:20,280 --> 00:00:23,850
+You want to be someone who can perform
+the necessary job functions, and
+
+9
+00:00:23,850 --> 00:00:26,370
+help drive the mission and
+goals of the company.
+
+10
+00:00:26,370 --> 00:00:30,200
+The best employee not only has the
+technical proficiencies, but passion for
+
+11
+00:00:30,199 --> 00:00:31,699
+the job they're doing.
+
+12
+00:00:31,699 --> 00:00:36,320
+Take Udacity, everyone who works at
+Udacity is passionate about education.
+
+13
+00:00:36,320 --> 00:00:39,639
+Even if you are a leader in your
+field if you aren't interested in
+
+14
+00:00:39,639 --> 00:00:42,418
+education you'll not be a good fit for
+this company.
+
+15
+00:00:42,417 --> 00:00:46,475
+Let's walk through how you would find
+out what the employer is looking for and
+
+16
+00:00:46,475 --> 00:00:49,173
+how you can communicate
+that in your application.
+
+17
+00:00:49,173 --> 00:00:51,799
+I'm currently on the jobs
+page of Udacity.com.
+
+18
+00:00:51,799 --> 00:00:55,365
+Before I even open a job posting I
+can make inferences about the job.
+
+19
+00:00:55,365 --> 00:00:58,789
+For example,
+Udacity is hiring in multiple countries,
+
+20
+00:00:58,789 --> 00:01:01,649
+so their products and
+programs are international.
+
+21
+00:01:01,649 --> 00:01:05,090
+I'd make sure to include in my resume or
+cover letter, any past experiences
+
+22
+00:01:05,090 --> 00:01:08,480
+working with international teams and how
+I resolved conflicts that may come up
+
+23
+00:01:08,480 --> 00:01:11,780
+from logistics in collaborating across
+different time zones, for example.
+
+24
+00:01:13,230 --> 00:01:16,780
+I also see words like community,
+partner, and mentorship a lot.
+
+25
+00:01:16,780 --> 00:01:19,820
+That tells me Udacity is looking
+to build a worldwide community for
+
+26
+00:01:19,819 --> 00:01:20,949
+its students.
+
+27
+00:01:20,950 --> 00:01:23,719
+So I want to include in my application
+my passion for connecting people.
+
+28
+00:01:23,719 --> 00:01:27,929
+I think I have a pretty clear idea
+about what's important to Udacity, but
+
+29
+00:01:27,930 --> 00:01:31,510
+sometimes it's not clear immediately
+what a company is looking for.
+
+30
+00:01:31,510 --> 00:01:33,379
+Browsing through the rest of
+the website usually helps.
+
+31
+00:01:34,590 --> 00:01:38,469
+Now, I'm on the home page and the words
+that pop out as I'm scrolling down are,
+
+32
+00:01:38,469 --> 00:01:42,996
+innovation, student community,
+industry-recognized, data, mobile,
+
+33
+00:01:42,996 --> 00:01:45,359
+face-to-face, job-ready.
+
+34
+00:01:45,359 --> 00:01:48,760
+This helps me answer the question that I
+will want to address in my cover letter,
+
+35
+00:01:48,760 --> 00:01:51,070
+and will definitely be
+asked in an interview.
+
+36
+00:01:51,069 --> 00:01:52,529
+Why do you want to work at Udacity?
+
+37
+00:01:54,359 --> 00:01:57,510
+I may answer that I want to use my
+skills to help make online education
+
+38
+00:01:57,510 --> 00:02:01,170
+more personable by connecting students
+to real people or make sure Udacity
+
+39
+00:02:01,170 --> 00:02:05,890
+curriculum not only teaches students but
+helps them get a job in emerging field.
+
+40
+00:02:05,890 --> 00:02:10,159
+This exercise took only a couple
+minutes but was really insightful.
+
+41
+00:02:10,159 --> 00:02:13,139
+Before doing this, I may have
+assumed Udacity's mission was to
+
+42
+00:02:13,139 --> 00:02:15,750
+produce quality content
+with top tech companies.
+
+43
+00:02:15,750 --> 00:02:19,240
+Sure, that's a goal, but their mission
+seems to be about making education
+
+44
+00:02:19,240 --> 00:02:24,189
+accessible worldwide and making sure
+that education helps students get jobs.
+
+45
+00:02:24,189 --> 00:02:27,419
+Being able to connect to a company's
+mission is the difference between being
+
+46
+00:02:27,419 --> 00:02:29,639
+qualified for the job and
+landing the job offer.
+
+47
+00:02:31,169 --> 00:02:34,209
+You may also want to pursue jobs that
+you may not have the experience or
+
+48
+00:02:34,210 --> 00:02:35,360
+background for.
+
+49
+00:02:35,360 --> 00:02:38,210
+Showing that you understand what's
+important to the company and
+
+50
+00:02:38,210 --> 00:02:41,719
+that you're going to do everything
+you can to help drive the mission
+
+51
+00:02:41,719 --> 00:02:45,650
+makes the employer more inclined to take
+a chance on you and hire you anyway.
+
+52
+00:02:45,650 --> 00:02:47,080
+That worked for me.
+
+53
+00:02:47,080 --> 00:02:50,110
+At one of my first jobs,
+my boss told me that I had the least
+
+54
+00:02:50,110 --> 00:02:53,110
+amount of experience out of
+everyone they interviewed.
+
+55
+00:02:53,110 --> 00:02:56,870
+However, I was so excited about the work
+they were doing that she was confident I
+
+56
+00:02:56,870 --> 00:02:59,450
+would be valuable to
+the organization and she hired me.
+

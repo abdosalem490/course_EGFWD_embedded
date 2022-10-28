@@ -1,0 +1,60 @@
+1
+00:00:00,000 --> 00:00:03,435
+The git rebase comment is a tricky beast.
+
+2
+00:00:03,435 --> 00:00:06,870
+If you do a search for it on the web you'll see a lot of warnings
+
+3
+00:00:06,870 --> 00:00:10,995
+about how this command is dangerous and can destroy your repository.
+
+4
+00:00:10,994 --> 00:00:14,160
+And that isn't a surefire way to prevent you from trying it out,
+
+5
+00:00:14,160 --> 00:00:15,810
+I don't know what is.
+
+6
+00:00:15,810 --> 00:00:18,600
+The truth is the tool is powerful and can
+
+7
+00:00:18,600 --> 00:00:21,825
+wipe out a chunk of your repository in just a few steps,
+
+8
+00:00:21,824 --> 00:00:25,629
+but it's not as dangerous as you've been led to believe.
+
+9
+00:00:25,629 --> 00:00:30,570
+It's almost impossible to destroy a git repository when you're using the git commands.
+
+10
+00:00:30,570 --> 00:00:34,334
+We'll be using git rebase to do something called squashing.
+
+11
+00:00:34,334 --> 00:00:39,850
+Squashing is just taking a number of commits and combining them into one single commit.
+
+12
+00:00:39,850 --> 00:00:42,270
+Let's say that you've been working on a new feature in
+
+13
+00:00:42,270 --> 00:00:45,685
+the last three commits you had were all little typo changes.
+
+14
+00:00:45,685 --> 00:00:47,730
+With git rebase, you can combine
+
+15
+00:00:47,729 --> 00:00:51,599
+these three commits into one larger commit. Let's take a look.
+

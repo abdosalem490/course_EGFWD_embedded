@@ -1,0 +1,146 @@
+1
+00:00:00,202 --> 00:00:02,835
+Nós utilizamos o Git
+para rastrear nossos projetos.
+
+2
+00:00:02,869 --> 00:00:04,934
+Ele é bom quando trabalhamos
+localmente,
+
+3
+00:00:04,968 --> 00:00:07,600
+mas para podermos compartilhar
+o repositório local,
+
+4
+00:00:07,634 --> 00:00:09,501
+precisaremos
+de outra ferramenta.
+
+5
+00:00:09,534 --> 00:00:11,601
+Essa ferramenta é o GitHub.
+
+6
+00:00:11,634 --> 00:00:13,634
+Ela é um serviço
+de hospedagem
+
+7
+00:00:13,667 --> 00:00:15,801
+de repositórios
+de controle de versão.
+
+8
+00:00:15,834 --> 00:00:18,000
+Mesmo tendo nomes parecidos,
+
+9
+00:00:18,033 --> 00:00:21,133
+Git e GitHub são diferentes.
+
+10
+00:00:21,167 --> 00:00:24,033
+Git é a ferramenta
+para gerenciar o repositório,
+
+11
+00:00:24,067 --> 00:00:27,267
+e você a utiliza principalmente
+na linha de comando.
+
+12
+00:00:27,300 --> 00:00:29,234
+O GitHub é um serviço
+de hospedagem
+
+13
+00:00:29,267 --> 00:00:32,701
+com o qual você interage
+do seu navegador.
+
+14
+00:00:32,734 --> 00:00:36,133
+Nós enviaremos uma cópia
+do repositório para o GitHub.
+
+15
+00:00:36,167 --> 00:00:38,200
+Ela não está
+na nossa máquina local,
+
+16
+00:00:38,234 --> 00:00:41,200
+então a chamamos
+de "repositório remoto".
+
+17
+00:00:41,234 --> 00:00:43,868
+Os comandos principais serão:
+
+18
+00:00:43,901 --> 00:00:46,901
+git remote, para gerenciar
+o repositório remoto,
+
+19
+00:00:46,934 --> 00:00:50,334
+git push, para enviar alterações
+para o remoto,
+
+20
+00:00:50,367 --> 00:00:55,167
+e o git pull, que recupera
+atualizações do repositório remoto.
+
+21
+00:00:55,200 --> 00:00:59,033
+Os comandos push e pull podem
+não fazer muito sentido,
+
+22
+00:00:59,067 --> 00:01:02,801
+mas pense
+na sua máquina local.
+
+23
+00:01:02,834 --> 00:01:05,100
+Você faz alterações
+no seu repositório local
+
+24
+00:01:05,133 --> 00:01:07,767
+e quer que elas estejam
+no repositório remoto,
+
+25
+00:01:07,801 --> 00:01:10,567
+então empurra as alterações
+para o remoto.
+
+26
+00:01:10,601 --> 00:01:12,935
+Mas se houver mudanças
+no repositório remoto
+
+27
+00:01:12,967 --> 00:01:14,967
+que você quer que estejam
+no seu local,
+
+28
+00:01:15,001 --> 00:01:17,934
+você precisará puxar
+as alterações.
+
+29
+00:01:17,968 --> 00:01:20,868
+Estes são os três comandos
+desta aula.
+
+30
+00:01:20,901 --> 00:01:24,868
+Vamos começar apresentando
+o que é um "repositório remoto".
+

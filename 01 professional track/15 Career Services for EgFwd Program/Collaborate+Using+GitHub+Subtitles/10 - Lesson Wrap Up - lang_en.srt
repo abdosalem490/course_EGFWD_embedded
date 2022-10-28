@@ -1,0 +1,32 @@
+1
+00:00:00,000 --> 00:00:05,519
+Understanding what a remote repository is and how to get and send changes to one,
+
+2
+00:00:05,519 --> 00:00:08,099
+is at the heart of working collaboratively.
+
+3
+00:00:08,099 --> 00:00:11,459
+We looked at GIT remote to manage a remote repository,
+
+4
+00:00:11,460 --> 00:00:13,966
+GIT push to send the changes,
+
+5
+00:00:13,965 --> 00:00:18,030
+GIT fetch to retrieve updates and GIT pull to
+
+6
+00:00:18,030 --> 00:00:23,554
+retrieve updates and automatically merge those changes into a local branch.
+
+7
+00:00:23,554 --> 00:00:26,734
+Now that we have the solid foundation of working with remotes,
+
+8
+00:00:26,734 --> 00:00:30,000
+let's start working with another developer's repository.
+

@@ -1,0 +1,144 @@
+1
+00:00:00,410 --> 00:00:03,424
+Digamos que este repositório
+exista com três commits.
+
+2
+00:00:03,458 --> 00:00:06,803
+O branch master está apontando
+para o último commit feito.
+
+3
+00:00:06,837 --> 00:00:08,245
+Algo a observar:
+
+4
+00:00:08,279 --> 00:00:11,868
+a orientação desses commits
+não importa aqui.
+
+5
+00:00:11,902 --> 00:00:14,831
+Costumo mostrá-los
+horizontalmente,
+
+6
+00:00:14,865 --> 00:00:16,574
+mas tive que mudá-los
+para vertical
+
+7
+00:00:16,608 --> 00:00:19,277
+para poder exibir
+todas as informações necessárias.
+
+8
+00:00:19,806 --> 00:00:23,240
+Este repositório não é nosso.
+É de outro desenvolvedor.
+
+9
+00:00:23,274 --> 00:00:25,025
+Então, decidimos bifurcá-lo.
+
+10
+00:00:25,532 --> 00:00:27,921
+Lembre-se de que,
+ao bifurcar um repositório,
+
+11
+00:00:27,955 --> 00:00:30,087
+você cria uma cópia idêntica.
+
+12
+00:00:30,121 --> 00:00:32,770
+Logo, os dois repositórios terão
+os mesmos commits,
+
+13
+00:00:32,804 --> 00:00:35,708
+e seus branches estarão apontando
+para os mesmos commits.
+
+14
+00:00:35,742 --> 00:00:37,320
+Para criar um pull request,
+
+15
+00:00:37,354 --> 00:00:40,018
+precisamos de alguns novos
+commits na bifurcação.
+
+16
+00:00:40,052 --> 00:00:42,708
+Então, clonamos nossa bifurcação
+para a máquina local.
+
+17
+00:00:43,059 --> 00:00:44,998
+Vamos criar um branch bugfix
+
+18
+00:00:45,032 --> 00:00:47,917
+e fazer alguns commits
+para limpar as coisas.
+
+19
+00:00:47,951 --> 00:00:51,618
+Agora, vamos enviar o branch bugfix
+de volta para a nossa bifurcação
+
+20
+00:00:51,652 --> 00:00:56,040
+para levar estes novos commits
+para o nosso repositório remoto.
+
+21
+00:00:56,074 --> 00:00:58,880
+Fizemos toda a preparação
+necessária para um pull request
+
+22
+00:00:58,913 --> 00:01:00,913
+enviando as mudanças
+para a bifurcação.
+
+23
+00:01:00,947 --> 00:01:04,004
+Só agora poderíamos criar
+um pull request.
+
+24
+00:01:04,038 --> 00:01:07,113
+Vamos aprender a fazer isso
+no GitHub em um segundo.
+
+25
+00:01:07,147 --> 00:01:10,903
+Se o pull request for aceito pelo
+mantenedor do repositório original,
+
+26
+00:01:10,937 --> 00:01:14,419
+os commits serão adicionados
+ao repositório dele.
+
+27
+00:01:14,453 --> 00:01:16,117
+Um commit merge será criado,
+
+28
+00:01:16,151 --> 00:01:19,822
+combinando nossos novos commits
+aos commits existentes dele,
+
+29
+00:01:19,856 --> 00:01:21,632
+e o branch principal dele
+se moverá
+
+30
+00:01:21,666 --> 00:01:23,747
+para apontar para o novo
+commit mesclado.
+

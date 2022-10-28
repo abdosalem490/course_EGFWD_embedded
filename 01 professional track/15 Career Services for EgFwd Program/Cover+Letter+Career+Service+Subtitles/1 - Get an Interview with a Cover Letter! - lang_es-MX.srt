@@ -1,0 +1,180 @@
+1
+00:00:00,501 --> 00:00:02,962
+Bienvenido a la clase
+sobre la carta de presentación.
+
+2
+00:00:02,996 --> 00:00:08,923
+La carta de presentación es
+un modo de presentarse al empleador
+
+3
+00:00:08,957 --> 00:00:11,136
+y contar,
+en sus propias palabras,
+
+4
+00:00:11,178 --> 00:00:13,430
+por qué usted es perfecto
+para esa vacante.
+
+5
+00:00:13,472 --> 00:00:15,974
+La carta de presentación
+y el currículum
+
+6
+00:00:16,016 --> 00:00:19,686
+solían enviarse
+por correo o fax.
+
+7
+00:00:19,728 --> 00:00:22,606
+Actualmente, la carta
+va junto con el currículum,
+
+8
+00:00:22,648 --> 00:00:24,233
+pero se envía por e-mail.
+
+9
+00:00:24,691 --> 00:00:27,569
+El modelo de carta de presentación
+puede variar.
+
+10
+00:00:27,611 --> 00:00:29,947
+A veces se exige,
+
+11
+00:00:29,988 --> 00:00:33,033
+a veces se espera que la envíen,
+pero es opcional.
+
+12
+00:00:33,075 --> 00:00:35,035
+A veces es opcional
+
+13
+00:00:35,077 --> 00:00:36,870
+y puede no parecer
+que es una carta.
+
+14
+00:00:36,912 --> 00:00:39,748
+Envié una carta de presentación
+a Udacity,
+
+15
+00:00:39,790 --> 00:00:43,085
+pero tengo colegas que no enviaron
+informaciones personales
+
+16
+00:00:43,126 --> 00:00:46,255
+o escribieron
+solo un párrafo pequeño.
+
+17
+00:00:46,296 --> 00:00:49,591
+A veces la carta de presentación
+no es esperada ni solicitada,
+
+18
+00:00:49,633 --> 00:00:51,927
+pero usted debe escribir
+una breve presentación.
+
+19
+00:00:51,969 --> 00:00:56,807
+En los últimos 3 años, envié
+currrículums a diversas empresas,
+
+20
+00:00:56,849 --> 00:00:59,434
+y siempre opté por enviar
+una carta de presentación.
+
+21
+00:00:59,476 --> 00:01:01,144
+No escribí todas de cero,
+
+22
+00:01:01,186 --> 00:01:04,773
+lo que hice fue editar una copia
+de una carta que siempre envío
+
+23
+00:01:04,815 --> 00:01:07,609
+desde que empecé
+a trabajar.
+
+24
+00:01:07,651 --> 00:01:10,612
+No recibí una oferta de trabajo
+de todas las empresas,
+
+25
+00:01:10,654 --> 00:01:14,324
+pero conseguí una entrevista
+con más del 75% de estas.
+
+26
+00:01:14,366 --> 00:01:16,411
+Las cartas de presentación
+realmente ayudan.
+
+27
+00:01:16,445 --> 00:01:18,905
+Después de esta clase,
+usted estará apto a tratar
+
+28
+00:01:18,939 --> 00:01:20,998
+con todos los tipos
+de exigencias.
+
+29
+00:01:21,039 --> 00:01:23,750
+Antes de continuar,
+si no ha concluido el curso
+
+30
+00:01:23,792 --> 00:01:25,544
+sobre cómo realizar
+una búsqueda de trabajo,
+
+31
+00:01:25,586 --> 00:01:27,045
+o necesita recordar
+ese tema,
+
+32
+00:01:27,087 --> 00:01:29,006
+revise
+tres cosas necesarias
+
+33
+00:01:29,047 --> 00:01:31,133
+para buscar trabajo
+de forma efectiva.
+
+34
+00:01:31,175 --> 00:01:32,634
+Sepa lo que quiere.
+
+35
+00:01:32,676 --> 00:01:34,761
+Descubra
+lo que el empleador quiere.
+
+36
+00:01:34,803 --> 00:01:36,346
+Esté abierto
+a oportunidades.
+
+37
+00:01:36,680 --> 00:01:38,849
+Cuando lo haga,
+empezaremos.
+

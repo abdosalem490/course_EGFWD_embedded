@@ -1,0 +1,72 @@
+1
+00:00:00,000 --> 00:00:02,609
+This is the familiar starting point that we're used to,
+
+2
+00:00:02,609 --> 00:00:07,199
+where our local repository is behind the remote repository.
+
+3
+00:00:07,200 --> 00:00:09,449
+Now, let's pretend we didn't realize we were behind
+
+4
+00:00:09,449 --> 00:00:13,859
+the remote repository and made a commit in our local repo.
+
+5
+00:00:13,859 --> 00:00:15,629
+So now we have two repositories that have
+
+6
+00:00:15,630 --> 00:00:21,240
+the first same few commits but their master branches are pointing at different things.
+
+7
+00:00:21,239 --> 00:00:24,804
+If we tried running git pull right now, it wouldn't work.
+
+8
+00:00:24,804 --> 00:00:27,420
+But we know that we can use git fetch
+
+9
+00:00:27,420 --> 00:00:30,460
+to just retrieve the remote commits without merging.
+
+10
+00:00:30,460 --> 00:00:33,929
+So if we run git fetch origin master,
+
+11
+00:00:33,929 --> 00:00:35,579
+that will bring down the commits on
+
+12
+00:00:35,579 --> 00:00:40,780
+the remote repository and it'll make origin/master point to them.
+
+13
+00:00:40,780 --> 00:00:42,195
+Since we're on our master branch,
+
+14
+00:00:42,195 --> 00:00:45,480
+we can just run git merge origin/master
+
+15
+00:00:45,479 --> 00:00:49,614
+to bring the remote changes into our master branch.
+
+16
+00:00:49,615 --> 00:00:53,548
+Now our local repository has commits but the remote one doesn't have,
+
+17
+00:00:53,548 --> 00:00:55,119
+so we need to push them.
+
+18
+00:00:55,119 --> 00:01:02,000
+A quick git push origin master will update the remote repository with our local commits.
+

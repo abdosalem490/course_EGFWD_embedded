@@ -1,0 +1,40 @@
+1
+00:00:00,000 --> 00:00:05,599
+We have this setup where the remote repository has commits that the local one does not.
+
+2
+00:00:05,599 --> 00:00:08,175
+We can use git to fetch those commits.
+
+3
+00:00:08,175 --> 00:00:11,400
+Now, if we run git fetch origin master,
+
+4
+00:00:11,400 --> 00:00:13,290
+it will retrieve all of the commits on
+
+5
+00:00:13,289 --> 00:00:19,574
+the origin's master branch and move the origin/master tracking branch to point to them.
+
+6
+00:00:19,574 --> 00:00:23,419
+And that's it. It doesn't make our local master branch move.
+
+7
+00:00:23,420 --> 00:00:28,470
+If we want the commits that are in origin/master to be in our local master branch,
+
+8
+00:00:28,469 --> 00:00:30,224
+then we just do a merge.
+
+9
+00:00:30,225 --> 00:00:32,579
+If we're on the master branch then running
+
+10
+00:00:32,579 --> 00:00:38,000
+git merge origin/master will update our local master branch.
+

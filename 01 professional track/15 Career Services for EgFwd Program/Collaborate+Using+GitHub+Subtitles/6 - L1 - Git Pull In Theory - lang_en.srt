@@ -1,0 +1,48 @@
+1
+00:00:00,000 --> 00:00:02,940
+Our local repository has five commits,
+
+2
+00:00:02,940 --> 00:00:05,969
+and the remote one has the six commits.
+
+3
+00:00:05,969 --> 00:00:10,803
+The local repository has the origin/master branch point to e,
+
+4
+00:00:10,804 --> 00:00:14,445
+but in the remote the master branch is actually one commit ahead of
+
+5
+00:00:14,445 --> 00:00:18,940
+e. Since the remote's master is pointing to commit seven,
+
+6
+00:00:18,940 --> 00:00:21,530
+these two repositories are out of sync.
+
+7
+00:00:21,530 --> 00:00:24,839
+We need to sync our local one with what's up on the remote.
+
+8
+00:00:24,838 --> 00:00:29,908
+To do that we'd run "git pull," the name of the remote,
+
+9
+00:00:29,908 --> 00:00:34,954
+in this case "origin," and then the branch to pull, "master".
+
+10
+00:00:34,954 --> 00:00:36,710
+This will pull down the commits on
+
+11
+00:00:36,710 --> 00:00:41,495
+the origin's master branch and merge them into our local master branch,
+
+12
+00:00:41,494 --> 00:00:43,089
+which just moves it forward.
+

@@ -1,0 +1,130 @@
+1
+00:00:00,102 --> 00:00:02,133
+Depois de criarmos
+um novo repositório,
+
+2
+00:00:02,167 --> 00:00:05,300
+seguimos para a página
+de configurações.
+
+3
+00:00:05,333 --> 00:00:08,900
+A primeira coisa é que podemos
+escolher o URL HTTPS
+
+4
+00:00:08,933 --> 00:00:11,000
+ou o SSH.
+
+5
+00:00:11,033 --> 00:00:15,833
+Clicando no SSH, alteramos
+os URLs aqui e aqui embaixo.
+
+6
+00:00:15,867 --> 00:00:18,800
+Nós vamos voltar para o HTTPS.
+
+7
+00:00:18,833 --> 00:00:22,200
+Se você quiser saber mais
+sobre o URL SSH,
+
+8
+00:00:22,233 --> 00:00:24,000
+confira o vídeo abaixo.
+
+9
+00:00:24,033 --> 00:00:28,000
+A próxima seção é o que fazer
+com um repositório novo.
+
+10
+00:00:28,033 --> 00:00:31,167
+Nós já temos um repositório -
+que veremos em um segundo -,
+
+11
+00:00:31,200 --> 00:00:34,367
+mas, se quiser criar
+o seu repositório remoto
+
+12
+00:00:34,400 --> 00:00:36,667
+no GitHub,
+você pode fazer isso primeiro
+
+13
+00:00:36,700 --> 00:00:38,267
+seguindo estes comandos.
+
+14
+00:00:38,301 --> 00:00:40,799
+Na primeira linha,
+nós criamos um arquivo README
+
+15
+00:00:40,832 --> 00:00:44,033
+com um cabeçalho simples,
+então você inicializa o Git,
+
+16
+00:00:44,067 --> 00:00:46,433
+adiciona o arquivo README,
+cria o commit
+
+17
+00:00:46,467 --> 00:00:50,800
+e cria um link
+para este repositório remoto.
+
+18
+00:00:50,833 --> 00:00:53,333
+Nós não veremos a seção
+de novo repositório,
+
+19
+00:00:53,367 --> 00:00:56,867
+pois nós já temos um,
+então vamos dar uma olhada.
+
+20
+00:00:56,900 --> 00:01:01,901
+Estas duas linhas aqui
+são exatamente como estas.
+
+21
+00:01:01,934 --> 00:01:05,099
+Ao começar um novo repositório,
+você executará estes comandos
+
+22
+00:01:05,132 --> 00:01:07,700
+e estas linhas aqui.
+
+23
+00:01:07,733 --> 00:01:10,900
+Se você já possui um,
+execute estas linhas aqui.
+
+24
+00:01:10,933 --> 00:01:12,933
+Esta primeira linha criará
+uma conexão
+
+25
+00:01:12,967 --> 00:01:15,834
+para o repositório remoto
+no GitHub.
+
+26
+00:01:15,867 --> 00:01:18,200
+Nós veremos como empurrar,
+na seção seguinte,
+
+27
+00:01:18,233 --> 00:01:21,300
+mas copie esta linha
+e execute no seu terminal.
+

@@ -1,0 +1,208 @@
+1
+00:00:00,000 --> 00:00:02,759
+I'm on my course-collaboration-travel-plans,
+
+2
+00:00:02,759 --> 00:00:05,448
+a project that I forked from Lahm's here.
+
+3
+00:00:05,448 --> 00:00:09,780
+And so, I want my changes to be in this project- in her project.
+
+4
+00:00:09,779 --> 00:00:12,204
+So I need to send a pull request.
+
+5
+00:00:12,205 --> 00:00:15,474
+Good thing there's a new pull request button right here.
+
+6
+00:00:15,474 --> 00:00:19,425
+This is the page where we were able to start a new pull request.
+
+7
+00:00:19,425 --> 00:00:22,439
+So this is showing us my master branch,
+
+8
+00:00:22,439 --> 00:00:27,554
+on my repository, compared to the master branch on Lahm's project.
+
+9
+00:00:27,554 --> 00:00:30,210
+Right now there isn't anything to compare because both of
+
+10
+00:00:30,210 --> 00:00:33,325
+these branches are pointing to the exact same commits.
+
+11
+00:00:33,325 --> 00:00:37,609
+So let's switch my branch to the new branch that I just pushed.
+
+12
+00:00:37,609 --> 00:00:39,240
+So let's go over this one more time,
+
+13
+00:00:39,240 --> 00:00:42,115
+because this area right here can be a little bit tricky.
+
+14
+00:00:42,115 --> 00:00:44,545
+This is my project and my branch,
+
+15
+00:00:44,545 --> 00:00:50,020
+and I'm comparing this change with Lahm's project and her master branch.
+
+16
+00:00:50,020 --> 00:00:55,410
+And the changes between her master branch and my branch right here are listed down below.
+
+17
+00:00:55,409 --> 00:00:58,919
+There are three commits on my branch that aren't in her master branch,
+
+18
+00:00:58,920 --> 00:01:01,179
+and two files have changed.
+
+19
+00:01:01,179 --> 00:01:04,129
+These are the commits and down here are the files that have changed.
+
+20
+00:01:04,129 --> 00:01:07,394
+So in this css file these lines were added,
+
+21
+00:01:07,394 --> 00:01:10,719
+and in the index file these lines were added.
+
+22
+00:01:10,719 --> 00:01:12,599
+Let's scroll back up here,
+
+23
+00:01:12,599 --> 00:01:16,119
+and now we can just click on this create pull request button.
+
+24
+00:01:16,120 --> 00:01:17,935
+So the view has changed a little bit.
+
+25
+00:01:17,935 --> 00:01:19,510
+Now, we're presented with this form here,
+
+26
+00:01:19,510 --> 00:01:22,120
+where we can actually send the pull request.
+
+27
+00:01:22,120 --> 00:01:23,859
+We have the pull request title right here,
+
+28
+00:01:23,859 --> 00:01:29,010
+which you can see is populated from the same name as the branch name.
+
+29
+00:01:29,010 --> 00:01:34,265
+So this is another reason why you'd want to name your branches with descriptive names.
+
+30
+00:01:34,265 --> 00:01:38,010
+I think this is a good pull request title so I'll leave that as is,
+
+31
+00:01:38,010 --> 00:01:40,590
+and I'm going to write a little message.
+
+32
+00:01:40,590 --> 00:01:43,859
+Now, this area down here supports markdown.
+
+33
+00:01:43,859 --> 00:01:44,894
+This looks good to me,
+
+34
+00:01:44,894 --> 00:01:48,329
+so let's scroll down here and click on the create pull request button.
+
+35
+00:01:48,329 --> 00:01:53,679
+Notice though, we have now switched away from my project and my page,
+
+36
+00:01:53,679 --> 00:01:55,850
+I am now on the udacity account,
+
+37
+00:01:55,849 --> 00:01:58,280
+but looking at Lahm's project.
+
+38
+00:01:58,280 --> 00:02:00,530
+And instead of being on the code tab,
+
+39
+00:02:00,530 --> 00:02:02,915
+this has switched to the pull request tab,
+
+40
+00:02:02,915 --> 00:02:06,195
+and it is showing us the conversation here.
+
+41
+00:02:06,194 --> 00:02:08,658
+Now the conversation includes a little bit of information:
+
+42
+00:02:08,658 --> 00:02:11,729
+The message I've provided and the commits that I pushed.
+
+43
+00:02:11,729 --> 00:02:14,539
+And we can see those commits in more detail here.
+
+44
+00:02:14,539 --> 00:02:16,199
+And then if we want to look at the actual files
+
+45
+00:02:16,199 --> 00:02:18,524
+that have changed- we can see that on this tab.
+
+46
+00:02:18,525 --> 00:02:21,330
+Let's switch back to the conversations tab.
+
+47
+00:02:21,330 --> 00:02:24,590
+Scrolling down, we can see that this branch has no conflicts
+
+48
+00:02:24,590 --> 00:02:27,724
+with Lahm's base branch or Lahm's master branch,
+
+49
+00:02:27,724 --> 00:02:29,294
+but we can't do anything with this,
+
+50
+00:02:29,294 --> 00:02:31,849
+we need Lahm to be able to include
+
+51
+00:02:31,849 --> 00:02:35,775
+these changes- to include this pull request in her master branch,
+
+52
+00:02:35,775 --> 00:02:39,000
+because she owns this repository.
+

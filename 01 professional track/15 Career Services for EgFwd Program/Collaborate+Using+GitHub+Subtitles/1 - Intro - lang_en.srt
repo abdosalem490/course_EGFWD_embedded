@@ -1,0 +1,128 @@
+1
+00:00:00,000 --> 00:00:02,640
+Hello and welcome to this course on GitHub
+
+2
+00:00:02,640 --> 00:00:05,870
+and how to collaborate on a version control project.
+
+3
+00:00:05,870 --> 00:00:09,179
+Let's chat briefly about collaboration and why it's so important.
+
+4
+00:00:09,179 --> 00:00:12,685
+I mean, it's got to be important if we're creating an entire course on it.
+
+5
+00:00:12,685 --> 00:00:15,990
+Well, collaboration is incredibly beneficial because most of
+
+6
+00:00:15,990 --> 00:00:20,254
+the time you won't be working by yourself as a lone developer on a project.
+
+7
+00:00:20,254 --> 00:00:21,765
+You'll be working with a team,
+
+8
+00:00:21,765 --> 00:00:23,594
+maybe with people you don't even know,
+
+9
+00:00:23,594 --> 00:00:26,554
+or maybe you're contributing to an open-source project.
+
+10
+00:00:26,553 --> 00:00:30,119
+So being able to work collaboratively is a vital skill to have,
+
+11
+00:00:30,120 --> 00:00:33,810
+but it's especially important when you're working on a coding project.
+
+12
+00:00:33,810 --> 00:00:36,990
+One of the key aspects of collaboration is being able to communicate
+
+13
+00:00:36,990 --> 00:00:40,277
+clearly what you're doing and being able to work with others,
+
+14
+00:00:40,277 --> 00:00:41,774
+like the project's maintainers,
+
+15
+00:00:41,774 --> 00:00:43,969
+to see how you can contribute.
+
+16
+00:00:43,969 --> 00:00:48,844
+This communication can be kind of tricky when working remotely and asynchronously.
+
+17
+00:00:48,844 --> 00:00:49,993
+After going through this course,
+
+18
+00:00:49,993 --> 00:00:53,144
+you'll be able to work with others on a version control project,
+
+19
+00:00:53,145 --> 00:00:58,289
+use GitHub and its features to plan changes and implement those changes,
+
+20
+00:00:58,289 --> 00:01:00,719
+contribute to an existing repository,
+
+21
+00:01:00,719 --> 00:01:04,867
+and then how to add features to a project while it's in active development.
+
+22
+00:01:04,867 --> 00:01:06,030
+And if you're taking this course,
+
+23
+00:01:06,030 --> 00:01:07,709
+then I'm expecting you to already have
+
+24
+00:01:07,709 --> 00:01:12,025
+a pretty solid experience with version control and specifically with Git.
+
+25
+00:01:12,025 --> 00:01:16,140
+I've got a list of skills that I expect you to be comfortable with below this video.
+
+26
+00:01:16,140 --> 00:01:19,680
+Now if you're new to Git and version control in general, don't worry.
+
+27
+00:01:19,680 --> 00:01:21,750
+I've created a course called "Version Control with
+
+28
+00:01:21,750 --> 00:01:25,435
+Git" that will bring you up to speed on everything you need to know.
+
+29
+00:01:25,435 --> 00:01:27,144
+A link to that course is below.
+
+30
+00:01:27,144 --> 00:01:31,530
+So, the first thing we need to look at before we get into GitHub, collaboration,
+
+31
+00:01:31,530 --> 00:01:36,680
+or anything else is understanding what a remote repository is and how to work with one.
+
+32
+00:01:36,680 --> 00:01:38,280
+So, let's check that out now.
+

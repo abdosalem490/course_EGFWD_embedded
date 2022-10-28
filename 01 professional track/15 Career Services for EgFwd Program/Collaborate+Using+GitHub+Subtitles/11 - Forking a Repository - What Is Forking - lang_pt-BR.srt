@@ -1,0 +1,110 @@
+1
+00:00:00,446 --> 00:00:02,278
+Isto é um garfo.
+
+2
+00:00:02,312 --> 00:00:04,654
+Essa é a forma substantiva
+da palavra.
+
+3
+00:00:04,688 --> 00:00:06,967
+Ao falar de bifurcações
+em controle de versão,
+
+4
+00:00:07,001 --> 00:00:09,186
+não estamos falando disto.
+
+5
+00:00:09,220 --> 00:00:12,692
+Estamos falando
+do verbo ou ação "bifurcar".
+
+6
+00:00:12,726 --> 00:00:14,549
+Digamos que você esteja
+em uma trilha
+
+7
+00:00:14,583 --> 00:00:17,310
+e, de repente, ela se divide
+em dois caminhos.
+
+8
+00:00:17,344 --> 00:00:21,861
+Diríamos que a estrada se "bifurcou"
+em dois caminhos diferentes.
+
+9
+00:00:21,895 --> 00:00:24,237
+Essa é a forma verbal
+de "bifurcar".
+
+10
+00:00:24,271 --> 00:00:25,906
+No mundo
+do controle de versão,
+
+11
+00:00:25,940 --> 00:00:27,651
+bifurcação é uma divisão,
+
+12
+00:00:27,685 --> 00:00:29,800
+mas uma divisão idêntica.
+
+13
+00:00:29,834 --> 00:00:34,212
+Bifurcar um repositório significa
+dividi-lo em uma cópia idêntica.
+
+14
+00:00:34,246 --> 00:00:36,083
+Bifurcação não é
+uma coisa do Git.
+
+15
+00:00:36,117 --> 00:00:38,692
+Não podemos executar
+"git fork" na linha de comando.
+
+16
+00:00:38,726 --> 00:00:41,025
+Não há um subcomando "fork".
+
+17
+00:00:41,059 --> 00:00:44,012
+É algo fornecido
+pelo ambiente de hospedagem.
+
+18
+00:00:44,046 --> 00:00:45,719
+GitHub é o ambiente
+de hospedagem,
+
+19
+00:00:45,753 --> 00:00:49,114
+que possui um botão de bifurcar
+que permite bifurcar um repositório.
+
+20
+00:00:49,148 --> 00:00:52,668
+Se, na página de um repositório no
+GitHub, você clicar em "bifurcar",
+
+21
+00:00:52,702 --> 00:00:57,059
+você fará uma cópia do repositório
+e a trará para a sua conta.
+
+22
+00:00:57,093 --> 00:00:59,559
+É isso que significa
+"bifurcar" algo:
+
+23
+00:00:59,593 --> 00:01:02,921
+fazer uma cópia idêntica
+e se tornar dono dessa cópia.
+

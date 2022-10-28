@@ -1,0 +1,247 @@
+1
+00:00:00,442 --> 00:00:03,037
+Temos o repositório original,
+
+2
+00:00:03,071 --> 00:00:05,273
+a bifurcação do original
+
+3
+00:00:05,307 --> 00:00:08,054
+e o clone da bifurcação.
+
+4
+00:00:08,088 --> 00:00:10,675
+Suponha que bifurcamos
+o repositório original
+
+5
+00:00:10,709 --> 00:00:13,114
+para corrigir alguns erros.
+
+6
+00:00:13,148 --> 00:00:16,299
+Temos o branch bugfix,
+com o qual trabalhamos localmente
+
+7
+00:00:16,333 --> 00:00:18,575
+e depois enviamos
+para a bifurcação.
+
+8
+00:00:18,609 --> 00:00:20,618
+Enquanto trabalhávamos
+nessas mudanças,
+
+9
+00:00:20,652 --> 00:00:23,852
+os mantenedores originais do projeto
+adicionaram alguns commits
+
+10
+00:00:23,886 --> 00:00:26,869
+ao repositório deles.
+Agora a nossa bifurcação
+
+11
+00:00:26,903 --> 00:00:29,106
+e o branch master
+do repositório local
+
+12
+00:00:29,140 --> 00:00:31,996
+não estão em sincronia
+com o repositório original.
+
+13
+00:00:32,030 --> 00:00:34,537
+Para ter as novas mudanças
+na nossa máquina local,
+
+14
+00:00:34,571 --> 00:00:37,726
+precisamos buscá-las
+no repositório original.
+
+15
+00:00:37,760 --> 00:00:40,896
+Lembre-se de que temos um link
+para o nosso repositório remoto,
+
+16
+00:00:40,930 --> 00:00:43,044
+pois quando nós o clonamos,
+
+17
+00:00:43,078 --> 00:00:45,559
+o Git criou uma conexão
+para nós automaticamente
+
+18
+00:00:45,593 --> 00:00:48,615
+e deu a essa conexão
+o nome de "origin".
+
+19
+00:00:49,228 --> 00:00:51,509
+Mas podemos configurar
+manualmente uma conexão
+
+20
+00:00:51,543 --> 00:00:54,568
+ao repositório remoto
+original ou de fonte.
+
+21
+00:00:54,602 --> 00:00:58,045
+Normalmente,
+daríamos o nome de "upstream".
+
+22
+00:00:58,079 --> 00:01:00,963
+Vamos adicionar os nomes
+"origin" e "upstream"
+
+23
+00:01:00,997 --> 00:01:03,066
+para nos referirmos
+a eles com facilidade.
+
+24
+00:01:03,100 --> 00:01:05,290
+Agora que temos
+essa nova conexão upstream
+
+25
+00:01:05,324 --> 00:01:07,496
+ao repositório remoto
+original,
+
+26
+00:01:07,530 --> 00:01:09,918
+vamos exibir os branches remotos
+que existem
+
+27
+00:01:09,952 --> 00:01:12,075
+no nosso repositório local.
+
+28
+00:01:12,109 --> 00:01:15,079
+Se buscarmos os commits
+do repositório upstream,
+
+29
+00:01:15,113 --> 00:01:16,720
+acabaremos
+com estes dois commits
+
+30
+00:01:16,754 --> 00:01:20,015
+e um branch upstream/master.
+
+31
+00:01:20,049 --> 00:01:21,764
+Estas cores podem ser
+confusas,
+
+32
+00:01:21,798 --> 00:01:25,859
+então vamos mostrar a relação
+de cada branch com cada remoto.
+
+33
+00:01:25,893 --> 00:01:27,684
+Vamos usar vermelho
+para local,
+
+34
+00:01:27,718 --> 00:01:30,835
+amarelo para bifurcação
+e azul para original.
+
+35
+00:01:30,869 --> 00:01:33,243
+O branch bugfix
+e o branch master
+
+36
+00:01:33,277 --> 00:01:35,398
+estão no nosso
+repositório local.
+
+37
+00:01:35,432 --> 00:01:37,998
+Também os enviamos
+para a nossa bifurcação.
+
+38
+00:01:38,032 --> 00:01:40,329
+O Git sabe onde estão
+nossos branches remotos,
+
+39
+00:01:40,363 --> 00:01:44,266
+então, os branches origin/bugfix
+e origin/master
+
+40
+00:01:44,300 --> 00:01:46,754
+são exibidos
+no nosso repositório local.
+
+41
+00:01:46,788 --> 00:01:50,810
+O repositório original só
+tem o seu branch master.
+
+42
+00:01:50,844 --> 00:01:53,607
+Como recuperamos
+as mudanças do upstream,
+
+43
+00:01:53,641 --> 00:01:57,565
+o upstream/master é exibido
+no nosso repositório local.
+
+44
+00:01:57,599 --> 00:02:01,366
+Vamos voltar ao esquema de cores
+original baseado nos branches.
+
+45
+00:02:01,400 --> 00:02:03,508
+Se estivermos
+no nosso branch master
+
+46
+00:02:03,542 --> 00:02:06,651
+e fizermos um merge
+no branch upstream/master,
+
+47
+00:02:06,685 --> 00:02:09,369
+o nosso branch master fará
+um merge fast forward
+
+48
+00:02:09,403 --> 00:02:11,159
+para apontar para o commit c.
+
+49
+00:02:11,193 --> 00:02:13,947
+Então, se quiséssemos fazer
+um merge no branch bugfix,
+
+50
+00:02:13,981 --> 00:02:15,954
+isso criaria
+um novo commit merge
+
+51
+00:02:15,988 --> 00:02:18,252
+e moveria o master
+para apontar para ele.
+

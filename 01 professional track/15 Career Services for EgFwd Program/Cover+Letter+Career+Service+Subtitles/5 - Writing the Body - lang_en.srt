@@ -1,0 +1,205 @@
+1
+00:00:00,363 --> 00:00:03,468
+Next, we're going to do body paragraphs.
+
+2
+00:00:03,468 --> 00:00:05,554
+I divide these paragraphs
+into categories and
+
+3
+00:00:05,554 --> 00:00:08,300
+different functions the job requires.
+
+4
+00:00:08,300 --> 00:00:09,580
+When writing your letter,
+
+5
+00:00:09,580 --> 00:00:12,839
+you want to focus in on things
+you are especially good at.
+
+6
+00:00:12,839 --> 00:00:15,859
+If you are an expert at one thing,
+the employer can make a logical
+
+7
+00:00:15,859 --> 00:00:18,908
+conclusion that you can learn and
+become an expert in something else.
+
+8
+00:00:19,949 --> 00:00:23,339
+If the job asks for skills that you
+don't have and don't show up in your
+
+9
+00:00:23,339 --> 00:00:27,030
+resume, use the cover letter
+to make a case for yourself.
+
+10
+00:00:27,030 --> 00:00:31,429
+For example, let's say I am pursuing
+a data analyst role which asks for
+
+11
+00:00:31,429 --> 00:00:33,740
+three years of experience
+in data science.
+
+12
+00:00:33,740 --> 00:00:36,480
+But my only experience is from
+taking the Nanodegree program.
+
+13
+00:00:36,479 --> 00:00:38,259
+But I think I could really
+succeed in this role.
+
+14
+00:00:38,259 --> 00:00:42,549
+I would spend some time writing about
+how important data-driven results and
+
+15
+00:00:42,549 --> 00:00:44,109
+decision making are to me.
+
+16
+00:00:44,109 --> 00:00:46,762
+And talk about my most advanced
+Nanodegree projects that required
+
+17
+00:00:46,762 --> 00:00:48,700
+the most programming and
+data science skills.
+
+18
+00:00:49,880 --> 00:00:52,690
+Your cover letter should also
+include details about your relevant
+
+19
+00:00:52,689 --> 00:00:54,559
+qualifications and goals.
+
+20
+00:00:54,560 --> 00:00:57,510
+This means that you should
+include concrete examples
+
+21
+00:00:57,509 --> 00:00:59,019
+of your related experience.
+
+22
+00:00:59,020 --> 00:01:00,690
+Let's dive deeper into this.
+
+23
+00:01:00,689 --> 00:01:05,500
+For example, a sentence such as I've
+built a variety of web applications for
+
+24
+00:01:05,500 --> 00:01:07,680
+many audiences is vague.
+
+25
+00:01:07,680 --> 00:01:10,740
+And someone can already assume
+this by looking at the skills or
+
+26
+00:01:10,739 --> 00:01:12,059
+experience section of your resume.
+
+27
+00:01:13,120 --> 00:01:18,740
+Instead, describe an experience such
+as I recently built a website for
+
+28
+00:01:18,739 --> 00:01:20,789
+members of a national organization.
+
+29
+00:01:20,790 --> 00:01:23,420
+Some of the website features
+include an appointment scheduler
+
+30
+00:01:23,420 --> 00:01:25,579
+that factors in time zone differences.
+
+31
+00:01:25,579 --> 00:01:28,120
+And a searchable online
+drive of meeting notes.
+
+32
+00:01:28,120 --> 00:01:31,490
+This shows that you can develop
+multiple types of website features,
+
+33
+00:01:31,489 --> 00:01:33,609
+that you can meet
+the needs of the client and
+
+34
+00:01:33,609 --> 00:01:37,500
+that you can develop with user
+experience or interface design in mind.
+
+35
+00:01:37,500 --> 00:01:41,750
+You should definitely expand on this
+by describing which languages or
+
+36
+00:01:41,750 --> 00:01:43,260
+frameworks you used.
+
+37
+00:01:43,260 --> 00:01:47,070
+Having even just one specific example
+that describes how you work and
+
+38
+00:01:47,069 --> 00:01:49,789
+what you can accomplish is
+better that having five
+
+39
+00:01:49,790 --> 00:01:52,439
+general sentences about your skills.
+
+40
+00:01:52,438 --> 00:01:56,430
+You'll also want to give examples on
+when you achieve a lot of great success.
+
+41
+00:01:56,430 --> 00:01:58,219
+Or when you work on a team or
+
+42
+00:01:58,219 --> 00:02:01,450
+with challenge to produce something
+you have never done before.
+
+43
+00:02:01,450 --> 00:02:05,109
+Your body paragraphs are also a great
+place to re enforce your goals and
+
+44
+00:02:05,109 --> 00:02:06,200
+how they align with the position.
+
